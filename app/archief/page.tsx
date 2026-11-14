@@ -1,7 +1,8 @@
 import Link from "next/link";
-import { formatEditionDate, getEdition, listEditionIds } from "@/lib/editions";
+import { editionLabel, formatEditionDate, getEdition, listEditionIds } from "@/lib/editions";
+import { SiteHeader } from "@/components/edition-overview";
 
-export const metadata = { title: "Archief · Portugal in het kort" };
+export const metadata = { title: "Archief" };
 
 export default function Archive() {
   const editions = listEditionIds()
@@ -9,17 +10,23 @@ export default function Archive() {
     .filter((e) => e !== null);
 
   return (
-    <section className="archive">
-      <h1>Archief</h1>
+    <div className="page">
+      <SiteHeader archive />
+      <section className="hero">
+        <h1 className="hero-date">Archief</h1>
+      </section>
       {editions.length === 0 && <p className="muted">Nog geen edities.</p>}
-      <ul>
+      <ul className="archive">
         {editions.map((e) => (
           <li key={e.id}>
-            <Link href={`/editie/${e.id}`}>{formatEditionDate(e.generatedAt)}</Link>
-            <span className="muted">{e.articles.map((a) => a.title).slice(0, 3).join(" · ")}</span>
+            <Link href={`/editie/${e.id}`}>
+              <span className="eyebrow">{editionLabel(e.generatedAt)}</span>
+              <strong>{formatEditionDate(e.generatedAt, false)}</strong>
+              <span className="archive-titles">{e.articles.slice(0, 3).map((a) => a.title).join(" · ")}</span>
+            </Link>
           </li>
         ))}
       </ul>
-    </section>
+    </div>
   );
 }

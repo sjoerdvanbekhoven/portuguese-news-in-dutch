@@ -1,33 +1,27 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Portugal in het kort",
+  title: { default: "Portugal in het kort", template: "%s · Portugal in het kort" },
   description: "Het Portugese nieuws, samengevat in het Nederlands.",
+  appleWebApp: { capable: true, title: "Portugal", statusBarStyle: "black-translucent" },
+  formatDetection: { telephone: false },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f7f3ec" },
+    { media: "(prefers-color-scheme: dark)", color: "#141311" },
+  ],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="nl">
-      <body>
-        <header className="site-header">
-          <div className="wrap">
-            <Link href="/" className="brand">
-              Portugal <em>in het kort</em>
-            </Link>
-            <nav>
-              <Link href="/">Vandaag</Link>
-              <Link href="/archief">Archief</Link>
-            </nav>
-          </div>
-        </header>
-        <main className="wrap">{children}</main>
-        <footer className="site-footer wrap">
-          Automatisch samengevat uit Portugese nieuwsbronnen met Claude. Controleer belangrijke
-          zaken altijd via de oorspronkelijke bron.
-        </footer>
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

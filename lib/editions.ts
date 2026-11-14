@@ -37,3 +37,28 @@ export function formatEditionDate(iso: string, withTime = true): string {
     ...(withTime ? { hour: "2-digit", minute: "2-digit" } : {}),
   }).format(new Date(iso));
 }
+
+export function readingMinutes(a: { lead: string; body: string[]; context: string }): number {
+  const words = [a.lead, ...a.body, a.context].join(" ").split(/\s+/).length;
+  return Math.max(1, Math.round(words / 200));
+}
+
+/** "Ochtendeditie" / "Avondeditie" op basis van het uur in Lissabon. */
+export function editionLabel(iso: string): string {
+  const hour = Number(
+    new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Lisbon", hour: "2-digit", hourCycle: "h23" }).format(
+      new Date(iso),
+    ),
+  );
+  return hour < 12 ? "Ochtendeditie" : hour < 18 ? "Middageditie" : "Avondeditie";
+}
+
+/** Korte datum, bijv. "za 14 nov". */
+export function shortDate(iso: string): string {
+  return new Intl.DateTimeFormat("nl-NL", {
+    timeZone: "Europe/Lisbon",
+    weekday: "short",
+    day: "numeric",
+    month: "short",
+  }).format(new Date(iso));
+}

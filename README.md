@@ -44,3 +44,8 @@ npm run dev
 - Redactionele keuzes en toon: `SYSTEM` in `scripts/generate.ts`
 - Tijdstippen: `cron` in `.github/workflows/generate.yml`
 - Bewaartermijn archief: `NEWS_KEEP_DAYS` (standaard 180 dagen)
+
+## Op je iPhone
+
+Open de site in Safari → deelknop → **Zet op beginscherm**. Dan opent hij als app, zonder adresbalk.
+Swipe links/rechts tussen artikelen; welke je gelezen hebt wordt per apparaat onthouden.
