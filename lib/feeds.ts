@@ -14,6 +14,14 @@ export const FEEDS: Feed[] = [
   { name: "ECO", url: "https://eco.sapo.pt/feed/" },
   { name: "Jornal de Notícias", url: "https://www.jn.pt/rss/" },
   { name: "Notícias ao Minuto", url: "https://www.noticiasaominuto.com/rss/ultima-hora" },
+  // CNN Portugal heeft geen (bekende) eigen RSS-feed; via Google Nieuws beperkt tot hun site.
+  {
+    name: "CNN Portugal",
+    url:
+      "https://news.google.com/rss/search?q=" +
+      encodeURIComponent("site:cnnportugal.iol.pt when:1d") +
+      "&hl=pt-PT&gl=PT&ceid=PT:pt-150",
+  },
   {
     name: "Google Nieuws PT",
     url: "https://news.google.com/rss?hl=pt-PT&gl=PT&ceid=PT:pt-150",
