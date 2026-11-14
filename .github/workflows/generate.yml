@@ -2,7 +2,8 @@ name: Nieuws genereren
 
 on:
   schedule:
-    # 05:17 en 16:17 UTC ≈ 06:17 / 17:17 in Portugal (winter), een uur later in de zomer.
+    # 05:17 en 16:17 UTC = 05:17 / 16:17 in Portugal in de winter (WET = UTC), 06:17 / 17:17 in de zomer.
+    # GitHub start geplande runs vaak 5-30 min later dan opgegeven.
     - cron: "17 5,16 * * *"
   workflow_dispatch:
 
