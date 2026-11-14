@@ -1,6 +1,18 @@
 import { XMLParser } from "fast-xml-parser";
 
-export type Feed = { name: string; url: string; regional?: boolean };
+/** lokaal = Tábua / Arganil / Oliveira do Hospital; regio = Coimbra en omgeving. */
+export type Region = "lokaal" | "regio";
+
+export type Feed = {
+  name: string;
+  url: string;
+  region?: Region;
+  /** Afwijkend tijdvenster; lokaal nieuws is schaars, dus daar kijken we verder terug. */
+  hours?: number;
+};
+
+const googleNews = (query: string) =>
+  "https://news.google.com/rss/search?q=" + encodeURIComponent(query) + "&hl=pt-PT&gl=PT&ceid=PT:pt-150";
 
 /**
  * Bronnen. Controleer met `npm run check-feeds` welke werken; een feed die faalt
@@ -15,32 +27,36 @@ export const FEEDS: Feed[] = [
   { name: "Jornal de Notícias", url: "https://www.jn.pt/rss/" },
   { name: "Notícias ao Minuto", url: "https://www.noticiasaominuto.com/rss/ultima-hora" },
   // CNN Portugal heeft geen (bekende) eigen RSS-feed; via Google Nieuws beperkt tot hun site.
+  { name: "CNN Portugal", url: googleNews("site:cnnportugal.iol.pt when:1d") },
+  { name: "Google Nieuws PT", url: "https://news.google.com/rss?hl=pt-PT&gl=PT&ceid=PT:pt-150" },
+
+  // Lokaal: Meda de Mouros (Tábua) en buurgemeenten. "Tábua" alleen is ook een gewoon woord
+  // (plank), dus alleen in vaste combinaties.
   {
-    name: "CNN Portugal",
-    url:
-      "https://news.google.com/rss/search?q=" +
-      encodeURIComponent("site:cnnportugal.iol.pt when:1d") +
-      "&hl=pt-PT&gl=PT&ceid=PT:pt-150",
+    name: "Google Nieuws lokaal",
+    region: "lokaal",
+    hours: 24 * 7,
+    url: googleNews(
+      '"Meda de Mouros" OR "concelho de Tábua" OR "município de Tábua" OR "Câmara de Tábua" OR ' +
+        'Arganil OR Coja OR "Oliveira do Hospital" OR "Serra do Açor" OR "Rio Alva" OR "Rio Mondego" when:7d',
+    ),
   },
+  // Regio Coimbra. Eigen feeds van regionale kranten (onzeker; mislukte feeds worden overgeslagen).
+  { name: "Diário As Beiras", url: "https://www.asbeiras.pt/feed/", region: "regio", hours: 48 },
+  { name: "Notícias de Coimbra", url: "https://www.noticiasdecoimbra.pt/feed/", region: "regio", hours: 48 },
+  { name: "Campeão das Províncias", url: "https://www.campeaoprovincias.pt/feed/", region: "regio", hours: 48 },
+  { name: "Correio da Beira Serra", url: "https://www.correiodabeiraserra.com/feed/", region: "lokaal", hours: 24 * 7 },
   {
-    name: "Google Nieuws PT",
-    url: "https://news.google.com/rss?hl=pt-PT&gl=PT&ceid=PT:pt-150",
-  },
-  // Regionaal: district Guarda / Beira Interior / Douro Superior
-  { name: "O Interior", url: "https://www.ointerior.pt/feed/", regional: true },
-  {
-    name: "Google Nieuws regio",
-    url:
-      "https://news.google.com/rss/search?q=" +
-      encodeURIComponent('Mêda OR "distrito da Guarda" OR "Beira Interior" OR "Foz Côa" OR Trancoso when:3d') +
-      "&hl=pt-PT&gl=PT&ceid=PT:pt-150",
-    regional: true,
+    name: "Google Nieuws Coimbra",
+    region: "regio",
+    hours: 48,
+    url: googleNews('"distrito de Coimbra" OR "Região de Coimbra" OR "CIM Região de Coimbra" OR Coimbra when:2d'),
   },
 ];
 
 export type FeedItem = {
   feed: string;
-  regional: boolean;
+  region: Region | null;
   title: string;
   description: string;
   url: string;
@@ -97,7 +113,7 @@ export function parseFeed(xml: string, feed: Feed): FeedItem[] {
   for (const it of rssItems) {
     items.push({
       feed: feed.name,
-      regional: !!feed.regional,
+      region: feed.region ?? null,
       title: cleanText(text(it.title), 300),
       description: cleanText(text(it.description) || text(it["content:encoded"])),
       url: text(it.link).trim(),
@@ -109,7 +125,7 @@ export function parseFeed(xml: string, feed: Feed): FeedItem[] {
     const link = links.find((l) => !l["@_rel"] || l["@_rel"] === "alternate") ?? links[0];
     items.push({
       feed: feed.name,
-      regional: !!feed.regional,
+      region: feed.region ?? null,
       title: cleanText(text(e.title), 300),
       description: cleanText(text(e.summary) || text(e.content)),
       url: link?.["@_href"] ?? "",
@@ -143,7 +159,6 @@ const normalize = (s: string) =>
 
 /** Haalt alle feeds op, filtert op recentheid, ontdubbelt op titel. */
 export async function collectItems(opts: { hours: number; perFeed: number }) {
-  const cutoff = Date.now() - opts.hours * 3600_000;
   const results = await Promise.allSettled(FEEDS.map((f) => fetchFeed(f)));
 
   const report: { feed: string; ok: boolean; count: number; error?: string }[] = [];
@@ -157,9 +172,13 @@ export async function collectItems(opts: { hours: number; perFeed: number }) {
       return;
     }
     const fresh = r.value
-      .filter((i) => !i.published || i.published.getTime() >= cutoff)
+      .filter((i) => {
+        const cutoff = Date.now() - (feed.hours ?? opts.hours) * 3600_000;
+        // Zonder datum: alleen meenemen bij landelijke feeds (lokale zoekfeeds bevatten anders oud nieuws).
+        return i.published ? i.published.getTime() >= cutoff : !feed.region;
+      })
       .sort((a, b) => (b.published?.getTime() ?? 0) - (a.published?.getTime() ?? 0))
-      .slice(0, feed.regional ? opts.perFeed * 2 : opts.perFeed);
+      .slice(0, feed.region === "lokaal" ? opts.perFeed * 2 : opts.perFeed);
     let count = 0;
     for (const i of fresh) {
       const key = normalize(i.title);

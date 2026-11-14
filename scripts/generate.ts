@@ -8,6 +8,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import { betaZodOutputFormat } from "@anthropic-ai/sdk/helpers/beta/zod";
 import fs from "node:fs/promises";
 import path from "node:path";
+import { getLatestEdition } from "../lib/editions";
 import { collectItems, type FeedItem } from "../lib/feeds";
 import { GeneratedEditionSchema, type Article, type Edition } from "../lib/schema";
 
@@ -21,7 +22,8 @@ const MIN_ITEMS = 15;
 const EDITIONS_DIR = path.join(process.cwd(), "content", "editions");
 
 const SYSTEM = `Je bent eindredacteur van een kleine Nederlandstalige nieuwsbrief over Portugal.
-De lezer is een Nederlander die in Mêda (district Guarda, Beira Interior) woont en daar een
+De lezer is een Nederlander die in Meda de Mouros woont (freguesia in de gemeente Tábua, district
+Coimbra, tussen Arganil/Coja en Oliveira do Hospital, aan de rand van de Serra do Açor) en daar een
 permacultuur-quinta opbouwt, leest Portugees nog niet vlot en wil snel en betrouwbaar weten
 wat er speelt.
 
@@ -30,9 +32,16 @@ Je krijgt een lijst recente nieuwsitems (kop + korte inleiding) uit Portugese br
 Opdracht:
 - Kies de 6 tot 8 belangrijkste verhalen. Voeg items die over hetzelfde verhaal gaan samen tot één artikel.
 - Weeg mee wat voor deze lezer relevant is: landelijke politiek en economie, wetgeving en belastingen
-  die bewoners raken, het binnenland, landbouw, water, bosbranden, klimaat en natuur, en verhalen uit
-  de regio Guarda / Douro Superior. Neem een regionaal verhaal op als er een betekenisvol item is.
+  die bewoners raken, het binnenland, landbouw, water, bosbranden, klimaat en natuur.
   Sport alleen als het écht groot nieuws is.
+- Items zijn gemarkeerd als (lokaal) = Tábua, Arganil, Coja, Oliveira do Hospital en omgeving, of
+  (regio) = Coimbra en omgeving. Lokaal nieuws gaat voor regionaal nieuws. Neem 1 à 3 artikelen met
+  categorie "Regio" op als er betekenisvolle items zijn; benoem in de tekst om welke plaats het gaat
+  en hoe ver dat ongeveer van Meda de Mouros ligt als dat relevant is. Laat irrelevante items vallen
+  (bijv. een zoektreffer die over iets anders gaat, of puur Coimbra-stadsnieuws zonder belang voor de
+  omgeving). Geen regionaal artikel is beter dan een opgevuld artikel.
+- Lokale items kunnen tot een week oud zijn. Herhaal geen verhaal dat al in de vorige editie stond
+  (zie de lijst), tenzij er een duidelijke nieuwe ontwikkeling is; zeg dat dan.
 - Schrijf in helder, neutraal Nederlands. Geen sensatie, geen eigen mening.
 - Gebruik uitsluitend feiten die in de aangeleverde items staan. Verzin geen cijfers, citaten of
   details. Als de bron weinig zegt, schrijf dan een korter artikel; vul niet aan met speculatie.
@@ -50,7 +59,7 @@ function formatItems(items: FeedItem[]): string {
     .map((it, i) => {
       const date = it.published ? it.published.toISOString().slice(0, 16).replace("T", " ") : "onbekend";
       const desc = it.description && it.description !== it.title ? `\n${it.description}` : "";
-      return `[i${i}] ${it.feed}${it.regional ? " (regionaal)" : ""} · ${date} UTC\n${it.title}${desc}`;
+      return `[i${i}] ${it.feed}${it.region ? ` (${it.region})` : ""} · ${date} UTC\n${it.title}${desc}`;
     })
     .join("\n\n");
 }
@@ -98,6 +107,11 @@ async function main() {
   }
   console.log(`${items.length} items naar ${MODEL} (effort ${EFFORT})…`);
 
+  const previous = getLatestEdition();
+  const previousBlock = previous
+    ? `Vorige editie (${previous.generatedAt}):\n${previous.articles.map((a) => `- [${a.category}] ${a.title}`).join("\n")}\n\n`
+    : "";
+
   const client = new Anthropic();
   const stream = client.beta.messages.stream({
     model: MODEL,
@@ -110,7 +124,7 @@ async function main() {
     messages: [
       {
         role: "user",
-        content: `Nieuwsitems (${items.length}), opgehaald ${new Date().toISOString()}:\n\n${formatItems(items)}`,
+        content: `${previousBlock}Nieuwsitems (${items.length}), opgehaald ${new Date().toISOString()}:\n\n${formatItems(items)}`,
       },
     ],
   });

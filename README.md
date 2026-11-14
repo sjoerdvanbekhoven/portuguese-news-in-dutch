@@ -7,7 +7,7 @@ Het Portugese nieuws, twee keer per dag samengevat in het Nederlands.
 ```
 GitHub Actions (cron 2×/dag)
   └─ scripts/generate.ts
-       ├─ haalt RSS-feeds op (lib/feeds.ts): landelijk + regio Guarda/Beira Interior
+       ├─ haalt RSS-feeds op (lib/feeds.ts): landelijk + regio Coimbra + lokaal (Tábua/Arganil)
        ├─ filtert op de laatste 24 uur en ontdubbelt
        ├─ Claude kiest 6–8 verhalen en schrijft Nederlandse artikelen (structured output)
        └─ schrijft content/editions/<datum-tijd>.json en commit die
@@ -40,7 +40,7 @@ npm run dev
 
 ## Aanpassen
 
-- Bronnen: `FEEDS` in `lib/feeds.ts`
+- Bronnen: `FEEDS` in `lib/feeds.ts` (landelijk, `regio` = Coimbra, `lokaal` = Tábua/Arganil/Coja/Oliveira do Hospital)
 - Redactionele keuzes en toon: `SYSTEM` in `scripts/generate.ts`
 - Tijdstippen: `cron` in `.github/workflows/generate.yml`
 - Bewaartermijn archief: `NEWS_KEEP_DAYS` (standaard 180 dagen)
