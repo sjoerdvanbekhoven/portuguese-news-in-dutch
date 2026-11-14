@@ -1,0 +1,395 @@
+{
+  "id": "2026-11-14-2225",
+  "generatedAt": "2026-11-14T22:25:25.491Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 260,
+  "intro": "Het nieuws van dit weekend draait om wonen: in ruim dertig steden, ook in Coimbra, gingen duizenden mensen de straat op tegen de woningnood en de nieuwe huurwet. Tegelijk positioneert oppositiepartij PS zich voor mogelijke vroege verkiezingen, dalen de brandstofprijzen volgende week en wordt voor zondag opnieuw zware regen verwacht.",
+  "articles": [
+    {
+      "title": "Duizenden demonstreren in heel Portugal voor betaalbaar wonen, ook in Coimbra",
+      "category": "Samenleving",
+      "lead": "In meer dan dertig steden, van Bragança tot Faro, betoogden zaterdag duizenden mensen voor het 'recht om te wonen'. Ze eisen onder meer dat de regering de nieuwe huurwet terugdraait.",
+      "body": [
+        "Het burgerplatform Casa Para Viver had opgeroepen tot een nationale protestdag onder het motto 'Não nos vão roubar o direito a morar' ('Ze gaan ons het recht om te wonen niet afpakken'). Er waren betogingen in 32 steden, met de grootste in Lisboa en Porto. De demonstranten vragen lagere huren, betere bescherming van huurders en het terugdraaien van de wijzigingen in de huurwet (lei do arrendamento). Vakbondskoepel CGTP en de linkse partijen steunden het protest.",
+        "De reacties uit de politiek lopen uiteen. Minister Paulo Rangel bagatelliseerde de protesten en zei dat er in Portugal geen grote demonstraties zijn geweest. Links eist dat de regering de huurwet intrekt, terwijl er aan de rechterkant bereidheid is om over wijzigingen te onderhandelen. Casa Para Viver heeft al een nieuwe betoging aangekondigd voor 12 december.",
+        "In Coimbra kwamen volgens Diário As Beiras zo'n 300 mensen samen bij de brug van Santa Clara, waarna de stoet naar de Praça 8 de Maio trok. Vooraf was er onenigheid: het platform verweet het stadsbestuur de route te beperken, wat burgemeester Ana Abrunhosa 'met klem' verwierp. Coimbra werd na Porto, Lisboa en Faro de vierde stad met een 'acampada', een tentenkamp op straat als protest. Ook in Lisboa werden de tenten opnieuw opgezet, nu op de Restauradores.",
+        "Dat de woningnood niet alleen de grote steden raakt, blijkt uit berichtgeving over het binnenland: in Covilhã worden kamers verhuurd voor 700 euro."
+      ],
+      "context": "De woningcrisis is al jaren een van de grootste maatschappelijke kwesties in Portugal. De centrumrechtse regering van premier Luís Montenegro (PSD) paste recent de huurwetgeving aan, wat de protesten heeft aangewakkerd. Casa Para Viver organiseert sinds april 2023 demonstraties over dit thema.",
+      "slug": "duizenden-demonstreren-in-heel-portugal-voor-betaalbaar-wone",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/protesto-junta-milhares-de-pessoas-pelo-direito-a-morar_e1779157",
+          "title": "Protesto junta milhares de pessoas pelo \"direito a morar\""
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/crise-da-habitacao-levou-milhares-de-pessoas-as-ruas-de-lisboa_v1779203",
+          "title": "Crise da habitação levou milhares de pessoas às ruas de Lisboa"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/14/sociedade/noticia/pagar-renda-comer-milhares-exigem-respostas-crise-habitacao-2195005",
+          "title": "“Pagar a renda ou comer”: milhares exigem respostas para a crise da habitação"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/milhares-voltam-as-ruas-em-lisboa-e-porto-pelo-direito-a-habitacao/",
+          "title": "Milhares voltam às ruas em Lisboa e Porto pelo direito à habitação"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/manifestacao-pela-habitacao-sai-hoje-a-rua-em-32-cidades/",
+          "title": "Manifestação pela habitação sai hoje à rua em 32 cidades"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/os-protestos-pela-habitacao-vistos-por-governo-e-oposicao_v1779205",
+          "title": "Os protestos pela habitação vistos por Governo e oposição"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb0g1Wnh1Q1ZSWG94ZmZpS0ZCcFd2SzlCN2ItSmtCNVlXMVhmZjR0bmFxVEd5ZmlURkpYNkJPTXYySGc1VHdmSk4yTkd3YVE2dERMTWNDbGZKXzhWcjlUOGdDWXVRWkNGMGltMGVOREg5ei1DWTRqcVRZNzFzNjZFc1hoRmFzcERVS2Zka00teUM3Q3dudU93cWlnZFZRT2VTU1dCbWhLbWlhQm9PdzRucTB6VnRTNkRmdkZjWGRzVHFTTjVJX0JRLUJtWXMtbWNRbUdSemEybnF2a3VfcHhfQkxpNVg?oc=5",
+          "title": "Habitação: Casa para Viver marca nova manifestação para 12 de dezembro - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMGJJSGVqSHZ4Qms4TEZFVjctVVc1UW80ZnVfUmdrMWIyYUMxNEVnNWp1SU0zclVqNDR5OWRFUVpibG9vSVFnamIxR3dyTjRHRDJxME5iQkpFMWkyMWkxcHBzeUx6SUp6c1hQWHNqRmh2azQ3UHJZcjJZb0xLMHRZV1lrQjdwRk5ncW5qVms0U2E2WUZyX3NqWVhBSURCSm5tZWIzaWE4blRvNFQ0dHc5MmZsalpWRDdIRmI1ekNoMmJPeVZFZGo4SVV6TlN4ZFVGdmZBUk0yM0M4d3NoNGc?oc=5",
+          "title": "Acampada volta a montar tendas em Lisboa: desta vez nos Restauradores - CNN Portugal"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/coimbra-junta-se-ao-coro-de-protestos-pelo-direito-a-habitacao/",
+          "title": "Coimbra junta-se ao coro de protestos pelo direito à habitação"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/camara-de-coimbra-repudia-acusacoes-de-colocar-limites-a-manifestacao/",
+          "title": "Câmara de Coimbra repudia acusações de colocar limites à manifestação"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/acampada-pela-habitacao-chega-hoje-a-coimbra/",
+          "title": "Acampada pela habitação chega hoje a Coimbra"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/14/coimbra-volta-hoje-a-sair-a-rua-pelo-direito-a-habitacao/",
+          "title": "Coimbra volta hoje a sair à rua pelo direito à habitação"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRmlkNmItUGt4ZUlrTV9CQjBscXptUDRUT3Bac2JtbUtRMHVXeHNIdmxCZkhpRmQ4c3dGdlFrdGZQbW5NRjBoTl8weFhpQks2ZG5QWEd4NnRHSzM3Ym9pV1I0RThDVEJaWWhHWFZzSkszVkNNNGVINUw3MjB6aHFNaXNESFhuUmtBWUNrYWU0c1ZXT093SzRyQ3lqZlVhcEJUWmpocmZLalEtNWszX2hOTU56d0tHR2tybGRCMUY2Mkd5R3lBZTRJQnBOZTZTUzh4cF9wZC1aWGpIVFhnbDFDbUZkc1l0OWpZTk5uTFI4NWlIUQ?oc=5",
+          "title": "Na Covilhã, há quartos a arrendar por 700 euros e, no Funchal, um T0 custa mais de 200 mil euros - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "PS presenteert ideeën voor wonen, zorg en onderwijs; vroege verkiezingen niet uitgesloten",
+      "category": "Politiek",
+      "lead": "Oppositiepartij PS hield in Lisboa de eerste 'Estados Gerais', een bijeenkomst om het verkiezingsprogramma voor te bereiden. Partijleider José Luís Carneiro noemde de strijd tegen speculatie op de woningmarkt een prioriteit.",
+      "body": [
+        "Carneiro stelde voor een fonds op te richten dat gevoed wordt met dividenden van de staatsbank Caixa Geral de Depósitos, waarmee gemeenten (Câmaras) woningen kunnen bouwen. Ook wil hij dat het plafond van 2.300 euro dat de regering hanteert voor de zogeheten 'renda moderada' (gematigde huur) niet langer de maatstaf is; hij wil terug naar het criterium van 'renda acessível' (betaalbare huur). Hij betuigde zijn solidariteit met de demonstranten.",
+        "Daarnaast wil Carneiro de lokale zorgorganisaties (ULS) 'depolitiseren' en beloofde hij een pact voor productiviteit in het onderwijs, met een terugkeer naar de 'passie voor onderwijs'. Hij zei ook bereid te zijn een voorstel over een publieke garantie bij huurcontracten aan te passen.",
+        "Carneiro vroeg niet om vervroegde verkiezingen, maar oud-minister Augusto Santos Silva erkende dat die vóór 2029 kunnen komen. Opvallend was de aanwezigheid van Filipe Lobo d'Ávila, voormalig vicevoorzitter van het rechtse CDS-PP, die als onafhankelijke deelnam en Carneiro prees. Ook António Vitorino en Fernando Medina waren aanwezig."
+      ],
+      "context": "De PS (Partido Socialista) is de grootste oppositiepartij. Het land wordt geregeerd door een minderheidsregering van Luís Montenegro. De reguliere parlementsverkiezingen staan gepland voor 2029.",
+      "slug": "ps-presenteert-ideeen-voor-wonen-zorg-en-onderwijs-vroege-ve",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/especiais/tom-de-seguro-propostas-de-pedro-nuno-e-uma-silent-disco-o-arranque-dos-estados-gerais-de-carneiro/",
+          "title": "Seguro, Pedro Nuno e silent disco. Os Estados Gerais do PS"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2188/",
+          "title": "18h. Carneiro aponta combate à especulação como prioridade"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/ps-solidario-com-manifestantes-pela-habitacao_v1779206",
+          "title": "PS solidário com manifestantes pela habitação"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/14/politica/noticia/carneiro-quer-uls-despartidarizadas-recupera-ideia-pedro-nuno-santos-habitacao-2195000",
+          "title": "Carneiro quer ULS “despartidarizadas” e recupera ideia de Pedro Nuno Santos na habitação"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/ps-propoe-fundo-alimentado-com-dividendos-da-caixa-para-camaras-construirem-casas/",
+          "title": "PS propõe fundo alimentado com dividendos da Caixa para Câmaras construírem casas"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/14/politica/noticia/lobo-davila-espera-coragem-ps-motor-mudanca-reformismo-pais-2195007",
+          "title": "Lobo d’Ávila espera coragem do PS para ser “motor de mudança e reformismo” no país"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/antonio-vitorino-fernando-medina-e-filipe-lobo-davila-nos-novos-estados-gerais-do-ps/",
+          "title": "António Vitorino, Fernando Medina e Filipe Lobo D’Ávila nos novos Estados Gerais do PS"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3084275/carneiro-quer-ps-a-voltar-a-paixao-pela-educacao-e-promete-pacto-para-a-produtividade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Carneiro quer PS a voltar à \"paixão pela educação\" e faz promessa"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2221/",
+          "title": "19h. Ventura fala em SNS marcado por fraude e corrupção"
+        }
+      ]
+    },
+    {
+      "title": "Brandstof volgende week goedkoper, maar korting op brandstofbelasting wordt kleiner",
+      "category": "Economie",
+      "lead": "Diesel en benzine worden vanaf maandag 16 november goedkoper, terwijl de regering tegelijk de korting op de brandstofbelasting (ISP) verlaagt.",
+      "body": [
+        "Volgens RTP daalt de prijs van een liter benzine volgende week met 2 cent en die van diesel (gasóleo) met 6 cent. Andere voorspellingen gingen vóór de belastingaanpassing uit van grotere dalingen, tot 9 en 11,5 cent.",
+        "Het verschil komt doordat de regering opnieuw aan de ISP sleutelt: de tijdelijke korting op deze belasting wordt vanaf maandag verminderd, waardoor een deel van de prijsdaling aan de pomp wegvalt."
+      ],
+      "context": "De ISP (Imposto sobre os Produtos Petrolíferos) is de accijns op brandstof. De regering past die regelmatig aan om prijsschommelingen op te vangen. Voor wie op het platteland veel rijdt, zoals rond Tábua, merk je dit direct in de portemonnee.",
+      "slug": "brandstof-volgende-week-goedkoper-maar-korting-op-brandstofb",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDFwQ0NUQUpsVk5qTUdDZHZlLUgyWFNMS0VERzZRY0I3ZDQ2S1BKTTlHcGtzSzdoOXd2U0dMSEwwVkJaVHF5T0dnVTF5UXlDSzR2a2hEaERrcUxQZXFtRHJTWnNNdnRYNU9acmlrUHZUOEZaY1NIR3AwbDRUWVN4WVNRbTF2clZBNkdnNE1pOVhVczF1a00tbkpNbTdfQUxyVHhyQ0FsMnltbkxIZExYalQ3TWFZVnlWSk1pUm4xdHFBd2ZFU09zeGlhS2ItU2ZCLV9jeVdSQ0lfR0RrR3BINE5JV0tZRjM4cTUzYw?oc=5",
+          "title": "ATUALIZAÇÃO ISP | Preço dos combustíveis na próxima semana (16 a 22 de novembro) - Contas Poupança"
+        }
+      ]
+    },
+    {
+      "title": "Zondag aanhoudende zware regen verwacht; 'atmosferische rivier' bereikt regio Coimbra",
+      "category": "Klimaat & Natuur",
+      "lead": "Na de storm Charles eerder deze week wordt voor zondag 15 november opnieuw langdurige, zware regen verwacht in meerdere delen van het land, waaronder de regio Coimbra.",
+      "body": [
+        "Volgens het weerinstituut gaat het zondag 'zonder ophouden' regenen. Een zogeheten atmosferische rivier, een smalle band met veel vocht, trekt over het land en ook Coimbra en omgeving krijgen daar de gevolgen van.",
+        "In de regio Coimbra hebben 13 gemeenten (concelhos) een risico op overstromingen, meldde Diário As Beiras eerder deze week.",
+        "Bij de storm Charles (10-11 november) gold in heel continentaal Portugal een 'situação de alerta'. De Câmara van Tábua riep inwoners toen op verplaatsingen te vermijden en vroeg bedrijven om voorzichtigheid; Oliveira do Hospital sloot scholen en gemeentelijke voorzieningen. Op 11 november meldde Oliveira do Hospital nog geen schade."
+      ],
+      "context": "Bij zware regen kunnen in de Serra do Açor en langs de rivieren Alva en Mondego wegen onderlopen of modderstromen ontstaan, zeker op hellingen die door eerdere bosbranden kaal zijn. Waarschuwingen van IPMA (het weerinstituut) en de Proteção Civil (civiele bescherming) zijn de moeite van het volgen waard.",
+      "slug": "zondag-aanhoudende-zware-regen-verwacht-atmosferische-rivier",
+      "sources": [
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/vai-chover-sem-parar-este-domingo/",
+          "title": "Vai chover “sem parar” este domingo"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3h6Q3FoUEVNMVJZNkNiS3JYMWZQY2N1REhJUEpSTVNvM29Idm4wZ0wzZDFVWUxJTzl3TlF3R2NHdXN6RjUyU2lFUDIxY3pyYnAya1lqSHBKXzB2V3BiX202RnQzNTVNY25DRVVFSUQtTHUzYXBtZjA2akp0cEN2dHVFaFFHaGpIb25SN2xwOE9mUUlpTnZmYjJyY3A0VS1P?oc=5",
+          "title": "Um rio atmosférico está a caminho e Coimbra vai sentir os efeitos - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWh4ejVLaDJXNlRPTUR4dDFSZE4yZVczcGpNQXJ6VXYtX3hXVnktbkxBZXF1VDFXR2FMQkUyNk50QTdINThGMWhmb3pKcE52R2hVelpVUHhYV0tvenV4MkxHeVpRaEtXWmt4SFZ6SHFiRXlkQlgyWGl3WXFMa21BWGRpTDVkbjhSSUE?oc=5",
+          "title": "Região de Coimbra tem 13 concelhos com risco de inundação - Diário As Beiras"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmlQZWROS1VzSllCM0UzN1YyaEdUVWNjUWhGLXJ6U1JjaVZJUlQxQWJ6Y2hFYUhITk41THNuckZ0YjZzMzc1dG9jRzM5eGt3anlTWl9nVXk5ZjBaVVZUTXBhLUtJNGJpSG1Pdi1ITjRwUjlNb2RWeTMxS0ZHUW5QUjNVR2xMX2ZHeXNFVlhWbFFpM2E4NVFfUExuLTN3N3E0QTM5Vl96aDY5cWxLSFJGRThrdlnSAboBQVVfeXFMTzFHNUVpQTJ2YVltd0h4aFI3YXJtSzFuSERCUTQtaGtMQkNfLVhKYno4dkFETWpQU3dTRjMxbWw3dHdDMzJ1d0VFTXRqSERpeVBjaGJPa3BLQU54ZWJKNnpDM2hSYzJDS1poQms0NHFMMFpDeF9ESUl0YXQ2ZGtxcE9CYkxvNG5FMTZJVzJPTTJCT09jekxqcWlxWUVnODlzSlhRNElMcURWMF9nNElsOVN4LThOUDdhbTl3?oc=5",
+          "title": "Câmara de Tábua apela à população para evitar deslocações devido à Depressão Charles - Rádio Boa Nova - - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2VnZ0YtVzRQTjVlQ1RNTmloOUxhZlpkSm92aFRubEQ4TUI5Mm85emJtMnRqNkNZS1ZlbFBPWGZ3REI0X1gteXIweHJQMF84TnZ5TUNCYlNXc1drM05lRWpwcy1oaG1hdXYwcnkxQTFyeFc3RUhDT2RBN2EweEhNcDJfa2NnRkpDTEVqUWlRd21lQ3YtVWZRT1R6dzVDZXZfN3VSdDQ5ZVpPQXdUUHNNUGMzanpObHE5LUVDdjBxVkFWN2lJMkFNUzZUOFNwdHVNS09fdVFuRGVtTXF5OXl3?oc=5",
+          "title": "Câmara de Tábua recomenda evitar deslocações e pede cautela às empresas devido à Depressão Charles - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW95Y2VKN0R1WlFKTm5oMjE0bl9KVUc3ekQ5UENuOVp2NnQybjJIMmFudDBvRExMY1E4cFZDOEdZREFOU0Q4cUoxd2cwbzF1Rlg0clNuVmZRTk5GVXM1VGxrS2hHZTY5SWYxeXNGcGlDVTdncVZnV0hJd2YzcVEwUVZHUU1mTWdTMm1KcGlGQjdGeWVPaW5WMjlaWk51N0dRODdUY0JuZHlCVmxSWDBfb25UalVsemI2ZkdBZVJHcTVXWlM4YlEw0gHMAUFVX3lxTE1KZ0FXaVBxb1k1elJYdGFrRG9lQ2V3ZlU3YzRUc0EzQ2JaZVVFN0RQb0hzcWFxNjVnekNaZG9qU3R4S0h5OThCRWc0dGxFa2VsRDdiajI5c3lXY0VnM3FrRWdYc0J3cXV6M3dSd1Q3bENuUkEyU3Jzc01ES1VTR2p3Um5nOEJZQU1JcUFIeG1Bd1FuVjJTRUpKR0k5RW04N3VTRmt2QXRkZ1VQQ1pXRGJCVUxXZlhBc2hVREJNaHlVY2lFZG9RT0ZlUlA3aA?oc=5",
+          "title": "Oliveira do Hospital prepara resposta à depressão Charles: escolas e equipamentos municipais encerrados - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWZnc0w1dHVtaVd6Nlhqbko5VU9qSHRBT2VpbzhvM1hGTURSVnY1Znk2RVpubjByZzlyajhuTjBzdE1WM1BQeUlGRzdSSHhrQlhiUkptZVNlZGZrcWVHMjJCYl9sZnlPZ24tMEhqclhJYVFzREwyNkZGZnZ4b2pnekZrUmwwTUU5UUJkZzNseWNPeEtSTjh3UQ?oc=5",
+          "title": "Mau tempo ainda não causou estragos em Oliveira do Hospital - Notícias de Coimbra"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/eco-quiz-patroes-do-comercio-criticaram-o-fecho-do-pais-devido-a-depressao-charles/",
+          "title": "ECO Quiz. Patrões do comércio criticaram o ‘fecho’ do país devido à depressão Charles?"
+        }
+      ]
+    },
+    {
+      "title": "Lonen stijgen 4,9 procent, maar vakbond UGT maakt zich zorgen over koopkracht",
+      "category": "Economie",
+      "lead": "Het gemiddelde bruto maandloon steeg in het derde kwartaal met 4,9 procent tot 1.696 euro. Vakbondsfederatie UGT wil toch het loonakkoord heronderhandelen.",
+      "body": [
+        "De cijfers komen van het statistiekbureau INE. Volgens de UGT vertraagt de groei van de reële lonen en blijft de winst in koopkracht 'beperkt door de inflatie', in een economie waar de kosten van levensonderhoud onder druk blijven staan.",
+        "De UGT wil daarom het driepartijenakkoord over loonsverhoging dat in de Concertação Social is gesloten opnieuw bekijken."
+      ],
+      "context": "De Concertação Social is het overlegorgaan van regering, werkgevers en vakbonden. De UGT is een van de twee grote vakbondskoepels, naast de CGTP.",
+      "slug": "lonen-stijgen-4-9-procent-maar-vakbond-ugt-maakt-zich-zorgen",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/14/ugt-preocupada-com-abrandamento-dos-salarios-e-insiste-em-revisitar-acordo-de-concertacao-social/",
+          "title": "UGT preocupada com abrandamento dos salários"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/ugt-quer-revisitar-acordo-de-concertacao-social/",
+          "title": "UGT quer revisitar acordo de Concertação Social"
+        }
+      ]
+    },
+    {
+      "title": "Druk op minister van Volksgezondheid na corruptiezaak in ziekenhuisorganisatie Aveiro",
+      "category": "Politiek",
+      "lead": "De oud-voorzitter van de zorgorganisatie ULS Aveiro is aangehouden op verdenking van corruptie, terwijl er steeds openlijker wordt getwijfeld aan de positie van minister Ana Paula Martins.",
+      "body": [
+        "Volgens Jornal de Notícias gaf de aangehouden oud-voorzitter van de ULS Aveiro in een half jaar 700.000 euro uit aan adviesdiensten. De PS heeft de regering vragen gesteld over mogelijke bevoordeling bij zijn benoeming via de selectiecommissie CReSAP.",
+        "Premier Montenegro heeft nog vertrouwen in minister van Volksgezondheid Ana Paula Martins, maar in de media wordt gevraagd of zij nog kan aanblijven. Chega-leider André Ventura sprak van een nationale gezondheidszorg (SNS) 'getekend door fraude en corruptie' en verweet de premier 'medeplichtig stilzwijgen'."
+      ],
+      "context": "De ULS (Unidade Local de Saúde) bundelt ziekenhuizen en gezondheidscentra in een regio. Meda de Mouros valt onder de ULS van de regio Coimbra. Chega is de rechts-populistische partij van André Ventura.",
+      "slug": "druk-op-minister-van-volksgezondheid-na-corruptiezaak-in-zie",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1dxQlpBbjdsVFlaZVhmOERxaEhUTzF3THZudmN0UkJzSzVWUHdseHFSc25PMks5OVlhWnFVRElRMEVqSUM5Wk9UVXlZSi01TWlDeW53cFZzUENoVlFrMXdhUEV3cDZMdGsyYURKbENwUlo0cElQY0tJVzF1dHA4aDQ3a2xqS2tOYjR0ZjhHeVlpaFNqUF8tNEJoaFlwdXVpRFFNX2hQVm1WYTNzU2RyYjZIcDEyUjZfWUY0cGpQSDhpeHc2SjBIWkNxMWZaQ0dzaVpOUHJ3?oc=5",
+          "title": "Ex-presidente da ULS Aveiro detido por corrupção gastou 700 mil euros com assessorias em meio ano - Jornal de Notícias"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlFRZDBlU2o2ck1FUmwwNWJyeFdZTWpwa1YwOWlubVoyWTJYQVZvTzV0czZ3Q05EY29nVjNYSzZ2a190ZTZNNE5vcWY5Q0o4MGNIbVNLaUtBRWxtWWxheVdtZWptVzVlbVFlTkhkMzJCQmdpTnFReWZlTWlUYm56WlRlaEVrTndKREUtWWVDMmEzVkg4MDJWV0c3RnlTZw?oc=5",
+          "title": "Por que razão Ana Paula Martins ainda é ministra da Saúde? - Público"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2221/",
+          "title": "19h. Ventura fala em SNS marcado por fraude e corrupção"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/14/politica/noticia/carneiro-quer-uls-despartidarizadas-recupera-ideia-pedro-nuno-santos-habitacao-2195000",
+          "title": "Carneiro quer ULS “despartidarizadas” e recupera ideia de Pedro Nuno Santos na habitação"
+        }
+      ]
+    },
+    {
+      "title": "Tábua: regering benoemt bestuurscommissie voor freguesia, kerstprogramma tot januari",
+      "category": "Regio",
+      "lead": "De regering heeft een administratieve commissie benoemd voor een freguesia in de gemeente Tábua. Daarnaast presenteerde de gemeente een kerstprogramma dat tot in januari loopt.",
+      "body": [
+        "Volgens Notícias ao Minuto heeft de regering een 'comissão administrativa' aangesteld in een van de freguesias van Tábua. Uit het beschikbare bericht blijkt niet om welke freguesia het gaat of wat de precieze aanleiding is.",
+        "De Câmara Municipal van Tábua heeft een kerstprogramma opgesteld dat doorloopt tot januari, meldt Campeão das Províncias. Details van het programma staan niet in het bericht."
+      ],
+      "context": "Een comissão administrativa is een tijdelijk bestuur dat de regering aanstelt wanneer een gemeente- of freguesiabestuur niet gevormd kan worden of wegvalt, tot er een nieuw bestuur is. Een freguesia is de kleinste bestuurslaag, vergelijkbaar met een deelgemeente; Meda de Mouros is er zelf een van in de gemeente Tábua.",
+      "slug": "tabua-regering-benoemt-bestuurscommissie-voor-freguesia-kers",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazVaR1dyblo3ZHpOUUxNdDNVLUFlQkN5NUxlTWxoU29rZ2ZDMVVvMkdCajhUT2xTWVFzRzExRWRIM3NTY2xibm4ySVlWWlVleF9uUTkzWVZqSW1jeU5BanU2T3p1RlpKTzM1cUt1ajFhLU40RDc1VE5zWElOQ0tvRzN6bzNscl9YWFFvVzBXemh6SmtYSzBVN2FjRTRvakl0UTdKM0ZNdFc0eDRENlBQbmJ2S3J5SmdtWHc?oc=5",
+          "title": "Governo nomeia comissão administrativa em freguesia do concelho de Tábua - Notícias ao Minuto"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVW1OOHhmN3FNQTlrejNadUlxMFo4ZktWODlVb1BwMHpYX1ZHbnNzd0pyOURFRW52SkVlU1plUVl5RXpNWVNab3JHSVhiMnhhbmROMXh6UmVLS0RLSTMtdzhuNVB3Sy1Gd1VuS3pVcmtXb1EzVHVRNzE3dUM5eHZ4VnFQUjN6akk5eHQwWnRmcFNENWpjM0MycVRYNVZmdkdIS0E?oc=5",
+          "title": "Município de Tábua com programação de Natal até Janeiro - Campeão das Províncias"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital investeert in bushokjes en onderwijs; Arganil betaalt zwemles voor 1.300 kinderen",
+      "category": "Regio",
+      "lead": "In de buurgemeenten Oliveira do Hospital (zo'n 15 km van Meda de Mouros) en Arganil zijn deze week enkele investeringen bekendgemaakt.",
+      "body": [
+        "Oliveira do Hospital plaatst negen nieuwe abrigos (wachthuisjes) bij bushaltes in negen dorpen, zodat wachten op de bus comfortabeler wordt. De beroepsschool EPTOLIVA opende er een nieuw technologisch opleidingscentrum (CTE) voor informatica, een investering van 1,5 miljoen euro; de opening was eerder uitgesteld vanwege de storm Charles.",
+        "Verder krijgt Oliveira do Hospital een nieuwe studentenresidentie in een voormalig hotel, voor studenten van het Politécnico van Coimbra. Eerder deze week raakte in de gemeente een gezin dakloos na een woningbrand.",
+        "Arganil trekt 47.500 euro uit voor zwemles aan meer dan 1.300 kinderen en jongeren uit de gemeente."
+      ],
+      "context": "In Oliveira do Hospital zit een vestiging van het Politécnico van Coimbra (ESTGOH). Arganil ligt ten zuiden van Meda de Mouros, eveneens op ongeveer een kwartier rijden.",
+      "slug": "oliveira-do-hospital-investeert-in-bushokjes-en-onderwijs-ar",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFVrVlRtVWlkTFI1QVktWlIxYXhMbEQxazRHeFJkY1l2Z29KalpyOEtfVk03YVZHbHA5THRoZUZZR3dzZGRsWmFabUhLQnhyVGRDWEg1LVEtTS1PTm4tQkcyTXFuQWlveU52OEdoeV9KVUZ5dm1NXzFOZFQ0RTN1T0NtRXU1RXVGaFlLdnhQcmZYc0k1TDdzNVA4aEFoWHJGM096U3VaUWRpQUZjbkl2QWlvTnFwTE5DOTlBMHlvMA?oc=5",
+          "title": "Esperar pelo autocarro vai ser mais confortável em 9 localidades de Oliveira do Hospital - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGtrOVV2dHhOV05BTzBXSE0tQTM0dnNkLWtkQVRSaXJIY2N0UTVvdmwxV2VmODYxck4zcFlSQ3hjdThtZHljVEQ0SjhvSm9xNjJjdl9MRE9XQXBKc2ZPUzBCLUhnQWxXR19fRHB5VWpkeWx2Y2FCM1B3ZWh4UHQ2aDNkRG1sWU1tM0hpTWZSOWUyN1htQmp4Q1FZeGQ2NTZrUkk1Y3U1RF9OZ0lWRGVCQmoyOGtuMUxWcUkzNzNkckNkajZLSUhkTktMWjEtRHQxQV9wSjdn?oc=5",
+          "title": "Oliveira do Hospital instala mais nove abrigos para passageiros de transportes públicos - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1Vxc3UtZ1hGMmttV3JXVUhGNEl1QzE1Q0JWRzQxa1JlT2xNcEEzRm14bzhXZENFNlpJZGp5d2FaWjBRRGdicm8xempWTnNLM19udlcwbC1mYUFWaElPTzRBTHRxZnJsdndrcjBiSHZ4RHF3WVZIT3pnNU5Wa2MwZTNZVkhnQVJFeGVtNFNrZGVkRFNxYjdaSjlnYm5iRHZjZHI4UjRHZFprZ09ZV3BqQllBdTBvZw?oc=5",
+          "title": "Investimento municipal reforça condições das paragens de transportes públicos - Câmara Municipal de Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV2d0WE5aYzVnbktjYkZNVmFreW9KQWgxcnZHWHdwZEJCM3p3OXF4Vm0yM1pLdGZ6S1YxLVBkS1Z3dlNlTTlqUEVWNmJKSXo5VW5zbGhISVBZUmlXUGFXaFdqdHVuZk14WTVxMUd4YlJyR1hUQk50UXpCcVI0dGFjazhaQlBvZVU1VXlONko3T3c3eENNV1B0YTRiX1VfcXBQblg4SThkRF83STFvVF8tdkd6azl2UVhzb1FnLVZfdl9lRmtwckFFajJfem4wSUEtSmRLTEJNZjBDZF9STGNudWlreS1LRHlm?oc=5",
+          "title": "EPTOLIVA inaugura CTE de Informática em Oliveira do Hospital num investimento de 1,5 milhões de euros - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnI0My00cVotSEoxcm0yc1VaaWszREtfYmtDamJOWmw0VnFnUlRQWmQwbHRSVWpNeUxlZ0VudnJxZ0lZRlQ2RVctTVBjUFVLRGh6N3FYalZ5N1BTUmw5VGYyS2YzSFRVczluaHFUUU9CLWxuZzJ0bHRKLWNzZ3FWLWxKQnRsc0dVekxlZGJGWFZsU1E5aU10NjE0UEVVck9KTzk4aXZQTk9Qd21GQ1ZiZEhNMVpTb1hpbko2Nkw2V3NjOGdsX1BzRg?oc=5",
+          "title": "EPTOLIVA adia inauguração do CTE de Informática e sessão comemorativa dos 35 anos - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUk1jcm9DQVVweVVwbXMwX3lsVzNqUE9JS1c1MXNpM0V5YlJZejltejM2MDZ3bEkySEFGQ2hnUFZySkFDODd2LTA4SmIxQy1zRXNlOVhSSFlWVTFVX25aaFVLcTFxTlJJQ09zTWM0LTRZcW5rdW8yd2I5RDBRbllQUFNCMDJ3M2RqenhpSC1QSmw3LWNtNUIwb2hBWW9GTVI5YVdwSWMwaC1YSmpJMHRaTkl6c0dnOW44b2FaQ2hiMm5nOWtaYkFmaEYwUEY3YVNlbVcxb3NKNFJ3UmRl?oc=5",
+          "title": "Antigo hotel renasce como nova residência de estudantes da UP de Coimbra em Oliveira do Hospital - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzBOYTBCY25YZ2R3TV9lLXI1M1lSZVJ2TEFxY25OcnpNd3lhcl9sM1JCWDdNZDBONXNPbVpnRFZhN3BNVFNZbXJldGg5bFhSam1iWkZTenJ2bXAtczlNQnJfVmJ4SFZiQjdEU29lZGY5clowVWg2Sl9pMUlrWUo4V25QQ3dQMDJPbmZfN2Q5TQ?oc=5",
+          "title": "Família fica desalojada após incêndio em Oliveira do Hospital - Diário As Beiras"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXlUWkh3ZTVuM3VjWG1obEdnVUN2Wm5TMnp2eEVjY0VXN0ZLNmJJLXlvVjlYdWFjejI3UEdNVUU0RW9ieEFyOGRHZkwzcGV5QnM4bFptclJ6SzhSTTU5ejBDd0pQNnlKUXY2ZGUzemhReDh3XzFtOTdSX3laVFZQNzJJaVdaS0N6T2NTUDgxUVhUVTYxd0J3OEF5TTYwdHE4RWfSAYMDQVVfeXFMT09hVjBOaHZjLUhacVZJQWdsVjNuZUExNlB0bGJkV0xJSmZmY1p3RXM3djZ4OEhWd1M1SDc0d2ZDcG8xVGEtbjU3aE9uaS1KSXg2Z2JaMWJTcmpwYWd3b1BZdWVhTUlBb3RNeENMRGYxbmRiVjNvWUo5U0E2NTZJaERKTm0ybFpabm5lMkYyVHJsZ1NpUm91LTdQbWRpSHRzYk9CdWNCVzRicmh0NXNJVlVJSnpIUHZTTzZ1Y0NPMTVrQ0MzSnQzU3YxNFFPWFpKYjVNYS1udG1RMXhESmE5dXpuckQ2cTNlVF9ub2FPX2hVLVlwWXdRZnlpbFdjR2tMRTlPYjlvNG95Q0VfeE0wNDJ1VTBqMkxZZkNyVnQtMVczbUtJakRHQkdmdXVvUUpsSFhLcE1qOFJ4VXF4YkJmZk85NWtwanM0cERQUVF0NFRhN0VfMjQweG5ONnVkMkhHNjViTXpfTGxhRXZ4RklIand2SmdsQlcwWngtVWs0LXY5RjhV?oc=5",
+          "title": "Incêndio em habitação deixa família desalojada em Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkk4Z1JMSk9VZE9jeTBWRHFnRmpTaGJDNWVWWmNvYWJRWks2NE00eVhzanNCQUhnSXFlX0lvVlpXSHA3NW9PQy1UMU1yRURwcURNbkFOemM4d0xCWVN2ZTlaamJkcVU3UGxOa0N4Q2dDM0dIMTluU1h1dEpybm9mQzdDUklNWnVLYzRhLXZURnJ5cElPeWxmVTRmZ0Nmd1ZybkdXbDN0MzVfdHY1Q2RPMTJLOWRWeWPSAbwBQVVfeXFMTkY5LVdPYTJHbDBSRnJVamlWVkFCTWctVjY2RXpGTkU4ZXk4elhKb1hBRkNOd1M1eldIS1AwaUJuQVhTVlMtcE9XMUhrU1Y0OUcxZ1ZwVmQ3cU5mZ2w3RnA3SEZuTFJ3TncyZ3p0emtyQk5QMlFVanRKQlVwdE5UaHN5clE3SHlHODRhUzk0MG1fQzlUTHFSWk5SX1U1YXNGZWRjLXgtaE9ZNkxrVXltUXVpNl8xa0lSRGF4czk?oc=5",
+          "title": "Arganil investe 47.500 euros no ensino da natação a mais de 1.300 crianças e jovens - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb05oSmJWSVNCekJvd2FiUnJaQ0dOcGlWV2ZsTXE1T2hYd3piWGgzLXBBdFhDQWhsU0FLdjVvMmV2djdMTEVoZklyaWhrbWpBWUtVdjJ0NmEzNVFQMzA0NWVBZmdFc3ZXazdfYUVadXZ2bktaSHdZRl9QNkpNaGh0Wkpod19tc2dBWFNsakFjbmlSaVEyN0J3TVRuNVVsNVpvMEtma0MzX19EbGNPcktYWl9zdEd1LXZiRzJHU0FCRGtvUkNyRGZmNmg3dFNZWDQ?oc=5",
+          "title": "Município de Arganil investe 47.500 euros na capacitação aquática de crianças e jovens do concelho - Município de Arganil"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o direito à habitação",
+      "nl": "het recht op huisvesting",
+      "example": "Milhares de pessoas saíram à rua pelo direito à habitação."
+    },
+    {
+      "pt": "a lei do arrendamento",
+      "nl": "de huurwet",
+      "example": "Os manifestantes contestam as alterações à lei do arrendamento."
+    },
+    {
+      "pt": "o gasóleo",
+      "nl": "de diesel",
+      "example": "O litro de gasóleo desce 6 cêntimos na próxima semana."
+    },
+    {
+      "pt": "evitar deslocações",
+      "nl": "verplaatsingen vermijden",
+      "example": "A Câmara de Tábua recomenda evitar deslocações devido à depressão."
+    },
+    {
+      "pt": "ficar desalojado",
+      "nl": "dakloos raken (na brand of ramp)",
+      "example": "Uma família ficou desalojada após um incêndio em Oliveira do Hospital."
+    },
+    {
+      "pt": "o abrigo de passageiros",
+      "nl": "het wachthuisje bij de bushalte",
+      "example": "Oliveira do Hospital instala mais nove abrigos para passageiros."
+    }
+  ]
+}
