@@ -1,10 +1,14 @@
 import { ImageResponse } from "next/og";
-import { GALO_PATH } from "@/components/galo";
+import { GALO_BODY, GALO_LEGS } from "@/components/galo";
 
 export const size = { width: 180, height: 180 };
 export const contentType = "image/png";
 
-/** Thuisscherm-icoon voor iOS: blauwe haan op gekalkt wit, met een tegelrandje. */
+/**
+ * Thuisscherm-icoon voor iOS. Bewust vierkant en zonder rand: iOS legt er zelf de
+ * afgeronde maskervorm overheen. Een eigen rand of afronding zou binnen dat masker
+ * hoekig ogen.
+ */
 export default function AppleIcon() {
   return new ImageResponse(
     (
@@ -15,12 +19,12 @@ export default function AppleIcon() {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          background: "#f3eee3",
-          border: "10px solid #1f3f78",
+          background: "#1f3f78",
         }}
       >
-        <svg width="128" height="128" viewBox="0 0 64 64">
-          <path d={GALO_PATH} fill="#1f3f78" />
+        <svg width="132" height="132" viewBox="0 0 64 64" style={{ marginLeft: -6, marginTop: 2 }}>
+          <path fillRule="evenodd" d={GALO_BODY} fill="#f3eee3" />
+          <path d={GALO_LEGS} fill="#f3eee3" />
         </svg>
       </div>
     ),
