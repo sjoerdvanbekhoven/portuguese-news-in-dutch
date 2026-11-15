@@ -1,0 +1,302 @@
+{
+  "id": "2026-11-15-1826",
+  "generatedAt": "2026-11-15T18:26:25.640Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 232,
+  "intro": "Het nieuws draait vandaag om de nasleep van storm Charles en de vraag of Portugal klaar is voor de volgende ramp, en om de begroting: Chega steunt btw-verlaging op brandstof van de PS, terwijl de pompprijzen morgen dalen. Het woonprotest gaat door met tenten in Lissabon, en de website van voedselwaakhond ASAE werd gehackt. Dichtbij huis: een bestuurscommissie voor een freguesia in Tábua en kritiek op de raadsvergaderingen in Oliveira do Hospital.",
+  "articles": [
+    {
+      "title": "Brandstof morgen goedkoper; Chega steunt PS-voorstel voor lagere btw op brandstof",
+      "category": "Economie",
+      "lead": "Diesel daalt maandag met ongeveer 6 cent per liter, benzine met 2 cent. In de begrotingsonderhandelingen kondigt Chega aan de btw-verlaging op brandstof van de PS te steunen.",
+      "body": [
+        "De brandstofprijzen gaan maandag opnieuw omlaag. Diesel (gasóleo) wordt naar verwachting zo'n 6 cent per liter goedkoper, benzine (gasolina) ongeveer 2 cent.",
+        "In het parlement krijgt het debat over de Staatsbegroting (Orçamento do Estado) een opvallende wending. Chega-leider André Ventura zegt dat zijn partij de voorstellen van de socialistische PS om de btw (IVA) op brandstof te verlagen zal goedkeuren.",
+        "Ventura zei ook dat Chega voorstellen zal steunen die de woonlasten verlagen, ook als die van de PS komen. Dat kan de krachtsverhoudingen rond de begroting veranderen, omdat de minderheidsregering voor haar meerderheid afhankelijk is van andere partijen."
+      ],
+      "context": "IVA is de Portugese btw. Chega is de rechts-populistische partij van André Ventura, de PS de centrumlinkse socialistische partij. De huidige regering is een minderheidsregering, dus bij de begroting telt elke stem van de oppositie. Voor wie op het platteland veel rijdt, maken brandstofprijzen en -belastingen direct verschil.",
+      "slug": "brandstof-morgen-goedkoper-chega-steunt-ps-voorstel-voor-lag",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2189/",
+          "title": "18h. Preço dos combustíveis volta a descer amanhã"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2337/",
+          "title": "17h. Depressão Charles. MAI volta a defender Governo"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-chega-vai-aprovar-medidas-do-ps-de-descida-de-iva_v1779340",
+          "title": "Orçamento do Estado. Chega vai aprovar medidas do PS de descida de IVA"
+        }
+      ]
+    },
+    {
+      "title": "Na storm Charles: regering verdedigt aanpak, kritiek op paraatheid voor nieuwe rampen",
+      "category": "Politiek",
+      "lead": "Minister van Binnenlandse Zaken Luís Neves verdedigt opnieuw het optreden van de regering bij storm Charles. Tegelijk klinkt van meerdere kanten dat Portugal niet goed voorbereid is op een volgende ramp.",
+      "body": [
+        "Minister van Binnenlandse Zaken (MAI) Luís Neves verdedigde zondag opnieuw hoe de regering zich op storm Charles had voorbereid. Volgens hem mag een regering niet bang zijn om beslissingen te nemen. De regering belooft verder een nieuw loopbaanstatuut voor de brandweer (bombeiros).",
+        "De voorzitter van het agentschap voor het herstelplan PTRR vindt dat de regering 'voorzichtiger' had moeten zijn bij het vastleggen van maatregelen en termijnen. Het zou 'overdreven zijn te zeggen dat we klaar zijn voor een nieuwe Kristin', aldus berichten. Het geplande rampenfonds (Fundo de Catástrofes) komt volgens ECO niet van de grond door financieringsproblemen.",
+        "In Leiria, zwaar getroffen door de eerdere storm Kristin, meldt de burgemeester dat nog meerdere scholen, wegen en culturele voorzieningen hersteld moeten worden.",
+        "Klimaatwetenschapper Filipe Duarte Santos wijst erop dat een derde van de Portugese gemeenten nog geen plan heeft voor aanpassing aan klimaatverandering. Intussen veroorzaakte zware regen zondagochtend overstromingen in straten van Figueira da Foz; het weer zou zondagmiddag even opklaren en maandag terugkeren."
+      ],
+      "context": "MAI is het ministerie van Binnenlandse Zaken, verantwoordelijk voor de civiele bescherming (Proteção Civil) en de brandweer. Kristin en Charles zijn stormdepressies die Portugal dit jaar troffen. Rond Tábua en Oliveira do Hospital riepen de gemeenten tijdens Charles op om verplaatsingen te vermijden.",
+      "slug": "na-storm-charles-regering-verdedigt-aanpak-kritiek-op-paraat",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2337/",
+          "title": "17h. Depressão Charles. MAI volta a defender Governo"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2189/",
+          "title": "18h. Preço dos combustíveis volta a descer amanhã"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/17h-governo-promete-um-novo-estatuto-na-carreira-dos-bombeiros_a1_1779349",
+          "title": "17h Governo promete um novo estatuto na carreira dos Bombeiros"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbEZBWFF2cndrOVdqX00ydkRyaXJSaEhUQmpuQm1YMmFaa2xTTUpkcDVNR0dyMHZoWGthVjN6d2M3SXkyMzFDVlI0THpTdnRqZEltalg4TWtNX2VuX21FNEs2c21ualo3cGNQRTZPYWxYdWZweS13N2xjTkFUc2R6dnY0Q2tfNUtzYnhmRUVmTzZNWHBEWnMwUEF3SktCN1ZHYzFEeTJxSl81ZTlLdVYzWHNlWGpfdjlnNVBrUk9tdXFLMkpINGl4MmZydTFqbFU1UkhlYUgtTURjejc1SzRIQndB?oc=5",
+          "title": "Presidente da Agência para o PTRR: Governo deveria ter sido \"mais cauteloso\" na classificação das medidas - RTP"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2517/",
+          "title": "15h. Kristin. CM de Leiria faz balanço da reconstrução"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/convidado-extra/filipe-duarte-santos-nos-proximos-6-meses-espera-se-que-chova-muito/",
+          "title": "Filipe Duarte Santos: “Nos próximos 6 meses espera-se que..."
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/a-chuva-nao-da-treguas-e-deixa-ruas-da-figueira-da-foz-debaixo-de-agua/",
+          "title": "A chuva não dá tréguas e deixa ruas da Figueira da Foz “debaixo de água”"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVE5YUFNZTU5hV2dIX2taNGpjalZOc1Z4cEdVY0JSZ25xVnBMcUlWWHRDX2NjWGNhVlpSWnpyQmVFQ1NfMUFPdWVKWWpSYW13WE1jdDZ5MVF2LWltS2xGYlhfWEFNcmZ1cTRhamFZSTc2VXFreVlzTmVCVVQ0LV9FbG1iZEttN1pNdnNDVkZ3MDRLXy0wX21HVG9uZHhmUmhucVp4UkFsWDM2VUpCa3FMTHdPUWhvUQ?oc=5",
+          "title": "Chuva forte e persistente coloca seis distritos sob aviso amarelo - A Bola"
+        }
+      ]
+    },
+    {
+      "title": "Woonprotest: tenten op Restauradores, ophef over verbod bij kerstmarkt Rossio",
+      "category": "Samenleving",
+      "lead": "Het woonprotest in Lissabon gaat het weekend door met een tentenkamp op het Restauradores-plein. Doeken bij de kerstmarkt op het Rossio die protest verboden, zijn weggehaald na klachten.",
+      "body": [
+        "Nieuwe ontwikkeling in het verhaal uit de vorige editie: na de landelijke demonstratie van zaterdag zetten actievoerders in Lissabon opnieuw tenten op, nu op het Restauradores-plein. Ze beloven de protesten voort te zetten. De politie (PSP) zegt de situatie preventief te volgen.",
+        "Op het nabijgelegen Rossio opende de kerstmarkt met doeken waarop regels tegen kamperen en protest stonden. Na klachten van bewoners vroeg het bestuur van de freguesia (Junta de Freguesia) om ze te verwijderen, wat is gebeurd.",
+        "Politiek beweegt er ook iets. PS-leider José Luís Carneiro stelt voor de dividenden van staatsbank Caixa Geral de Depósitos te gebruiken voor sociale woningbouw, en de PS wil haar voorstel voor een staatsgarantie bij huur aanpassen. Chega zegt voorstellen te steunen die woonlasten verlagen.",
+        "Berichten op sociale media dat advocaat Sá Fernandes grote honoraria ontvangt van de demonstranten zijn volgens een factcheck van Observador onjuist."
+      ],
+      "context": "Het platform Casa Para Viver organiseert sinds 2023 protesten tegen stijgende huren en huizenprijzen; op 12 december staat een nieuwe demonstratie gepland. De Caixa Geral de Depósitos is de grootste bank van Portugal en in handen van de staat.",
+      "slug": "woonprotest-tenten-op-restauradores-ophef-over-verbod-bij-ke",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/tendas-ocupam-restauradores-manifestantes-pela-habitacao-prometem-continuar-protestos_e1779157",
+          "title": "Tendas ocupam Restauradores. Manifestantes pela habitação prometem continuar protestos"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3lZblpRMlVNT2dadXJ6WnpnNW1zbEdtUUtJNTZUSU41cGJDQXFYT0dDUlcyOHp6MDFNRU9kQ1hoZHNCblRHTElSQzNPanVickkyT2FZbWZYOWN2MWR2bkJ6NC0tc0w2MXdXSHAxSWFDaVJSdkFoU294ZHNfVzRUSExrNC1ZR0VoR2ppRWZ0aW0xMHZ1NGVGMEp2N3c5cUdMRUZaN1R5anBvaE44QTdJOXBR?oc=5",
+          "title": "Acampada pela Habitação monta tendas nos Restauradores - CNN Portugal"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2506/",
+          "title": "13h. Acampadas. PSP garante postura de prevenção"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVno1VERNUHJweVVSbkU1Zm90NHJVaUlGQlJhamZ0b25HWWxSemxuZVpmVXVPZlpOM1ZtYXpQWnlnd1Q0TFd2YllfQ2xfYVVGMllmdjE1SkhIbkcwVTRvSkZ5ODhOd1B5N0dJZkVDWXNOa0lLT3BVVGNYVzRyb3FQdFd4TndpMUI4bE1WUVJKNEVNLUplaldKbk8yUkFweURhTkhja2I0ZjhJb05NMnhPZ0pOcW45YXV5RXFaVHptMDNnQ0Znalhjd2t0R3g3ZWltRm1aMlFuQjJTcjdHQ0F1Ml8ySHV5bk10LW5RTEN2d0pWdjA?oc=5",
+          "title": "Mercado de Natal colocou normas ‘anti-acampada’ no Rossio. Junta pediu para retirar - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjdXSWx6MEJzb0JPWTdUTGFzcm9FWk1CQWx0NW5IZzZ1aTA3Y3Z1M1c3UTNIT0NHOXFFWkp0WTBvOUZQeXRDVUZTYU10eERZUnN0MjMyenBWQm1CVnU3ZlJ6emM4WUwwTDdaVm1jV0VsZXhHOFdEa3ZvTHZZdFUxZU9QUEFzSEdxQUFYd21yXy03UVVqV0VrZUxINTY5SFFLT0FoZVRxalcxbkVJVTNWZ0p1NHR2OEwtUTVORUE1b3EwX3I5ZWhFZkFKa29tck82eG1MRw?oc=5",
+          "title": "Mercado de Natal. Lonas que proibiam protestos no Rossio retiradas após queixa de moradores - SAPO"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-apos-a-polemica-com-a-acampada-de-lisboa-ja-abriu-o-mercado-de-natal-no-rossio_a1_1779339",
+          "title": "16h Após a polémica com a acampada de Lisboa, já abriu o mercado de Natal no Rossio"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnVwZVAwMGx5b01EWWR3Qk83Q19mXzFETGNfbVZxc0JDaG9VODBmOHlST2FLOFd0cXdYdmU4Q3BTeVJrZU9oUnFKTmxhNGhQWW1XdXgxYUJsX0o5OXhMVnZkZ0poV0RSYVRkQ2hPSnhzTmQwNHpFc3VCUWw0b2s2cnNLMlUyMmhZRXNwSmxQNW5zSHhFUktCWVdITEJNRk81QUw4czVNeF9tMU1QYjk5UlFJMS1xQ0lqOUNBLXpJRmZFMEhsbV9JakJTWQ?oc=5",
+          "title": "Tom de Seguro, propostas de Pedro Nuno e uma silent disco. O arranque dos Estados Gerais de Carneiro - Observador"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2337/",
+          "title": "17h. Depressão Charles. MAI volta a defender Governo"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/factchecks/fact-check-ricardo-sa-fernandes-esta-a-receber-honorarios-dos-manifestantes-das-acampadas/",
+          "title": "Habitação. Sá Fernandes recebe dinheiro dos manifestantes?"
+        }
+      ]
+    },
+    {
+      "title": "Website van voedsel- en economische inspectie ASAE gehackt",
+      "category": "Samenleving",
+      "lead": "De website van de ASAE werd in de nacht van zaterdag op zondag aangevallen; de inhoud werd vervangen door een foto van oud-premier José Sócrates. De site is onbereikbaar.",
+      "body": [
+        "De ASAE bevestigde dat haar website zondagnacht het doelwit was van een cyberaanval (ataque informático). De informatie op de pagina werd vervangen door een afbeelding van José Sócrates, met de tekst 'Hacked by José Sócrates'.",
+        "De site was zondag niet beschikbaar. Volgens CNN Portugal zouden de kwetsbaarheden van het gebruikte platform, Masterlink, al bekend zijn.",
+        "Wie achter de aanval zit, is niet bekendgemaakt."
+      ],
+      "context": "De ASAE (Autoridade de Segurança Alimentar e Económica) controleert voedselveiligheid en economische activiteiten, zoals horeca, markten en verkoop van producten. Voor wie streekproducten wil verkopen, is dit de toezichthouder. José Sócrates was premier van 2005 tot 2011 en staat terecht in een grote corruptiezaak.",
+      "slug": "website-van-voedsel-en-economische-inspectie-asae-gehackt",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/15/site-da-asae-indisponivel-apos-ataque-informatico-que-usou-imagem-de-jose-socrates/",
+          "title": "Site da ASAE indisponível após ataque com imagem de Sócrates"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2534/",
+          "title": "14h. Página oficial da ASAE alvo de um ataque informático"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcHNYc21vbVBoN0QzQTZYUzF0alhNS09TZ0FMdlRvc2lMazc4Uk5Ha19GNzlNT01RMXJ3bjFCU1VJQnc2VjFrakpZNEwxS0JDemppTzBWbE10dlkwQzdab1ZIbUU1ZktGMzB2TmRrc1g0MkJ1TldidFBzc1BDWnNwTWVlaHlYaWtjOWNyMEFDYkZZVjNMX0ZFbzlkLTloNEEzeGptVUFTZnkzRi1qSWFrbWE2ZGdPalJON1BjVU9jTzViYXRVX0VtQXRuSGNIYWlqaUFJbDFvU0tHcUpKakRCYXlB?oc=5",
+          "title": "Site da ASAE alvo de ciberataque. \"Vulnerabilidades da plataforma Masterlink são conhecidas\" - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUpxYTB6b0duZnQ0NmlxU2docWE1NEZIRVBUZ0tpWC1SaWg1dXNteFAxaW1CWFdqaHhFeEdhUVZGQ3J1MmRhQzNFM0FIUG82Nk5CRUtaYS15ajBsQUx6OGxFSFlYbDhjX212MzQxYW5fN1RUOFVBYUlrMi1HSXpXQ2VVSE9qTll2Z2tPVWp4N1VweGdWeEV5U1ZISTJTWmFXakRwaHczWlU4UnJrVjFINURkb19iVE0?oc=5",
+          "title": "Site da ASAE indisponível após ataque informático que usou imagem de José Sócrates - Observador"
+        }
+      ]
+    },
+    {
+      "title": "Wilde hulst en mos plukken voor de kerststal kan duizenden euro's boete kosten",
+      "category": "Klimaat & Natuur",
+      "lead": "Wie wilde hulst (azevinho) of bepaalde mossoorten verzamelt voor kerstversiering, riskeert in Portugal boetes van duizenden euro's.",
+      "body": [
+        "Met de kersttijd in aantocht waarschuwt Notícias de Coimbra dat het plukken van wilde hulst of bepaalde mossoorten om de kerststal (presépio) te versieren duur kan uitvallen.",
+        "In Portugal is het verzamelen van deze planten in het wild aan regels gebonden; overtreding kan volgens het bericht tot boetes van duizenden euro's leiden.",
+        "De bron noemt geen precieze bedragen of soortenlijst; wie twijfelt, kan beter gekweekte hulst kopen of eigen aanplant gebruiken."
+      ],
+      "context": "Wilde hulst is in Portugal een beschermde soort. Ook op eigen grond in de Serra do Açor kan het verstandig zijn hulst te laten staan; het is bovendien een waardevolle winterplant voor vogels.",
+      "slug": "wilde-hulst-en-mos-plukken-voor-de-kerststal-kan-duizenden-e",
+      "sources": [
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/apanhar-azevinho-e-musgo-para-o-natal-pode-dar-multas-de-milhares-de-euros/",
+          "title": "Apanhar azevinho e musgo para o Natal pode dar multas de milhares de euros"
+        }
+      ]
+    },
+    {
+      "title": "Tábua en Oliveira do Hospital: bestuurscommissie voor freguesia, kritiek op raadsvergaderingen",
+      "category": "Regio",
+      "lead": "De regering heeft een bestuurscommissie benoemd voor een freguesia in de gemeente Tábua. In Oliveira do Hospital protesteert een burgerbeweging omdat raadsvergaderingen niet online worden uitgezonden.",
+      "body": [
+        "De regering heeft een bestuurscommissie (comissão administrativa) aangesteld in een freguesia van de gemeente Tábua, waar ook Meda de Mouros onder valt. Om welke freguesia het gaat, vermeldt de kop van het bericht niet. Zo'n commissie neemt tijdelijk het bestuur over wanneer er geen functionerend gekozen bestuur is.",
+        "De gemeente Tábua heeft daarnaast een kerstprogramma gepresenteerd dat doorloopt tot januari.",
+        "In Oliveira do Hospital, zo'n 15 à 20 kilometer van Meda de Mouros, protesteert een beweging tegen het ontbreken van livestreams van de vergaderingen van de Câmara Municipal. De gemeente plaatst verder negen extra abri's bij bushaltes.",
+        "In Arganil investeert de gemeente 47.500 euro in zwemles voor ruim 1.300 kinderen en jongeren."
+      ],
+      "context": "Een freguesia is de kleinste bestuurslaag, met een eigen Junta de Freguesia; de Câmara Municipal is het gemeentebestuur. Of de bestuurscommissie Meda de Mouros zelf betreft, blijkt niet uit de bron; navragen bij de Junta of de Câmara van Tábua is aan te raden.",
+      "slug": "tabua-en-oliveira-do-hospital-bestuurscommissie-voor-fregues",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazVaR1dyblo3ZHpOUUxNdDNVLUFlQkN5NUxlTWxoU29rZ2ZDMVVvMkdCajhUT2xTWVFzRzExRWRIM3NTY2xibm4ySVlWWlVleF9uUTkzWVZqSW1jeU5BanU2T3p1RlpKTzM1cUt1ajFhLU40RDc1VE5zWElOQ0tvRzN6bzNscl9YWFFvVzBXemh6SmtYSzBVN2FjRTRvakl0UTdKM0ZNdFc0eDRENlBQbmJ2S3J5SmdtWHc?oc=5",
+          "title": "Governo nomeia comissão administrativa em freguesia do concelho de Tábua - Notícias ao Minuto"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVW1OOHhmN3FNQTlrejNadUlxMFo4ZktWODlVb1BwMHpYX1ZHbnNzd0pyOURFRW52SkVlU1plUVl5RXpNWVNab3JHSVhiMnhhbmROMXh6UmVLS0RLSTMtdzhuNVB3Sy1Gd1VuS3pVcmtXb1EzVHVRNzE3dUM5eHZ4VnFQUjN6akk5eHQwWnRmcFNENWpjM0MycVRYNVZmdkdIS0E?oc=5",
+          "title": "Município de Tábua com programação de Natal até Janeiro - Campeão das Províncias"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbU5DYU9mUGx1LWppQUtEZi1McVhlaUpUWXdLWEV2YkFSWUhNWndSRnZjU3l4eVRySEJjaDB2NTBncnQ3dHNQYUQ1a0JoYzBLUGZ0MlhmNUJGTmNZQ1ZUS1pRamt1MXZINUFub2h5dEstZTA2cWpRQUFoUVpXaFhCN2lIRlhoVG5jNDNrTjVHX1p0WUtEMXM4cGRBbC0tYXVJbjlSendrbXlEVlJBUWNRa1UtVFlEQ3dvZFYtc2Nvb3gwalNQSFlHWDRxOWpJYkNqemRObFZSVjRYWkJhOENwcXZjVF8wQQ?oc=5",
+          "title": "Movimento protesta contra ausência de transmissão online das reuniões da Câmara de Oliveira do Hospital - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGtrOVV2dHhOV05BTzBXSE0tQTM0dnNkLWtkQVRSaXJIY2N0UTVvdmwxV2VmODYxck4zcFlSQ3hjdThtZHljVEQ0SjhvSm9xNjJjdl9MRE9XQXBKc2ZPUzBCLUhnQWxXR19fRHB5VWpkeWx2Y2FCM1B3ZWh4UHQ2aDNkRG1sWU1tM0hpTWZSOWUyN1htQmp4Q1FZeGQ2NTZrUkk1Y3U1RF9OZ0lWRGVCQmoyOGtuMUxWcUkzNzNkckNkajZLSUhkTktMWjEtRHQxQV9wSjdn?oc=5",
+          "title": "Oliveira do Hospital instala mais nove abrigos para passageiros de transportes públicos - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1Vxc3UtZ1hGMmttV3JXVUhGNEl1QzE1Q0JWRzQxa1JlT2xNcEEzRm14bzhXZENFNlpJZGp5d2FaWjBRRGdicm8xempWTnNLM19udlcwbC1mYUFWaElPTzRBTHRxZnJsdndrcjBiSHZ4RHF3WVZIT3pnNU5Wa2MwZTNZVkhnQVJFeGVtNFNrZGVkRFNxYjdaSjlnYm5iRHZjZHI4UjRHZFprZ09ZV3BqQllBdTBvZw?oc=5",
+          "title": "Investimento municipal reforça condições das paragens de transportes públicos - Câmara Municipal de Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkk4Z1JMSk9VZE9jeTBWRHFnRmpTaGJDNWVWWmNvYWJRWks2NE00eVhzanNCQUhnSXFlX0lvVlpXSHA3NW9PQy1UMU1yRURwcURNbkFOemM4d0xCWVN2ZTlaamJkcVU3UGxOa0N4Q2dDM0dIMTluU1h1dEpybm9mQzdDUklNWnVLYzRhLXZURnJ5cElPeWxmVTRmZ0Nmd1ZybkdXbDN0MzVfdHY1Q2RPMTJLOWRWeWPSAbwBQVVfeXFMTkY5LVdPYTJHbDBSRnJVamlWVkFCTWctVjY2RXpGTkU4ZXk4elhKb1hBRkNOd1M1eldIS1AwaUJuQVhTVlMtcE9XMUhrU1Y0OUcxZ1ZwVmQ3cU5mZ2w3RnA3SEZuTFJ3TncyZ3p0emtyQk5QMlFVanRKQlVwdE5UaHN5clE3SHlHODRhUzk0MG1fQzlUTHFSWk5SX1U1YXNGZWRjLXgtaE9ZNkxrVXltUXVpNl8xa0lSRGF4czk?oc=5",
+          "title": "Arganil investe 47.500 euros no ensino da natação a mais de 1.300 crianças e jovens - Correio da Beira Serra"
+        }
+      ]
+    },
+    {
+      "title": "Lousã: Feira do Mel e da Castanha wil serra helpen herstellen na branden",
+      "category": "Regio",
+      "lead": "De traditionele honing- en kastanjemarkt in Lousã, zo'n 45 kilometer van Meda de Mouros, staat dit jaar in het teken van herstel van de serra na de bosbranden.",
+      "body": [
+        "Gepofte kastanjes, honing en muziek moeten opnieuw duizenden bezoekers naar Lousã trekken voor de Feira do Mel e da Castanha.",
+        "De organisatie wil de markt dit jaar gebruiken om bij te dragen aan het herstel van het berggebied na de branden.",
+        "Data en details van het programma staan niet in het aangeleverde bericht."
+      ],
+      "context": "De Serra da Lousã grenst aan de Serra do Açor. Imkers en kastanjetelers zijn er belangrijke economische pijlers; voor een permacultuur-quinta kan zo'n markt een goede plek zijn om lokale producenten te leren kennen.",
+      "slug": "lousa-feira-do-mel-e-da-castanha-wil-serra-helpen-herstellen",
+      "sources": [
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/feira-do-mel-e-da-castanha-da-lousa-quer-ajudar-a-recuperar-a-serra-depois-dos-incendios/",
+          "title": "Feira do Mel e da Castanha da Lousã quer ajudar a recuperar a serra depois dos incêndios"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "gasóleo",
+      "nl": "diesel",
+      "example": "O gasóleo deve descer 6 cêntimos por litro."
+    },
+    {
+      "pt": "habitação",
+      "nl": "huisvesting, woningen",
+      "example": "Milhares manifestaram-se pelo direito à habitação."
+    },
+    {
+      "pt": "ataque informático",
+      "nl": "cyberaanval",
+      "example": "O site da ASAE foi alvo de um ataque informático."
+    },
+    {
+      "pt": "multa",
+      "nl": "boete",
+      "example": "Apanhar azevinho pode dar multas de milhares de euros."
+    },
+    {
+      "pt": "aviso amarelo",
+      "nl": "code geel (weerwaarschuwing)",
+      "example": "Seis distritos estão sob aviso amarelo devido à chuva."
+    },
+    {
+      "pt": "evitar deslocações",
+      "nl": "verplaatsingen vermijden",
+      "example": "A Câmara de Tábua apela à população para evitar deslocações."
+    }
+  ]
+}
