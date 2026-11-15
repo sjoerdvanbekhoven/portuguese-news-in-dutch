@@ -18,6 +18,9 @@ const HOURS = Number(process.env.NEWS_HOURS || 24);
 const KEEP_DAYS = Number(process.env.NEWS_KEEP_DAYS || 180);
 const PER_FEED = 25;
 const MIN_ITEMS = 15;
+/** Sla over als er al een editie is die jonger is dan dit (voorkomt dubbele runs bij twee triggers). */
+const SKIP_IF_RECENT_HOURS = Number(process.env.NEWS_SKIP_IF_RECENT_HOURS || 3);
+const FORCE = process.env.NEWS_FORCE === "true";
 
 const EDITIONS_DIR = path.join(process.cwd(), "content", "editions");
 
@@ -100,6 +103,18 @@ async function pruneOld() {
 }
 
 async function main() {
+  const latest = getLatestEdition();
+  if (latest && !FORCE) {
+    const ageHours = (Date.now() - new Date(latest.generatedAt).getTime()) / 3600_000;
+    if (ageHours < SKIP_IF_RECENT_HOURS) {
+      console.log(
+        `Overgeslagen: editie ${latest.id} is ${ageHours.toFixed(1)} uur oud ` +
+          `(< ${SKIP_IF_RECENT_HOURS} uur). Gebruik force om toch te genereren.`,
+      );
+      return;
+    }
+  }
+
   const { items, report } = await collectItems({ hours: HOURS, perFeed: PER_FEED });
   console.table(report);
   if (items.length < MIN_ITEMS) {
@@ -107,7 +122,7 @@ async function main() {
   }
   console.log(`${items.length} items naar ${MODEL} (effort ${EFFORT})…`);
 
-  const previous = getLatestEdition();
+  const previous = latest;
   const previousBlock = previous
     ? `Vorige editie (${previous.generatedAt}):\n${previous.articles.map((a) => `- [${a.category}] ${a.title}`).join("\n")}\n\n`
     : "";

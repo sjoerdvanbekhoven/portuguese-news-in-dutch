@@ -1,11 +1,18 @@
 name: Nieuws genereren
 
 on:
+  # Hoofdtrigger: cron-job.org start deze workflow om 06:30 en 17:30 Lissabon-tijd (zie README).
+  # Dit schema is de reserve: GitHub start geplande runs soms veel te laat of helemaal niet.
+  # 07:17 / 18:17 UTC valt in winter én zomer binnen 3 uur na de externe trigger, dus het
+  # script slaat de reserve-run over als de editie er al is.
   schedule:
-    # 05:17 en 16:17 UTC = 05:17 / 16:17 in Portugal in de winter (WET = UTC), 06:17 / 17:17 in de zomer.
-    # GitHub start geplande runs vaak 5-30 min later dan opgegeven.
-    - cron: "17 5,16 * * *"
+    - cron: "17 7,18 * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Ook genereren als er al een recente editie is"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -34,6 +41,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_MODEL: ${{ vars.NEWS_MODEL }}
           NEWS_EFFORT: ${{ vars.NEWS_EFFORT }}
+          NEWS_FORCE: ${{ inputs.force }}
 
       - name: Committen en pushen
         run: |

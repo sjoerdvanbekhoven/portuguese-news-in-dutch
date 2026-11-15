@@ -49,3 +49,27 @@ npm run dev
 
 Open de site in Safari → deelknop → **Zet op beginscherm**. Dan opent hij als app, zonder adresbalk.
 Swipe links/rechts tussen artikelen; welke je gelezen hebt wordt per apparaat onthouden.
+
+## Planning: cron-job.org + GitHub als reserve
+
+GitHub start geplande workflows soms te laat of helemaal niet. Daarom start een externe dienst de
+workflow op een vaste tijd; het GitHub-schema (07:17 / 18:17 UTC) blijft als reserve. Is er al een
+editie van minder dan 3 uur oud, dan slaat het script de run over (geen dubbele kosten).
+
+**1. Token aanmaken** — GitHub → Settings → Developer settings → Fine-grained tokens → *Generate new token*
+- Repository access: *Only select repositories* → `portuguese-news-in-dutch`
+- Permissions → Repository permissions → **Actions: Read and write** (verder niets)
+- Vervaldatum: maximaal 1 jaar; zet een herinnering om hem te vernieuwen
+
+**2. Cronjob aanmaken** — [cron-job.org](https://cron-job.org) → *Create cronjob*, twee keer (06:30 en 17:30):
+- URL: `https://api.github.com/repos/sjoerdvanbekhoven/portuguese-news-in-dutch/actions/workflows/generate.yml/dispatches`
+- Schedule: dagelijks 06:30, tijdzone **Europe/Lisbon** (schuift vanzelf mee met zomertijd)
+- Advanced → Request method **POST**, request body `{"ref":"main"}`
+- Headers:
+  - `Authorization: Bearer <je token>`
+  - `Accept: application/vnd.github+json`
+  - `X-GitHub-Api-Version: 2022-11-28`
+  - `Content-Type: application/json`
+- Een geslaagde aanroep geeft **HTTP 204** (geen inhoud). Test met *Test run* en kijk onder Actions.
+
+Handmatig opnieuw genereren terwijl er al een recente editie is: *Run workflow* → vink **force** aan.
