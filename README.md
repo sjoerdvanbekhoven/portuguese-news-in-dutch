@@ -1,4 +1,4 @@
-# Portugal in het kort
+# O Galo
 
 Het Portugese nieuws, twee keer per dag samengevat in het Nederlands.
 

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { editionLabel, formatEditionDate, getEdition, listEditionIds } from "@/lib/editions";
-import { SiteHeader } from "@/components/edition-overview";
+import { Colophon } from "@/components/edition-overview";
+import { Masthead } from "@/components/masthead";
 
 export const metadata = { title: "Archief" };
 
@@ -11,22 +12,22 @@ export default function Archive() {
 
   return (
     <div className="page">
-      <SiteHeader archive />
-      <section className="hero">
-        <h1 className="hero-date">Archief</h1>
-      </section>
-      {editions.length === 0 && <p className="muted">Nog geen edities.</p>}
-      <ul className="archive">
+      <Masthead line={<span>Archief · {editions.length} edities</span>} />
+      {editions.length === 0 && <p className="intro">Nog geen edities.</p>}
+      <ul className="index archive">
         {editions.map((e) => (
           <li key={e.id}>
-            <Link href={`/editie/${e.id}`}>
-              <span className="eyebrow">{editionLabel(e.generatedAt)}</span>
-              <strong>{formatEditionDate(e.generatedAt, false)}</strong>
-              <span className="archive-titles">{e.articles.slice(0, 3).map((a) => a.title).join(" · ")}</span>
+            <Link href={`/editie/${e.id}`} className="entry">
+              <span className="entry-body">
+                <span className="kicker">{editionLabel(e.generatedAt)}</span>
+                <span className="entry-title">{formatEditionDate(e.generatedAt, false)}</span>
+                <span className="entry-lead">{e.articles.slice(0, 3).map((a) => a.title).join(" · ")}</span>
+              </span>
             </Link>
           </li>
         ))}
       </ul>
+      <Colophon />
     </div>
   );
 }

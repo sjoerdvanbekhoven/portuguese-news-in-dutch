@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { categoryColor } from "@/lib/categories";
 import { getEdition, listEditionIds, readingMinutes, shortDate } from "@/lib/editions";
 import { MarkRead } from "@/components/read-state";
 import { SwipeNav } from "@/components/swipe-nav";
+import { GaloMark } from "@/components/galo";
 
 type Params = { params: Promise<{ id: string; slug: string }> };
 
@@ -36,7 +36,7 @@ export default async function ArticlePage({ params }: Params) {
   const overview = edition.id === listEditionIds()[0] ? "/" : base;
 
   return (
-    <div className="reader-page" style={{ "--cat": categoryColor(a.category) } as React.CSSProperties}>
+    <div className="reader-page">
       <MarkRead editionId={edition.id} slug={a.slug} />
       <SwipeNav prev={prev} next={next} />
 
@@ -55,7 +55,7 @@ export default async function ArticlePage({ params }: Params) {
         </nav>
         <div className="reader-top-row">
           <Link href={overview} className="back" aria-label="Terug naar overzicht">
-            ‹ {shortDate(edition.generatedAt)}
+            <GaloMark size={18} /> O Galo · {shortDate(edition.generatedAt)}
           </Link>
           <span className="reader-count">
             {index + 1} / {n}
@@ -64,7 +64,7 @@ export default async function ArticlePage({ params }: Params) {
       </header>
 
       <article className="reader" key={a.slug}>
-        <p className="pill">{a.category}</p>
+        <p className="kicker">{a.category}</p>
         <h1>{a.title}</h1>
         <p className="reader-meta">{readingMinutes(a)} min lezen</p>
         <p className="lead">{a.lead}</p>
@@ -92,7 +92,7 @@ export default async function ArticlePage({ params }: Params) {
             </ul>
           </details>
         )}
-        <p className="swipe-hint">Swipe voor het volgende artikel</p>
+        <p className="swipe-hint">— swipe voor het volgende artikel —</p>
       </article>
 
       <nav className="dock" aria-label="Navigatie">

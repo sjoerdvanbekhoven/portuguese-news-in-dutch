@@ -1,21 +1,8 @@
 import Link from "next/link";
 import type { Edition } from "@/lib/schema";
-import { categoryColor } from "@/lib/categories";
 import { editionLabel, formatEditionDate, readingMinutes } from "@/lib/editions";
 import { ContinueButton, ReadCheck } from "./read-state";
-
-export function SiteHeader({ archive = false }: { archive?: boolean }) {
-  return (
-    <header className="topbar">
-      <Link href="/" className="brand">
-        Portugal <em>in het kort</em>
-      </Link>
-      <Link href="/archief" className={`topbar-link${archive ? " active" : ""}`}>
-        Archief
-      </Link>
-    </header>
-  );
-}
+import { Masthead } from "./masthead";
 
 export function EditionOverview({ edition, isLatest }: { edition: Edition; isLatest: boolean }) {
   const total = edition.articles.reduce((n, a) => n + readingMinutes(a), 0);
@@ -23,30 +10,33 @@ export function EditionOverview({ edition, isLatest }: { edition: Edition; isLat
 
   return (
     <div className="page">
-      <SiteHeader />
+      <Masthead
+        line={
+          <>
+            <span>{formatEditionDate(edition.generatedAt, false)}</span>
+            <span>
+              {isLatest ? editionLabel(edition.generatedAt) : "Uit het archief"} · {total} min
+            </span>
+          </>
+        }
+      />
 
-      <section className="hero">
-        <p className="eyebrow">
-          {isLatest ? editionLabel(edition.generatedAt) : "Archief"} · {total} min lezen
-        </p>
-        <h1 className="hero-date">{formatEditionDate(edition.generatedAt, false)}</h1>
-        <p className="hero-intro">{edition.intro}</p>
-        <ContinueButton editionId={edition.id} slugs={edition.articles.map((a) => a.slug)} />
-      </section>
+      <p className="intro">{edition.intro}</p>
+      <ContinueButton editionId={edition.id} slugs={edition.articles.map((a) => a.slug)} />
 
-      <ol className="cards">
+      <ol className="index">
         {edition.articles.map((a, i) => (
-          <li key={a.slug} style={{ "--cat": categoryColor(a.category) } as React.CSSProperties}>
-            <Link href={href(a.slug)} className="card">
-              <div className="card-meta">
-                <span className="pill">{a.category}</span>
-                <span className="card-num">
-                  {i + 1}/{edition.articles.length} · {readingMinutes(a)} min
+          <li key={a.slug}>
+            <Link href={href(a.slug)} className="entry">
+              <span className="entry-num">{i + 1}</span>
+              <span className="entry-body">
+                <span className="kicker">
+                  {a.category} · {readingMinutes(a)} min
+                  <ReadCheck editionId={edition.id} slug={a.slug} />
                 </span>
-                <ReadCheck editionId={edition.id} slug={a.slug} />
-              </div>
-              <h2 className="card-title">{a.title}</h2>
-              <p className="card-lead">{a.lead}</p>
+                <span className="entry-title">{a.title}</span>
+                <span className="entry-lead">{a.lead}</span>
+              </span>
             </Link>
           </li>
         ))}
@@ -54,15 +44,16 @@ export function EditionOverview({ edition, isLatest }: { edition: Edition; isLat
 
       {edition.vocabulary.length > 0 && (
         <section className="vocab" id="woordjes">
-          <h2>Woordjes van vandaag</h2>
-          <p className="vocab-hint">Tik om de vertaling te zien.</p>
+          <h2>
+            Palavras do dia <small>woordjes van vandaag · tik om te draaien</small>
+          </h2>
           <div className="vocab-grid">
             {edition.vocabulary.map((v) => (
-              <details key={v.pt} className="flash">
+              <details key={v.pt} className="tile">
                 <summary lang="pt-PT">{v.pt}</summary>
-                <div className="flash-back">
+                <div className="tile-back">
                   <strong>{v.nl}</strong>
-                  <span lang="pt-PT">{v.example}</span>
+                  <em lang="pt-PT">{v.example}</em>
                 </div>
               </details>
             ))}
@@ -70,10 +61,20 @@ export function EditionOverview({ edition, isLatest }: { edition: Edition; isLat
         </section>
       )}
 
-      <footer className="footer">
-        Samengevat uit {edition.itemCount} berichten van Portugese nieuwsbronnen met Claude. Controleer
-        belangrijke zaken altijd via de oorspronkelijke bron.
-      </footer>
+      <Colophon itemCount={edition.itemCount} />
     </div>
+  );
+}
+
+export function Colophon({ itemCount }: { itemCount?: number }) {
+  return (
+    <footer className="colophon">
+      <div className="tiles" aria-hidden />
+      <p>
+        Samengesteld {itemCount ? `uit ${itemCount} berichten ` : ""}van Portugese kranten en omroepen,
+        automatisch vertaald en samengevat. Bij twijfel: lees de oorspronkelijke bron.
+      </p>
+      <p className="colophon-place">Meda de Mouros · Tábua</p>
+    </footer>
   );
 }

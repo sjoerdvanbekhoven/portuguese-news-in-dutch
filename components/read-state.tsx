@@ -54,11 +54,7 @@ export function MarkRead({ editionId, slug }: { editionId: string; slug: string 
 /** Vinkje op een kaart in het overzicht. */
 export function ReadCheck({ editionId, slug }: { editionId: string; slug: string }) {
   const done = useRead(editionId).includes(slug);
-  return done ? (
-    <span className="read-check" aria-label="gelezen">
-      ✓
-    </span>
-  ) : null;
+  return done ? <span className="read-check"> · gelezen ✓</span> : null;
 }
 
 /** Grote knop: "Begin met lezen" of "Verder lezen (3/8)". */
@@ -69,15 +65,15 @@ export function ContinueButton({ editionId, slugs }: { editionId: string; slugs:
 
   if (!next) {
     return (
-      <a className="cta cta-done" href="#woordjes">
-        Alles gelezen ✓ <span>Naar de woordjes</span>
+      <a className="cta" href="#woordjes">
+        Alles gelezen ✓ <span>naar de woordjes ›</span>
       </a>
     );
   }
   return (
     <Link className="cta" href={`/editie/${editionId}/${next}`}>
       {count === 0 ? "Begin met lezen" : "Verder lezen"}
-      <span>{count === 0 ? `${slugs.length} artikelen` : `${count} van ${slugs.length} gelezen`}</span>
+      <span>{count === 0 ? `${slugs.length} artikelen ›` : `${count} van ${slugs.length} gelezen ›`}</span>
     </Link>
   );
 }

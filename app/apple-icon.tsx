@@ -1,9 +1,10 @@
 import { ImageResponse } from "next/og";
+import { GALO_PATH } from "@/components/galo";
 
 export const size = { width: 180, height: 180 };
 export const contentType = "image/png";
 
-/** Thuisscherm-icoon voor iOS (iOS gebruikt geen SVG-iconen). */
+/** Thuisscherm-icoon voor iOS: blauwe haan op gekalkt wit, met een tegelrandje. */
 export default function AppleIcon() {
   return new ImageResponse(
     (
@@ -12,15 +13,15 @@ export default function AppleIcon() {
           width: "100%",
           height: "100%",
           display: "flex",
-          flexDirection: "column",
           alignItems: "center",
           justifyContent: "center",
-          background: "linear-gradient(160deg, #c2552e 0%, #8f3417 100%)",
-          color: "#f7f3ec",
+          background: "#f3eee3",
+          border: "10px solid #1f3f78",
         }}
       >
-        <div style={{ fontSize: 92, fontWeight: 700, letterSpacing: -4, lineHeight: 1 }}>PT</div>
-        <div style={{ fontSize: 26, marginTop: 6, opacity: 0.85 }}>in het kort</div>
+        <svg width="128" height="128" viewBox="0 0 64 64">
+          <path d={GALO_PATH} fill="#1f3f78" />
+        </svg>
       </div>
     ),
     size,
