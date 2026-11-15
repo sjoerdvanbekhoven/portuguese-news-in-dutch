@@ -1,0 +1,366 @@
+{
+  "id": "2026-11-15-0730",
+  "generatedAt": "2026-11-15T07:30:44.016Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 259,
+  "intro": "Na de landelijke demonstraties voor betaalbaar wonen gaat het protest door: in Lissabon en Coimbra overnachten actievoerders in tenten, en op 12 december volgt een nieuwe betoging. In de politiek richt Isaltino Morais een nieuwe partij op tegen Chega, en in de corruptiezaak rond de ziekenhuizen in Aveiro blijft de hoofdverdachte voorlopig vast. Het noorden heeft vandaag code geel voor regen en het nationale elftal leed een historische thuisnederlaag.",
+  "articles": [
+    {
+      "title": "Woonprotest gaat door: tentenkampen in Lissabon en Coimbra, nieuwe demonstratie op 12 december",
+      "category": "Samenleving",
+      "lead": "Na de demonstraties van zaterdag in meer dan dertig steden overnachten actievoerders in tenten in Lissabon en Coimbra. Het platform Casa Para Viver heeft een nieuwe landelijke demonstratie aangekondigd voor 12 december.",
+      "body": [
+        "De landelijke demonstratie voor het recht op wonen stond in de vorige editie. Nieuw is dat het protest na zaterdag doorgaat. Het platform Casa Para Viver, dat volgens eigen zeggen tienduizenden mensen op de been bracht, heeft een nieuwe demonstratie gepland op 12 december. Het platform eist onder meer dat de nieuwe huurwet wordt teruggedraaid. Het motto was 'Não nos vão roubar o direito a morar' ('Ze gaan ons het recht om te wonen niet afpakken').",
+        "In Lissabon zette de beweging Acampada de Lisboa in de nacht van zaterdag op zondag opnieuw tenten op, dit keer op de Praça dos Restauradores. Rond middernacht stonden er meer dan twintig tenten; een woordvoerder verwachtte zo'n honderd kampeerders. De politie (PSP) zei een 'preventieve houding' aan te nemen. Volgens de RTP verliep de nacht zonder confrontaties.",
+        "Ook in Coimbra werd een tentenkamp opgezet: ongeveer vijftien tenten op de Praça da República. Coimbra is daarmee na Porto, Lissabon en Faro de vierde stad met zo'n acampada. Aan de demonstratie in Coimbra, die begon bij Santa Clara, deden volgens Diário As Beiras ongeveer 300 mensen mee.",
+        "Vooraf was er in Coimbra onenigheid over de route. Casa Para Viver verweet de gemeente het protest te beperken, maar burgemeester Ana Abrunhosa zei dat de gemeente die kritiek 'met klem' afwijst."
+      ],
+      "context": "Casa Para Viver is een burgerplatform dat sinds april 2023 regelmatig demonstraties organiseert tegen stijgende huren en huizenprijzen. Wonen is een van de grootste politieke thema's in Portugal, ook buiten de grote steden.",
+      "slug": "woonprotest-gaat-door-tentenkampen-in-lissabon-en-coimbra-ni",
+      "sources": [
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/habitacao-casa-para-viver-marca-nova-manifestacao-para-12-de-dezembro/",
+          "title": "Habitação: Casa para Viver marca nova manifestação para 12 de dezembro"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/nao-nos-vao-roubar-o-direito-a-morar-casa-para-viver-marca-nova-manifhabitacao/",
+          "title": "“Não nos vão roubar o direito a morar”. Casa para Viver marca nova “manifHabitação”"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3084344/acampada-de-lisboa-monta-mais-de-20-tendas-na-praca-dos-restauradores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Acampada de Lisboa monta mais de 20 tendas na Praça dos Restauradores"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2446/",
+          "title": "1h. Acampada. PSP vai adotar \"postura de prevenção\""
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/06h-sem-confrontos-dezenas-de-manifestantes-passam-a-noite-nos-restauradore_a1_1779279",
+          "title": "06h Sem confrontos dezenas de manifestantes passam a noite nos Restauradore"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/praca-da-republica-tomada-por-tendas-coimbra-junta-se-a-revolta-nacional-pela-habitacao/",
+          "title": "Praça da República tomada por tendas. Coimbra junta-se à revolta nacional pela habitação"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/acampada-pela-habitacao-chega-hoje-a-coimbra/",
+          "title": "Acampada pela habitação chega hoje a Coimbra"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/coimbra-junta-se-ao-coro-de-protestos-pelo-direito-a-habitacao/",
+          "title": "Coimbra junta-se ao coro de protestos pelo direito à habitação"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/camara-de-coimbra-repudia-acusacoes-de-colocar-limites-a-manifestacao/",
+          "title": "Câmara de Coimbra repudia acusações de colocar limites à manifestação"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/milhares-voltam-as-ruas-em-lisboa-e-porto-pelo-direito-a-habitacao/",
+          "title": "Milhares voltam às ruas em Lisboa e Porto pelo direito à habitação"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/manifestacao-pela-habitacao-sai-hoje-a-rua-em-32-cidades/",
+          "title": "Manifestação pela habitação sai hoje à rua em 32 cidades"
+        }
+      ]
+    },
+    {
+      "title": "Isaltino Morais richt nieuwe partij op om Chega te stoppen; Passos Coelho doet niet mee",
+      "category": "Politiek",
+      "lead": "Isaltino Morais, burgemeester van Oeiras, lanceert de partij 'Fazemos' en wil meedoen aan de volgende verkiezingen. Oud-premier Passos Coelho zegt dat hij lid van de PSD blijft en zich niet aansluit.",
+      "body": [
+        "Isaltino Morais heeft een nieuwe politieke partij opgericht onder de naam 'Fazemos' ('Wij doen het'). Volgens verschillende media wil hij daarmee Chega tegenhouden en ziet hij 'een lege ruimte' in het politieke landschap. Hij wil aan de volgende verkiezingen meedoen en zegt dat de kas al goed gevuld is.",
+        "Oud-premier Pedro Passos Coelho reageerde dat hij al lang lid van de PSD is en niet van plan is een andere partij te steunen of zich erbij aan te sluiten. Daarnaast betreurde hij dat er meer dan tien jaar zijn verloren zonder de sociale zekerheid (Segurança Social) te hervormen. Hij hoopt dat er 'niet nog eens tien jaar' verloren gaan, omdat dat de Portugezen meer problemen zou bezorgen.",
+        "Chega-leider André Ventura verweet de regering intussen dat zij geen enkel signaal geeft dat ze bereid is met zijn partij te onderhandelen."
+      ],
+      "context": "Isaltino Morais is al decennialang burgemeester van Oeiras, een rijke voorstadgemeente bij Lissabon. Pedro Passos Coelho (PSD) was premier van 2011 tot 2015, tijdens de financiële crisis. Chega is de rechts-populistische partij van André Ventura en is uitgegroeid tot een van de drie grote partijen.",
+      "slug": "isaltino-morais-richt-nieuwe-partij-op-om-chega-te-stoppen-p",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaWlzTDNLdUUwOElFem1mem1yY0dLazBDRkZpc1VHTjJ2VmhRVnJlVmNiTGhnZ1RKSzBkaEZqczFmSGlnVjFUcjIyN1lhVUxSUVkxTDloVmtNSkhGM2g2NXM3VG9vZTQ4ck5JcEZJR1pDNjUxb0R0QWVZWDRMVkZOSTEyWGJvZnoxX01zVnNSMklQYTVYSUF4c2ZLNGRyUVV2ZE5WQTNmRHJCak4tSWpPdk9UNEhBUjM4bTlQQUNUcHFjZnBGeWVZSkszVXVqeXFDUU45eVFwWS10dndWOGQ2SXB2MkV4S0RNUERhdmUxT0NEWG4xdW1GT1ZDVWpZcVMzUGNZSjV5NUFFZw?oc=5",
+          "title": "Passos sobre nova força política de Isaltino: “Sou do PSD há muito e não tenciono patrocinar nem aderir a outros partidos” - Expresso"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/passos-coelho-espera-que-nao-se-percam-mais-10-anos-sem-reformar-seguranca-social_n1779223",
+          "title": "Passos Coelho espera que \"não se percam mais 10 anos\" sem reformar Segurança Social"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2469/",
+          "title": "2h. Passos Coelho não quer se percam mais anos sem reformas"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2496/",
+          "title": "3h. Ventura diz que Governo não facilita negociações"
+        }
+      ]
+    },
+    {
+      "title": "Corruptiezaak 'Batas & Betão': ex-bestuurder blijft vast, rechter in Coimbra beslist maandag",
+      "category": "Politiek",
+      "lead": "Ricardo Correia de Matos, aangehouden in de corruptiezaak rond ziekenhuisbouw, blijft voorlopig in hechtenis. De rechtbank in Coimbra heeft haar beslissing over dwangmaatregelen uitgesteld tot maandag.",
+      "body": [
+        "In de vorige editie stond de druk op de minister van Volksgezondheid na een corruptiezaak bij de ziekenhuisorganisatie in Aveiro. Nieuw is dat Ricardo Correia de Matos, die in het kader van de operatie 'Batas & Betão' ('Witte jassen & beton') is aangehouden, voorlopig vast blijft. De rechtbank in Coimbra beslist pas maandag of hij in voorarrest blijft of andere maatregelen krijgt.",
+        "In een opiniestuk in Observador wordt de zaak gebruikt om te betogen dat politieke verantwoordelijkheid niet verdwijnt met een ontslag. In Público verscheen een column met de kop 'Fim de linha para Ana Paula Martins', over de positie van de minister van Volksgezondheid."
+      ],
+      "context": "Ana Paula Martins is minister van Volksgezondheid. Ziekenhuizen en gezondheidscentra zijn in Portugal gegroepeerd in zogenoemde ULS (Unidades Locais de Saúde), regionale zorgorganisaties waarvan de besturen door de regering worden benoemd.",
+      "slug": "corruptiezaak-batas-betao-ex-bestuurder-blijft-vast-rechter-",
+      "sources": [
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOai1iWkRleWQtVFdBYnRSQUthckxhOFdXcnFpLUVZM0RVMF92T2tKVmc1bWszNlVSTzJKd09fSEc5RTR6YTFTbjBUald0NjRrX1liNmxnSUlJRTlUMVdBMVlRUTZYWVBXekRra25sTlI4VkNXMGVLbmNqaFVCOHFjaG1nSXExWkIxMmsyWUxkSDlNV2hkMHN4MldmeVZSeEIxZ3JNa0x1ZFNHbXhzbm5EVzV0bmF0a0E?oc=5",
+          "title": "Ricardo Matos mantém-se detido. Tribunal de Coimbra adia decisão para segunda-feira - HealthNews"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/opiniao/a-responsabilidade-politica-nao-prescreve-com-uma-demissao/",
+          "title": "A responsabilidade política não prescreve com uma demissão"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/15/impar/cronica/fim-linha-ana-paula-martins-2194666",
+          "title": "Fim de linha para Ana Paula Martins"
+        }
+      ]
+    },
+    {
+      "title": "Kredietbeoordelaar DBRS handhaaft Portugal op 'A (high)' met positieve vooruitzichten",
+      "category": "Economie",
+      "lead": "Het Canadese ratingbureau DBRS heeft de kredietwaardigheid van Portugal bevestigd op 'A (high)', met een positieve trend. Minister van Financiën Miranda Sarmento verwacht verdere verhogingen.",
+      "body": [
+        "DBRS liet de beoordeling van Portugal ongewijzigd op 'A (high)', maar met een positieve trend, wat betekent dat een verhoging in de toekomst mogelijk is. Het ministerie van Financiën verwelkomde het oordeel en wees op economische groei die hoger uitvalt dan verwacht.",
+        "Volgens Jornal de Negócios heeft DBRS argumenten om Portugal hoger in te schalen, maar kan de situatie in Frankrijk aanleiding geven tot voorzichtigheid. Minister Joaquim Miranda Sarmento zegt te geloven in verdere verbeteringen van de rating.",
+        "Los daarvan wil vakbond UGT het loonakkoord dat in het sociaal overleg (Concertação Social) is gesloten opnieuw bespreken, omdat de koopkrachtwinst volgens de bond beperkt blijft door de inflatie."
+      ],
+      "context": "Een hogere kredietbeoordeling maakt lenen goedkoper voor de staat, en indirect vaak ook voor banken en huishoudens.",
+      "slug": "kredietbeoordelaar-dbrs-handhaaft-portugal-op-a-high-met-pos",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM2owVUtjZjJ2UWdGVDJBQ2dCcU8yWEVkbEJWbGg5cTI4U1RXSmpWU0ZEdjNCWXlFM01oTUM1VF9qbmI2WGJwWE56UTNodXk0QnF2SEswaXJ1RUZNakxtSDBoaks2a2NsVE52YzlrdWxzSl9VSGJSY2VRZ2hKamRCTmNQRjR2Znl3bl9MMUVzY1ZuNWVCMFRPVl9iVTZ3eExHX3AybjFZWmx6RGZ4WEVDQUMxVDc3bDZ5LUpNbFBDMEE4RjVHOHJxSmFSZkZ6UQ?oc=5",
+          "title": "Finanças saúda avaliação positiva da DBRS e destaca crescimento económico acima do esperado - Jornal Económico"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/ugt-quer-revisitar-acordo-de-concertacao-social/",
+          "title": "UGT quer revisitar acordo de Concertação Social"
+        }
+      ]
+    },
+    {
+      "title": "Code geel voor zware regen in zes noordelijke districten",
+      "category": "Klimaat & Natuur",
+      "lead": "Het weerinstituut IPMA heeft vandaag tot 15.00 uur code geel afgegeven voor Viseu, Porto, Vila Real, Viana do Castelo, Aveiro en Braga vanwege aanhoudende, soms zware regen.",
+      "body": [
+        "Het IPMA (Instituto Português do Mar e da Atmosfera) verwacht 'aanhoudende en soms zware neerslag'. De waarschuwing ging om 03.00 uur in, drie uur eerder dan eerst aangekondigd, en geldt tot 15.00 uur. Het district Coimbra valt niet onder de waarschuwing, maar het buurdistrict Viseu wel.",
+        "Het weer volgt op de storm Charles eerder deze week, waarbij heel Portugal in een 'situação de alerta' (verhoogde paraatheid) verkeerde. Volgens Diário As Beiras lopen in de regio Coimbra dertien gemeenten risico op overstromingen.",
+        "Observador geeft tips voor auto's die door het water zijn getroffen, zowel benzine- als elektrische auto's."
+      ],
+      "context": "De IPMA werkt met kleurcodes geel, oranje en rood. Geel betekent dat je alert moet zijn bij buitenactiviteiten. Waarschuwingen per district staan op ipma.pt.",
+      "slug": "code-geel-voor-zware-regen-in-zes-noordelijke-districten",
+      "sources": [
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3084350/ipma-antecipa-aviso-amarelo-em-seis-distritos-devido-a-chuva-forte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Seis distritos sob aviso amarelo devido à chuva \"forte e persistente\""
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/seis-distritos-do-continente-sob-aviso-amarelo-devido-a-chuva_n1779257",
+          "title": "Seis distritos do continente sob aviso amarelo devido à chuva"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/vai-chover-sem-parar-este-domingo/",
+          "title": "Vai chover “sem parar” este domingo"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWh4ejVLaDJXNlRPTUR4dDFSZE4yZVczcGpNQXJ6VXYtX3hXVnktbkxBZXF1VDFXR2FMQkUyNk50QTdINThGMWhmb3pKcE52R2hVelpVUHhYV0tvenV4MkxHeVpRaEtXWmt4SFZ6SHFiRXlkQlgyWGl3WXFMa21BWGRpTDVkbjhSSUE?oc=5",
+          "title": "Região de Coimbra tem 13 concelhos com risco de inundação - Diário As Beiras"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/operacao-stop/carros-que-sofrem-com-a-chuva-eis-o-que-fazer-e-nao-fazer/",
+          "title": "Carros que sofrem com a chuva? Eis o que fazer e não fazer"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/14/eco-quiz-patroes-do-comercio-criticaram-o-fecho-do-pais-devido-a-depressao-charles/",
+          "title": "ECO Quiz. Patrões do comércio criticaram o ‘fecho’ do país devido à depressão Charles?"
+        }
+      ]
+    },
+    {
+      "title": "Zaak van verontreinigd slib: bedrijven raken vergunning kwijt",
+      "category": "Landbouw",
+      "lead": "In de zaak rond verontreinigd slib (lamas contaminadas) hebben betrokken bedrijven hun vergunning verloren, meldt CNN Portugal.",
+      "body": [
+        "CNN Portugal meldt dat bedrijven die betrokken zijn bij de zaak van het verontreinigde slib hun vergunning kwijt zijn. Welke bedrijven het zijn en om welke vergunningen het precies gaat, staat niet in het beschikbare bericht."
+      ],
+      "context": "Met 'lamas' wordt in Portugal vaak zuiveringsslib bedoeld, dat soms als meststof op landbouwgrond wordt uitgereden. Voor wie grond beheert is het nuttig te weten wat er op naburige percelen wordt verspreid.",
+      "slug": "zaak-van-verontreinigd-slib-bedrijven-raken-vergunning-kwijt",
+      "sources": [
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTJpUGlGWWhSdWluTWJ0TnBLTXpjeG1tMElYZUg0YjNLSjN1dUxkSllIbndJYjhEOXMwTHZaVVFmaW9fR2dlZk5KanZzbzhZRktYRDdrS0RuaTRnUGpNX0tkSThuUVV3eG5WcExaelBNZGFvV1FJd2dQWEY4MkhIdFZuVW9ZVTl0NUNWVG9ER3RrMHBEYkhYSExMVHVhWlFVeG5xS0o3dWpIcGgxb20w?oc=5",
+          "title": "Caso das lamas contaminadas: empresas perdem licença - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital en Arganil: nieuwe kliniek, technisch opleidingscentrum en kerstmarkten",
+      "category": "Regio",
+      "lead": "In Oliveira do Hospital, zo'n 20 km van Meda de Mouros, opende een privékliniek een nieuw pand en kreeg vakschool EPTOLIVA een IT-opleidingscentrum van 1,5 miljoen euro. Arganil en een dorp in Oliveira do Hospital bereiden kerstactiviteiten voor.",
+      "body": [
+        "De privékliniek Saúde Prestige heeft in Oliveira do Hospital nieuwe ruimtes in gebruik genomen en breidt het aanbod aan diensten uit. De kliniek zegt verder te willen groeien.",
+        "De beroepsschool EPTOLIVA, die 35 jaar bestaat, heeft een technologisch centrum voor informatica (CTE) geopend, een investering van 1,5 miljoen euro. De opening was eerder uitgesteld vanwege storm Charles.",
+        "In Oliveira do Hospital werd eerder deze week een gezin dakloos na een woningbrand. Voor de feestdagen wordt een dorp in de gemeente omgetoverd tot kerstdorp, en Arganil, ongeveer 15 km van Meda de Mouros, organiseert een kerstmarkt met kookdemonstraties, ambachten en kabouters."
+      ],
+      "context": "Oliveira do Hospital en Arganil zijn de buurgemeenten van Tábua en de dichtstbijzijnde grotere plaatsen voor winkels, zorg en diensten vanuit Meda de Mouros.",
+      "slug": "oliveira-do-hospital-en-arganil-nieuwe-kliniek-technisch-opl",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT0xrdVFpSU1xN2YyU2pENm43bEJ2UzN5dXpVSWNQM2dlaGd5LXRJaEVSTkI2N2ZXeHdibE8zLTRWdlBfNl9JV3J1TElLZks1STFWV0NPXzlDaXY4UUJoZVRvdkZUR3FiRFVQYVVWOTFWQmJuLWRjYTdPcUJvUVFFdmJXQ1A4ODNJaURLUFdYeGVWazM3bHA0SFdfTXFVMmZ6MU0wdkpNR2xuZS1hMkZnU1ZRdFd6eldFTmxMZnh1RHlYZzY4YlVpVEVVaFlNVmxwTUJRM1lFSzZqUdIB3wFBVV95cUxQa0RER0NKUlMzU0o5VF9CdUplZzVDVFM0M3V4SE5mNDNNVmk3WnJIczJhb3hUbVZqSTM2TmFodS1ua2lpZjJjMUJ5Z2dMS29WaWFXMjBUbk50Qm1UckhfMnhhdUw3OHBOSEhWVUx1M3NXOVV2VXJIVHpSTXRQSm5ZSDlnX3V3ZFo5S3NQbmdpdDlGaDluMUpaUEZhejg3MnplSjNhcklyNkQ2QUpBYjFJVGhKQktNQ1N6NEpIcUFNOFUtYUhDbzBVTFMyeDBtZjdxN2luVHdBVUZ4UFgxVEtn?oc=5",
+          "title": "Clínica Saúde Prestige inaugura novas instalações em Oliveira do Hospital e anuncia ambição de expansão - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkxjemtseXkteHJZM2R0UnpHWlhqaXFYSGVRLU5NX1hvZS0wZkpWWlRLSXQ3RFo2b2c3NW1BMkQ5REU1aTRKWmYtS3hrQmtlS1UtZUNvN3BqaUthS1dwVkNBdjNLM21nVUJKUTJUeTVhWGdsd3EwUDFEYnFTZUl5UWJYSGRDRkFYUTFFUXNxMHRWR0NKVmgzSFhXTHVlVmhNQXo5ckN5bWIzRkFPVW5hb2o1UDNQYlZpWUx0RXB30gHDAUFVX3lxTE44UFJKU2NxVlJQdDljb0JSbVduUmhCcHhTRl9pVUNpM1hCVVVBT3hvLXNDWmgyYURZUThITnpLZHRSSnozYnNyaWFwYktOYi0yTXVkaWlBNDI0UHYtN1hQU0lxR2ZLQmNuSTlfcWt2M2dVaTFuVTVtcHVaWm1sWkZ3bW1SN1lBbmxGaThTWU9VRmtkTUl5bWlDbWlkX1lNZl9DdzdxcFlsX2NrSThhUnFMczhpTmFhdm1qLTFsRjFPOGF0RQ?oc=5",
+          "title": "Clínica Saúde Prestige inaugura novo espaço em Oliveira do Hospital e alarga oferta de serviços - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV2d0WE5aYzVnbktjYkZNVmFreW9KQWgxcnZHWHdwZEJCM3p3OXF4Vm0yM1pLdGZ6S1YxLVBkS1Z3dlNlTTlqUEVWNmJKSXo5VW5zbGhISVBZUmlXUGFXaFdqdHVuZk14WTVxMUd4YlJyR1hUQk50UXpCcVI0dGFjazhaQlBvZVU1VXlONko3T3c3eENNV1B0YTRiX1VfcXBQblg4SThkRF83STFvVF8tdkd6azl2UVhzb1FnLVZfdl9lRmtwckFFajJfem4wSUEtSmRLTEJNZjBDZF9STGNudWlreS1LRHlm?oc=5",
+          "title": "EPTOLIVA inaugura CTE de Informática em Oliveira do Hospital num investimento de 1,5 milhões de euros - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnI0My00cVotSEoxcm0yc1VaaWszREtfYmtDamJOWmw0VnFnUlRQWmQwbHRSVWpNeUxlZ0VudnJxZ0lZRlQ2RVctTVBjUFVLRGh6N3FYalZ5N1BTUmw5VGYyS2YzSFRVczluaHFUUU9CLWxuZzJ0bHRKLWNzZ3FWLWxKQnRsc0dVekxlZGJGWFZsU1E5aU10NjE0UEVVck9KTzk4aXZQTk9Qd21GQ1ZiZEhNMVpTb1hpbko2Nkw2V3NjOGdsX1BzRg?oc=5",
+          "title": "EPTOLIVA adia inauguração do CTE de Informática e sessão comemorativa dos 35 anos - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkc0U3c3ZFh2MnBHMC01bk1kZmRVbzQ1Q0M5R19TRmd5VE5HYm82S054M0RsZGlmdGdZYUYxVjBhLWhDLXJYdFZpVlhmSkE4ZmxCOXV4T250Y00yelJNZGx3NnJILXFNNnBXRHFNaUV4Y0Mwb2JjekJPdV9xVUFDdVhlWkxvcm1pVm5NaDVZRXBYSWZpUHh5OTEtVnBqR2xQYjk3aUpreTF6MUpYZkd2T2doeTZ0UTYzbm04VW5B?oc=5",
+          "title": "Esta aldeia de Oliveira do Hospital vai transformar-se num mundo mágico durante o Natal - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSnROTmdmaXJpRFV6VDJoaWVwbXRlMnhObjZ0S0FDVng2c2diRkNUeXBMY19JckJIQS1rMmUtLXNyZ0NEVjRfZkg1WTktcWhCX3hYS3hZZFdVUDFEZWxNZ1puMUZvUXRlX1A5bnk5WWJ1N1VBT0pzSW1uWHMxSzBlSTJvX01RazhDSFJxQkxXdG1taG1sWkFFYkNFYzNONHo0RDRZaWRza05pOGtrQWNwV3NQYW8?oc=5",
+          "title": "Arganil prepara um mercado de Natal mágico com showcookings, duendes e artesanato - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzBOYTBCY25YZ2R3TV9lLXI1M1lSZVJ2TEFxY25OcnpNd3lhcl9sM1JCWDdNZDBONXNPbVpnRFZhN3BNVFNZbXJldGg5bFhSam1iWkZTenJ2bXAtczlNQnJfVmJ4SFZiQjdEU29lZGY5clowVWg2Sl9pMUlrWUo4V25QQ3dQMDJPbmZfN2Q5TQ?oc=5",
+          "title": "Família fica desalojada após incêndio em Oliveira do Hospital - Diário As Beiras"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXlUWkh3ZTVuM3VjWG1obEdnVUN2Wm5TMnp2eEVjY0VXN0ZLNmJJLXlvVjlYdWFjejI3UEdNVUU0RW9ieEFyOGRHZkwzcGV5QnM4bFptclJ6SzhSTTU5ejBDd0pQNnlKUXY2ZGUzemhReDh3XzFtOTdSX3laVFZQNzJJaVdaS0N6T2NTUDgxUVhUVTYxd0J3OEF5TTYwdHE4RWfSAYMDQVVfeXFMT09hVjBOaHZjLUhacVZJQWdsVjNuZUExNlB0bGJkV0xJSmZmY1p3RXM3djZ4OEhWd1M1SDc0d2ZDcG8xVGEtbjU3aE9uaS1KSXg2Z2JaMWJTcmpwYWd3b1BZdWVhTUlBb3RNeENMRGYxbmRiVjNvWUo5U0E2NTZJaERKTm0ybFpabm5lMkYyVHJsZ1NpUm91LTdQbWRpSHRzYk9CdWNCVzRicmh0NXNJVlVJSnpIUHZTTzZ1Y0NPMTVrQ0MzSnQzU3YxNFFPWFpKYjVNYS1udG1RMXhESmE5dXpuckQ2cTNlVF9ub2FPX2hVLVlwWXdRZnlpbFdjR2tMRTlPYjlvNG95Q0VfeE0wNDJ1VTBqMkxZZkNyVnQtMVczbUtJakRHQkdmdXVvUUpsSFhLcE1qOFJ4VXF4YkJmZk85NWtwanM0cERQUVF0NFRhN0VfMjQweG5ONnVkMkhHNjViTXpfTGxhRXZ4RklIand2SmdsQlcwWngtVWs0LXY5RjhV?oc=5",
+          "title": "Incêndio em habitação deixa família desalojada em Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital"
+        }
+      ]
+    },
+    {
+      "title": "Portugal lijdt grootste thuisnederlaag ooit: 1-4 tegen Denemarken",
+      "category": "Sport",
+      "lead": "In de eerste wedstrijd na het afscheid van Cristiano Ronaldo verloor Portugal in Braga met 1-4 van Denemarken in de Nations League.",
+      "body": [
+        "Het was de zwaarste thuisnederlaag in de geschiedenis van het Portugese elftal in officiële wedstrijden, en de eerste nederlaag van bondscoach Jorge Jesus. De wedstrijd stond in het teken van een eerbetoon aan Ronaldo; alle spelers droegen het rugnummer 7. Na afloop klonk gefluit uit het publiek.",
+        "Rasmus Højlund scoorde twee keer, verder trof Pierre-Emile Højbjerg vanaf de stip en scoorde Joachim Andersen. Bernardo Silva maakte de Portugese treffer. Portugal blijft volgens de spelers eerste in de groep.",
+        "Rúben Dias en João Palhinha zijn geschorst voor de laatste groepswedstrijd, dinsdag tegen Wales in Cardiff."
+      ],
+      "context": "",
+      "slug": "portugal-lijdt-grootste-thuisnederlaag-ooit-1-4-tegen-denema",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-perde-com-estrondo-com-a-dinamarca_d1779231",
+          "title": "Portugal perde com estrondo com a Dinamarca"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/desporto/portugal-perdeu-em-casa-com-a-dinamarca-por-4-1_v1779238",
+          "title": "Portugal perdeu em casa com a Dinamarca por 4-1"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/03h-portugal-sofre-a-maior-derrota-de-sempre-em-casa-em-jogos-oficiais_a1_1779264",
+          "title": "03h Portugal sofre a maior derrota de sempre em casa em jogos oficiais"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/desporto/3084371/nada-esta-perdido-as-contas-e-os-cenarios-de-portugal-na-liga-das-nacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Nada está perdido. As contas e os cenários de Portugal na Liga das Nações"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/selecao-nacional/ruben-dias-e-joao-palhinha-nao-jogam-em-cardiff_d1779234",
+          "title": "Ruben Dias e João Palhinha não jogam em Cardiff"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/desporto/3084368/liga-nacoes-selecao-portuguesa-recupera-em-braga-e-viaja-ate-cardiff#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Portugal recupera do 'atropelo' em Braga e viaja até Cardiff"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJPNlVuU242RWVoY01IUGV6eGhiNlp4RThqeUhlV2JkeXJwVGp2RkpTYnQ2RHhoRU5WRzlRaFhOUXUwTU41a2Nsd2FwRi1FUFhsMjc1eVhSdmZSZ1lnNG1JSDZSSXRpUFphWnJlSTJlOFhRN2Y1a0ZJVjh2WEJ2VjZIOFY5dFZHTVpGSGliSkUxc0tEdldyb3k3bmo2T0Y1TksteEpuRTFIUDRqRHc?oc=5",
+          "title": "Seleção Nacional sai do relvado ao som de assobios - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkYxbHBUcEg0UDNZNHJCR3NuQWdwZmVWcFdiWWlsSHlOQmQzeWFibllLbTZPWExrN2VjcDYxaU5uVGg5X3pOWHVtWmtVZVhXSnM0ck9tU2xuNkZ6RkNhQVZ0XzlvZ2RRUjh5dzBWaHZDMnpkUHpRRWNLZVV5TmlYUUhlakNWNnlMVER6LTg3UU1mRUFxVHZQQVkzQmgzQm5LNTZ0Mnh5b1k3THgycWM1T1VEODR0Z3BDWndRbnBoVDJjamhqT3RhNkwwc1Y5c0k4?oc=5",
+          "title": "Federação Portuguesa de Futebol muda design do número \"7\" na camisola da Seleção em homenagem a Ronaldo - Observador"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "aviso amarelo",
+      "nl": "code geel (weerswaarschuwing)",
+      "example": "Seis distritos estão sob aviso amarelo devido à chuva."
+    },
+    {
+      "pt": "chuva forte e persistente",
+      "nl": "zware en aanhoudende regen",
+      "example": "O IPMA prevê chuva forte e persistente até às 15h00."
+    },
+    {
+      "pt": "o direito à habitação",
+      "nl": "het recht op (betaalbare) huisvesting",
+      "example": "Milhares de pessoas saíram à rua pelo direito à habitação."
+    },
+    {
+      "pt": "desalojado / desalojada",
+      "nl": "dakloos geworden (door brand of ramp)",
+      "example": "Uma família ficou desalojada após um incêndio em Oliveira do Hospital."
+    },
+    {
+      "pt": "a derrota",
+      "nl": "de nederlaag",
+      "example": "Portugal sofreu a maior derrota de sempre em casa."
+    },
+    {
+      "pt": "a manifestação",
+      "nl": "de demonstratie",
+      "example": "A Casa para Viver marcou uma nova manifestação para 12 de dezembro."
+    }
+  ]
+}
