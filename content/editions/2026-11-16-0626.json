@@ -1,0 +1,340 @@
+{
+  "id": "2026-11-16-0626",
+  "generatedAt": "2026-11-16T06:26:40.231Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 236,
+  "intro": "De wooncrisis blijft het nieuws domineren: het tentenkamp in Lissabon blijft tot zaterdag staan en Chega wil in het begrotingsdebat voorstellen steunen die wonen en brandstof goedkoper maken. Tegelijk staat een natte week voor de deur. Dichter bij huis benoemt de regering een tijdelijk bestuur voor een freguesia in Tábua.",
+  "articles": [
+    {
+      "title": "Begroting 2027: Chega wil voorstellen voor lagere woon- en brandstofkosten steunen",
+      "category": "Politiek",
+      "lead": "Chega-leider André Ventura zegt dat zijn partij in de detailbehandeling van de begroting elk 'betaalbaar' voorstel zal steunen dat de kosten voor wonen en brandstof verlaagt.",
+      "body": [
+        "Volgens Ventura zal Chega in de detailbehandeling (especialidade) van de Rijksbegroting (Orçamento do Estado, OE2027) alle voorstellen steunen die 'orçamentalmente cabíveis' zijn: voorstellen die binnen de begroting passen en de kosten van wonen en brandstof (combustíveis) voor burgers verlagen.",
+        "Hij verwijt de regering een gebrek aan overleg. 'Drie dagen voor de begroting weet niemand wat erin kan passen', zei hij.",
+        "Volgens Portugese media sluit Ventura niet uit dat hij voorstellen van de socialisten (PS) steunt om de belasting op brandstof te verlagen. Daarmee zouden Chega en PS op dit punt samen kunnen stemmen.",
+        "In een opiniestuk in Observador wordt bovendien kritiek geuit op de begrotingsbehandeling zelf. Die zou een 'marathon' zijn met te veel losse wijzigingsvoorstellen."
+      ],
+      "context": "Chega is een rechts-populistische partij onder leiding van André Ventura. De centrumrechtse minderheidsregering van premier Luís Montenegro heeft in het parlement steun van andere partijen nodig. Wijzigingen in de begroting kunnen direct gevolgen hebben voor bijvoorbeeld de brandstofprijs en woonkosten.",
+      "slug": "begroting-2027-chega-wil-voorstellen-voor-lagere-woon-en-bra",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/15/ventura-viabilizara-todas-as-propostas-cabiveis-para-menos-custos-com-habitacao-e-combustiveis/",
+          "title": "Ventura viabilizará todas as propostas “cabíveis” para menos custos com habitação e combustíveis"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3dCSEo4UnpkT0xETXcwWERVdTNKcUlPZFA3VUEzZnJWdmJSbE5QbHNfN1FqdjVxNDIwM082eUxqbzhsSndlSEs5TTJNZzdOTkxxLTlXQkdLUXFKUTBtaDk2aUpNMy1uRVFTU09WMVJqWHpfYXNOT3p4NkpEaE03aFY5SldTUnRpc2pXSlJVNA?oc=5",
+          "title": "Chega aprovará apoios a habitação e combustíveis no OE2017 - Diário de Notícias"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/chega-viabilizara-todas-as-propostas-cabiveis-para-menos-custos-com-habitacao-e-combustiveis/",
+          "title": "Chega viabilizará todas as propostas “cabíveis” para menos custos com habitação e combustíveis"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/opiniao/oe-a-louca-e-irracional-maratona-parlamentar/",
+          "title": "OE: A louca e irracional maratona parlamentar"
+        }
+      ]
+    },
+    {
+      "title": "Woonprotest: tentenkamp Lissabon blijft tot zaterdag, CDS-leider haalt uit",
+      "category": "Samenleving",
+      "lead": "De 'Acampada de Lisboa' is van het Rossio naar de Praça dos Restauradores verhuisd en blijft daar tot zaterdag. Ondertussen daalt het aantal nieuw gebouwde woningen.",
+      "body": [
+        "Nieuw sinds de vorige editie: de beweging is van het Rossio naar de Praça dos Restauradores verhuisd. Daar stonden zondagnacht volgens een woordvoerder 38 tot 40 tenten, zonder incidenten. De groep wil blijven tot zaterdag en sluit dan aan bij de demonstratie van vakbond CGTP. Wel beoordeelt de beweging elke avond opnieuw of er genoeg mensen en de juiste omstandigheden zijn om te overnachten.",
+        "Bij de kerstmarkt op het Rossio ontstond ophef over borden die onder meer samenscholingen, vlaggen, spandoeken en 'op de grond liggen' verboden. Op aandringen van de deelgemeente (junta de freguesia) zijn die regels weggehaald.",
+        "CDS-PP-leider Nuno Melo, partner in de regering, noemde de betogers een 'turba de radicalistas' (bende radicalen). Volgens hem gebruiken zij de woonkwestie om de regering te verzwakken, met het oog op vervroegde verkiezingen. Hij zei wel respect te hebben voor mensen die zich oprecht zorgen maken over wonen.",
+        "Volgens RTP worden er in Portugal minder huizen gebouwd. De bouwsector wijst op een tekort aan bouwgrond. De centrale bank (Banco de Portugal) schat dat het land zo'n 300.000 woningen tekortkomt."
+      ],
+      "context": "De acampadas (tentenkampen) zijn begonnen in Porto, Lissabon, Faro en Coimbra. Ze maken deel uit van een brede protestgolf over hoge huur- en huizenprijzen. Het platform Casa para Viver heeft op 12 december een nieuwe landelijke demonstratie gepland.",
+      "slug": "woonprotest-tentenkamp-lissabon-blijft-tot-zaterdag-cds-leid",
+      "sources": [
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/15/sociedade/noticia/acampada-lisboa-decide-manter-tendas-restauradores-ate-sabado-2195062",
+          "title": "Acampada de Lisboa decide manter tendas nos Restauradores até sábado"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/15/acampada-de-lisboa-decide-manter-tendas-na-praca-dos-restauradores-ate-sabado/",
+          "title": "Acampada de Lisboa decide manter tendas na Praça dos Restauradores até sábado"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3084573/habitacao-acampada-de-lisboa-com-40-tendas-montadas-na-praca-dos-restauradores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Acampada de Lisboa com 40 tendas montadas na Praça dos Restauradores"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1583/",
+          "title": "5h. Acampada. Tendas ficam nos Restauradores até sábado"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/15/nuno-melo-contra-turba-de-radicalistas-que-quer-atacar-a-democracia/",
+          "title": "Nuno Melo contra “turba de radicalistas” que quer “atacar a democracia”"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOV2xZSHdGSFo0LVZycTEtLWw2WVhvZWQ2Yy1LMmRGaThnT0E4UWlGZEVrci1STnBqcXhNcDdCTFdGclB4QzcwYThrWHVoY0I3ZXNaYkg5T2ZSa2VCUVpkZW9ORExLdDE2dk9WMGNmcVJSSDZYNGhDRjdNcnNNMkRzR0ZiOXFVckxyczNqU1FwZ2VvUHc4QjRuMDl5Wmp0V2dEX29BU2xGTWNWdlMxMWhmd2FrQzdrUUJGOU02QW8tVmpETjRuOVR6eWV3T2hGN0M0UEZqUE0tbXZyRjJwSFBBRElsWDlFZ1ZaMkJQdEVXdm9nNWhvTlMxdFdBZTl3Q1ZKNXdhLTNZZlJlQmdtVjJhMlNoMmN4ODIyQVE?oc=5",
+          "title": "\"O PS não é a casa de democratas cristãos”: Melo ataca ex-dirigentes do CDS presentes nos estados-gerais e repudia “turba” das acampadas - Expresso"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXlVdjZXUzFKaWltX1dSZExYM1d0ejdHa1YwS1NMS0l2SF9Db2pCQ3JzVG00NDVfRlF6bXBVaGdPZEdpTzJVMDh2Qi1hVGR0ZTBsN2o4Q3JCSnFoVV9QZ2tmeUFBNnhYWEVFY29iZG5aN2tvclB5UzlQek1kSmJaa19tWWdLazFydmFKeHp5bGFZbEdScjZfQzVDT01NenJjdERaT0NDaVRzZDJ0TktQR2JsRTdiS3ZrYk1wOTFQZnJOZw?oc=5",
+          "title": "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio | Lisboa - Público"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/crise-da-habitacao-diminuiu-a-construcao-em-portugal_v1779384",
+          "title": "Crise da Habitação. Diminuiu a construção em Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Natte week op komst, straten in Figueira da Foz onder water",
+      "category": "Klimaat & Natuur",
+      "lead": "Het weerinstituut IPMA voorziet een week met veel regen en soms harde wind. Vanaf het midden van de week wordt het kouder.",
+      "body": [
+        "Na de code geel voor zes noordelijke districten, die in de vorige editie al aan bod kwam, blijft het nat. Weervoorspellers verwachten deze week regen en soms harde wind. Ze spreken van een 'atmosferische rivier' (rio atmosférico) vanuit Cuba en verschillende fronten. Vanaf het midden van de week daalt de temperatuur.",
+        "In Figueira da Foz, aan de kust zo'n 100 kilometer ten westen van Meda de Mouros, stonden zondag straten onder water door de aanhoudende regen.",
+        "Eerder deze maand werd in de regio Coimbra al gewaarschuwd dat dertien gemeenten een overstromingsrisico lopen."
+      ],
+      "context": "IPMA (Instituto Português do Mar e da Atmosfera) is het Portugese weerinstituut en geeft de waarschuwingen in kleurcodes (geel, oranje, rood). De actuele codes per district staan op ipma.pt.",
+      "slug": "natte-week-op-komst-straten-in-figueira-da-foz-onder-water",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVzk4d2RJYV93dWt1cm1OV2p5NDlmWnI1MVdaczFPWUJqMzJNRi0tWFNyM2pVaUVCLU1rQUYwSFZlR2ZnVDQtYmRLYmZXc3dNLXAxOGZkRFlMaFloUWpsZ05YbHZPczRTc0dwN1JuM1RfTjlUN2JDbWEtSXdNTmNBSTZHRlhuUDc5dGxLZ25sTktPcTNIdUs1U0l0WWFIcE1qNUlWcFBmZE1wMHpZUmfSAZ4BQVVfeXFMTUJncXNPenhLSW01cE1KcVJwdVdLdWNRcmRqd1NDOTlUbkpSczBBWnNIV2xDN0poRUY3S3g5WUNhWjVWOFBTSjBXRFJDZmZHYzJTQ3J1TXpoQ3plNUtrSDVBUlNERURlaHJaOTB4NjVRelNjUlRXVFROcVNZVm1HZEcxQ3BIZjlPS09IYkJ5SUhQV3hhbkNtNUMyQWUtVXc?oc=5",
+          "title": "IPMA antecipa aviso amarelo em seis distritos devido à chuva forte - Jornal de Notícias"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSEhNUHh1ZG9CQTBoSWxFaldYRU13cXhnTnZKcUtQN0tJcnhYOFlQd3pSUFpHQjZGVFp3dEQ0NWZLZnQ5VkdwdUFoeFZBeWQzdGYzR09fS0hjeXFlVURJaEkyQUx4WW85bHJpVU80SUZabjZOaTRXbDFQRXlXY2VpZ3FWaUwzeEhHQ3RGTnRGbkZEbzJ5U2xpVFZzRzFIRHpKa2NCdDlYZw?oc=5",
+          "title": "A chuva não dá tréguas e deixa ruas da Figueira da Foz “debaixo de água” - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjdINTFlTlFhbU1WeTN3bUEyYjBlNldSTUF2d2VQUENHY0RTNEc3V3RzVElqYUF6V0w4bXlRX1QtLXF1S3YzdnVIZXAyWUlsVS1kV0lnM0J3dmVKUlZlZFFMQTJQaUdaMmNNNjljdzhUeUFIUFZFMURrQkNhcE4xUm1JWkEwZ0xVLTBvX1doTmNMMzA?oc=5",
+          "title": "Vem aí muita chuva: IPMA coloca seis distritos em alerta - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWh4ejVLaDJXNlRPTUR4dDFSZE4yZVczcGpNQXJ6VXYtX3hXVnktbkxBZXF1VDFXR2FMQkUyNk50QTdINThGMWhmb3pKcE52R2hVelpVUHhYV0tvenV4MkxHeVpRaEtXWmt4SFZ6SHFiRXlkQlgyWGl3WXFMa21BWGRpTDVkbjhSSUE?oc=5",
+          "title": "Região de Coimbra tem 13 concelhos com risco de inundação - Diário As Beiras"
+        }
+      ]
+    },
+    {
+      "title": "Hulst en mos plukken voor de kerststal kan duizenden euro's boete kosten",
+      "category": "Klimaat & Natuur",
+      "lead": "Wie wilde hulst (azevinho) of bepaalde soorten mos plukt om de kerststal te versieren, riskeert een hoge boete.",
+      "body": [
+        "In Portugal is het verzamelen van wilde hulst en bepaalde mossoorten aan regels gebonden. Volgens Notícias de Coimbra kan overtreding boetes van duizenden euro's opleveren.",
+        "Het bericht verschijnt in de aanloop naar de kerstperiode, wanneer veel mensen materiaal uit de natuur halen voor de traditionele presépio (kerststal)."
+      ],
+      "context": "Wilde hulst is in Portugal een beschermde soort. Wie hulst op het eigen land wil gebruiken, doet er goed aan om bij het ICNF (het instituut voor natuurbehoud en bossen) na te gaan wat is toegestaan.",
+      "slug": "hulst-en-mos-plukken-voor-de-kerststal-kan-duizenden-euro-s-",
+      "sources": [
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/apanhar-azevinho-e-musgo-para-o-natal-pode-dar-multas-de-milhares-de-euros/",
+          "title": "Apanhar azevinho e musgo para o Natal pode dar multas de milhares de euros"
+        }
+      ]
+    },
+    {
+      "title": "Website voedsel- en economische inspectie ASAE gehackt",
+      "category": "Samenleving",
+      "lead": "De website van de ASAE ging uit de lucht na een cyberaanval. Daarbij werd een afbeelding van oud-premier José Sócrates getoond.",
+      "body": [
+        "Op de site van de ASAE verscheen de tekst 'Hacked by José Sócrates' met een afbeelding van de oud-premier. Daarna was de website niet meer bereikbaar.",
+        "Volgens Público stond de gebruikte afbeelding op een ander overheidssysteem. Over de daders of de schade is in de bronnen niets bekend."
+      ],
+      "context": "De ASAE (Autoridade de Segurança Alimentar e Económica) controleert onder meer voedselveiligheid, markten en horeca. Dat is ook relevant voor wie zelf producten wil verkopen. José Sócrates was van 2005 tot 2011 premier voor de PS en staat terecht in een grote corruptiezaak.",
+      "slug": "website-voedsel-en-economische-inspectie-asae-gehackt",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUpxYTB6b0duZnQ0NmlxU2docWE1NEZIRVBUZ0tpWC1SaWg1dXNteFAxaW1CWFdqaHhFeEdhUVZGQ3J1MmRhQzNFM0FIUG82Nk5CRUtaYS15ajBsQUx6OGxFSFlYbDhjX212MzQxYW5fN1RUOFVBYUlrMi1HSXpXQ2VVSE9qTll2Z2tPVWp4N1VweGdWeEV5U1ZISTJTWmFXakRwaHczWlU4UnJrVjFINURkb19iVE0?oc=5",
+          "title": "Site da ASAE indisponível após ataque informático que usou imagem de José Sócrates - Observador"
+        }
+      ]
+    },
+    {
+      "title": "Oekraïne: EU-ministers in Brussel, top Xi-Trump-Poetin donderdag",
+      "category": "Internationaal",
+      "lead": "Volgens president Zelensky hebben bemiddelaars geopperd dat Oekraïne de Donbas opgeeft in ruil voor NAVO-lidmaatschap. De EU bespreekt vandaag extra steun voor de winter.",
+      "body": [
+        "Zelensky maakte bekend dat de Verenigde Staten in de vredesonderhandelingen de mogelijkheid hebben geopperd dat Oekraïne lid wordt van de NAVO als het zich uit de Donbas terugtrekt. Hij roept de 'Coalitie van Bereidwilligen' opnieuw bijeen om een Europees standpunt over vrede vast te stellen.",
+        "De ministers van Buitenlandse Zaken van de EU vergaderen vandaag in Brussel over meer financiële en militaire steun aan Oekraïne vóór de winter. Ook de situatie in Syrië staat op de agenda.",
+        "China heeft bevestigd dat Xi Jinping, Donald Trump en Vladimir Poetin donderdag in Shenzhen bijeenkomen, aan de rand van de APEC-top. Kernwapens staan op de agenda.",
+        "Daarnaast loopt de spanning in het Midden-Oosten op: een Iraanse viceminister zegt dat Iran de VS als eerste zou kunnen aanvallen."
+      ],
+      "context": "",
+      "slug": "oekraine-eu-ministers-in-brussel-top-xi-trump-poetin-donderd",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/negociacoes-de-paz-na-ucrania-mediadores-terao-sugerido-cedencia-do-donbass-e-entrada-na-nato_v1779385",
+          "title": "Negociações de paz na Ucrânia. Mediadores terão sugerido cedência do Donbass e entrada na NATO"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2497/",
+          "title": "3h. Zelensky reúne Europa para definir posição de paz"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/mundo/3084597/ue-debate-reforco-de-ajuda-a-kiev-antes-do-inverno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "UE debate reforço de ajuda a Kyiv antes do inverno"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-chefes-da-diplomacia-dos-27-reunem-se-em-bruxelas-para-discutir-apoio-a-ucrania_a1_1779411",
+          "title": "5h Chefes da diplomacia dos 27 reúnem-se em Bruxelas para discutir apoio à Ucrânia"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/mundo/3084575/china-confirma-encontro-entre-xi-trump-e-putin-na-quinta-feira-em-shenzhen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "China confirma encontro entre Xi, Trump e Putin na quinta-feira em Shenzhen"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-china-confirma-cimeira-a-tres-com-xi-jinping-donald-trump-e-vladimir-putin_a1_1779403",
+          "title": "2h China confirma cimeira a três com Xi Jinping, Donald Trump e Vladimir Putin"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2470/",
+          "title": "2h. Irão admite atacar Estados Unidos primeiro"
+        }
+      ]
+    },
+    {
+      "title": "Tábua: regering benoemt tijdelijk bestuur voor een freguesia; kerstprogramma tot januari",
+      "category": "Regio",
+      "lead": "De regering heeft een administratieve commissie benoemd voor een freguesia in de gemeente Tábua. De gemeente heeft ook haar kerstprogramma gepresenteerd.",
+      "body": [
+        "Volgens Notícias ao Minuto heeft de regering een comissão administrativa benoemd in een freguesia van de gemeente Tábua, de gemeente waar ook Meda de Mouros onder valt. Welke freguesia het is en waarom de commissie nodig was, staat niet in het aangeleverde bericht.",
+        "De Câmara Municipal van Tábua heeft een kerstprogramma dat doorloopt tot in januari.",
+        "Tijdens storm Charles (Depressão Charles) riep de gemeente vorige week inwoners op om verplaatsingen te vermijden en vroeg zij bedrijven om voorzichtig te zijn."
+      ],
+      "context": "Een freguesia is de kleinste bestuurslaag, met een eigen junta de freguesia. Kan er geen bestuur gevormd worden of valt het bestuur weg, dan kan de regering een tijdelijke administratieve commissie aanstellen tot er nieuwe verkiezingen zijn. Het is de moeite waard om na te gaan of het om de eigen freguesia gaat.",
+      "slug": "tabua-regering-benoemt-tijdelijk-bestuur-voor-een-freguesia-",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazVaR1dyblo3ZHpOUUxNdDNVLUFlQkN5NUxlTWxoU29rZ2ZDMVVvMkdCajhUT2xTWVFzRzExRWRIM3NTY2xibm4ySVlWWlVleF9uUTkzWVZqSW1jeU5BanU2T3p1RlpKTzM1cUt1ajFhLU40RDc1VE5zWElOQ0tvRzN6bzNscl9YWFFvVzBXemh6SmtYSzBVN2FjRTRvakl0UTdKM0ZNdFc0eDRENlBQbmJ2S3J5SmdtWHc?oc=5",
+          "title": "Governo nomeia comissão administrativa em freguesia do concelho de Tábua - Notícias ao Minuto"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVW1OOHhmN3FNQTlrejNadUlxMFo4ZktWODlVb1BwMHpYX1ZHbnNzd0pyOURFRW52SkVlU1plUVl5RXpNWVNab3JHSVhiMnhhbmROMXh6UmVLS0RLSTMtdzhuNVB3Sy1Gd1VuS3pVcmtXb1EzVHVRNzE3dUM5eHZ4VnFQUjN6akk5eHQwWnRmcFNENWpjM0MycVRYNVZmdkdIS0E?oc=5",
+          "title": "Município de Tábua com programação de Natal até Janeiro - Campeão das Províncias"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlhWbi0waG5lS3RSNFRvQVhpdkhicXVoWjh3bUVWb3lxb0pZeW0zVmlMTnp5NHpHcTdsX0N4ek5rLUZramlOYVd1T2M4Rmgyc0lFUWVfRjV3c21vVmNncVFCVFBRTzF1SXNkSUxiR1B2ZTUtbzN1bjR4MlM4UF9UYlh6bk1LUHFuYUhoY3ktUmx0QzdtenBVcTd5TTVIT1VNY3hRNGhzY1F6TmFocnBvLTU0b0dtdmt1enFNYkxCWUJFcFp3aG9menN5QnU?oc=5",
+          "title": "Câmara de Tábua apela à população para evitar deslocações devido à Depressão Charles - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2VnZ0YtVzRQTjVlQ1RNTmloOUxhZlpkSm92aFRubEQ4TUI5Mm85emJtMnRqNkNZS1ZlbFBPWGZ3REI0X1gteXIweHJQMF84TnZ5TUNCYlNXc1drM05lRWpwcy1oaG1hdXYwcnkxQTFyeFc3RUhDT2RBN2EweEhNcDJfa2NnRkpDTEVqUWlRd21lQ3YtVWZRT1R6dzVDZXZfN3VSdDQ5ZVpPQXdUUHNNUGMzanpObHE5LUVDdjBxVkFWN2lJMkFNUzZUOFNwdHVNS09fdVFuRGVtTXF5OXl3?oc=5",
+          "title": "Câmara de Tábua recomenda evitar deslocações e pede cautela às empresas devido à Depressão Charles - SAPO"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital: protest om livestream raadsvergaderingen, nieuwe bushokjes en woningbrand",
+      "category": "Regio",
+      "lead": "In Oliveira do Hospital, zo'n 15 à 20 kilometer van Meda de Mouros, eist een burgerbeweging dat gemeentevergaderingen online worden uitgezonden.",
+      "body": [
+        "Een burgerbeweging protesteert omdat de vergaderingen van de Câmara Municipal van Oliveira do Hospital niet online worden uitgezonden.",
+        "De gemeente plaatst negen nieuwe abrigos (bushokjes) op negen plaatsen in de gemeente, zodat wachten op de bus comfortabeler wordt.",
+        "Bij een woningbrand in het centrum van Oliveira do Hospital raakten een stel en hun dochter vorige week dakloos.",
+        "Tijdens storm Charles nam de gemeente voorzorgsmaatregelen en riep zij op om niet onnodig de weg op te gaan. Volgens Notícias de Coimbra bleef schade in Oliveira do Hospital destijds uit."
+      ],
+      "context": "",
+      "slug": "oliveira-do-hospital-protest-om-livestream-raadsvergaderinge",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbU5DYU9mUGx1LWppQUtEZi1McVhlaUpUWXdLWEV2YkFSWUhNWndSRnZjU3l4eVRySEJjaDB2NTBncnQ3dHNQYUQ1a0JoYzBLUGZ0MlhmNUJGTmNZQ1ZUS1pRamt1MXZINUFub2h5dEstZTA2cWpRQUFoUVpXaFhCN2lIRlhoVG5jNDNrTjVHX1p0WUtEMXM4cGRBbC0tYXVJbjlSendrbXlEVlJBUWNRa1UtVFlEQ3dvZFYtc2Nvb3gwalNQSFlHWDRxOWpJYkNqemRObFZSVjRYWkJhOENwcXZjVF8wQQ?oc=5",
+          "title": "Movimento protesta contra ausência de transmissão online das reuniões da Câmara de Oliveira do Hospital - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFVrVlRtVWlkTFI1QVktWlIxYXhMbEQxazRHeFJkY1l2Z29KalpyOEtfVk03YVZHbHA5THRoZUZZR3dzZGRsWmFabUhLQnhyVGRDWEg1LVEtTS1PTm4tQkcyTXFuQWlveU52OEdoeV9KVUZ5dm1NXzFOZFQ0RTN1T0NtRXU1RXVGaFlLdnhQcmZYc0k1TDdzNVA4aEFoWHJGM096U3VaUWRpQUZjbkl2QWlvTnFwTE5DOTlBMHlvMA?oc=5",
+          "title": "Esperar pelo autocarro vai ser mais confortável em 9 localidades de Oliveira do Hospital - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGtrOVV2dHhOV05BTzBXSE0tQTM0dnNkLWtkQVRSaXJIY2N0UTVvdmwxV2VmODYxck4zcFlSQ3hjdThtZHljVEQ0SjhvSm9xNjJjdl9MRE9XQXBKc2ZPUzBCLUhnQWxXR19fRHB5VWpkeWx2Y2FCM1B3ZWh4UHQ2aDNkRG1sWU1tM0hpTWZSOWUyN1htQmp4Q1FZeGQ2NTZrUkk1Y3U1RF9OZ0lWRGVCQmoyOGtuMUxWcUkzNzNkckNkajZLSUhkTktMWjEtRHQxQV9wSjdn?oc=5",
+          "title": "Oliveira do Hospital instala mais nove abrigos para passageiros de transportes públicos - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1Vxc3UtZ1hGMmttV3JXVUhGNEl1QzE1Q0JWRzQxa1JlT2xNcEEzRm14bzhXZENFNlpJZGp5d2FaWjBRRGdicm8xempWTnNLM19udlcwbC1mYUFWaElPTzRBTHRxZnJsdndrcjBiSHZ4RHF3WVZIT3pnNU5Wa2MwZTNZVkhnQVJFeGVtNFNrZGVkRFNxYjdaSjlnYm5iRHZjZHI4UjRHZFprZ09ZV3BqQllBdTBvZw?oc=5",
+          "title": "Investimento municipal reforça condições das paragens de transportes públicos - Câmara Municipal de Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeDlMS3VqOFU5WGItR0ZwenQybkpXcHYzaF93Q25xQmM4dEV5bFROWmlIeElZcVZsRVgzWWJuM19YUy03REJfZTRNLXR5bGRCNmNkTHZQUlRxOVNLOFpYSHpzemhVZnM5M1VRN3RQckNLNjVBZXpwM0o1UHZ5TmY5LS1fUmlNUUFERWRQdnRuNlJVbXM4d2d2YTV5SldnSE5JbVJ1ZllSV0VIeDdiRVJnbkl1VWEteW9Y?oc=5",
+          "title": "Incêndio em habitação no centro de Oliveira do Hospital deixa casal e filha desalojados - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXlUWkh3ZTVuM3VjWG1obEdnVUN2Wm5TMnp2eEVjY0VXN0ZLNmJJLXlvVjlYdWFjejI3UEdNVUU0RW9ieEFyOGRHZkwzcGV5QnM4bFptclJ6SzhSTTU5ejBDd0pQNnlKUXY2ZGUzemhReDh3XzFtOTdSX3laVFZQNzJJaVdaS0N6T2NTUDgxUVhUVTYxd0J3OEF5TTYwdHE4RWfSAYMDQVVfeXFMT09hVjBOaHZjLUhacVZJQWdsVjNuZUExNlB0bGJkV0xJSmZmY1p3RXM3djZ4OEhWd1M1SDc0d2ZDcG8xVGEtbjU3aE9uaS1KSXg2Z2JaMWJTcmpwYWd3b1BZdWVhTUlBb3RNeENMRGYxbmRiVjNvWUo5U0E2NTZJaERKTm0ybFpabm5lMkYyVHJsZ1NpUm91LTdQbWRpSHRzYk9CdWNCVzRicmh0NXNJVlVJSnpIUHZTTzZ1Y0NPMTVrQ0MzSnQzU3YxNFFPWFpKYjVNYS1udG1RMXhESmE5dXpuckQ2cTNlVF9ub2FPX2hVLVlwWXdRZnlpbFdjR2tMRTlPYjlvNG95Q0VfeE0wNDJ1VTBqMkxZZkNyVnQtMVczbUtJakRHQkdmdXVvUUpsSFhLcE1qOFJ4VXF4YkJmZk85NWtwanM0cERQUVF0NFRhN0VfMjQweG5ONnVkMkhHNjViTXpfTGxhRXZ4RklIand2SmdsQlcwWngtVWs0LXY5RjhV?oc=5",
+          "title": "Incêndio em habitação deixa família desalojada em Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV3FNbmJmRGl2VmdYYmtwQlBTSFVGTDMzbG1UeXRKT1JVZjZMRnJlV1ZjMWV6UVRFQmg5QTRUUDQ0NGp5b3NkR1hyU1E0eUd4NVFOcWwyZkMtRENVZ3VTSzlqaWR5S05pa01QbVAyMU54eGVRdHp1dGg2TXg0bkJQbi0yTkl0X1FRSEtvSTlJdW9RZzQxcE1uV3dfUTdaTFVqTHhvNXEwUFZGVlhHZ3g3WUtDd21UTlhQUU9lSW5DS1NWSWx4TnRBeWpVT3RXa0JmOVc0SjJDclRQRFJHSEF6ZHdvOU9RR09HQ19LSHo4azJ2ZDQtSnpzel9sdm5DXy1wZlJLdk45WVdiYjg?oc=5",
+          "title": "“É importante evitar a circulação”: Oliveira do Hospital adota medidas preventivas perante risco de chuva intensa e vento até 100 km/h - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWZnc0w1dHVtaVd6Nlhqbko5VU9qSHRBT2VpbzhvM1hGTURSVnY1Znk2RVpubjByZzlyajhuTjBzdE1WM1BQeUlGRzdSSHhrQlhiUkptZVNlZGZrcWVHMjJCYl9sZnlPZ24tMEhqclhJYVFzREwyNkZGZnZ4b2pnekZrUmwwTUU5UUJkZzNseWNPeEtSTjh3UQ?oc=5",
+          "title": "Mau tempo ainda não causou estragos em Oliveira do Hospital - Notícias de Coimbra"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "habitação",
+      "nl": "huisvesting, wonen",
+      "example": "Manifestantes pela habitação prometem continuar protestos."
+    },
+    {
+      "pt": "Orçamento do Estado",
+      "nl": "Rijksbegroting",
+      "example": "A três dias do Orçamento do Estado ninguém sabe o que pode caber."
+    },
+    {
+      "pt": "combustíveis",
+      "nl": "brandstoffen",
+      "example": "Chega aprovará apoios a habitação e combustíveis."
+    },
+    {
+      "pt": "aviso amarelo",
+      "nl": "code geel (weerwaarschuwing)",
+      "example": "IPMA antecipa aviso amarelo em seis distritos devido à chuva forte."
+    },
+    {
+      "pt": "azevinho",
+      "nl": "hulst",
+      "example": "Apanhar azevinho e musgo para o Natal pode dar multas."
+    },
+    {
+      "pt": "desalojado",
+      "nl": "dakloos geraakt (uit huis gezet door ramp)",
+      "example": "Incêndio em habitação deixa família desalojada."
+    }
+  ]
+}
