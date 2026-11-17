@@ -1,0 +1,371 @@
+{
+  "id": "2026-11-17-0626",
+  "generatedAt": "2026-11-17T06:26:25.421Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 243,
+  "intro": "Wonen blijft het politieke hoofdthema: president Seguro roept regering en parlement op samen te werken, terwijl premier Montenegro de protesten relativeert en het tentenkamp in Lissabon de regen trotseert. Na storm Charles is de landelijke alarmfase opgeheven, maar er is kritiek op de aanpak. Verder beginnen gevangenisbewaarders een staking van ruim zes weken en presenteren Arganil en Oliveira do Hospital hun plannen voor de komende weken.",
+  "articles": [
+    {
+      "title": "Woningcrisis: Seguro wil samenwerking regering en parlement, Montenegro relativeert protesten",
+      "category": "Politiek",
+      "lead": "President António José Seguro eist dat regering en parlement samen oplossingen zoeken voor de woningnood. Premier Luís Montenegro zegt juist dat 'protesteren makkelijk is' en dat het land 'geen revolutie' nodig heeft.",
+      "body": [
+        "Seguro benadrukte dat de democratie gekozen vertegenwoordigers verplicht naar alle meningen te luisteren, en vroeg regering en Assembleia da República om gezamenlijk aan oplossingen voor de woningcrisis (habitação) te werken. Vrijdag ontvangt hij vertegenwoordigers van de zogeheten Acampadas, de tentenkampen van woonactivisten.",
+        "Premier Montenegro (PSD) zei maandag dat de manifestaties een 'verkeerd beeld' van het land kunnen geven. Volgens hem heeft Portugal 'geen revolutie, anarchie of chaos' nodig, maar 'kalmte, intelligentie en ambitie'. Hij wees maatregelen voor iedereen af en verdedigde financiële stabiliteit.",
+        "In Lissabon bleven ondanks de regen zo'n 40 tot 50 mensen overnachten op het Restauradores-plein, waar ongeveer vijftig tenten staan. Het kamp zou volgens de vorige berichten tot zaterdag blijven.",
+        "In Porto kwam de gemeenteraad (Assembleia Municipal) op verzoek van de partij Livre in extra zitting bijeen over wonen. Slechts vier van de zestien voorstellen werden aangenomen. Vlak voor de vergadering werd raadslid Fernando Cardoso, oud-lid van Chega en nu onafhankelijk, bij de ingang aangehouden op verdenking van huiselijk geweld."
+      ],
+      "context": "Seguro (voormalig PS-leider) is sinds dit jaar president; hij heeft weinig uitvoerende macht maar kan druk zetten en wetten tegenhouden. De woonprotesten en het tentenkamp stonden ook in de vorige editie; nieuw zijn de oproep van de president, de reactie van de premier en de afloop in Porto.",
+      "slug": "woningcrisis-seguro-wil-samenwerking-regering-en-parlement-m",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2461/",
+          "title": "4h. Habitação. Seguro exige união entre Governo e Parlamento"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdEpHVE1HTms2cFR4WHNuUWFpTnZ6S0E4UUlaT25Ia0hDN1dPQTFrblhOLUZKUzdVQkFHUEtKZmtrcFBvM3VrUmVCTUFiY1ZCSGFZUXBZdzJwZDlqRDlvVjlvM2ZoOW9lcmhGb0dGUmVuakRoeW1BVjAzdXh4dzB3SUY1QVptcVJCb2F0OGhWLUR5cC1VMVBseWhyNUhHUDZ0Szg4RGJjeXBkVjZDZ0xIZzZfUjFIc21ka2ZUZ0xnaGlHZHVjdnJqanAwSFh5QlhK?oc=5",
+          "title": "Habitação. Seguro exige que Governo e Parlamento trabalhem em conjunto para encontrar soluções - RTP"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2hPQzF2c1F1akM2cnM3LWtFZy1zRjJ6U29qQTVuYzJac29TcnlhWWFFUjZlYk9jVnMwM2drUUMxNHFGQUpickdLU0sxZU1iSkw5Qk5aeHZ6cTlKM2xBbHlyMFpWTmtrd2JoNkdCVEk2a3lDcUpBRGFOQm1GempoOTZtYy1ZV2tUdkZqdHlBT0RGZkt4VktsaDNRU1Zpd2J3b3VKTm5sV2p1WkxuNGZOdjlub05seVR6akxIWDRsbkVlY0luTEE?oc=5",
+          "title": "Montenegro diz que “protestar é fácil” e que manifestações podem dar “ideia errada” do país - Público"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2448/",
+          "title": "1h. Acampada de Lisboa resiste à chuva nos Restauradores"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2471/",
+          "title": "2h. Porto. Ex-deputado do Chega detido à porta de reunião"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2498/",
+          "title": "3h. Irão estará a preparar ataque à bomba em Washington"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/reportagem-observador/porto-detencao-de-deputado-teve-eco-na-discussao-pela-habitacao/",
+          "title": "Porto. Detenção de deputado com eco na Assembleia"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/17/local/noticia/deputado-municipal-porto-detido-entrada-assembleia-violencia-domestica-2195202",
+          "title": "Deputado municipal do Porto detido à entrada da Assembleia por violência doméstica"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3085182/habitacao-partidos-aprovam-quatro-de-16-propostas-levadas-a-assembleia-municipal-do-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Partidos aprovam quatro propostas levadas à Assembleia Municipal do Porto"
+        }
+      ]
+    },
+    {
+      "title": "Storm Charles voorbij: alarmfase opgeheven, kritiek op regering",
+      "category": "Klimaat & Natuur",
+      "lead": "De regering heeft de landelijke 'situação de alerta' voor storm Charles beëindigd. Er werden in heel het land 1630 incidenten geregistreerd; de burgemeester van Leiria verwijt de regering politiek te bedrijven met stormen.",
+      "body": [
+        "Tijdens storm Charles (Depressão Charles) gold in heel Portugal de alarmfase, met gesloten scholen en geannuleerde vluchten. Landelijk werden 1630 meldingen (ocorrências) geregistreerd. De regering heeft de alarmfase inmiddels opgeheven.",
+        "De burgemeester van Leiria uitte kritiek: 'Ze wilden politiek bedrijven met de stormen.' Volgens hem 'ligt een land stil' zodra een storm de centra van de macht raakt. Ook in opiniestukken wordt gediscussieerd of de regering te alarmerend was.",
+        "In de eigen omgeving had de Câmara Municipal van Tábua bewoners gevraagd verplaatsingen te vermijden en bedrijven tot voorzichtigheid gemaand. Oliveira do Hospital meldde halverwege de storm nog geen schade. Een bosaanplantactie in Oliveira do Hospital werd vanwege het weer uitgesteld."
+      ],
+      "context": "De 'situação de alerta' is het laagste van drie niveaus van de Portugese civiele bescherming (Proteção Civil); daarmee kunnen hulpdiensten extra paraat worden gezet. Leiria werd eerder dit jaar zwaar getroffen door stormschade.",
+      "slug": "storm-charles-voorbij-alarmfase-opgeheven-kritiek-op-regerin",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSG1EQXg2YjF2Ql9nakROMXc2QXVmV1E4ZENPTmEwd3BlbE55ZEF2a1JHOUhCTk93TDN2U1Q0LU1kdU5nR0J4UUZQQ0FWbGdwOTg5bkQ4MnhwdFpzcDh4NzB2WktzVXpVMlVFSU5taVJBT3pzaUlZOVVjRTRHTm9jNWxFUVNSN0t0MHgtanRwc3k4MndDUng1N2I4U0phRWJGSUxkU1lLQkFYc0ZuZ2tSd2dab3ltR2FCQnhGd3ZBWldPNHF0eG9j?oc=5",
+          "title": "\"Quiseram fazer política com as tempestades\". Autarca de Leiria deixa críticas ao Governo - RTP"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/opiniao/verao-de-sao-martinho-afinal-foi-nao-viram-nada-de-sao-martinho/",
+          "title": "Verão de São Martinho foi Não Viram Nada de São Martinho"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlhWbi0waG5lS3RSNFRvQVhpdkhicXVoWjh3bUVWb3lxb0pZeW0zVmlMTnp5NHpHcTdsX0N4ek5rLUZramlOYVd1T2M4Rmgyc0lFUWVfRjV3c21vVmNncVFCVFBRTzF1SXNkSUxiR1B2ZTUtbzN1bjR4MlM4UF9UYlh6bk1LUHFuYUhoY3ktUmx0QzdtenBVcTd5TTVIT1VNY3hRNGhzY1F6TmFocnBvLTU0b0dtdmt1enFNYkxCWUJFcFp3aG9menN5QnU?oc=5",
+          "title": "Câmara de Tábua apela à população para evitar deslocações devido à Depressão Charles - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2VnZ0YtVzRQTjVlQ1RNTmloOUxhZlpkSm92aFRubEQ4TUI5Mm85emJtMnRqNkNZS1ZlbFBPWGZ3REI0X1gteXIweHJQMF84TnZ5TUNCYlNXc1drM05lRWpwcy1oaG1hdXYwcnkxQTFyeFc3RUhDT2RBN2EweEhNcDJfa2NnRkpDTEVqUWlRd21lQ3YtVWZRT1R6dzVDZXZfN3VSdDQ5ZVpPQXdUUHNNUGMzanpObHE5LUVDdjBxVkFWN2lJMkFNUzZUOFNwdHVNS09fdVFuRGVtTXF5OXl3?oc=5",
+          "title": "Câmara de Tábua recomenda evitar deslocações e pede cautela às empresas devido à Depressão Charles - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWZnc0w1dHVtaVd6Nlhqbko5VU9qSHRBT2VpbzhvM1hGTURSVnY1Znk2RVpubjByZzlyajhuTjBzdE1WM1BQeUlGRzdSSHhrQlhiUkptZVNlZGZrcWVHMjJCYl9sZnlPZ24tMEhqclhJYVFzREwyNkZGZnZ4b2pnekZrUmwwTUU5UUJkZzNseWNPeEtSTjh3UQ?oc=5",
+          "title": "Mau tempo ainda não causou estragos em Oliveira do Hospital - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmN5dWdITEpoblhSQ1E2emxqbUhzRnB6RlZRZWRpYjRDbVNqSXFQQWpkcTBxVmZqSS0xQnFUa1kycWpRRjZmb18xZ1hCRUNpUjFhU25Ya3pRYzhfLXFwYzBYbnBITE9kcUs3dm1pWE4yUXhHRmpiVlJ4ODhPVU5xa1c1amVMNmhLRnBnYzUyS1E1cHQzSmVHalQ0SGo5czRxbVl1dG90cmc4dllQMUQ0N1IzclpJNmRBYjh3VHpfN19oQ2k1b2o2Y3NhWmF2UFZZczhr?oc=5",
+          "title": "Ação de reflorestação em Oliveira do Hospital adiada devido às condições meteorológicas - Sport Lisboa e Benfica"
+        }
+      ]
+    },
+    {
+      "title": "Gevangenisbewaarders staken tot 3 januari",
+      "category": "Samenleving",
+      "lead": "De bewaarders in Portugese gevangenissen zijn vandaag begonnen aan een algemene staking die duurt tot 3 januari 2027. De vakbond ging niet in op een verzoek van de regering.",
+      "body": [
+        "De staking is uitgeroepen door de vakbond Sindicato Nacional do Corpo da Guarda Prisional (SNCGP). Alleen de minimale dienstverlening (serviços mínimos) en het dringende werk van de interventie- en hondeneenheden vallen erbuiten.",
+        "Volgens RTP heeft de vakbond niet toegegeven aan een verzoek van de regering om de actie niet door te zetten."
+      ],
+      "context": "In Portugal moeten bij stakingen in essentiële sectoren minimale diensten worden gegarandeerd; daarover beslist een arbitragecommissie als bond en overheid het niet eens worden.",
+      "slug": "gevangenisbewaarders-staken-tot-3-januari",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/guardas-prisionais-entram-hoje-em-greve-geral-ate-3-de-janeiro-de-2027_n1779670",
+          "title": "Guardas prisionais entram hoje em greve geral até 3 de janeiro de 2027"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-comeca-a-greve-dos-guardas-prisionais-o-sindicato-nao-cedeu-ao-pedido-do-governo_a1_1779660",
+          "title": "00h Começa a greve dos guardas prisionais, o sindicato não cedeu ao pedido do governo"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3085200/guardas-prisionais-iniciam-greve-geral-ate-3-de-janeiro-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Guardas prisionais iniciam greve geral até 3 de janeiro de 2027"
+        }
+      ]
+    },
+    {
+      "title": "Regering stelt nieuwe loonstructuur voor politie (PSP) en GNR voor",
+      "category": "Economie",
+      "lead": "Het ministerie van Binnenlandse Zaken wil de beloning en loopbanen van PSP en GNR herzien, met vanaf 2027 een verhoging van vier toeslagen. Tegelijk daalde het aantal overheidsbanen in het derde kwartaal.",
+      "body": [
+        "Het ministerie (MAI) presenteerde het voorstel maandag na overleg met de politievakbonden en de beroepsverenigingen van de GNR. Het plan omvat een herstructurering van het salarisstatuut en een opwaardering van de loopbanen; vier toeslagen (suplementos) worden vanaf 2027 bijgesteld.",
+        "Uit cijfers van de overheidsdienst DGAEP blijkt dat de overheid eind september 764.805 mensen in dienst had, 3.624 minder dan eind juni (-0,5%). De daling komt vooral door het aflopen van contracten van leraren en kleuteronderwijzers."
+      ],
+      "context": "De GNR (Guarda Nacional Republicana) is de politie op het platteland, ook in Tábua en omgeving; de PSP werkt in de steden.",
+      "slug": "regering-stelt-nieuwe-loonstructuur-voor-politie-psp-en-gnr-",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/16/governo-propos-reestruturacao-dos-salarios-e-valorizacao-das-carreiras-na-psp-e-gnr/",
+          "title": "Governo propôs reestruturação dos salários e valorização das carreiras na PSP e GNR"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/16/emprego-publico-recua-com-fim-de-contratos-com-professores-e-educadores-de-infancia/",
+          "title": "Emprego público recua com fim de contratos com professores e educadores de infância"
+        }
+      ]
+    },
+    {
+      "title": "Brandstof goedkoper; Moeve overweegt verkoop tankstations",
+      "category": "Economie",
+      "lead": "Benzine en diesel zijn deze week goedkoper geworden. Daarnaast overweegt het Spaanse energiebedrijf Moeve zijn netwerk van tankstations in Portugal en Spanje te verkopen.",
+      "body": [
+        "Volgens Notícias ao Minuto zijn de brandstofprijzen (combustíveis) deze week daadwerkelijk gedaald; de bron noemt in de kop geen bedragen.",
+        "Moeve, het voormalige Cepsa, onderzoekt de verkoop van zijn tankstations op het Iberisch schiereiland. Details over omvang of mogelijke kopers zijn niet bekend gemaakt."
+      ],
+      "context": "In Portugal worden brandstofprijzen elke week op maandag aangepast; de wijzigingen gaan in op dinsdag of maandag, afhankelijk van de pomphouder.",
+      "slug": "brandstof-goedkoper-moeve-overweegt-verkoop-tankstations",
+      "sources": [
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/economia/3085209/combustiveis-ficaram-mesmo-mais-baratos-veja-aqui-os-novos-precos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Combustíveis ficaram (mesmo) mais baratos: Veja aqui os novos preços"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2461/",
+          "title": "4h. Habitação. Seguro exige união entre Governo e Parlamento"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2475/",
+          "title": "00h. Rússia atinge duas pontes em Kiev"
+        }
+      ]
+    },
+    {
+      "title": "Geweld tegen scholiere in Lissabon wordt onderzocht",
+      "category": "Samenleving",
+      "lead": "Een 13-jarig meisje werd op een school in Lissabon door klasgenoten mishandeld terwijl anderen filmden. De onderwijsinspectie start een onderzoek; de daders zijn geschorst.",
+      "body": [
+        "Volgens CNN Portugal kreeg het meisje stompen en schoppen en werd ze met een bezem op het hoofd geslagen. De politie (PSP) is op de hoogte van de zaak.",
+        "De minister van Onderwijs betreurde het incident. De onderwijsinspectie (inspeção-geral) gaat het onderzoeken en er volgen tuchtprocedures. De leerlingen die haar aanvielen zijn geschorst.",
+        "Het meisje is inmiddels weer naar school en kreeg bij terugkomst applaus van klasgenoten. In de media wordt gevraagd waarom er geen volwassene toezicht hield."
+      ],
+      "context": "",
+      "slug": "geweld-tegen-scholiere-in-lissabon-wordt-onderzocht",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-espetaculo-da-violencia-numa-escola-de-lisboa/",
+          "title": "O espetáculo da violência numa escola de Lisboa"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ministro-da-educacao-lamenta-agressao-a-uma-aluna-numa-escola-em-lisboa_a1_1779656",
+          "title": "22h Ministro da Educação lamenta agressão a uma aluna numa escola em Lisboa"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZjlWUjVEY19vM1lXdE9oOEpzQ1hnaGdVU1VERWtfejJTbnNQOGNpRjhnTlV1SjAyTE52anFIN3JweWxGZE1yeXJPUmF2ZHh0V0FiRjZ5dk9UMkxFdkpheTJxaUFZSWZEQ0k2RUV6eU93VzlxSlRfeTg5SEpzMEdjTS1rcFFGZTlCWW5Yd3hsTXpwdkJaNTNOc3RtdmVuckdEWFZGWkg0ZmZNcU1ST1BGTld2ZGV2dnpzcnJqeGhhMDVEWTBVUGlxWExDRkctQnNoeUlnS2JZS2FBb0tZZ3dLcTdkckQ5QUM5OHhBRUNXRkNvekU0WE1OSmw1ZDRoMjdLa2tj?oc=5",
+          "title": "Vêm aí processos disciplinares: agressão a aluna em Lisboa vai ser investigada pela inspeção-geral - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUWJWNDMwN2ROakdWRWN0Vk91bUhIU0pRdlducG9xYzFlemk5TXZXbU0zZ00wYUpRTkhCS0I2Y0EzaDlsOE1uc1NXb0RDS1BEM0hiZmVtUlJLeS1FNU5MX2hFMFpDaHBDZDNwUXhZVjVXNldBSVAyQUl5SFhQNGJrVzlZWndQajM1NUxDUFpIcHVFdkxfR0RjLVZyY0NMQkZMbERwV0sxOFpLS29ieUNpc2l0MEdKNFY2TXloWVlqSXBxcWR0RFZYX2Q1b050UTJRdVNMeW9QeVJpVG5ZQkFEWVNFWE1QQVJyTUhJVGQxZTFKQ19nUy1CWmd5ZDQyLWhHbU0zUmhPNV9jTEZ4N2FBYXIySnNncXdTUXkyNWd1RGo?oc=5",
+          "title": "Murros, pontapés e vassoura na cabeça: PSP já está a par da violenta agressão a uma jovem numa escola de Lisboa - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMmhDc1RzdEt3Vlc1TVUxWVZVSXVNa0gtNktiUGpwd2pxWGxHUENWc2FwRGZTRjAtV2xzN3BsaFNBZmphZFltS2lGNXl6SHNoQXM5TUZJUXVVVmhENXhlSk1LcDQ1UlZRVVFtNWxZWUxzeW5wZ2JnbkV5bVo3WnJvc19sNS04aDNjWlNEcHFORFQzRjBtdzh6dUlZakp1U0hoYUdSNDAxWGZNOTlmNG9GUm1IZjFveDFDajNRd1p3UDNUMHc4aUpOQTFhc0RHUUctMi1mMlo5djh2TmM5clZDdWh1MlRQUHU5ajZlc1Zzb2ZoVWFhbUZudTJxaGN2NzU2cld6NmlOTGwxREhhZlc4dHltZXF4Y1hXWFFvQkt3?oc=5",
+          "title": "Aluna violentamente agredida em escola de Lisboa já voltou às aulas. Agressores foram suspensos - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNlJYVWNkZzlzN04yVnJyQkl0UTFZMDRBLTloZGNnSzU3M1RjMWFHaXdOcTlYZGtJLVZJdXJFSGpwYVJfX2tzaFdhVmx0R2hyclY0Q05ZZFBkZF9yaU9WN2R1N0pSeFhkbHFGeUFnaUJud3ZBUEtFeXZkTDBTVzdMWGxnTVBUNm10U0ZTNzZyYldvUTEwTHRSTjJXbWp3ZU9BOGZabjV4THM4MkRZemRBNDFpOUNlbk1LYlVwbDNyYnBSd3BpeXpQUFUzT3BUOU15bDAwY19UQzd1ZXYwVjJIRUkxa1BBRjM5N3J5SXcyTTFHV3IwZWRnSUF6MHQ2T0xXaVZLQVVfYTZqbWxWTTZjb1U3cDRFNmZCcHVCdTBsS0VrWHhfNWQxYlBranYyQmtQZHc?oc=5",
+          "title": "Aluna violentamente agredida em escola de Lisboa recebeu um aplauso dos colegas no dia em que voltou à escola - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOY20wYV9yRlcxeDJBZE56QlAyQUV6NTVkOTJqTzktWDlja2xiVGVXbWVta3JfTHhVVkEtNVp4eTFjWlhpdWtYdU9UYmVZa1oyV2NUVUZYQUlCTGoxNEFNUW1GQ1JtMmE1Q09Sb2JjSm02elcxTFRtTjJWRDZUX1BWTWplN0t3ZkZtV1ZSQlYtZ3h6TjZGZlVFWmZSSmFTU3NqdDVtYzZCSWV4eFNtc3VnWjNydkNldVcteHdfaGdpbExxNmtCMWZMdnNoalZGRFdHRTdqWWFuQmc1eDFPZnAxbDNmNnUzRnI2ZTdrU0lndnpWS09NLUo0WEQybDZCX2ZVMkE?oc=5",
+          "title": "Agressão a uma jovem numa escola de Lisboa. \"Quem é que estava a supervisionar? Porque é que não havia um adulto ali?\" - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Arganil: honderd jaar elektriciteit, kerstmarkt en prijs voor kerststallen",
+      "category": "Regio",
+      "lead": "Arganil, zo'n twintig kilometer van Meda de Mouros, bereidt een viering voor van honderd jaar elektriciteit en heeft een vol kerstprogramma.",
+      "body": [
+        "Honderd jaar geleden kreeg Arganil elektriciteit; de gemeente bereidt daarvoor een herdenking voor.",
+        "De gemeente daagt ambachtslieden opnieuw uit kerststallen (presépios) te maken; de beste krijgen 500 euro. Ook komt er een kerstmarkt met kookdemonstraties, kabouters en ambachtelijke producten.",
+        "Op 13 december wordt in Arganil het eerbetoonboek 'Eterna Natália Novais' gepresenteerd. Daarnaast laat het etnografisch museum zien hoe traditionele lappenpoppen worden gemaakt. Eerder maakte de gemeente bekend 47.500 euro te investeren in zwemles voor ruim 1.300 kinderen en jongeren."
+      ],
+      "context": "Arganil is de gemeente waar ook Coja onder valt; het is voor bewoners van Meda de Mouros een van de nabije centra voor diensten en markten.",
+      "slug": "arganil-honderd-jaar-elektriciteit-kerstmarkt-en-prijs-voor-",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWS11bm1QMndPLXNEaUswZk1QNlJwSllLWXBnSFJqdmxiSUg5NmVrOWJMa1N2aHg2SURTcXNMLWx1RjIyVTRxTWZCUmdCY0QwaXRDamR1X3VIeXd1MnRTejlRbHhKcmhTeFZWTHlJdm83WFRESl9WQ3pDYUM1bXlVdjJXWGREcGZEZXptbUE1RldfQ2s2UVJHTHpTcmV5ZS1PNVNVd1had2dtQQ?oc=5",
+          "title": "Há 100 anos a eletricidade chegou a Arganil. Município prepara celebração - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWRHWkk0WEpQaTNVeTVpaWhfbngyUjJVM2RROERTUElaZEhjUjFXYTlKT1VZM1lZOXlTN1Zwb1VIXzh0dE5OWnZiQUpsclgzVU4wdUNvYWZSaFBtaW52VzRPZEZvNWdVdUtzVEQ2NnJZa01zSFRNQWdBVGZzekpZUl9Ca1BfbW9zZkNwWk1QdUhPMFUwWGRkTktnRjY3Tmt0dGc?oc=5",
+          "title": "Arganil recebe apresentação de livro de homenagem a Natália Novais - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2tnNXB2ejc5VEo5VTlfSXhNT0MwVllXMWtnRG1WZ1h3NkRsT2k4NDk4VG5QZmFQZFc4LUtEVFloaHVpZ01iYjRvWGR3RHlvcS1YVWZQaHBlMDFYRldLMzZReG1iTVBfaVF5a3dOSWpuWVJCRnl5Q05GSWNpcFhwT1ZtSUdxYjJrWWlDSDhndU5VV2UwQXFuSjBkaUdGVjljZk5aUUlScWtSdUdVRDNleTB0ZmZBVUNXNjdrWXpWZ1ZfY1hjQUhxNTRRcXFibkFQOGc?oc=5",
+          "title": "Arganil acolhe apresentação do livro de homenagem «Eterna Natália Novais» a 13 de dezembro - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEFRX3I5UzE2X3lCdXVaQzlDa1kyQ0RmdXNaWEd6dldXZ0Q0dEw4Zmg1MTJUWGdIa0pySlI3T0E1ZlZ6T2dnRERuWTd4YUR1VUx6c0dVeWNYMnFnVExyZmlwOUdveW1ESkNpOXRLSlg0bE9XV2c5dDVvQVN0ZlZZS2FHOUw2Mzh0bkhsaGhYVWNna3dBWm4wLWhXWU5WSGdXeUEtZTJqRWNFN0pHam4tSg?oc=5",
+          "title": "Arganil volta a desafiar os artesãos e dá 500 euros pelos melhores presépios - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSnROTmdmaXJpRFV6VDJoaWVwbXRlMnhObjZ0S0FDVng2c2diRkNUeXBMY19JckJIQS1rMmUtLXNyZ0NEVjRfZkg1WTktcWhCX3hYS3hZZFdVUDFEZWxNZ1puMUZvUXRlX1A5bnk5WWJ1N1VBT0pzSW1uWHMxSzBlSTJvX01RazhDSFJxQkxXdG1taG1sWkFFYkNFYzNONHo0RDRZaWRza05pOGtrQWNwV3NQYW8?oc=5",
+          "title": "Arganil prepara um mercado de Natal mágico com showcookings, duendes e artesanato - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWUtFRFFGc3ltN2hxLVRwYlJzVTc3SllOcHdBWjB4RV81YjNhSGNMNDEyekFhdHljbFo3ZEMyTldvLVdjeU96UnJmbVc5VnMza1ViM1lRTExESTdnZ0lIRmZoeHNEeExiVlA2dTJIX1JvdklUN0dhZmZtUjhvS28xTE1UNVVPYUdRQllnZU1PaG1yejNER04tRFlhY2pTTTVrMHJHUDJKbmVZMFhNLXFkTDFWa2ZnbW8?oc=5",
+          "title": "Núcleo Museológico de Etnografia dá a conhecer a arte de fazer bonecas de trapos - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkk4Z1JMSk9VZE9jeTBWRHFnRmpTaGJDNWVWWmNvYWJRWks2NE00eVhzanNCQUhnSXFlX0lvVlpXSHA3NW9PQy1UMU1yRURwcURNbkFOemM4d0xCWVN2ZTlaamJkcVU3UGxOa0N4Q2dDM0dIMTluU1h1dEpybm9mQzdDUklNWnVLYzRhLXZURnJ5cElPeWxmVTRmZ0Nmd1ZybkdXbDN0MzVfdHY1Q2RPMTJLOWRWeWPSAbwBQVVfeXFMTkY5LVdPYTJHbDBSRnJVamlWVkFCTWctVjY2RXpGTkU4ZXk4elhKb1hBRkNOd1M1eldIS1AwaUJuQVhTVlMtcE9XMUhrU1Y0OUcxZ1ZwVmQ3cU5mZ2w3RnA3SEZuTFJ3TncyZ3p0emtyQk5QMlFVanRKQlVwdE5UaHN5clE3SHlHODRhUzk0MG1fQzlUTHFSWk5SX1U1YXNGZWRjLXgtaE9ZNkxrVXltUXVpNl8xa0lSRGF4czk?oc=5",
+          "title": "Arganil investe 47.500 euros no ensino da natação a mais de 1.300 crianças e jovens - Correio da Beira Serra"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital: nieuw IT-opleidingscentrum en uitbreiding zorg",
+      "category": "Regio",
+      "lead": "In Oliveira do Hospital, ongeveer twintig kilometer van Meda de Mouros, opende beroepsschool EPTOLIVA een technologiecentrum voor informatica en verhuisde een privékliniek naar een groter pand.",
+      "body": [
+        "De beroepsschool EPTOLIVA heeft een Centro Tecnológico Especializado (CTE) voor informatica geopend, een investering van 1,5 miljoen euro.",
+        "De Clínica Saúde Prestige nam nieuwe ruimtes in gebruik, breidt haar diensten uit en wil in de regio verder groeien.",
+        "Verder werd een voormalig hotel omgebouwd tot studentenhuis van de UP de Coimbra, en ontvangt de stad in november 2027 de tiende Academia Europa. Een dorp in de gemeente wordt met Kerstmis omgetoverd tot een 'magische wereld'."
+      ],
+      "context": "Oliveira do Hospital is de dichtstbijzijnde grotere stad richting Serra da Estrela. Het protest over de livestream van raadsvergaderingen en de nieuwe bushokjes stonden al in de vorige editie.",
+      "slug": "oliveira-do-hospital-nieuw-it-opleidingscentrum-en-uitbreidi",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVzY3aVQ3dUN5aHlrbWwzWU5HS3dCU1BsNmF5N3ZWaTJVUmRpUHFZTFhRWHMwS2IwR2U1dkVfeGdBU1ZuV2VadDRWdlQtbV8zVnd4Y0VCb0toRVR6cTh5MWYwS0lzdEJNVEE4MlE5Y3UtNjVWMDhSVFl3bzdpRGpodG9NQy1nYWRBOUV0NGx6Q3B2WHhFOWt5OE0wM0JsNVpQbXpVQUpORTBHSDBYc3JvSGQ2S1h6RjZLekhTS0hZVzVaWkdpYTNmMHNtMVlrOFXSAc8BQVVfeXFMUFc2N2lUN3VDeWh5a21sM1lOR0t3QlNQbDZheTd2VmkyVVJkaVBxWUxYUVhzMEtiMEdlNXZFX3hnQVNWbldlWnQ0VnZULW1fM1Z3eGNFQm9LaEVUenE4eTFmMEtJc3RCTVRBODJROWN1LTY1VjA4UlRZd283aURqaHRvTUMtZ2FkQTlFdDRsekNwdlh4RTlreThNMDNCbDVaUG16VUFKTkUwR0gwWHNyb0hkNktYekY2S3pIU0tIWVc1WlpHaWEzZjBzbTFZazhV?oc=5",
+          "title": "EPTOLIVA inaugura CTE de Informática em Oliveira do Hospital num investimento de 1,5 milhões de euros - - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXzYwY25EQVZEOENnbzJfd2Q5VWo2d01JV1Q2dG1wZU5xTDlLbWJUZnJrSWU2T1dkU1hkdF80NkVhZkxSMW9wZzdlUU8zRWp4RFYwRldsVXVnWGdwRGMwazF4UlIyT3lhSWNMT2NOTmVVQXZ0M1hTY0NxMFZMV25kRUhvSHZmRWdWa2dPa3JqRFFuYk1tZGdZRUZMMGhPT0ZNODdQeTBpaEFmdTVpc09NYV9YV0Z5U21nNlM0WTNRdDFPUXMyQkE4YkgydjlkOExMMkxJcEx6WDg5RTVjWW81RV9JOA?oc=5",
+          "title": "EPTOLIVA inaugura CTE de Informática em Oliveira do Hospital num investimento de 1,5 milhões de euros - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa3YwdUQ3WlVubUhsTjRUTmxDVEJPZG1fT2ZDUEMta01nYXV2a3pJUjhmY2YxRzJmck5BTjFIZFNoaVA2aWxVdTNHQjJwSXkyem80WVlhbjhYdGZvVkw5TXAyTG5kY29WSEFXeVRfd3duWm9nZHAzMWpXU25oNks3Z1RwbWFPMmNfX3ZVVUpUOXNoM3VlZm4wdElud2ZuY1ZhUnBqNEZjSTE4b09DX1M2VkRHbVQ1WG5aUzNWSDMwSnVuUThBSllMbnVURHZXY3pyQmNXTzlBM0NTUFVJYjRLSEVJcVJUeHZIcnNWOVZ3bnVBUQ?oc=5",
+          "title": "Clínica Saúde Prestige inaugura novas instalações em Oliveira do Hospital e anuncia ambição de expansão regional - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkxjemtseXkteHJZM2R0UnpHWlhqaXFYSGVRLU5NX1hvZS0wZkpWWlRLSXQ3RFo2b2c3NW1BMkQ5REU1aTRKWmYtS3hrQmtlS1UtZUNvN3BqaUthS1dwVkNBdjNLM21nVUJKUTJUeTVhWGdsd3EwUDFEYnFTZUl5UWJYSGRDRkFYUTFFUXNxMHRWR0NKVmgzSFhXTHVlVmhNQXo5ckN5bWIzRkFPVW5hb2o1UDNQYlZpWUx0RXB30gHDAUFVX3lxTE44UFJKU2NxVlJQdDljb0JSbVduUmhCcHhTRl9pVUNpM1hCVVVBT3hvLXNDWmgyYURZUThITnpLZHRSSnozYnNyaWFwYktOYi0yTXVkaWlBNDI0UHYtN1hQU0lxR2ZLQmNuSTlfcWt2M2dVaTFuVTVtcHVaWm1sWkZ3bW1SN1lBbmxGaThTWU9VRmtkTUl5bWlDbWlkX1lNZl9DdzdxcFlsX2NrSThhUnFMczhpTmFhdm1qLTFsRjFPOGF0RQ?oc=5",
+          "title": "Clínica Saúde Prestige inaugura novo espaço em Oliveira do Hospital e alarga oferta de serviços - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUk1jcm9DQVVweVVwbXMwX3lsVzNqUE9JS1c1MXNpM0V5YlJZejltejM2MDZ3bEkySEFGQ2hnUFZySkFDODd2LTA4SmIxQy1zRXNlOVhSSFlWVTFVX25aaFVLcTFxTlJJQ09zTWM0LTRZcW5rdW8yd2I5RDBRbllQUFNCMDJ3M2RqenhpSC1QSmw3LWNtNUIwb2hBWW9GTVI5YVdwSWMwaC1YSmpJMHRaTkl6c0dnOW44b2FaQ2hiMm5nOWtaYkFmaEYwUEY3YVNlbVcxb3NKNFJ3UmRl?oc=5",
+          "title": "Antigo hotel renasce como nova residência de estudantes da UP de Coimbra em Oliveira do Hospital - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXBONm1JSzNWdTVHR01pVUJ2Sk9HcnhsSTlEYVBTRlhST1F6S09OWC1QTHZrWFVmMUlkLVNGMHkyekpob0hTU0U3NkdSMzhBeGFhYmZrenNrWGRtS3BfdDBjODZtV19WNU1PTEhxYTNfbm8xdXEzb0VIcEcySTl0ZUFibXhka1N1Qm00QTNzY2lnejdUZnhqSlJSc9IBoAFBVV95cUxOYjBVZ25WMHZ6OHpwbDBuRWV3Q2NDUEN1OHFFY0xHYjdwNlE4MEJlOWM5MUFpUDhtQ29vZXJ2NTVRall6Ukl5dHJYbC1UMXpwVFRZSl80REtkWnRrLXB4UHlBNS1wamxHcEVRS1lZcmVCbDZBMVlYdnlleVhrVTRYWUVjY0ZIam53amRfUUJXQmpBWWR2MmQ3MXhjVjU5MU8y?oc=5",
+          "title": "Oliveira do Hospital acolhe X Academia Europa em novembro de 2027 - Rádio Boa Nova - Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMkc0U3c3ZFh2MnBHMC01bk1kZmRVbzQ1Q0M5R19TRmd5VE5HYm82S054M0RsZGlmdGdZYUYxVjBhLWhDLXJYdFZpVlhmSkE4ZmxCOXV4T250Y00yelJNZGx3NnJILXFNNnBXRHFNaUV4Y0Mwb2JjekJPdV9xVUFDdVhlWkxvcm1pVm5NaDVZRXBYSWZpUHh5OTEtVnBqR2xQYjk3aUpreTF6MUpYZkd2T2doeTZ0UTYzbm04VW5B?oc=5",
+          "title": "Esta aldeia de Oliveira do Hospital vai transformar-se num mundo mágico durante o Natal - Notícias de Coimbra"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "greve geral",
+      "nl": "algemene staking",
+      "example": "Os guardas prisionais entram hoje em greve geral até 3 de janeiro."
+    },
+    {
+      "pt": "serviços mínimos",
+      "nl": "minimale dienstverlening tijdens een staking",
+      "example": "A greve tem exceção dos serviços mínimos."
+    },
+    {
+      "pt": "situação de alerta",
+      "nl": "alarmfase (laagste niveau civiele bescherming)",
+      "example": "O Governo decreta fim da situação de alerta."
+    },
+    {
+      "pt": "evitar deslocações",
+      "nl": "verplaatsingen/reizen vermijden",
+      "example": "A Câmara de Tábua apela à população para evitar deslocações."
+    },
+    {
+      "pt": "combustíveis",
+      "nl": "brandstoffen",
+      "example": "Os combustíveis ficaram mais baratos esta semana."
+    },
+    {
+      "pt": "presépio",
+      "nl": "kerststal",
+      "example": "Arganil dá 500 euros pelos melhores presépios."
+    }
+  ]
+}
