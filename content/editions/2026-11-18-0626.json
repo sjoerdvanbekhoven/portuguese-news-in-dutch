@@ -1,0 +1,343 @@
+{
+  "id": "2026-11-18-0626",
+  "generatedAt": "2026-11-18T06:26:40.281Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 271,
+  "intro": "Vandaag begint het parlement aan de gedetailleerde behandeling en stemming van de begroting voor 2027, terwijl Brussel waarschuwt dat het Portugese begrotingsbeleid na het einde van het Europese herstelfonds sterk verkrapt. De woonprotesten met tentenkampen breiden zich uit, ook in Coimbra, en de regering gaat met demonstranten in Porto praten. Dichter bij huis: opnieuw regen en mogelijk de eerste sneeuw op de Serra da Estrela, en Oliveira do Hospital werkt aan brandpreventie langs de wegen.",
+  "articles": [
+    {
+      "title": "Begroting 2027 in het parlement: strijd over brandstofbelasting en btw, Brussel ziet sterke bezuinigingskoers",
+      "category": "Politiek",
+      "lead": "Vanaf vandaag bespreekt en stemt het parlement de begroting voor 2027 artikel voor artikel. Chega en de PS botsen over voorstellen voor goedkopere brandstof en een btw-nultarief, en de Europese Commissie verwacht dat Portugal in 2027 een van de meest krimpende begrotingskoersen van de EU voert.",
+      "body": [
+        "Het parlement (Assembleia da República) begint vandaag aan de behandeling 'na especialidade' van de Staatsbegroting 2027 (Orçamento do Estado, OE2027): de fase waarin over afzonderlijke artikelen en amendementen wordt gediscussieerd en gestemd.",
+        "Chega-leider André Ventura eist dat de PS haar voorstellen over brandstof en een btw-nultarief (IVA zero) 'heroverweegt'. Hij noemt ze 'fantochada' (poppenkast) en spreekt van 'fraude'. Volgens berichtgeving haakt Chega af op een PS-voorstel om de brandstofaccijns (ISP) te verlagen en dat te betalen met de vennootschapsbelasting (IRC). Tegelijk overlegde Chega met de regering over het opnemen van eigen maatregelen in de begroting. PSD-fractieleider Hugo Soares had al gewaarschuwd voor een mogelijke 'negatieve coalitie' van oppositiepartijen rond woningbouw en brandstof.",
+        "Uit cijfers van de Europese Commissie blijkt dat het begrotingsbeleid tussen 2026 en 2027 volledig omslaat, doordat het Europese herstelfonds (PRR) afloopt. Portugal heeft daarmee de vierde grootste begrotingskrimp van de eurozone; de begroting stimuleert de economie minder dan voorheen. Brussel merkt ook op dat investeringen in Portugal zich steeds meer concentreren in datacenters. Volgens de Commissie wijken haar ramingen maar weinig af van die van de Portugese regering.",
+        "Ook vanuit de regio komen amendementen: de PS-fractie wil met een aanvulling op de begroting investeringen in weg en spoor rond Coimbra versnellen, waaronder de vernieuwing van de IP3 tussen Souselas en Viseu."
+      ],
+      "context": "De minderheidsregering van premier Luís Montenegro (PSD/AD) heeft voor een meerderheid steun nodig van de PS of van Chega, de rechts-populistische partij van André Ventura. Het PRR (Plano de Recuperação e Resiliência) is het Portugese deel van het Europese coronaherstelfonds en heeft jarenlang veel overheidsinvesteringen betaald. De ISP is de accijns op brandstof; die bepaalt voor een flink deel de prijs aan de pomp, wat in het binnenland, waar men afhankelijk is van de auto, direct merkbaar is.",
+      "slug": "begroting-2027-in-het-parlement-strijd-over-brandstofbelasti",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-oe27-arranca-esta-manha-a-discussao-e-votacao-na-especialidade-no-parlamento_a1_1779897",
+          "title": "6h OE27. Arranca esta manhã a discussão e votação na especialidade no Parlamento"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3085885/debate-e-votacao-na-especialidade-da-oe2027-comecam-hoje-no-parlamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Debate e votação na especialidade do OE2027 começam hoje no Parlamento"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSzFsTkhKNi1SUnluYnpobVBfbXVQUW16NlhETk5GYWpadzNUc3lvZVZWZzNkbmw1S2FnWFRRemZranUxc2dPd2NRcVYwUG5ZVzZIVEllckNGTk9PUHpTbmlMUWxhR0VRRjlVX002T0Z2cWkxeUg2SUIzZ2pFa2x6dENqb1JJTHhVWjF5NXRkTzA3bjZCTlBEelhWZkNfUk9jTEpjNHdMbUhiZlZyamROUlM0Smh3YURKZkk1YmhhYi1pRzhwN3E2MmpxWkE3Mi15VUZZS1lYNFlnVkxoLUllaE9kdHQ0RjNJS1J1RkpXTkFEd3JJTkQ1UnV6Z1VNUDd5VEpvQjZEOUZmSlNi?oc=5",
+          "title": "\"Não estamos disponíveis para medidas de fantochada”: Ventura exige que PS “repense” propostas sobre combustíveis e IVA zero - Expresso"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/18/economia/noticia/portugal-tera-2027-politicas-contraccionistas-ue-2195304",
+          "title": "Portugal terá em 2027 uma das políticas mais contraccionistas da UE"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON24xZkJuRHZYbjlVVFZtNDJuUm1kLUNtdjhfYkxqMjUwREI5VDRDVWxGX01Rczd5b0ttenZmMmJ3aDhKV1BWaDZiMlRCb1VINDBMV3VfVDg1dW1rVGVRRTVmNVdDeXRHX0dsLXRaV3dOTEJpS1hnM1g4XzJ3cjdwbmhPeVcwOWpUTEhIT2pOUW05ZC15YmdGcV9MbUpTRkkzQ0FTNXRIWmxfenVBQ1l2bzdienBiSk53TXR5R0doTlJ6Z2FYbUhyMjY2NWVxeERId1d2ZGNUQTZRb3ZTVnc?oc=5",
+          "title": "Portugal tem a quarta maior contração orçamental da Zona Euro após fim dos PRR - Jornal de Negócios"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/17/oe2027-ps-quer-acelerar-investimentos-rodoviarios-e-ferroviarios-na-regiao-de-coimbra/",
+          "title": "OE2027: PS quer acelerar investimentos rodoviários e ferroviários na região de Coimbra"
+        }
+      ]
+    },
+    {
+      "title": "Woonprotesten breiden uit: regering praat met kampeerders in Porto, kamp in Coimbra groeit",
+      "category": "Samenleving",
+      "lead": "De regering nodigt twee groepen van het tentenkamp in Porto uit voor overleg, terwijl het kamp in Lissabon 'permanent' wordt en ook in Coimbra blijft groeien. Minister van Binnenlandse Zaken Luís Neves verdedigt het eerdere optreden van de politie.",
+      "body": [
+        "Volgens de minister van Infrastructuur en Woningbouw krijgen twee groepen van de 'Acampada do Porto' een uitnodiging voor een gesprek met staatssecretaris van Woningbouw Patrícia Gonçalves Costa. Dit is een nieuwe stap ten opzichte van vorige week, toen de regering de protesten nog vooral relativeerde.",
+        "In Lissabon besloot de Acampada tot een 'permanente mobilisatie' op het Restauradores-plein. De demonstranten overwegen daarnaast een kamp voor het parlementsgebouw, zonder het plein te verlaten. Ook in Coimbra groeit het tentenkamp. Het heeft geen einddatum; deelnemers spreken van 'een crisis die iedereen raakt'.",
+        "Minister van Binnenlandse Zaken (MAI) Luís Neves zei dat het veiligheidsrisico bij het kamp 'absoluut zichtbaar' was in bepaald gedrag, waaronder het gebruik van 'voorwerpen en bepaalde taal'. Daarmee verklaarde hij de eerdere charge van de politie. Hij liet weten dat het beheer van de kampen nu bij de gemeenten ligt.",
+        "Minister van de Presidentie António Leitão Amaro zegt dat de regering voorstellen van verschillende partijen over woningbouw en de hervorming van de huurmarkt bestudeert: 'Het is een serieuze dialoog.' De burgemeester van Lissabon, Carlos Moedas (PSD), stelt een regionaal woningbedrijf voor, plus een 'bank' van grond en leegstaande panden in de 18 gemeenten van de regio Lissabon."
+      ],
+      "context": "De 'acampadas' zijn tentenkampen op pleinen, uit protest tegen de hoge huren en huizenprijzen. Ze ontstonden in Lissabon en Porto en verspreiden zich nu naar andere steden. Het MAI (Ministério da Administração Interna) gaat over de politie (PSP) en de GNR.",
+      "slug": "woonprotesten-breiden-uit-regering-praat-met-kampeerders-in-",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2499/",
+          "title": "3h. Governo vai receber dois grupos da Acampada do Porto"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-governo-vai-reunir-com-manifestantes-do-porto-diz-ministro-da-habitacao_a1_1779888",
+          "title": "2h Governo vai reunir com manifestantes do Porto diz Ministro da Habitação"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2449/",
+          "title": "1h. Acampada quer ficar nos Restauradores e alargar à AR"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3085828/habitacao-acampada-de-lisboa-determina-mobilizacao-permanente-nos-restauradores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Acampada de Lisboa determina mobilização permanente nos Restauradores"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONjN6dVdEVmN3ZjJNWHNIeUdLSThrcGdpcUdsTk9wMFFQOEh1ZWtaaXFPRFA2NVdEMXFYR1l3d2ZqOW5LNnBZMEI2YU4yX0tGYUFmQV9SejBUS1lIcDdyRGtWaFh4VEk5T2FKenZHbk5ndXhzclN1NEp5NWZ3LU5iU19xZ2xRVUVVUUd6b0I5VGxDN1dsMFdsZ2VzM2dONVlMcXVyVUo3aEg0VDlUc1pYYUE0QWVGWmQ3NDI3NnNGYWYwMXQ5d2ZxUA?oc=5",
+          "title": "Acampada cresce em Coimbra e não tem data para sair: \"É uma crise que atravessa toda a gente\" - Jornal de Notícias"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/18/politica/noticia/luis-neves-mandou-carregar-manifestantes-mal-criados-2195328",
+          "title": "Luís Neves mandou carregar porque os manifestantes eram malcriados"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1BhcUtHU2FvSVlCQThZTEdXR3pTaWo4UDA4UnRPSlJWODRhYm5NdVY5SWllMTBlV0w4TU1mbG5uTy1ITzdxT3ptRERxY1gzdVVsSmQ3VFAza1lFOGU3aHd6Rzl0YlBZNldzbE9wSEVOMUZxa29MenIzcTAwWUw1S3VSNXRMTVRaOXA4MDY0OXRWSGJIYUx5bkpKbkIzS3lQRm5RWTNWMWxuSWtXdlhLaQ?oc=5",
+          "title": "Luís Neves mandou carregar porque os manifestantes eram malcriados | Podcast Soundbite - Público"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/17/governo-estuda-varias-propostas-da-oposicao-para-habitacao-e-um-dialogo-a-serio/",
+          "title": "Governo “estuda várias propostas” da oposição para habitação. “É um diálogo a sério”"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/17/moedas-sugere-criacao-de-empresa-metropolitana-de-habitacao-na-regiao-de-lisboa/",
+          "title": "Moedas sugere criação de empresa metropolitana de habitação na região de Lisboa"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/18/opiniao/editorial/protesto-espera-acontecer-2195274",
+          "title": "Um protesto à espera de acontecer"
+        }
+      ]
+    },
+    {
+      "title": "Weer: code geel voor regen, code oranje aan de kust, mogelijk sneeuw op de Serra da Estrela",
+      "category": "Klimaat & Natuur",
+      "lead": "Het weerinstituut IPMA heeft acht districten op het vasteland onder code geel gezet vanwege regen. Zeven districten hebben code oranje voor hoge golven, en donderdag kan er sneeuw vallen op de Serra da Estrela.",
+      "body": [
+        "Het IPMA heeft voor acht districten een gele waarschuwing (aviso amarelo) afgegeven vanwege de verwachte regen. In de berichten staat niet om welke districten het gaat; kijk voor het district Coimbra op de website of app van het IPMA.",
+        "Langs de kust geldt in zeven districten een oranje waarschuwing voor 'agitação marítima': hoge golven en een woelige zee.",
+        "Door de komst van een nieuwe luchtmassa kan de Serra da Estrela donderdag 19 november wit kleuren. Dat gebergte ligt ten oosten van Oliveira do Hospital en is vanuit de omgeving van Meda de Mouros vaak te zien."
+      ],
+      "context": "Het IPMA (Instituto Português do Mar e da Atmosfera) is het nationale weerinstituut. Het werkt met de kleuren geel, oranje en rood. Na storm Charles van vorige week is de grond op veel plaatsen nog verzadigd, waardoor ook bij code geel wateroverlast op hellingen en lokale wegen mogelijk is.",
+      "slug": "weer-code-geel-voor-regen-code-oranje-aan-de-kust-mogelijk-s",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-oito-distritos-do-continente-sob-aviso-amarelo-do-ipma-devido-a-previsao-de-chuva_a1_1779890",
+          "title": "3h Oito distritos do continente sob aviso amarelo do IPMA devido à previsão de chuva"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3085880/aviso-laranja-em-sete-distritos-devido-a-agitacao-maritima#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Cuidado! Aviso laranja em sete distritos devido à agitação marítima"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/serra-da-estrela-pode-acordar-coberta-de-branco/",
+          "title": "Serra da Estrela pode acordar coberta de branco"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital maakt brandstroken langs gemeentewegen vrij",
+      "category": "Regio",
+      "lead": "De gemeente Oliveira do Hospital, zo'n 15 à 20 kilometer van Meda de Mouros, maakt de verplichte brandpreventiestroken langs het gemeentelijke wegennet schoon.",
+      "body": [
+        "De gemeente voert 'faixas de gestão de combustível' uit langs haar wegen: stroken waar struiken, lage begroeiing en brandbaar materiaal worden verwijderd of beperkt. Zo kan een bosbrand zich minder snel langs wegen verspreiden en blijven wegen beter bruikbaar voor brandweer en evacuatie.",
+        "De gemeente noemt het een versterking van de preventie. Volgens de bronnen gaat het om werk langs de gemeentelijke wegen; details over trajecten of kosten worden in de aangeleverde berichten niet genoemd."
+      ],
+      "context": "In Portugal moeten eigenaren rond huizen (meestal 50 meter) en gemeenten en wegbeheerders langs wegen de begroeiing beheren om bosbranden te beperken. Dit is ook voor een quinta-eigenaar relevant: rond gebouwen gelden dezelfde regels, en de GNR controleert erop. De winter is de periode waarin dit werk gebeurt, ruim voor de wettelijke deadline in het voorjaar.",
+      "slug": "oliveira-do-hospital-maakt-brandstroken-langs-gemeentewegen-",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDliUDhpOFFlUzliWG9OMWJJWUxOYklrWkJGNEN5QXBRczF4VXhQX1ZxZG5WZmVodzAyZGZpb3dISVBpLVdET2M2X3VvWk1VWGFKWE05U0REbjhuU2ZkdTA0X1RCZ2tBYzBWb2RjMXAwZnB2Y0cwTE9qbmVPOERqQVl0RGpNRXVMLWFpV1dpVkdqZ3NJSHF5ZUlOOG1DNV91a3VFbVM3VlBDMkdXX0NUV182dzZIUdIBuwFBVV95cUxNNmM5WlUzUzV3MWdwTnlfbEF1XzhBdjFLU2hJbEtSa2d5YmxSbG01UjItdjRGTi1ITDZqbE9Rb2sxUXNQTVdEbkg0S3g1VVUxeUhUa1kwZXhxQnh3VW9YTnlkZTl2NFBjalVyNTd6TnpqMGJTTllXY3JVcGw5SEpUNFA4aEI2Nl9VeGp3Y1pLUk9RSHY0ampDM2laVUlLcXh3WW9ZdUNVV3FGQ2gtQV92VkhRSXFCeEx6OFBj?oc=5",
+          "title": "Oliveira do Hospital avança com limpeza de faixas de combustível junto às estradas - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV00tS2Z4RVhkZklqNXZvZjFoSGtoTWhxbWJ0YWI4X0x2Sk5ROFk4OGlEeHNac01jVnc0NDNsSkctcUI1bzJoZW5WbFdyMzRHUVVodG1IRzBuUDBKWGdSbDl5ekxsSVB2el80MWU3NTljMUlJNzBHZE9lTE1Scm1qMWJmWnhLZDVKMjh5MzJsSmlOaE1kWWxRMGRTUDBabzB1WU45aDlzSGM1a3VyZjFNMGxEYkFUa2tQcFJjQmxVbE5nd3JLbHJSS3EzMEFQUXZaNUtnc1lwWkZDZVU5a2d4UA?oc=5",
+          "title": "Município de Oliveira do Hospital reforça prevenção com execução de faixas de gestão de combustível - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdldON0NONmZNajhjT0JHcDNKV3dZaWxXdjltV1doLVN3ajhIVTZFbTJJNHV2cm1nSzdCa05DREEzMVNIbDhyZ0duYVhxY2lBb1VXUHNiOTdJWjlyX1pQelJHMDRUTUVjQ01LNFNHaUlyWDZLTFRIaVpfbHlWdVdHTFVBT0o0bFBfTG14NVJEWnNBbGFNTDFLbnEwVVhoX2xPU2FacXJPcUhIV1FRZnUwWXVFbWVyNEhoa3Fpb1djTEdPV3lvMlJlZ2FOQjg3TGNRN2lTVFFsbkJCUDdVT0tzZE1SZw?oc=5",
+          "title": "Oliveira do Hospital executa faixas de gestão de combustível ao longo da rede viária municipal - Central Press"
+        }
+      ]
+    },
+    {
+      "title": "Festa do Queijo Serra da Estrela keert terug op 13 en 14 maart 2027",
+      "category": "Regio",
+      "lead": "Oliveira do Hospital heeft de data bekendgemaakt van wat de gemeente het grootste kaasfeest van Portugal noemt: 13 en 14 maart 2027.",
+      "body": [
+        "Het feest draait om de Queijo Serra da Estrela, de beroemde schapenkaas uit de streek. De gemeente Oliveira do Hospital, zo'n 15 à 20 kilometer van Meda de Mouros, verwacht dat het evenement de stad opnieuw zal vullen.",
+        "Meer details over het programma staan niet in de aangeleverde berichten."
+      ],
+      "context": "Queijo Serra da Estrela is een beschermde streekkaas (DOP) van rauwe schapenmelk, gestremd met distel (cardo). Oliveira do Hospital ligt binnen het productiegebied. Het feest is een goede gelegenheid om lokale kaasmakers en herders te leren kennen.",
+      "slug": "festa-do-queijo-serra-da-estrela-keert-terug-op-13-en-14-maa",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazVUVmM1dEdoS0NRYURlOEhVdUZMSkd5b3JEM3hnb3JvcmRTeFhTS21JNmxFYXloQUo0UmZ2UDZQTjgzR1Vpd3piaThPbHNkN0NZTDFxMy1PZkxDcElFeVItRElHWm04OHVTUEhuUm1KT1k0d2NLeGQ1Ql9uY2FHcUdoMy0weW5oMnpZSko1RjRmRnY3bmVoaXdXaW04aDkzNHdMZkgzS2wyR1hSQmhHcjFGdXpKTE9hNlVnVmIzcDVaTkFpUWdOUlJR?oc=5",
+          "title": "Maior Festa do Queijo de Portugal regressa a Oliveira do Hospital a 13 e 14 de março de 2027 - Câmara Municipal de Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOEU5V2s1bDJ6REFEZVB1UUVVbVdmMW82VlJUaXdJMVNRS3l4WWMtcXhHTnZuZXJPeWlGTGhVNExqT3M0d1NhVGd3SmFHamthcWktNE5RQU11VnhQMEVwbldRbGc4a1VrUkhsMUdZRVRpamIwaGd5THNDVXJMZmhfaklGbnZHMUZ4NUpCVU00X0xZMC02clluM2hKMHNzeXZrMzdzYkkwVHhCRFdPSmlvRVBDclFmTkRT?oc=5",
+          "title": "Queijo Serra da Estrela volta a ser rei em Oliveira do Hospital. Já sabemos as datas - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcE5FY2JPY29QM1NuNlFNZU5TVXlYYUtNUndUNUZWdWlLWFRYY3NsUE9LWEVJTlpZNHRnT0pPQXBWOXZMdWs3cHI5STN6OG5Ga1M2UUliVUhVX2FzRUh4aWdiZnBaR1RXczBXZnc3S3h6S2ZJZ3hudmI2QWZTa21SU3BRVjR2VEJYaXpPb1ZfX1dYWFZBU0NUeVFPbkdsaEZFVkdHU3hXWWJPZFd3aUlmYW8zY2EwVlRkUEpTaUxrOA?oc=5",
+          "title": "Oliveira do Hospital põe a mesa para a maior Festa do Queijo Serra da Estrela - Campeão das Províncias"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlUxUENPaEZWTnoxZ0dkZzR5R1pLbk1vOFlKVFNLem1Ic0FxYldtRVVVMGZJX1duakU1bFB6aXdIdG51S1hJRWQ3d0sySEtwQTRhWkZkX3pLZVA2Z3JJNDI3NUVHMi1QS0VzMWRNMkViSklpOWJUVnBhU2JSUVRaNFZfVVYxQ3FCRWlJVG9rVFMxTXFUdUw0Q2dLekpFek0xaTJJNXBQQ1lla3JCUzMzcl9CeWJoaTVoV3pKOUpVTDVDb0ZYeU1DWEFuRzVRLWhlRnZIX3NXQTc4RC1HY3RTTw?oc=5",
+          "title": "Maior Festa do Queijo de Portugal regressa a Oliveira do Hospital nos dias 13 e 14 de março de 2027 - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbG43b1VkLURqbk5XWG1temR5cFlrOThreGE4THdrSWt6UEJsWWdvVnc1QWF0SVJPZ01UYXBESFh1cUdEVVE4a0Y1QmtLXy16UjdFZG1NUkFPelQwTS1PSlBXUkhJWFRXaGhrLVJIbXA4QldGcUVLWHR2UkRROWlZNjVXUkZtbnFGR0tSSzl4TGFvbDJ2cXlKczZyUlFoWVhzbzZ5TlBBek5MeW00d0FEenB4bjJvUnM5SXFEWDhsWQ?oc=5",
+          "title": "Festa do Queijo regressa a Oliveira do Hospital a 13 e 14 de março de 2027 - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnVGaHpwbThHUzRjRG5yV2lOZXV4akVVODFPSVdZV3J5MHVxeV9fSlptdFp6WldmVXEyR0JueHZOQlF0S0VhS19PcFFLQmNWbC1iN1FwZi1xN0U4RU9ZRjVjYWJXdmoydy15OXRwbEJob2hYa1NKTGF2RExRNUMtOWlfT2h3bnZCbmNhaWN4eDZVbmJGTUtuRnoxZTA4MEFnSW9CV1JOSEY0WDdWMUpDT1JuWHJ4VDRfVl9ZdVk3Wnpic1N0aXJsallnYzlSdw?oc=5",
+          "title": "A maior festa do queijo Serra da Estrela já tem data e promete voltar a encher Oliveira do Hospital - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmFwbGE5ekVTX2Z5a3lVdm9YUzhQS3hyWFcyQldiZEdkVDVfZkNOc05OSGM2Qy02OGxCTDEwcExnLVNmX3JEMmV1Zk9yRURtdmF6bWtBV3l3Rk1QdkdQZktCQmg2ajBhNEo3SW5ja0s2N0xBcnhtUll3LUVZckFvT3J5d1c0V1J6VllwQ1Q5VVI4MHFlZ1IxV2wxRFJ2djZhMXNjdlA3VWNsNjV4VmRkTFcyVGdROWl5Zl9QOUtZNmRhOUJlWEczQmFPQkc?oc=5",
+          "title": "Festa do Queijo Serra da Estrela regressa a Oliveira do Hospital a 13 e 14 de março de 2027 - Diário de Coimbra"
+        }
+      ]
+    },
+    {
+      "title": "Tábua: regering benoemt bestuurscommissie in een freguesia, gemeente deelt fluiten uit",
+      "category": "Regio",
+      "lead": "De regering heeft een administratieve commissie benoemd in een freguesia van de gemeente Tábua, waar Meda de Mouros onder valt. Daarnaast geeft de gemeente fluiten aan alle leerlingen van het eerste leerjaar en heeft ze een kerstprogramma tot januari.",
+      "body": [
+        "Volgens Notícias ao Minuto heeft de regering een 'comissão administrativa' benoemd in een freguesia van de gemeente Tábua. Het bericht van 12 november vermeldt in de aangeleverde kop niet om welke freguesia het gaat of wat de reden is.",
+        "De gemeente Tábua (Município de Tábua) geeft de kinderen van het eerste leerjaar van de basisschool een blokfluit.",
+        "Daarnaast heeft Tábua een kerstprogramma dat doorloopt tot in januari."
+      ],
+      "context": "Een comissão administrativa is een tijdelijk bestuur dat de regering benoemt wanneer een gekozen bestuur, bijvoorbeeld van een freguesia (de laagste bestuurslaag, vergelijkbaar met een deelgemeente), niet kan functioneren. Het bestuurt dan tot er nieuwe verkiezingen zijn. Wie wil weten of het om de eigen freguesia gaat, kan dat navragen bij de Junta de Freguesia of de Câmara Municipal van Tábua.",
+      "slug": "tabua-regering-benoemt-bestuurscommissie-in-een-freguesia-ge",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazVaR1dyblo3ZHpOUUxNdDNVLUFlQkN5NUxlTWxoU29rZ2ZDMVVvMkdCajhUT2xTWVFzRzExRWRIM3NTY2xibm4ySVlWWlVleF9uUTkzWVZqSW1jeU5BanU2T3p1RlpKTzM1cUt1ajFhLU40RDc1VE5zWElOQ0tvRzN6bzNscl9YWFFvVzBXemh6SmtYSzBVN2FjRTRvakl0UTdKM0ZNdFc0eDRENlBQbmJ2S3J5SmdtWHc?oc=5",
+          "title": "Governo nomeia comissão administrativa em freguesia do concelho de Tábua - Notícias ao Minuto"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWlWSXVHQjRaZnVEazFHb0JWdng5WHh5anpTNzE2a1dFQWNYT2dxYTlpWGJyX0FpTW9jSVN1TkxONmFHTl9udlB1Vm16SEZVRGdWaVE1Q1NueWxqTmluMVdjNmI5NmdzeEUyZVMzZndsYmRSUG8yeXB0MVVQYmdHRXFCSUZXZW90Z2dpT3FR0gGTAUFVX3lxTE0tNXZjZVE0dXFza2o3SjF0ZXk5UWdTbjc0VU9CTDJieWx4VHRWaFRaYkt2UzBGaUQ4dWZkWXVOQ0hpZl9HVDFwOWtvRm9DZk9YUG1iZXBNaDktdVNuYldVM3BPZ3JZTVBkN0NCazNCamluNk1lcWRWNkJwczRsa0NlYldfbHVUdDdWX0M4NDBiaXp0OA?oc=5",
+          "title": "Município de Tábua oferece flautas aos alunos do 1º ano - Rádio Boa Nova - Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0FQNlV3WWZvcGtKeklpQjdUZ3dkWXNvczFmb2xwMS16UUxkeTVIamRUQThBV184UUVzeU80dGFZVng2T3ZpemZFUFZfMXA4TXY1SW9RdERMQzRPR19rQVdDLXBBRUxPRjRUSFVXOTNadkpYdWhBX01XU2U4Z1gwX0xQSFowSzhyMDNSYklXUXJBVVpoS1ZNOXJUb21nLWNnMDJpOFhFT1NBUQ?oc=5",
+          "title": "Município de Tábua oferece flautas aos alunos do 1º ano - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVW1OOHhmN3FNQTlrejNadUlxMFo4ZktWODlVb1BwMHpYX1ZHbnNzd0pyOURFRW52SkVlU1plUVl5RXpNWVNab3JHSVhiMnhhbmROMXh6UmVLS0RLSTMtdzhuNVB3Sy1Gd1VuS3pVcmtXb1EzVHVRNzE3dUM5eHZ4VnFQUjN6akk5eHQwWnRmcFNENWpjM0MycVRYNVZmdkdIS0E?oc=5",
+          "title": "Município de Tábua com programação de Natal até Janeiro - Campeão das Províncias"
+        }
+      ]
+    },
+    {
+      "title": "Wie de gezondheidslijn SNS 24 belt, krijgt eerst kunstmatige intelligentie aan de lijn",
+      "category": "Samenleving",
+      "lead": "De telefonische gezondheidslijn SNS 24 neemt nu op met een AI-systeem. Dat moet sneller werken, maar herkent niet altijd de klachten.",
+      "body": [
+        "Volgens Público neemt bij SNS 24 inmiddels kunstmatige intelligentie de telefoon op voordat bellers een verpleegkundige spreken. Dat moet de wachttijd verkorten.",
+        "Het systeem begrijpt symptomen niet altijd goed. Daardoor moeten bellers hun verhaal soms helemaal opnieuw vertellen zodra ze een verpleegkundige aan de lijn krijgen.",
+        "Ook op ander zorggebied klinkt bezorgdheid: het Europese centrum voor ziektepreventie (ECDC) meldt dat jaarlijks meer dan 35.000 mensen in de EU overlijden aan infecties met antibioticaresistente bacteriën. Dat is vergelijkbaar met griep, tuberculose en hiv samen."
+      ],
+      "context": "SNS 24 (telefoon 808 24 24 24) is de gezondheidslijn van de Portugese nationale gezondheidszorg (SNS). Een verpleegkundige beoordeelt je klachten en verwijst je door naar huisarts, spoedeisende hulp of zelfzorg. Engels spreken is vaak mogelijk. In het binnenland, met grote afstanden tot het ziekenhuis, is het een belangrijke eerste stap.",
+      "slug": "wie-de-gezondheidslijn-sns-24-belt-krijgt-eerst-kunstmatige-",
+      "sources": [
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/18/sociedade/noticia/sns24-queremos-falar-enfermeiro-enfrentar-ia-2195314",
+          "title": "SNS24. Queremos falar com um enfermeiro, mas primeiro temos de enfrentar a IA"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/resistencia-a-antibioticos-mata-35-mil-pessoas-por-ano-alerta-centro-europeu_n1779894",
+          "title": "Resistência a antibióticos mata 35 mil pessoas por ano alerta centro europeu"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/mundo/3085876/resistencia-a-antibioticos-mata-35-mil-pessoas-por-ano-na-ue-alerta-ecdc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Resistência a antibióticos mata 35 mil pessoas por ano na UE, alerta ECDC"
+        }
+      ]
+    },
+    {
+      "title": "COP31: Portugal zegt op koers te liggen voor 35% elektrificatie, maar sector vindt het traag",
+      "category": "Klimaat & Natuur",
+      "lead": "Op de klimaattop COP31 ligt een doel op tafel: in 2035 moet 35% van het energieverbruik elektrisch zijn. Portugal zegt dat te halen, maar een brancheorganisatie spreekt van een traag tempo.",
+      "body": [
+        "Volgens staatssecretaris van Energie Jean Barroca is Portugal 'op de goede weg' om het elektrificatiedoel van 35% in 2035 te halen of zelfs te overtreffen.",
+        "Een brancheorganisatie noemt de vooruitgang van Portugal wel optimistisch, maar 'traag'.",
+        "Portugal presenteert op de top ook een routekaart voor de overgang weg van fossiele brandstoffen."
+      ],
+      "context": "Elektrificatie betekent dat apparaten op fossiele brandstof worden vervangen door elektrische, zoals warmtepompen en elektrische auto's. Portugal haalt al een groot deel van zijn stroom uit wind, water en zon.",
+      "slug": "cop31-portugal-zegt-op-koers-te-liggen-voor-35-elektrificati",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/17/cop-faz-mira-a-35-de-eletrificacao-portugal-otimista-mas-lento/",
+          "title": "COP faz mira a 35% de eletrificação. Portugal otimista, mas “lento”"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPajZETXNNeDZmSGtReFNPaGpRZnMxc0tpLUJxUEtudDNkSDBGUlRFak5tMjcwemxYaEpzWE5mNjR3VHVZWVdqamhwZTRaY1hzWnBvZEdPMzBzYzR5dkNsV2xrVDBEWnloYkVFWGsyVHA0cWlVOUFUYS1Oc1N1N3poV0xCeFU0TGZ2eFdOUnJZVUhIMld5UXFYams3cWM4OGU4bmt4b0pNY3ZjU1hyZnVZYVZBYjFKcC1VM19XckY2ME9oZXR1Qlk0QUVWVjAzQjNvczFDMWZVdEdkcm5hT09pUXBZSzBtb0hBcnBDYlA1M3hwUjVrOUVOeGFSbGhvRjY1M2NyRm9sNXNfZkQwc0ZR?oc=5",
+          "title": "COP31. Portugal vai apresentar roteiro para a transição dos combustíveis fósseis - CNN Portugal"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "aviso amarelo",
+      "nl": "code geel (weerwaarschuwing)",
+      "example": "Oito distritos estão sob aviso amarelo devido à previsão de chuva."
+    },
+    {
+      "pt": "faixas de gestão de combustível",
+      "nl": "brandpreventiestroken (vrijgemaakte strook langs wegen of rond huizen)",
+      "example": "O município executa faixas de gestão de combustível junto às estradas."
+    },
+    {
+      "pt": "Orçamento do Estado",
+      "nl": "rijksbegroting",
+      "example": "Arranca hoje a votação na especialidade do Orçamento do Estado."
+    },
+    {
+      "pt": "agitação marítima",
+      "nl": "woelige zee, hoge golven",
+      "example": "Há aviso laranja em sete distritos devido à agitação marítima."
+    },
+    {
+      "pt": "acampada",
+      "nl": "tentenkamp (als protest)",
+      "example": "A acampada cresce em Coimbra e não tem data para sair."
+    },
+    {
+      "pt": "utente",
+      "nl": "gebruiker van een openbare dienst, patiënt",
+      "example": "Os utentes têm de repetir a informação ao enfermeiro."
+    }
+  ]
+}
