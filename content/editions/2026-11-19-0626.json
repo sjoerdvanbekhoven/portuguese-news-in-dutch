@@ -1,0 +1,434 @@
+{
+  "id": "2026-11-19-0626",
+  "generatedAt": "2026-11-19T06:26:49.977Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 242,
+  "intro": "Het parlement is begonnen met de stemmingen per artikel over de begroting voor 2027, en de minderheidsregering verloor meteen op pensioenen en huur doordat PS en Chega samen stemden. In de Serra da Estrela richtte zware regen schade aan in Manteigas, en vanaf donderdag wordt het kouder. Dichter bij huis blijkt dat Oliveira do Hospital, Tábua en Arganil weer inwoners winnen.",
+  "articles": [
+    {
+      "title": "Begroting 2027: regering verliest eerste stemmingen over pensioenen en huur",
+      "category": "Politiek",
+      "lead": "Op de eerste stemdag over de afzonderlijke onderdelen van de begroting voor 2027 hebben PS en Chega samen meerdere voorstellen aangenomen tegen de zin van de regering in.",
+      "body": [
+        "Het parlement stemt deze week over amendementen op de begroting voor 2027 (Orçamento do Estado, OE2027). De regering van de AD (PSD en CDS) leed daarbij woensdag haar eerste belangrijke nederlagen, met gevolgen voor de overheidsfinanciën. De sociaaldemocratische PS en het rechtspopulistische Chega stemden samen, bij verschillende voorstellen gesteund door de linkse partijen, PAN en JPP.",
+        "Pensioenen: eerst werd een voorstel van PSD en CDS aangenomen waarmee de regering in 2027 opnieuw een eenmalige extra uitkering aan gepensioneerden mag geven als de begrotingsuitvoering dat toelaat. Daarna werd een PS-voorstel aangenomen dat zo'n eventuele bonus omzet in een blijvende, extra verhoging van de pensioenen.",
+        "Huur: op voorstel van de PS moet de staat een publieke garantie invoeren die achterstallige huur en schade door de huurder dekt. Doel is het risico voor verhuurders te verkleinen en jongeren en middeninkomens makkelijker aan een huurwoning te helpen. Tegelijk werden voorstellen om huisuitzettingen te stoppen en staatspanden voor huisvesting te gebruiken weggestemd; wel veranderde de PSD haar stem bij vijf andere woningvoorstellen, die daardoor alsnog werden aangenomen.",
+        "Overheidspersoneel: overheidsdiensten moeten vacatures openstellen voor medewerkers die via het Europese herstelplan (PRR) zijn ingehuurd en structureel werk doen. Ook moet de regering maatregelen nemen om ambtenaren niet-meegetelde diensttijd terug te geven. Een voorstel van het Bloco de Esquerda tegen nep-stages werd eveneens aangenomen.",
+        "Opvallend: op voorstel van Chega, gesteund door PSD en CDS en met onthouding van de PS, moet de publieke omroep RTP in 2027 weer stierengevechten (touradas) uitzenden, als onderdeel van 'het erfgoed van de Portugese volkscultuur'. Ouders van kinderen met kanker mogen voortaan in de zwaarste periodes tegelijk verlof opnemen."
+      ],
+      "context": "De AD-regering van premier Luís Montenegro heeft geen meerderheid en is afhankelijk van PS of Chega. Een 'coligação negativa' is de term voor een toevallige meerderheid van oppositiepartijen tegen de regering. De eindstemming over de begroting staat voor volgende week woensdag gepland.",
+      "slug": "begroting-2027-regering-verliest-eerste-stemmingen-over-pens",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/especiais/pensoes-garantia-publica-no-arrendamento-medicos-a-saltar-de-posicao-remuneratoria-ps-e-chega-dao-dores-de-cabeca-ao-governo/",
+          "title": "PS e Chega unem-se nas pensões, arrendamento, função pública"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/governo-sofre-derrota-nas-pensoes-e-no-arrendamento-ao-primeiro-dia-de-votacoes-do-oe2027/",
+          "title": "Governo sofre derrota nas pensões e no arrendamento ao primeiro dia de votações do OE2027"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/ps-e-chega-impoem-conversao-de-eventual-bonus-aos-pensionistas-no-proximo-ano-num-aumento-permanente/",
+          "title": "Oposição impõe conversão de eventual bónus aos pensionistas em 2027 num aumento permanente"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/governo-fica-autorizado-a-pagar-novo-bonus-aos-pensionistas-em-2027-se-contas-publicas-o-permitirem/",
+          "title": "Governo autorizado a pagar bónus aos pensionistas em 2027 se contas públicas o permitirem"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/oe2027-bonus-aos-pensionistas-sera-permanente-se-for-aprovado-no-proximo-ano_n1780102",
+          "title": "OE2027. Bónus aos pensionistas será permanente se for aprovado no próximo ano"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-ar-suplemento-extraordinario-para-os-pensionistas-torna-se-permanente_a1_1780120",
+          "title": "23h AR: suplemento extraordinário para os pensionistas torna-se permanente"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/oposicao-forca-garantia-publica-para-arrendamento-contra-vontade-do-governo/",
+          "title": "Oposição força garantia pública para arrendamento contra vontade do Governo"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/19/governo-vai-ter-de-criar-garantia-publica-para-arrendamento-proposta-do-ps-passa-com-mao-do-chega/",
+          "title": "Governo vai ter de criar garantia pública para rendas do PS"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/ps-e-chega-aprovam-concursos-para-integrar-trabalhadores-do-prr-na-administracao-publica/",
+          "title": "PS e Chega aprovam concursos para integrar trabalhadores do PRR na Administração Pública"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3086485/oe2027-ps-e-chega-mudam-voto-para-salvaguardar-postos-de-trabalho-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "PS e Chega mudam voto para salvaguardar postos de trabalho do PRR"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeHJvT2NBYjhWWlFUQ2VZa0d6OXB1RDNudlhxVGhJR1RtRkRNUmxqUDdxeWxvLTI3UV90SW82TGMyNXI3VTlnSUV0V3pLNXZKUzVPUXlfNE9xVjlZLVFKVG9iNmh2ZFYyYkxaVU1VTmZuZVlpQ2Z2TWdnN2NWSXBlb2N5U0pKVVNsQ0FmUnRQUUt3YmJrV2Q3OWs5VlBZTldESVdBRjFyNmhPM1UyamplT0ZMWkJQOEtHVDdsaUI3R1YtOWNBU19vVTFPRWpCcWJtUkVVQUVLRWd1R1hNbm5GM2hmMlVaVEpiTWo0dTdHUmJHTURFSE5FZTVLME9zVkZnTkVyNl9YYzdRUQ?oc=5",
+          "title": "Governo obrigado a tomar medidas para recuperar tempo de serviço dos funcionários públicos - CNN Portugal"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/oe2027-propostas-para-a-habitacao-quase-todas-chumbadas_v1780084",
+          "title": "OE2027. Propostas para a habitação quase todas chumbadas"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNC1rWEhjNzZiMENWT1pWM3FKVm5yMjQySm10ZDJZOEcwR1VRdWZkVVc5bWVPQlBsa0tBRWhtcnMwZE9DZGptdW5VSk4tUUFxZE0walFhN3FFRnF3SXptQWd1NkZwSjVuU3pDWHBjTFdQaC1WQ2xTZmRIc3QyNDBXVlEzdGcwcTY5LWxGeC1EeEJzOGJmSWVlQktVdWZ5ZjZNZlZwajVlRmx5WGF5S1BfMEpKU1ZYVmNRdzNGOENMdzd3dw?oc=5",
+          "title": "Propostas para travar despejos e usar imóveis do Estado para habitação foram chumbadas - Público"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMTNVU2JzRzA3NEtpaG1xOFpydXBxekhia2p5a0lKYkVIQ1dXbFNHR2FNcS1WdWZJejd1eXBMOEhsYURvSnBkSlkyTEV3WThGTHRxZEJXbzFSR0t0S3RCRk9nZWN1MGl4clNJc2djeGF2ZmloRFc5dmJ5Q3F3d3plcU1tSVd6MkYwVGdOc2FIRXo1aFNIc21MRENsajRza1pxakI0djdWdEZCT1RfSXl3RDlTSkNVMWdtUzNucllEWFNYZFZZV25RNTlvQ2ZkaFlKaVpoYkg3bHdRcEpoa240cmYxQVZwYkMz?oc=5",
+          "title": "OE2027: PSD muda voto em cinco propostas sobre habitação que passam a aprovadas - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeDdzU3Fydko1WDhIWVFyZUp5V2ROTWxTUTY2VTRWNmxTTDBYUHJTYnd6MEFKSXN2dzBzNVpTY1dWZzNCdTF3RlBmNzEwR2stLUZGck9NNm9kSU9MZTZzZGNPVk04Mjc1ZmFLeC1yRjFTTzZDU0tZRkJOeXVXRS14S2FXRUpweldCa0N1SW5lNjh5U21sc2plRHpQcGpCUUVlMG5IT1JwZ3piRGRwNGY0Y1dmT2t2WE01SE9kMHJMYmFjZGs4S3NyWUpnd1dkb3kwQ0hZWmZsUWN6cnhzMk9F?oc=5",
+          "title": "OE2027: aprovada proposta do BE para combater falsos estágios - CNN Portugal"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/19/rtp-tera-de-voltar-a-transmitir-touradas-em-2027/",
+          "title": "RTP terá de voltar a transmitir touradas em 2027"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/rtp-vai-ter-de-assegurar-transmissao-de-touradas-proposta-do-chega-teve-abstencao-do-ps/",
+          "title": "RTP vai ter de assegurar transmissão de touradas. Proposta do Chega teve abstenção do PS"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/pais-de-criancas-com-cancro-passam-a-poder-tirar-licenca-em-simultaneo-nos-momentos-mais-graves/",
+          "title": "Pais de crianças com cancro passam a poder tirar licença em simultâneo nos momentos mais graves"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcVJ4UUZDUWpuR1UwcFRLbklDaGNaRjlzNzU0QjRVTUpnM1U3eklUMnJ3S3hTTS03LVdGRktOMy1Bal9RYWZleVZWN0VMSXd4eEdnU3A2U0E3RkVQWVFnVDdtTjJpUjJ1Sjh3OW5NVmFzdFRnTHhYbGpaNHhZZ0EwMDQ3Q2lmaGxEa3h6Um1OMGV6ZzBYWGFhVk1YX1ltVjZqNGxWSHNJNHFZbjg3bkxoQ29IS2RKT2ZLUHpnekctVUNUOGdOY0VCNWhmbVVJeUdOZUFuR3V4cTFacWpXdjR0YW1rQ0ZtRDdXVlZRS2w4Wjh1UlNYeW9yTEFn?oc=5",
+          "title": "Pais podem ter licença em simultâneo para acompanhar filho com doença oncológica - CNN Portugal"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3086495/aprovacoes-a-revelia-e-mudancas-de-voto-o-1-dia-das-votacoes-do-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Aprovações à revelia e mudanças de voto: O 1.º dia das votações do OE2027"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1NjSWlwcnlzTEM3ZUtNenM2cUZvVE1aUzdiTWdTTGZyUmI2MkNSY1h4R24zdEllbHZZM3dLdl9GOG9XVTFjdnRSNEpRT0VfWUY0RV8xdkI1ZGh1QmNFTk9jMWpXMHpoSkM5cmlRY2JRZEJUWW5ublF4V0h3eFVNNGVSbUJQRmgxeTU2RFhQa1N3T3hJdk1sRVZQVng4dDYxZ1RtSHYtc1FwdXBGMXYxTUxPWGd5dzNydlNnUHQwdmsxQjQw?oc=5",
+          "title": "Chega dá a mão ao PS para converter (eventual) bónus de 2027 nas pensões em aumento permanente - Observador"
+        }
+      ]
+    },
+    {
+      "title": "Wat de begroting verder verandert voor huiseigenaren, gemeenten en uitkeringen",
+      "category": "Economie",
+      "lead": "Vervroegd aflossen van een hypotheek met variabele rente wordt vanaf 2027 gratis, en gemeenten en freguesias kunnen gratis staatsgrond en -panden krijgen voor betaalbare woningen.",
+      "body": [
+        "Banken mogen vanaf 2027 geen boete meer rekenen bij vervroegde aflossing van een woninglening met variabele rente. Een PS-voorstel dat deze provisie definitief afschaft werd aangenomen; eerder was al een beperktere, tijdelijke variant van PSD/CDS goedgekeurd.",
+        "Gemeenten (câmaras municipais) kunnen voortaan gratis landelijke percelen (imóveis rústicos) van de staat ontvangen om in te zetten voor lokaal woonbeleid. Ook freguesias, de kleinste bestuurslaag, komen in aanmerking voor gratis overdracht van gebouwen van het woninginstituut IHRU en het vermogensfonds van de sociale zekerheid (IGFSS).",
+        "De begrotingsdienst van het parlement (UTAO) rekende enkele voorstellen door. Het plan van Livre om de onroerendgoedbelasting IMI te verdubbelen voor leegstaande, niet-verhuurde woningen van niet-ingezetenen in gebieden met woningdruk zou volgens UTAO 'weinig en onbeduidend' opleveren. Het uitbreiden van de aftrek van hypotheekrente in de inkomstenbelasting (IRS) naar alle woningleningen zou 546,4 miljoen euro kosten.",
+        "Verder komt er in Segurança Social Direta een mogelijkheid om wijziging van het IBAN voor uitkeringen te blokkeren, tegen fraude. De regering moet ook bekijken of de banensteun voor bedrijven die door de stormen van 2026, zoals Kristin, zijn getroffen in 2027 doorloopt."
+      ],
+      "context": "IMI (Imposto Municipal sobre Imóveis) is de jaarlijkse gemeentelijke belasting op onroerend goed, die ook eigenaren van een quinta betalen. Segurança Social Direta is het online portaal van de sociale zekerheid.",
+      "slug": "wat-de-begroting-verder-verandert-voor-huiseigenaren-gemeent",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/19/amortizar-antecipadamente-credito-a-habitacao-a-taxa-variavel-fixa-sem-comissoes/",
+          "title": "Amortizar crédito à habitação a taxa variável sem comissões"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/credito-a-habitacao-sem-comissao-de-amortizacao-antecipada-ate-ao-fim-de-2027/",
+          "title": "Comissão de amortização antecipada do crédito à habitação chega ao fim"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/municipios-vao-poder-receber-imoveis-rusticos-do-estado-para-reforcar-habitacao-acessivel/",
+          "title": "Municípios vão poder receber imóveis rústicos do Estado para reforçar habitação acessível"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/freguesias-abrangidas-pela-transferencia-de-patrimonio-edificado-sem-contrapartidas/",
+          "title": "Freguesias abrangidas pela transferência de património edificado sem contrapartidas"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/19/duplicar-imi-para-casas-nao-arrendadas-de-nao-residentes-em-zonas-de-pressao-da-pouca-receita-adicional-ao-estado/",
+          "title": "IMI duplicado para casas vazias de não residentes dá pouco"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/19/alargar-deducao-com-juros-do-credito-a-habitacao-de-todos-os-contratos-custa-5464-milhoes-de-euros/",
+          "title": "IRS. Deduzir juros de todos os créditos custa 546,4 milhões"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/oe2027-seguranca-social-direta-permitira-bloqueio-de-alteracao-do-iban-para-evitar-fraudes/",
+          "title": "OE2027: Segurança Social Direta permitirá bloqueio de alteração do IBAN para evitar fraudes"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/empresas-afetadas-pela-tempestade-kristin-poderao-manter-apoios-ao-emprego-em-2027/",
+          "title": "Empresas afetadas pela tempestade Kristin poderão manter apoios ao emprego em 2027"
+        }
+      ]
+    },
+    {
+      "title": "Modderstroom in Manteigas: noodplan actief, gezinnen dakloos",
+      "category": "Klimaat & Natuur",
+      "lead": "Hevige regen veroorzaakte woensdag overstromingen en een aardverschuiving in Manteigas in de Serra da Estrela. Vanaf donderdag zorgt een polair front voor lagere temperaturen.",
+      "body": [
+        "In Manteigas, zo'n 70 kilometer ten oosten van Meda de Mouros, leidde intense regen woensdag tot plotselinge overstromingen (enxurradas) en een aardverschuiving. Een stroom van modder trok door de straten en huizen liepen onder water. Er zijn geen gewonden gemeld.",
+        "Minstens twee gezinnen moesten hun huis verlaten en zijn elders ondergebracht; enkele bouwwerken raakten beschadigd. De gemeente heeft het gemeentelijk noodplan geactiveerd. De lessen in het basisonderwijs en de kleuterschool zijn opgeschort en de opruimwerkzaamheden gaan door.",
+        "Volgens de berichtgeving 'geeft de regen in de komende uren een adempauze'. Vanaf donderdag zorgt een polair front wel voor een daling van de temperaturen."
+      ],
+      "context": "Manteigas ligt in een diep dal in de Serra da Estrela, dezelfde bergketen waarvan de Serra do Açor een uitloper is. Steile hellingen, zeker na bosbranden, maken zulke gebieden gevoelig voor modderstromen bij zware regen.",
+      "slug": "modderstroom-in-manteigas-noodplan-actief-gezinnen-dakloos",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/mau-tempo-chuva-provocou-enxurradas-em-manteigas_n1780116",
+          "title": "Mau tempo. Chuva provocou enxurradas em Manteigas"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-inundacoes-em-manteigas-duas-pessoas-foram-realojadas_a1_1780128",
+          "title": "01h Inundações em Manteigas, duas pessoas foram realojadas"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2450/",
+          "title": "1h. Ativado plano municipal de emergência em Manteigas"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2500/",
+          "title": "3h. Zelensky acredita que Trump e Xi podem travar Putin"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3086487/enxurrada-em-manteigas-faz-desalojados-e-muitos-danos-veja-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Enxurradas em Manteigas fazem \"desalojados e muitos danos\": As imagens"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmZNZHA5UjFqNXFXOGV3dHFTOWRXM1R0MTBqN0lOS1lRcmJweFJHdDNUSWh3RjNLRnA2ZlAwN3QyYU1FNy1iZi04WXFiZ2pNUHdEY1NqRXZJWF81X2p5c09Kb2RhZHZ5Y1ZKRno5RGlLTVlFNTBIb2Y4WkF4Wm55aGJXQnBYZlFSRGJXR1JDYUlMUVNMcjlRSzZwM0NKUnh5cENtaGx0S2lCamRWWmtrTHREOGRwbm1tX2xRMjNubw?oc=5",
+          "title": "Enxurrada em Manteigas após chuva \"intensa\". Há \"desalojados e muitos danos\" - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdnAxVFVWb2lNdlFyOXJWYXozekV0TnZfMkxxT2dySXRlblBIRU8yb21aU2JGeE5tWEl0VXlPZy1yNndvajRmNTh2MUZDQWhoc1M2SUZPNkVjMVRWYk5BN0hiakREUUV0MDhVZEpHN1Q3UGRXNWdhQnh4VTB4Tkkwa0wtSFFQYjNPdXNRazNnVk5KekRBNkNKTEpIY29RbHVLeE43dFpTMHdTZ1JRb3hYMUprQWVDcmtWNkU2R0JhVHowTXJjcGU5bEYwTjBiSkVRa0h6U2M4RDhRNmxwbzMzbnVTU3c4UENEdmNpbkp1ZW9CV1ZkUlJnUmNWM2NCWVBLZEE?oc=5",
+          "title": "Pelo menos duas famílias ficaram desalojadas após enxurrada em Manteigas. Chuva \"vai dar tréguas\" nas próximas horas - CNN Portugal"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/rio-de-lama-invade-ruas-de-manteigas-ha-casas-inundadas/",
+          "title": "Rio de lama invade ruas de Manteigas. Há casas inundadas"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVF5RDY4NEpicnZpdzZiUlNTUFhLMUY5SGxXdTd3R3huNkpGTi1jbTZOVVM0bHNUa2VQRTJSWW13VV9vYk9XcmliMGc3ZzFwSThXcXBRMXIxVjhGUC1fOVN3Skt0N1Y2b2prVlRZX25QS0RTZXpSVENHbzYxeVdpNWNDY1N3a0tmMFNMd2Y5S2UtNUFHUjE2QnJnX0ZnNHA4cWQ0SXA3ZjUzOElTb2RR?oc=5",
+          "title": "Cheias rápidas e deslizamento causam desalojados e danos em Manteigas - Diário de Coimbra"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/frente-polar-faz-baixar-as-temperaturas-a-partir-desta-quinta-feira_v1780086",
+          "title": "Frente polar faz baixar as temperaturas a partir desta quinta-feira"
+        }
+      ]
+    },
+    {
+      "title": "EDP verhoogt elektriciteitsprijs met 4 procent vanaf januari",
+      "category": "Economie",
+      "lead": "Energiebedrijf EDP Comercial verhoogt per 1 januari de stroomprijs voor huishoudens met 4 procent; ook gas wordt duurder.",
+      "body": [
+        "EDP Comercial heeft tegenover persbureau Lusa bevestigd dat de elektriciteitsprijzen voor particuliere klanten vanaf 1 januari met 4 procent stijgen.",
+        "Voor aardgas bedraagt de verhoging gemiddeld 1,90 euro, aldus het bedrijf."
+      ],
+      "context": "EDP is de grootste energieleverancier van Portugal. Wie een contract op de vrije markt bij EDP Comercial heeft, krijgt met deze verhoging te maken; klanten van andere leveranciers of met het gereguleerde tarief niet automatisch.",
+      "slug": "edp-verhoogt-elektriciteitsprijs-met-4-procent-vanaf-januari",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/18/edp-aumenta-precos-da-eletricidade-em-4-a-partir-de-janeiro/",
+          "title": "EDP aumenta preços da eletricidade em 4% a partir de janeiro"
+        }
+      ]
+    },
+    {
+      "title": "Stakingsgolf rond de begrotingsstemming: ambtenaren, leraren en artsen",
+      "category": "Samenleving",
+      "lead": "Vakbonden roepen op tot een landelijke staking op de dag van de eindstemming over de begroting, en ook deze week liggen scholen en diensten mogelijk stil.",
+      "body": [
+        "Vakbonden hebben een landelijke staking uitgeroepen voor volgende woensdag, de dag waarop het parlement definitief over de begroting voor 2027 stemt.",
+        "Eerder al staat er een landelijke staking van het openbaar bestuur gepland op vrijdag 20 november, gevolgd door een landelijke demonstratie in Lissabon op zaterdag 21 november om 14.30 uur, aldus lerarenbond FENPROF. Volgens de krant SOL bedreigen vier stakingen de komende dagen het functioneren van scholen, met kans op sluitingen. Ook artsen houden een staking van 24 uur.",
+        "In Lissabon protesteerden woensdag meer dan duizend studenten tegen het ontdooien van de collegegelden (propinas), die jarenlang bevroren waren."
+      ],
+      "context": "Bij stakingen in het openbaar bestuur kunnen ook scholen, gemeentediensten en gezondheidscentra in het binnenland dicht of beperkt open zijn. Het loont om vooraf na te gaan of afspraken doorgaan.",
+      "slug": "stakingsgolf-rond-de-begrotingsstemming-ambtenaren-leraren-e",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdWhPcFg2U29SVXpnUlI4ekJqZjdZUEtRaG5fY3p5QnUwXzRmM2xZZ293T2doSkJyZm9HLV9ic2dVM3ZSazBXNUQxWWtHWkVkOUZuTkJINmN1ekhxZTN0SFVEcWFtalBJVU51UDBIS3ZKendiSktkSDBDMXptUzVlS1dxM3hpby1DUUZaLVRJN1VkZHhKWG1KTnMteEt4QnBfOTUyenUzdkFvQUgtUWRpd3RvS3B1amVVX3c4X1doamdyUExieUlVMld5bjM1cmM2a3lCMkYtUzNoZFgxQVFyZ1U2X0F4ZmpsbWNjNW1YcTRQMUdNdC1vTzFEbVdNdjA?oc=5",
+          "title": "Sindicatos convocam greve nacional para o dia da votação final do Orçamento do Estado - Expresso"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/milhares-de-estudantes-protestaram-em-lisboa-contra-descongelamento-das-propinas_v1780080",
+          "title": "Milhares de estudantes protestaram em Lisboa contra descongelamento das propinas"
+        }
+      ]
+    },
+    {
+      "title": "Portugal gaf in 2025 319.000 verblijfsvergunningen voor lange termijn af",
+      "category": "Samenleving",
+      "lead": "Volgens de OESO verleende Portugal vorig jaar 319.000 langdurige verblijfsvergunningen, inclusief duizenden afgehandelde achterstanden bij de AIMA.",
+      "body": [
+        "Portugal kende in 2025 319.000 verblijfsvergunningen voor de lange termijn toe, blijkt uit cijfers van de OESO. Daarin zitten duizenden regularisaties van dossiers die bij de migratiedienst AIMA waren blijven liggen.",
+        "In een ander bericht meldt de GNR dat bijna 43.000 ouderen in Portugal alleen, geïsoleerd of in een kwetsbare situatie wonen."
+      ],
+      "context": "AIMA (Agência para a Integração, Migrações e Asilo) is sinds 2023 de dienst die verblijfsvergunningen afhandelt, ook voor wie van buiten de EU komt. EU-burgers zoals Nederlanders hebben een registratiecertificaat bij de gemeente nodig. De GNR is de nationale politie op het platteland en houdt jaarlijks een telling van eenzame ouderen.",
+      "slug": "portugal-gaf-in-2025-319-000-verblijfsvergunningen-voor-lang",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/portugal-concedeu-319-mil-autorizacoes-de-residencia-de-longo-prazo-em-2025_n1780071",
+          "title": "Portugal concedeu 319 mil autorizações de residência de longo prazo em 2025"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/ha-quase-43-mil-idosos-a-viver-sozinhos-isolados-ou-vulneraveis_v1780087",
+          "title": "Há quase 43 mil idosos a viver sozinhos, isolados ou vulneráveis"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital, Tábua en Arganil groeien weer in inwonertal",
+      "category": "Regio",
+      "lead": "De drie gemeenten rond Meda de Mouros volgen de bevolkingsgroei in de regio Coimbra; Oliveira do Hospital won in vier jaar 656 inwoners.",
+      "body": [
+        "Oliveira do Hospital, op zo'n 15 kilometer van Meda de Mouros, heeft er in vier jaar tijd 656 inwoners bij gekregen, meldt de regionale krant Correio da Beira Serra. Volgens dezelfde krant volgen ook Tábua en Arganil de bevolkingsgroei van de Região de Coimbra. Exacte cijfers voor Tábua en Arganil worden in de kop niet genoemd.",
+        "Arganil heeft daarnaast een online platform gelanceerd waarop bouw- en vergunningsprocedures (urbanismo) digitaal kunnen worden ingediend.",
+        "In Oliveira do Hospital werden negen nieuwe bushokjes geplaatst, een investering van 42.000 euro."
+      ],
+      "context": "Voor iemand die een quinta opbouwt is het urbanismo-loket van de Câmara Municipal de plek voor bouwaanvragen en meldingen. Bevolkingsgroei is in het binnenland opvallend na decennia van leegloop.",
+      "slug": "oliveira-do-hospital-tabua-en-arganil-groeien-weer-in-inwone",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG1yQ1gzelBYLWxDNDByY3VEbGdHMC1lS0Ewak0yajBJY0phOXR2b0J6U1Bxb24tWmRDemhIZHdZNTRxMnNZYk5vQjgyNzRaX2gzQjVNMkViZXd3VndmQ3N1Q1ZZcHZTTG9Xai1kRWZOcWRObEhyYTY0cDNpdEFSemlYVG9HQkJmWXFXYUJJNV9jajlw0gGaAUFVX3lxTFBjamt1Y29ueTJDdmI5SzI1WnFUV21nMUxuWXE2RWN2amVNV1AxQjRCQkt1X3R5TjlqRFpXSm1XdkFjQkIxMnhoMWpYc1FuR0hRMm56OXI1TDU2NzFuSVB3bTIxVlBCQ2x0bmYwbFJIdm5kek14VkVLUTNRUUdVcS13STZFNWNDeTRSek1Objhjc0V6Rk5vZFZFcWc?oc=5",
+          "title": "Oliveira do Hospital ganhou 656 habitantes em quatro anos - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUpYLTEtMEk0UFp3bE05dFM2YlVTSHlKY1dkbThIR1ZndXZFX2x1cE1mSW05WE5kVThuRmd0WkFiWk82U0NjanNwNS1PaENPVzNlRzVGTjVXaDBZSFdOdnluSmliWFVNWml4NjBTeElSWUo2dzFxbGNfcE9EajNlSmtxVVhGaHVwNENiSWNUaUhlQ1RhUDFwYzhBWFhXNWN1YWRMTnBudTZjWDRGV2hPRW5Dbm5yQlhSWWk1UkZPaVlPV1Rq0gHKAUFVX3lxTFBfTFp6N0xCYjJjd3pxcTBPZC1WYUJzUDRNdjdUYmYxTXVBUXpHZlcxU1V5SEktTlFza3Y5ZnkxVk1RQW9jMU56VGVzLUtHRE9IQnNLeFRNX2tpQ3o3XzBLUE42NXpWOWI5TEtoT1U2QkF2SUJyQmNwbnNhS1ZmNWtnS1RoeXRUbTJHLWtRLXFVLWJzOEEwdElnUWVCQkRSZHFkZ3dvb2RqME9HUGRibGRBTU9DZGR3bW9TQ29VWFhxYjdsN2x2cUx3YUE?oc=5",
+          "title": "Oliveira do Hospital, Tábua e Arganil acompanham crescimento populacional da Região de Coimbra - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDc0UUhJcGxwQ29qQk9WcVV4cnd3R1RJNDhIcjNVSEh0akJjWU5CaFdESF9SRFVsMFhjajl0OVRkTHhlZl93UWlWa2tzekZNWUdrUWZkSXkxVlpmVmxXb3VIRXpCcFZRWmxrQzVaSzB0Rl9qcGRoR0tnOWN2X2RvSWNrcmxOdXlXOVVYMnlPcVZOZU5kcVZqWXhYcEZTZ0NoN3RNSzk1U0FITVFY?oc=5",
+          "title": "Município de Arganil lança plataforma online para processos de urbanismo - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDFKZVlpWk5fM3VFb0Y2TXExZXoxX2Fscjh5QXR1TTVmMk9wZ2EzdjFmSUxnb25OSl9pSnFzTlZhTE1PYnBHT3I0ZGEtZHhRYldoZDViak9rb25pWDlUNE5HQmMzQXdqN2hSWlhkTlNjNHF0M24zUndsVmRJV1BVak1kTFl3NExYOVpnSEV3VEUya1BZbHVITVFQTUhqNUEwM3lmSkpGREhzbi1SVEZZcEltZlUwVzJrc2Q1QnEwQmswV09OSFRGM9IBzgFBVV95cUxPS2JLMGgzMmdXU3RCRXUyMzl5aXMzOENtZHJTVlgyRFlReGQtRGlPM004NC11bmpGSmFDYkk2VG1VY3NBVlg5R2U4YjJQVlVGZVBhcE93Wmp6TmlDcnJ0UXdsOTIwaE1fS3NHT2h5bnBPS3hoM1NqYWtPYzN4czcxa2JVN29CTkZSbEkwUUd5T0lqbXpuZ1puUloyU1BkS09mUkFTVVdoUUp4MkxDRlY3UkpBLXU2V0x1RnFLN1YxVkhKeWpQWjBHRjlPNFVKQQ?oc=5",
+          "title": "Oliveira do Hospital instalou nove novos abrigos de passageiros num investimento de 42 mil euros - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzJKal82a0pKSHNSUUppekp5ZDBxNHRIa2RWTkdPa25nSDExOU53ZTdfTklUMUdIVkpRY2lPbTY1LU5ibzlhZ3YyT2NQX1htRG45allXTmZ5T1JreS1oX2wyZUhpY21PTWI4enZjQjBQM25HRFVDTDc4U0ZiUGtianhIMS0zVC1tLWl4UmFQOU9IZHRiOXZudDNPcDVDR1Q4MEc1V2pEWXZMTTF5aTV6RTJGRDFpazlzakJqc1hhZjRnRFdMb0oxVEpwNVFxR0Fu?oc=5",
+          "title": "Oliveira do Hospital instala mais nove abrigos para passageiros de transportes públicos - SAPO"
+        }
+      ]
+    },
+    {
+      "title": "Trump, Xi en Poetin treffen elkaar; Portugal steunt Oekraïne met generatoren",
+      "category": "Internationaal",
+      "lead": "Donderdag vindt een driegesprek plaats tussen de leiders van de VS, China en Rusland. Minister Rangel bezocht Kyiv en kondigde extra Portugese steun aan.",
+      "body": [
+        "De Amerikaanse president Trump spreekt donderdag met Xi Jinping en Vladimir Poetin in China. Ontwapening en twee oorlogen staan op de agenda. Oekraïne viel deze week voor de derde keer de brug van Kertsj naar de bezette Krim aan.",
+        "Minister van Buitenlandse Zaken Paulo Rangel zei vanuit Kyiv, na een gesprek met president Zelensky, dat Portugal de steun aan Oekraïne versterkt. Portugal geeft een miljoen euro voor de aankoop van generatoren. Rangel noemde de top 'mogelijk zeer nuttig' voor Kyiv, maar waarschuwde voor averechtse effecten als China en de VS Moskou niet tot realisme brengen.",
+        "De Europese Commissie stelde ook een nieuwe lening van 45 miljard euro aan Oekraïne voor."
+      ],
+      "context": "",
+      "slug": "trump-xi-en-poetin-treffen-elkaar-portugal-steunt-oekraine-m",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2463/",
+          "title": "4h. Donald Trump promete encontro histórico com Putin e Xi"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/mundo/3086524/trump-reune-se-com-xi-e-putin-na-china-com-desarmamento-nuclear-e-duas-guerras-na-agenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Trump reúne-se com Xi e Putin com desarmamento e duas guerras na agenda"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2473/",
+          "title": "2h Ucrânia volta a atacar ponte de Kerch, na Crimeia ocupada"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/grande-entrevista-rangel-elogia-determinacao-de-zelensky-mas-alerta-que-paz-esta-nas-maos-de-quem-faz-a-guerra_n1780096",
+          "title": "Grande Entrevista. Rangel elogia determinação de Zelensky mas alerta que paz está nas mãos de \"quem faz a guerra\""
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/19/encontro-entre-xi-putin-e-trump-pode-ser-muito-util-para-kiev-diz-rangel/",
+          "title": "Rangel: cimeira trilateral pode ser \"muito útil\" para Kiev"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/portugal-vai-apoiar-ucrania-com-um-milhao-de-euros-para-a-compra-de-geradores_v1780093",
+          "title": "Portugal vai apoiar Ucrânia com um milhão de euros para a compra de geradores"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHJmYU9LYUZQbU1qSDBla29FQjZ1T1JDcnF0cHdyQ3lOZndYaFVZTFRXU09Pc1hxX3VWWkl3Nzk3MHRtU3diZGpQVHFveFFjUU1yazFtNjRRc0ZIUzBfTWJqRHFtWldWSVJWUzFrMGExVGs3OFlnc3hmNzZ5eFdkOHM4LUpybUhXS21ZR1B3bk42SXpfZl8ybTNJVVl5b2szZ0EyYVluMk96NzBJRXNLOXdNcVh6MTZKLXlyOVlsQVVxUUljNS1z?oc=5",
+          "title": "\"Posição de força\". Comissão Europeia propõe novo empréstimo de 45 mil milhões à Ucrânia - RTP"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o Orçamento do Estado",
+      "nl": "de rijksbegroting",
+      "example": "O Parlamento votou as propostas do Orçamento do Estado para 2027."
+    },
+    {
+      "pt": "os pensionistas",
+      "nl": "de gepensioneerden",
+      "example": "O bónus aos pensionistas será permanente."
+    },
+    {
+      "pt": "o arrendamento",
+      "nl": "de verhuur / huur",
+      "example": "O Estado vai criar uma garantia pública para o arrendamento."
+    },
+    {
+      "pt": "a enxurrada",
+      "nl": "plotselinge overstroming, stortvloed",
+      "example": "A chuva intensa provocou enxurradas em Manteigas."
+    },
+    {
+      "pt": "desalojado",
+      "nl": "dakloos geworden, uit huis gezet (door ramp)",
+      "example": "Duas famílias ficaram desalojadas."
+    },
+    {
+      "pt": "a greve",
+      "nl": "de staking",
+      "example": "Os sindicatos convocam greve nacional para o dia da votação final."
+    }
+  ]
+}
