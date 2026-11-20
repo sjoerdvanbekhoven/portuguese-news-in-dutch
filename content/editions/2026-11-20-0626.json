@@ -1,0 +1,439 @@
+{
+  "id": "2026-11-20-0626",
+  "generatedAt": "2026-11-20T06:26:44.416Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 277,
+  "intro": "De Portugese begroting voor 2027 krijgt steeds meer de vorm die oppositiepartijen PS en Chega willen: na pensioenen en huur stemden zij nu ook een btw-vrij voedselpakket en strengere regels voor de brandstofaccijns erdoor. Tegelijk staakt vandaag het openbaar bestuur en ligt de website van de rijdienst IMT plat na cyberaanvallen. In de eigen regio vallen de recordregen in Oliveira do Hospital en het brandpreventiewerk langs de wegen op.",
+  "articles": [
+    {
+      "title": "Begroting 2027: PS en Chega stemmen btw-vrij voedselpakket door, huurvoordeel voor verhuurders vervalt",
+      "category": "Politiek",
+      "lead": "Op de tweede stemdag over de begroting heeft de regering opnieuw nederlagen geleden. Met steun van Chega komt er begin 2027 een pakket basisvoedsel zonder btw, betaald door het schrappen van een belastingvoordeel voor verhuurders.",
+      "body": [
+        "In de vorige editie meldden we dat de regering de eerste stemmingen over pensioenen en huur verloor. Op de tweede dag van de artikelsgewijze behandeling (especialidade) ging het verder in dezelfde richting: belangrijke voorstellen van de socialistische PS, waar de regering tegen was, werden aangenomen dankzij Chega.",
+        "Het belangrijkste is 'IVA zero': een mandje (cabaz) basislevensmiddelen wordt in het eerste kwartaal van 2027 vrijgesteld van btw (IVA). Ter compensatie vervalt het gunstige IRS-tarief van 10% voor verhuurders die huizen verhuren tegen gematigde huren tot 2.300 euro. Daarnaast moeten verhogingen van de brandstofaccijns (ISP) vanaf 2027 eerst langs het parlement.",
+        "Ook aangenomen: de bronbelasting voor zelfstandigen met 'recibos verdes' wordt progressief en gebaseerd op de inkomsten die in het E-Fatura-systeem zijn gemeld (een PS-voorstel). Btw op bioscoopkaartjes wordt aftrekbaar in de IRS. Verder keurde het parlement een vrijstelling van vermogenswinstbelasting (mais-valias) goed tot 300.000 euro bij verkoop van tweede woningen, om meer huizen op de markt te krijgen. Bedrijven die tegen gematigde huren verhuren mogen hun voordelen in de vennootschapsbelasting (IRC) wel volledig blijven benutten.",
+        "Premier Luís Montenegro reageerde met: 'Als jullie willen regeren, kom dan tot overeenstemming.' Minister Leitão Amaro spreekt van een 'negatieve coalitie' en een 'tekortcoalitie' van PS en Chega. Voorstellen van de oppositie om de IRS te verlagen werden wel weggestemd; de IRS-verlagingen van de regering zelf gingen door."
+      ],
+      "context": "De minderheidsregering van PSD en CDS-PP (premier Montenegro) heeft geen meerderheid. PS (centrumlinks, leider José Luís Carneiro) en Chega (radicaal-rechts, leider André Ventura) samen wel. IVA is de btw, IRS de inkomstenbelasting, ISP de accijns op brandstof. Chega houdt dit weekend bovendien een partijcongres.",
+      "slug": "begroting-2027-ps-en-chega-stemmen-btw-vrij-voedselpakket-do",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2464/",
+          "title": "4h. Função pública em greve. Educação e Saúde mais afetadas"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/20/iva-zero-dos-bens-alimentares-avanca-em-2027-mas-imposto-sobre-as-rendas-volta-a-subir/",
+          "title": "IVA zero dos bens alimentares avança em 2027"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/especiais/iva-zero-nos-alimentos-subidas-no-isp-na-ar-isencao-nas-mais-valias-ps-ja-transformou-o-orcamento-para-2027-com-ajuda-do-chega/",
+          "title": "Propostas bandeira do PS aprovadas com ajuda do Chega"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/20/iva-com-bilhetes-de-cinema-vai-poder-ser-deduzido-em-parte-no-irs/",
+          "title": "IVA com bilhetes de cinema vai poder ser deduzido no IRS"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2451/",
+          "title": "1h. Chega ajuda PS no IVA 0 e a aprovar novas regras do ISP"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/ps-consagra-se-vencedor-do-segundo-de-dias-de-votacoes-do-oe2027/",
+          "title": "OE2027. PS vitorioso no segundo dia de votações faz mossa nas rendas moderadas do Governo"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/ps-e-chega-aprovam-iva-zero-beneficios-fiscais-das-rendas-moderadas-caem/",
+          "title": "PS e Chega aprovam IVA Zero. Benefícios fiscais das rendas moderadas caem"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/19/retencao-na-fonte-dos-recibos-verdes-passa-a-ser-progressiva/",
+          "title": "Retenção na fonte dos recibos verdes passa a ser progressiva"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/economia/3087237/irs-de-10-para-rendas-ate-2300-euros-acaba-em-2027-a-revelia-do-governo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "IRS de 10% para rendas até 2.300 euros acaba em 2027 à revelia do Governo"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMzRBenJGS19iLURwQklabXZ4MkV0VUpGbENjaFUwZkZYZUl1RDdCcGdNUlJBckVSZ2d3WWFORjRMR2N4ZWZiWnRWVnZENW56YjJ2YnZoX24zSjA1WVJBOFpLMGlMRjJlX1I4STZ4c2xQb0VvLXhWTWNPSThublUxUFFHZ042UDREeFhJWnJodjVtNnYyaHlkSXJ1ZXdiMHhEc1luMjRSS0txcXJKN095MXZNSHZYV1lnaFp2aXFhZG55YmpvZjFsSkNEREdqLW1xdTRPQ2NDMERBMGdBQWRxY094aUNaTTBEcmtDTUl4VGVDUlVvZV9hdjgzcUpnX0ZWSGZJQkZsd3lTb0stSDk3WmpuaVdrdWM?oc=5",
+          "title": "OE2027: Governo preocupado com \"coligação negativa\" e \"coligação de défice\" entre PS e Chega - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0FDbEpLYUVJdGxNQ0ZSRi1xLWhENENLYUhna1RyZnRrbjk2QzVGdXhOOFkxOEN2RVRaQ2Z1VjdaNnFiQXA2QUlhWGQxV2tGeVhseVdLeWJBUjNqWVlEa3dCb2RXSW9HYjl0SVpYcXUyX0tsT3FnNElTa016dEdOYzNOc0h3YXNjZllPZ3JqLXN4cHVpQ214UUNRck1jSXNoRVoxN3d5cko0aHhaS3U4akp3?oc=5",
+          "title": "“Se querem governar, entendam-se”, diz Montenegro como recado a PS e Chega - Público"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2V5d0p2Qmt6Tmc0aXlGV0VucjZEWWlnRmZxd0tpb0JyZ0RyV05HX0hXRHdabTRCd1hhbmQtWmJveEZtaDB1TTJFWWR6TEJsTXp4SlUxbjgzSGxKVnB5SDBLUFpoTU1BS1kzYVlKYmtUR2doOVBWQWkzSTdlY0VSYjNNUm5HMW81djNUb29BVnE2RjBGeEV4ZkxaNGZZWGxEQVJqMk15OURyZjJKdTYzNU5JU0liT2M?oc=5",
+          "title": "Parlamento aprova isenção de mais-valias até 300 mil euros para pôr casas no mercado - ECO"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/19/beneficios-fiscais-no-arrendamento-escapam-a-travao-minimo-no-irc/",
+          "title": "Benefícios fiscais no arrendamento escapam a travão mínimo no IRC"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGo0bkdSUlExNXlsWDhZRkJ1d1BSUzRuajBxS1ozTV9uUkNfSHRHc3g1NHR0bm9LV21OVW1vVTZVQ0JEWnV2WU5KZHEtOUpaTUNIMllrZ3Q2Y0xmWXZCakgyd3ZZNl9LY0w4b0J6VFJKQXBPM3JkR1pha2dXbnRhZUZROWpXdEtYakJuMDZubnVHTmpDWmZjbmZoUGlEbzlIQy1NOU1jbHdSY0NjdmNkLVRFbHMxM0xpQ1BXalp6VFFEeFIzeEtwLW1Hai05ZW1PUUNKNWtEMUU5NGRfbnlVYndjazQ?oc=5",
+          "title": "Governo dramatiza mexidas nas pensões e renova apelos à oposição para evitar défice - Jornal de Negócios"
+        }
+      ]
+    },
+    {
+      "title": "Begroting brengt geld voor riolering op het platteland, freguesias en jonge bouwers",
+      "category": "Economie",
+      "lead": "Enkele aangenomen begrotingsvoorstellen raken het binnenland direct: steun voor sanitatie in dunbevolkte gebieden, meer geld voor freguesias en hulp voor jongeren die hun eerste huis bouwen.",
+      "body": [
+        "De regering start in 2027 een programma dat sanitatie (saneamento) ondersteunt in gebieden met weinig inwoners, met milieuvriendelijke oplossingen. Het gaat om een wijzigingsvoorstel van PSD en CDS-PP.",
+        "De freguesias krijgen 44 miljoen euro extra doordat hun aandeel in de rijksbelastingen stijgt van 2,50% naar 2,75%.",
+        "Jongeren tot 35 jaar die hun eerste eigen woning zelf bouwen, kunnen een staatsgarantie op hun lening krijgen, drie jaar aflossingsvrij betalen en zijn vrijgesteld van overdrachtsbelasting (IMT) bij de aankoop van de bouwgrond.",
+        "Verder moet de regering in 2027 het herstel inplannen van publieke infrastructuur die nog altijd beschadigd is door de stormen van eerder dit jaar. Ook regionale radiozenders die door storm Kristin zijn getroffen, krijgen extra steun."
+      ],
+      "context": "Een freguesia is de kleinste bestuurslaag, vergelijkbaar met een dorps- of deelgemeente; Meda de Mouros is er één. IMT (Imposto Municipal sobre Transmissões) is de overdrachtsbelasting bij aankoop van onroerend goed. Veel dorpen in het binnenland zijn niet op riolering aangesloten en werken met beerputten (fossas).",
+      "slug": "begroting-brengt-geld-voor-riolering-op-het-platteland-fregu",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/governo-avanca-com-apoio-ao-saneamento-em-territorios-com-pouca-populacao_n1780368",
+          "title": "Governo avança com apoio ao saneamento em territórios com pouca população"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/oe2027-financiamento-das-freguesias-aumenta-44-milhoes-de-euros_n1780321",
+          "title": "OE2027. Financiamento das freguesias aumenta 44 milhões de euros"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/19/jovens-ate-aos-35-anos-vao-poder-usar-garantia-publica-para-construir-primeira-casa/",
+          "title": "Jovens até aos 35 anos vão poder usar garantia pública para construir primeira casa"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/governo-obrigado-a-recuperar-em-2027-infraestruturas-ainda-danificadas-pelas-tempestades/",
+          "title": "Governo obrigado a recuperar em 2027 infraestruturas ainda danificadas pelas tempestades"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanA4UGdhSFVVN2U1c25ybksyOWlaSG04Ukp5Q3BRY0pDNEM0U2pkbklqbjE2aGxqMUpEQkc4OGRXd0taaHkwemg0M2p6UlV1Qy1wdGdvVzBDQnJDTGFPNkw2Y09VcTQ2b2h6UENsTXpjQUpwRE9pSC1HVkdLZ3V4NHNicnBobzdCR29yVXZlVGxoMkk1TzRWa3N6dVk4Uk1YSC1OUUJUSjhuZw?oc=5",
+          "title": "Governo reforça apoios às rádios afetadas pela tempestade Kristin - Diário de Coimbra"
+        }
+      ]
+    },
+    {
+      "title": "Ambtenaren staken vandaag: scholen en zorg het meest getroffen",
+      "category": "Samenleving",
+      "lead": "De vakbondskoepel Frente Comum legt vandaag het openbaar bestuur plat, de eerste van vier stakingen in dertien dagen. Aanleiding is onder meer een verhoging van de maaltijdvergoeding met slechts 30 cent.",
+      "body": [
+        "De landelijke staking van de overheidssector kan hinder geven bij scholen, ziekenhuizen, gemeentelijke diensten en lokaal openbaar vervoer. Onderwijs en zorg worden naar verwachting het hardst geraakt. Volgens Expresso kunnen de vier stakingen binnen dertien dagen scholen sluiten; voor 24 november staat een sectoroverschrijdende staking met manifestatie gepland.",
+        "De regering bevestigde dat de maaltijdvergoeding (subsídio de refeição) voor ambtenaren in 2027 met 30 cent stijgt; op een kaart en vrij van IRS zou die uitkomen op 10,97 euro per dag. Voorstellen van de oppositie voor een grotere verhoging werden weggestemd. Frente Comum-coördinator Sebastião Santana noemt de 30 cent een 'provocatie' waarop de staking het antwoord is.",
+        "Ook in de gevangenissen wordt gestaakt: in de gevangenis van Coimbra lag de deelname de eerste twee dagen op 98%. Volgens de bonden mist die inrichting zo'n 40 bewakers."
+      ],
+      "context": "Frente Comum is een aan de communistische vakcentrale CGTP gelieerde koepel van ambtenarenbonden. Wie vandaag een afspraak heeft bij Finanças, het gezondheidscentrum of de Câmara Municipal, doet er goed aan vooraf te checken of die doorgaat.",
+      "slug": "ambtenaren-staken-vandaag-scholen-en-zorg-het-meest-getroffe",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2464/",
+          "title": "4h. Função pública em greve. Educação e Saúde mais afetadas"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-greve-dos-trabalhadores-da-administracao-publica-esperam-se-constrangimentos-em-muitos-servicos-publicos_a1_1780383",
+          "title": "01h Greve dos trabalhadores da administração pública: esperam-se constrangimentos em muitos serviços públicos"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/frente-comum-diz-que-a-greve-de-sexta-feira-vai-responder-a-provocacao-do-governo_n1780309",
+          "title": "Frente Comum diz que a greve de sexta-feira vai responder a \"provocação do Governo\""
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/19/escolas-hospitais-ou-transportes-o-que-podera-ser-afetado-com-a-grande-greve-da-funcao-publica/",
+          "title": "Escolas, hospitais ou transportes. O que poderá ser afetado com “a grande greve” da Função Pública"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/economia/3087255/greve-da-administracao-publica-por-salarios-e-condicoes-de-trabalho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Função pública em greve por melhores salários e condições de trabalho"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQVl0bVF5Q3FtakN5dkdrSnJ3MXBlMTlMZzlCMjBzZGdfbUJ0WnFWUUt1TnVtWjVBZDJOdkhuVVY1TEJNanZ0Zmc0UmVzOEdINmZiRXgxYndQX1N1cGtoNFpaS0FTbV9pcUJjNVJmbU16anQ4dnRZWHhjc19saUc1NHduOWNCV2U5eV95NnVpX0I4aF9WQnBtT0E3WU9VU2haYnZza0R3LVJEeGpOekZiYWtVdDVTMjA0eHYyVEJHV0t1TmNDa2x5ZFBJNGtoV3VCUnBDZ2d3TXBRODBGVWJkTnVtUm1BOFlORXhuQ2ctM3VmVnpLMngxREZsUFFJMmtzc0R3Vg?oc=5",
+          "title": "Governo confirma aumento de 30 cêntimos no subsídio de refeição da função pública - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzVSakpiSXZZOWRDVVQ4bHNjVk5FaUFWMmFtX2Vnb2ZabDZqQzY3WFhhc0l5N1lLZXQ4X3J0ZTNNUVh6c2ZKOFdoR2kxYmpUdFptMmJyUzNnZG5Fa3JmUTZyLVF0a2Y0QjBRUEpxU3JJNVZFWHN3MmlmdlpDOVMzLVhDTmlZM192VmtxSjZPc2pXQXU1aHhtLW1md29XUVI4LXFrZVByRmZRV2tpXzBLOFlqQURoQQ?oc=5",
+          "title": "Governo propõe subida de 30 cêntimos no subsídio de refeição em 2027 - Público"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTExMck5kN3h5TTdoT0FDYWEtYk4ydGcwbjRGbWhwTElIaE9hNnpqNFFjZDNvMjJvclFvTDlVdFk2UzdtMG9PemRhaWdhbjhVQ2hMTGc2SmtVSVQ5NnFULW9UV0JfVkFwMlR5M0plbmFnV1dyLXBmb1YyUDlBblBqb0FKcTY4YzdjVzRWSlVNSzJnRGhGY255YUU3Sm5iY0tSSkNvNDktY0RFaWlSbHFmNnFkNA?oc=5",
+          "title": "Quatro greves em 13 dias podem deixar escolas de portas fechadas - Expresso"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/prisao-precisa-de-mais-40-guardas-e-regista-98-de-adesao-a-greve/",
+          "title": "Prisão precisa de mais 40 guardas e regista 98% de adesão à greve"
+        }
+      ]
+    },
+    {
+      "title": "Bijna alle ziekenhuizen kampten in 2025 met medicijntekorten",
+      "category": "Samenleving",
+      "lead": "In 97% van de Portugese openbare ziekenhuizen waren vorig jaar geneesmiddelen tijdelijk niet leverbaar, blijkt uit een studie die vandaag wordt gepresenteerd.",
+      "body": [
+        "In bijna de helft van de gevallen had het tekort (rutura) ernstige klinische gevolgen: patiënten moesten overstappen op andere medicatie of behandelingen werden uitgesteld.",
+        "Daarnaast heeft ruim 90% van de ziekenhuizen een tekort aan apothekers en ander technisch personeel.",
+        "Los daarvan melden artsen dat het kinderziekenhuis D. Estefânia in Lissabon een nacht zonder enige anesthesist draaide, wat volgens hen kinderen aan vermijdbare risico's blootstelt."
+      ],
+      "context": "De openbare ziekenhuizen vallen onder de nationale gezondheidsdienst SNS (Serviço Nacional de Saúde). Voor de regio Tábua is het dichtstbijzijnde grote ziekenhuis de ULS Coimbra.",
+      "slug": "bijna-alle-ziekenhuizen-kampten-in-2025-met-medicijntekorten",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2474/",
+          "title": "2h. 97% dos hospitais com ruturas de medicamentos em 2025"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/ruturas-de-medicamentos-obrigam-hospitais-a-substituir-medicacao-e-adiar-tratamentos_n1780372",
+          "title": "Ruturas de medicamentos obrigam hospitais a substituir medicação e adiar tratamentos"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3087206/mais-de-90-dos-hospitais-com-falta-de-farmaceuticos-e-outros-tecnicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Mais de 90% dos hospitais com falta de farmacêuticos e outros técnicos"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3087204/ruturas-de-medicamentos-obrigam-hospitais-a-trocar-e-adiar-tratamentos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Ruturas de medicamentos obrigam hospitais a trocar e adiar tratamentos"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/20/hospital-d-estefania-faltam-anestesistas-nas-urgencias-e-dias-24-e-26-ficam-sem-especialista-disponivel/",
+          "title": "Médicos relatam noite sem nenhum anestesista no D. Estefânia"
+        }
+      ]
+    },
+    {
+      "title": "Rijdienst IMT legt alle diensten stil na cyberaanvallen",
+      "category": "Samenleving",
+      "lead": "Het Instituto da Mobilidade e dos Transportes (IMT) is getroffen door meerdere cyberaanvallen en heeft uit voorzorg al zijn diensten tijdelijk stilgelegd.",
+      "body": [
+        "Het IMT meldt dat er tot nu toe geen aanwijzingen zijn dat gegevens van gebruikers zijn weggesluisd. Het incident is gemeld bij de bevoegde instanties.",
+        "De website was donderdagavond nog onbereikbaar. Rijscholen en taxi-/ritdeeldiensten (TVDE) ondervinden hinder."
+      ],
+      "context": "Het IMT regelt onder meer rijbewijzen, ook het omwisselen van een Nederlands rijbewijs en verlengingen, plus voertuigkeuringen. Wie daar nu iets heeft lopen, moet rekening houden met vertraging.",
+      "slug": "rijdienst-imt-legt-alle-diensten-stil-na-cyberaanvallen",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/19/imt-suspende-servicos-apos-varios-ciberataques/",
+          "title": "IMT suspende serviços após “vários ciberataques”"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTHpPa2NZdU9JcHFuUHhLczNla3lmZ1JhME1HdE9VbV9lTEhmRDFfTnNha0xQbGVkdS1JNlFJa181a3hKZUEzYW5tVEpheFlEOVAteG1ULUJ2RHBsX01EdlIwWEV6WS0wOEJsSlEzNjRGczc2V29NZ0QxUm1OS0J0TXhCSmxxTEx2WFhQVU1ONXVJMkliV3pmY3c5dGRBaW5UUHZJaE50SU1wb2FwekVYc2JSNU9mOUluRUdGc1dYeTB2MDJmQ05OLVdMc1gyb0tkLTREaFBaY2VSNzJsSzl5bmlaR01kNlJYdS1YbWd3aUdvWnZQSmpSVWlXLTBSa1llT3ROeFJFZzBUTGxU?oc=5",
+          "title": "IMT alvo de \"vários ciberataques\". Todos os serviços em baixo \"temporariamente\" por precaução - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZS1tLXhNNUFHN1lqYmJKM1BWb1E0aHFBVXpJVzA1NEh0clkyMC1aVlhYTTZzUHZQbTNmTkV4MUhIRU1jYzZZSTQ5VEtmNGplRjFuM1hibmhFZlBYLXFGSTFCNWFON1ZhQ3ZUQmFPVURaOG5VVEdfOWdubGNfdFJsNE9HdWoxS09BMVZiRjluQlZjTERqS2g0cDRyczZta0pxUXZNaE5UVVpRR1JITFI1OWxPbHE4bmwxbFRGaFRxVdIBrwFBVV95cUxONUJPZUs2bzZ1bnAyYUNneVFTanhMYzZsMlR2ZVZUYlpwT25Cd2o3NTBVaU91WW9ZWkNHWjliODdXWW9MMTJST0tPV2o1dHU5ZVk5bUo2dG1UUHRaZHoxcGE1MzFRLWc4ejRoNnIyZXRxYkJneDg0aXdmd2ZhTlBQMXZnN0liNGZtU1RNT0lxMEtlRDhjUVV6ZW9yUS1nM3YxR1dmRG92ekVFc2tycV8w?oc=5",
+          "title": "Falhas no IMT foram provocadas por ataque informático. Site continua inacessível - Jornal de Notícias"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnkzc2htM0ZUZFNOUXJLWDZYelNGVU5FRDVzQlpVbEJSSlFJTUswZ0gyNEtFMzZpNW1RX0JMbWcyUkdKa0hfQnkwNk5xQUE4TDVIWnJKZ0t1RXZ5cXFMbnBiS1UxekZSZS1lQjZrZ21lc2JEa1JFQU9JRDhNdml3UmlmQ1ZrcUZpTDFqZ3BpM09BRmVJX3RxSUNDX0hmMDg5LVZMaElCUDA5dGNNeDhGRUgyMA?oc=5",
+          "title": "IMT sofre vários ciberataques e suspende temporariamente serviços online - Diário de Coimbra"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital: meeste regen van het land en extra brandpreventie langs wegen",
+      "category": "Regio",
+      "lead": "Oliveira do Hospital, op zo'n 15 kilometer van Meda de Mouros, was koploper in de landelijke neerslagranglijst. De gemeente maakt intussen brandstrooken vrij langs wegen en in het Alva-dal.",
+      "body": [
+        "Volgens CentroTV registreerde Oliveira do Hospital de grootste hoeveelheid neerslag van heel Portugal. Precieze cijfers staan niet in de berichtgeving.",
+        "De gemeente laat zogeheten faixas de gestão de combustível aanleggen: stroken langs wegen waar brandbare begroeiing wordt verwijderd of gesnoeid. Een deel van het werk richt zich op het Vale do Alva, het dal van de rivier de Alva dat ook langs Coja loopt.",
+        "Verder heeft de gemeente negen nieuwe bushokjes geplaatst voor 42.000 euro. De grote Festa do Queijo Serra da Estrela keert terug op 13 en 14 maart 2027."
+      ],
+      "context": "Faixas de gestão de combustível zijn wettelijk verplicht rond huizen, dorpen en langs wegen; ook particuliere grondeigenaren moeten rond gebouwen schoonhouden. Het najaar en de winter zijn de periode waarin dit werk gebeurt.",
+      "slug": "oliveira-do-hospital-meeste-regen-van-het-land-en-extra-bran",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmFtWEhGTkhiLWJZNzhTRHNYSDNGVnNfYkdIczZUNURmaVAyOWpQSmtBMHFCMWFhV1N4R2xPYTVvYml3OUo1bmM3OVhIa3ZVcUJydVFrdDRWaWJ2TnFoX0tjVk9FOTgwS3FkNmctdXZOb2RsWHFETU9OYk56V01QSXBhLVRrQ1FZMG5mbzNiVHFDZjJaSE1LZF9BNnZLQ0xlblR0UWxKQ1FROTR0NERTemM3c2h2UmRWTk9yaHNZaG03WXBBSWpaetIBzgFBVV95cUxQZ1dVUEtVdTJNR0thWXduQWFySEVjQ3RxeFJfT0hVQ0FBaE41WnNTQnRVQ0J6TEp3OXdFWlF4ZTB6TC1adXRac19HRjBPRDJiSkZyRlA1SzlCTUxpREoyRmZnckI3bXNzejQ3LXc1WGN4R1MwZGg4XzdISWhLeVBKdmhLMm1RUXJ5OGdlaW9xbGFOUVFGWGVnd25laWM2UEpORzdwRWNERjdmbE9OSGRJeDhBbC1WclRzejhpclNYVC1EMlpDYWh0c1hrN0k1Zw?oc=5",
+          "title": "Oliveira do Hospital registou a maior precipitação do país. Concelho liderou o ranking nacional da chuva - CentroTV"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkZySjAzamVXaVJ3X2tqRllkQmRraTBPR2JDMFc3WlJRcVQtUHhUdkYzVjJseEU2VE8ycmp4U3RueG8tZk9SRVA5dk9DN2tCT1lsSENoNDlJUTMwckthMzdIbFRMVGNma2tLY2l0bTVkZlIwY296RGZiTGNYUUdfX3lWanNEZ0JUdTkzNmgtZm1Ea2VLeTBnam5SRDBoLWlvUXlnUw?oc=5",
+          "title": "Oliveira do Hospital reforça prevenção de incêndios no Vale do Alva - Seia Digital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGlFa0d1MTJmLW9pSUdpTGxDcExyUWd2S09vQjA4cG5TWWdVRDBEeDRnSnB4Z2xBOWZzblhpaUFINGVrMUFucl94ZVRycHpNeUNGQVBrZmduMGlpT05SOEhzUnBVR2trM0ZCNnEwQVpXaHFqU05GMUZCZEhLcUlJb3FaaDVWcHY2ZllPWWhpY1R6aDdmVDBTUS1VM2lfa0VlS253NmtPRkZMNF8xWVVXZ3Bn0gG3AUFVX3lxTFBxbDVjeWszd0NnY3BDRkpmcGV4NHFqamNZeW56bDBmeUJXcjBXX0lsa1lKakVCdW5vZlZTUGlmYW8tNzBBU3BLN0dsZTA3TFdXb3NTNnFGVURlU2s5SDFOYU96X2Q3dEJRT3FzUXdkRmduLUo5aHExRHZVV0tqUW9FSHZMZGF6MUJFRno0RTJQVVM1VjA3aTFlTDJ6OVRIdVlNaHhkd2JrVEdJTXoxdnpRZzhSQm1Kcw?oc=5",
+          "title": "Oliveira do Hospital reforça prevenção com execução de faixas de gestão de combustível - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDliUDhpOFFlUzliWG9OMWJJWUxOYklrWkJGNEN5QXBRczF4VXhQX1ZxZG5WZmVodzAyZGZpb3dISVBpLVdET2M2X3VvWk1VWGFKWE05U0REbjhuU2ZkdTA0X1RCZ2tBYzBWb2RjMXAwZnB2Y0cwTE9qbmVPOERqQVl0RGpNRXVMLWFpV1dpVkdqZ3NJSHF5ZUlOOG1DNV91a3VFbVM3VlBDMkdXX0NUV182dzZIUdIBuwFBVV95cUxNNmM5WlUzUzV3MWdwTnlfbEF1XzhBdjFLU2hJbEtSa2d5YmxSbG01UjItdjRGTi1ITDZqbE9Rb2sxUXNQTVdEbkg0S3g1VVUxeUhUa1kwZXhxQnh3VW9YTnlkZTl2NFBjalVyNTd6TnpqMGJTTllXY3JVcGw5SEpUNFA4aEI2Nl9VeGp3Y1pLUk9RSHY0ampDM2laVUlLcXh3WW9ZdUNVV3FGQ2gtQV92VkhRSXFCeEx6OFBj?oc=5",
+          "title": "Oliveira do Hospital avança com limpeza de faixas de combustível junto às estradas - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDFKZVlpWk5fM3VFb0Y2TXExZXoxX2Fscjh5QXR1TTVmMk9wZ2EzdjFmSUxnb25OSl9pSnFzTlZhTE1PYnBHT3I0ZGEtZHhRYldoZDViak9rb25pWDlUNE5HQmMzQXdqN2hSWlhkTlNjNHF0M24zUndsVmRJV1BVak1kTFl3NExYOVpnSEV3VEUya1BZbHVITVFQTUhqNUEwM3lmSkpGREhzbi1SVEZZcEltZlUwVzJrc2Q1QnEwQmswV09OSFRGM9IBzgFBVV95cUxPS2JLMGgzMmdXU3RCRXUyMzl5aXMzOENtZHJTVlgyRFlReGQtRGlPM004NC11bmpGSmFDYkk2VG1VY3NBVlg5R2U4YjJQVlVGZVBhcE93Wmp6TmlDcnJ0UXdsOTIwaE1fS3NHT2h5bnBPS3hoM1NqYWtPYzN4czcxa2JVN29CTkZSbEkwUUd5T0lqbXpuZ1puUloyU1BkS09mUkFTVVdoUUp4MkxDRlY3UkpBLXU2V0x1RnFLN1YxVkhKeWpQWjBHRjlPNFVKQQ?oc=5",
+          "title": "Oliveira do Hospital instalou nove novos abrigos de passageiros num investimento de 42 mil euros - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazVUVmM1dEdoS0NRYURlOEhVdUZMSkd5b3JEM3hnb3JvcmRTeFhTS21JNmxFYXloQUo0UmZ2UDZQTjgzR1Vpd3piaThPbHNkN0NZTDFxMy1PZkxDcElFeVItRElHWm04OHVTUEhuUm1KT1k0d2NLeGQ1Ql9uY2FHcUdoMy0weW5oMnpZSko1RjRmRnY3bmVoaXdXaW04aDkzNHdMZkgzS2wyR1hSQmhHcjFGdXpKTE9hNlVnVmIzcDVaTkFpUWdOUlJR?oc=5",
+          "title": "Maior Festa do Queijo de Portugal regressa a Oliveira do Hospital a 13 e 14 de março de 2027 - Câmara Municipal de Oliveira do Hospital"
+        }
+      ]
+    },
+    {
+      "title": "Arganil zet bouw- en vergunningsaanvragen online; drie gewonden bij ongeluk op IC6",
+      "category": "Regio",
+      "lead": "De gemeente Arganil heeft een online platform gelanceerd voor stedenbouwkundige procedures. Op de IC6 in Arganil raakten bij een aanrijding drie mensen gewond.",
+      "body": [
+        "Via het nieuwe platform kunnen inwoners processen rond urbanismo, zoals bouw- en verbouwaanvragen, online indienen en volgen. Meer details geeft de aankondiging niet.",
+        "Op de IC6 op het grondgebied van Arganil vond donderdag een aanrijding plaats waarbij drie gewonden vielen. Ook in Oliveira do Hospital sloeg eerder deze week een auto over de kop in het industriegebied; daarbij raakte één persoon gewond.",
+        "Arganil ligt op ongeveer 15 tot 20 kilometer van Meda de Mouros."
+      ],
+      "context": "Voor bouwen of verbouwen heb je in Portugal meestal een vergunning of melding bij de Câmara Municipal (gemeentehuis) nodig. Voor Meda de Mouros is dat de Câmara van Tábua, niet Arganil, maar de ontwikkeling laat zien dat gemeenten in de regio digitaliseren.",
+      "slug": "arganil-zet-bouw-en-vergunningsaanvragen-online-drie-gewonde",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDc0UUhJcGxwQ29qQk9WcVV4cnd3R1RJNDhIcjNVSEh0akJjWU5CaFdESF9SRFVsMFhjajl0OVRkTHhlZl93UWlWa2tzekZNWUdrUWZkSXkxVlpmVmxXb3VIRXpCcFZRWmxrQzVaSzB0Rl9qcGRoR0tnOWN2X2RvSWNrcmxOdXlXOVVYMnlPcVZOZU5kcVZqWXhYcEZTZ0NoN3RNSzk1U0FITVFY?oc=5",
+          "title": "Município de Arganil lança plataforma online para processos de urbanismo - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hU21FVnBscnQ0cFlfcFdueHgtMmF0YTU3NDdzelN1dFFqUHJjLWQyYjBVLXJVSFNKS2lscGZQVExPWHBLb2lJQlZyUGpZdDBUQnZHa1hubFZLX0d2c1pYSTF1blRtUkNqY001NzZGcExKX3d2NjRlLXFVOFFTUQ?oc=5",
+          "title": "Colisão no IC6 em Arganil faz 3 feridos - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGtsd1ppbVY5bU9lRnNLaFhESXFtUVFoY1Jmckx5RHp5Y09WVFo2M2xPeVlzMVEyTUFDT1JabHQ0MkFTc09OR0xLVGJfd3RGbkJqNWhXQWhmQzA4RF94djlGWnRfQW5zUFRRTmVwT3BiSDhJaXNUM0tNN0dNYlVzMkIzSUlveG1rTnJnMFN3?oc=5",
+          "title": "Carro capotado em Oliveira do Hospital: há um ferido - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXFsckg2MThsZ1J3WkxBRkhROUpPVlhJbjdMampLRXdpa2ptVHVmd1Q5U0RXMGFwLU9tc0J6UDc4MG95MGdmLXNOdTZDWFgwM2d3QUsxd1ZXencwNTVwNFFwTUZNMWs3S3VCS0VLMmRHUkROVDY5dWxabHpTSGtFSWl0QlpvRHc0RlNnOHo4YVA4a2ZadTlXRG1JUkstRWhJQ0Jvd0t3?oc=5",
+          "title": "Carro capota na zona industrial de Oliveira do Hospital - SAPO"
+        }
+      ]
+    },
+    {
+      "title": "Oekraïne: bondgenoten openen deur naar deelakkoorden; Nederlandse ambassade in Kyiv beschadigd",
+      "category": "Internationaal",
+      "lead": "De bondgenoten van Oekraïne sluiten 'deelakkoorden' met Moskou niet uit als een staakt-het-vuren uitblijft. Bij een Russische droneaanval raakten de ambassades van Nederland en Oostenrijk in Kyiv deels beschadigd.",
+      "body": [
+        "Volgens de Portugese minister van Buitenlandse Zaken Paulo Rangel gaat het om mogelijke afspraken over gevangenenruil, terugkeer van kinderen, en energie- en scheepvaartveiligheid. Bondskanselier Merz waarschuwde dat Europa na de oorlog 'veiliger' moet zijn, met een sterke Europese pijler in de NAVO.",
+        "De top van Trump, Xi en Poetin in Shenzhen eindigde met een gezamenlijke verklaring over het vermijden van een kernoorlog, maar zonder concrete vooruitgang bij nucleaire ontwapening.",
+        "Oekraïne viel de Krimbrug deze week opnieuw aan; Zelensky noemt dat een bewuste daad op eigen grondgebied. Poetin sluit een bestand op zee of rond energie uit. Rusland vuurde vannacht minstens vier ballistische raketten op Kyiv af, waar explosies te horen waren."
+      ],
+      "context": "",
+      "slug": "oekraine-bondgenoten-openen-deur-naar-deelakkoorden-nederlan",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/aliados-de-kiev-admitem-acordos-parciais-com-moscovo-diz-rangel_n1780284",
+          "title": "Aliados de Kiev admitem acordos parciais com Moscovo, diz Rangel"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/19/aliados-da-ucrania-admitem-acordos-parciais-com-moscovo/",
+          "title": "Aliados da Ucrânia admitem acordos parciais com Moscovo"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/merz-avisa-putin-que-europa-deve-ficar-mais-segura-apos-fim-da-guerra_n1780288",
+          "title": "Merz avisa Putin que Europa deve ficar \"mais segura\" após fim da guerra"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/19/cimeira-entre-trump-xi-e-putin-termina-sem-avancos-para-a-reducao-de-armas-nucleares/",
+          "title": "Cimeira entre Trump, Xi e Putin termina sem avanços para a redução de armas nucleares"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/20/zelensky-ve-ataques-na-crimeia-como-ato-deliberado-contra-propriedade-ucraniana/",
+          "title": "Zelensky vê ataques na Crimeia como ato deliberado"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/zelensky-ve-ataques-na-crimeia-como-ato-deliberado-contra-propriedade-ucraniana_n1780362",
+          "title": "Zelensky vê ataques na Crimeia como ato deliberado contra propriedade ucraniana"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbUNRNFQ2MFpHcmg3d3hEVnpyTDBpalRUV2hBR3VtYU40NHpVemNqY193UHdNWGxOVEg4ZlhrbzJyVGJ0YUY0elptMkFyZE9yeHpvQXBOWGNFQ202UkJVUWpQaUFFazdhQ2dSNWJFU3N5NURwNkE1Tmp2SThxZWdDd1g1VVdaQW5xZG5mdG9XU1dYaHdDeURlMUQ1WDJRWXNyQTlIdnVzOExUNG5tT0pzRktoSlFtZ1liTDQ0VDYwTVBmTEJXUDE1Uy1ydWVmSUZYU2Foc2hJTlZFOXh2UjNNZExnbVozZkEweEhXNGJsc2RfT09JVHlGVFNLU25aVHJaQVdHYVRB?oc=5",
+          "title": "Ucrânia voltou a atingir ponte da Crimeia: “É um golpe no prestígio de Putin, além de representar um grave problema militar” - Expresso"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/novas-explosoes-ouvidas-em-kiev_v1780374",
+          "title": "Novas explosões ouvidas em Kiev"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2477/",
+          "title": "00h. Ouvidas explosões em Kiev após emissão de alerta aéreo"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/mundo/zelensky-destaca-urgencia-de-reforcar-defesas-aereas-enquanto-decorrem-negociacoes_n1780308",
+          "title": "Zelensky destaca urgência de reforçar defesas aéreas enquanto decorrem negociações"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "greve",
+      "nl": "staking",
+      "example": "Esta sexta-feira é dia de greve na função pública."
+    },
+    {
+      "pt": "cabaz de alimentos",
+      "nl": "boodschappenmandje / pakket levensmiddelen",
+      "example": "A proposta visa criar um cabaz de alimentos com IVA zero."
+    },
+    {
+      "pt": "rutura de medicamentos",
+      "nl": "(tijdelijk) tekort aan geneesmiddelen",
+      "example": "97% dos hospitais registaram ruturas de medicamentos em 2025."
+    },
+    {
+      "pt": "faixa de gestão de combustível",
+      "nl": "brandstrook (vrijgemaakte strook tegen bosbrand)",
+      "example": "Oliveira do Hospital avança com limpeza de faixas de combustível junto às estradas."
+    },
+    {
+      "pt": "senhorio",
+      "nl": "verhuurder / huisbaas",
+      "example": "IVA zero aprovado em troca da queda dos benefícios fiscais para os senhorios."
+    },
+    {
+      "pt": "subsídio de refeição",
+      "nl": "maaltijdvergoeding",
+      "example": "O Governo confirma aumento de 30 cêntimos no subsídio de refeição."
+    }
+  ]
+}
