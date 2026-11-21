@@ -1,0 +1,439 @@
+{
+  "id": "2026-11-21-0626",
+  "generatedAt": "2026-11-21T06:26:40.079Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 262,
+  "intro": "Dit weekend draait alles om het weer: het district Coimbra, en dus ook Tábua en omgeving, staat zaterdag onder code rood voor aanhoudende, soms hevige regen. In Lissabon gaat het politieke gevecht over de begroting voor 2027 door: oppositiepartijen PS en Chega blijven wijzigingen doordrukken en premier Montenegro reageert fel. Daarnaast verhoogt Moody's de kredietwaardigheid van Portugal en krijgen politieagenten een loonsverhoging.",
+  "articles": [
+    {
+      "title": "Code rood voor regen in district Coimbra, Viseu en Guarda",
+      "category": "Klimaat & Natuur",
+      "lead": "Het weerinstituut IPMA heeft voor zaterdag 21 november tussen 9.00 en 18.00 uur code rood (aviso vermelho) afgegeven voor de districten Coimbra, Guarda en Viseu, vanwege aanhoudende en soms hevige regen. De Civiele Bescherming waarschuwt voor overstromingen.",
+      "body": [
+        "Het IPMA verhoogde vrijdagavond de waarschuwing voor de drie districten naar rood, het hoogste niveau. Meda de Mouros en Tábua vallen onder het district Coimbra, net als Arganil en Oliveira do Hospital. Ook de aangrenzende districten Guarda en Viseu staan op rood.",
+        "Voor Vila Real, Viana do Castelo, Braga, Porto en Aveiro gold al code oranje. Leiria, Santarém en Castelo Branco zijn daar nu bij gekomen.",
+        "De nationale Civiele Bescherming (ANEPC) waarschuwt voor aanhoudende regen en harde wind in de komende dagen, vooral in het noorden en het centrum van het land. Daarbij kunnen rivieren buiten hun oevers treden. President António José Seguro sprak van 'regen met een intensiteit die niet normaal is' en riep op tot voorzichtigheid.",
+        "In Manteigas, in de Serra da Estrela, heeft de gemeente voor zaterdag een gemeentelijke alarmfase afgekondigd. Daar wordt nog opgeruimd na een eerdere modderstroom. Ook Figueira da Foz heeft vooraf risicoplekken in kaart gebracht."
+      ],
+      "context": "Code rood betekent dat er extreem weer wordt verwacht met een groot risico. De autoriteiten raden aan om onnodige verplaatsingen te vermijden. Vermijd ook beekdalen en wegen die kunnen onderlopen. Oliveira do Hospital had vorige week al de meeste regen van het hele land, dus de bodem is verzadigd. Op een quinta op een helling is het verstandig om afwateringsgreppels, duikers en jonge aanplant te controleren.",
+      "slug": "code-rood-voor-regen-in-district-coimbra-viseu-en-guarda",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-aviso-vermelho-de-chuva-para-varios-distritos_a1_1780716",
+          "title": "6h Aviso vermelho de chuva para vários distritos"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/ipma-sobe-para-vermelho-o-aviso-em-coimbra-viseu-e-guarda-devido-a-chuva-forte_n1780666",
+          "title": "IPMA sobe para vermelho o aviso em Coimbra, Viseu e Guarda devido à chuva forte"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3087839/coimbra-guarda-e-viseu-sob-aviso-vermelho-devido-a-chuva-persistente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Coimbra, Guarda e Viseu sob aviso vermelho devido a \"chuva persistente\""
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/protecao-civil-alerta-para-chuva-e-ventos-fortes-sobretudo-no-norte-e-centro/",
+          "title": "Proteção Civil alerta para chuva e ventos fortes sobretudo no Norte e Centro"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT05leERjd191YkVOWTU1TlVKQ1RGWUZCenBEdU9Gc1hkSDBHVGlQSGZ0MXE5bktDMFkxYlNHYnNiRFlEQWRvTmItVnNteHNCZ2FDQ01pS3UtS29DTmJjQ0JacXMydFV2bEVZU25RU1RIa1VUU3dMbU1BOHRZYzh2aXgxWGh0M0I4RjJXNmNHTVN4R1dmVHVOTmtCQWdFTjZkemVjQmVrOXJvRlRtNm95ZktuS1BpX3BDQmR4Y010YU9oYkdrZEVSRnpqT2E?oc=5",
+          "title": "\"Estamos a falar de um risco razoável\": fim de semana será de chuva e avisos - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUIwUkdXNXZvUV9NZ25VUmZKWEVqTlZTS2NDMmpFNll0NDJfYVZsdlFJbXlraHQwa3l0TjlHT0I4ZExUWHg0MVRaU25aYzJ3SFJhYVdKbmEzNFhfR3dha0lYd0h5NW5ySDAyLXlVc3lDZFFnZHU1d3E4OWJsb2FzaHhsci1DSDFfOWJjc1ozbENFanJaN0tZOFJuVTA1Q0hWQlhuWUV3dUtscHdWbUE?oc=5",
+          "title": "Fim-de-semana de chuva e ventos fortes: três distritos sob aviso vermelho | Meteorologia - Público"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdzBZSmJQQmEyVVNDZkxNTVRyWGdzcXVqMVpFUnRvMDVXWWx2QUNuZXpkSmhBR3pYb2VwSncyTjR3b3RkblRKZmc3Tlk0Ym5jc0dyVGZvczRFZ1hTOHJvZk0yWXNvT3dGdk5wMXR0eFZhc1d2cXI2MVROcmJ0Q0FreWJpMjh0cV8wc3h6c1hxRlFlaS1ITmp6TGpmTU90SVVYTmx5ZGM5N3BudHVMc0pBSkk3VE9weW5uZTZwMWRKanR0a0Y1?oc=5",
+          "title": "Seguro alerta para \"chuvas com intensidade que não é normal\". Câmara de Manteigas decreta alerta municipal - Observador"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNGE3Yk1WQ0xEaF9yZkxXLWUycjZ0RXpRTWFLeGFzOHZ5QnBfVVZxb2NuUVlFNi1VLWZIUEhISzJwSS1RbWg3b0M2Q2FfWmtCd3pJN0RvbzU5YUI0WDJfSTY4c2pQWHdWRk9WLXh2V1NYOGdud3ZRQ1hvTkctOEF3U1EybXMyTGVPaUgxck5HTGFfY21yc1o0emgwOV9zTXVSZS03U2hnQ0F6Y2M5NWQyWXJNT2d2UkFwVmU4dW8wRmMzcEF4a2dDTl9RdTYtVVB2bmpFYXhva0xWRDRTcUZpbzNOM2JsN1A3UlNjdkVKV2s4a0NUdUlxN0dETENZcGc?oc=5",
+          "title": "\"As previsões preocupam-nos\": Manteigas decreta situação de alerta municipal após agravamento meteorológico e risco de cheias - CNN Portugal"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/dos-santos-ao-natal-e-inverno-natural-coimbra-prepara-se-para-um-sabado-debaixo-de-agua/",
+          "title": "“Dos Santos ao Natal é Inverno natural”: Coimbra prepara-se para um sábado “debaixo de água”"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/figueira-da-foz-em-alerta-autoridades-identificam-pontos-de-risco-antes-de-varios-dias-de-chuva/",
+          "title": "Figueira da Foz em alerta! Autoridades identificam pontos de risco antes de vários dias de chuva"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1BaaVVtYVVPU3NiVy1RTnV4ck4xOEplQWVKbHVnaWgxZ3dod2F0ajRvQ3phVXlqNjhCMWtoQzVORnNlUVZNM3V4UWQxYjBtSkJVTWxHMEF3VjNzbXVqN0ZCbGxkZUlURmt6a3UzYzFiaHNubHZkdXprazRpQ3pZNVpZWEhaRHdONXJZbF9QWmJyQ21hOGpsdXJkdnNFQU1uREtTaWRHS09PdnZGOHJKOFVfRkxwdw?oc=5",
+          "title": "Coimbra, Guarda e Viseu com aviso vermelho de chuva este sábado - Expresso"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0Jqak5tb0gxOVVMVG1MdUpORjRMYmpVSlJzMHlKZlJRYUZWTVN0TFpSRzVPdDJ5Z2ZFdmpiUVBXRm13ZktDWVUwb3hRTkxlbDhxZzJ4ZVFFOC1GcTZ2VWZqQ1dDaHZZbFFCcktFcWpPaUE3LVFScS1kdHFWSmFHZV9fVzdmcVVObGZ2NzBJS3pQU2dyVWpXUXczV2E1eTlhaUViY09sODg1NU8yd2RFaWZzQmpfZEpXRHlVa2cyb1FOeGEza3NXZzZB?oc=5",
+          "title": "IPMA eleva para vermelho aviso de chuva forte e persistente no distrito de Coimbra - SAPO"
+        }
+      ]
+    },
+    {
+      "title": "Begroting 2027: collegegeld bevroren, Montenegro beschuldigt PS en Chega van 'onverantwoordelijkheid'",
+      "category": "Politiek",
+      "lead": "Ook op de derde stemdag over de begroting voor 2027 gingen PS en Chega tegen de regering in: het collegegeld blijft in 2027/2028 bevroren. Premier Montenegro zegt dat de oppositie 'niet weet wat ze doet'. Oud-premier Passos Coelho spreekt van een verkapte crisis.",
+      "body": [
+        "Het parlement nam een voorstel van Chega aan om het collegegeld (propinas) aan openbare hogescholen en universiteiten in het studiejaar 2027/2028 op het huidige maximum te houden. De regering wilde het bedrag laten meestijgen met de inflatie. Volgens Montenegro zou die verhoging minder dan twee euro per maand bedragen en zou het geld minder draagkrachtige studenten helpen. Volgens Expresso stemde de oppositie ook in met nieuwe ziekenhuizen waar de regering tegen was.",
+        "In een toespraak in Oliveira de Frades (district Viseu) beschuldigde Montenegro PS en Chega van 'onverantwoordelijkheid' en 'onbezonnenheid'. Hij noemde opnieuw het schrappen van het verlaagde IRS-tarief van 10% voor verhuurders met een 'gematigde' huur tot 2.300 euro. Dat werd gedaan in ruil voor drie maanden 0% btw (IVA zero) op een voedselpakket. Chega-leider Ventura zegt dat hij liever de voedselprijzen verlaagt. Zowel huurders- als verhuurdersorganisaties bekritiseren het schrappen van de belastingkorting. Verhuurders verwachten dat er daardoor duidelijk minder huurwoningen op de markt komen.",
+        "Oud-premier Pedro Passos Coelho (PSD) zei dat in de praktijk het parlement regeert en niet de regering, en dat hij dat zelf niet zou accepteren. Hij verklaarde zich wel solidair met Montenegro. De studentenvereniging van Coimbra (AAC) noemt de bevriezing een 'politiek fiasco' voor de regering en wil helemaal geen collegegeld meer.",
+        "Een groot deel van de stemmingen is op verzoek van Chega uitgesteld tot maandag, omdat die partij dit weekend haar congres houdt."
+      ],
+      "context": "Nieuw ten opzichte van de vorige editie zijn het bevroren collegegeld, de felle reactie van de premier en het uitstel van de stemmingen. Montenegro (PSD) leidt een minderheidsregering. Daardoor kunnen PS en Chega samen de begroting op onderdelen wijzigen (de fase 'especialidade', de artikelsgewijze behandeling). IRS is de inkomstenbelasting.",
+      "slug": "begroting-2027-collegegeld-bevroren-montenegro-beschuldigt-p",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/21/ps-e-chega-nao-sabem-o-que-estao-a-fazer-acusa-montenegro/",
+          "title": "\"PS e Chega não sabem o que estão a fazer\", acusa Montenegro"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/a-irresponsabilidade-paga-se-caro-montenegro-acusa-ps-e-chega-de-castigarem-familias_n1780664",
+          "title": "“A irresponsabilidade paga-se caro”. Montenegro acusa PS e Chega de castigarem famílias"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/21/politica/noticia/nao-sabem-estao-montenegro-medidas-chumbos-oposicao-2195812",
+          "title": "“Eles não sabem o que estão a fazer”, diz Montenegro sobre medidas e chumbos da oposição"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/uma-convencao-ajustes-no-calendario-e-propinas-como-foi-o-terceiro-dia-de-votacoes-do-orcamento/",
+          "title": "Uma convenção, ajustes no calendário e propinas: como foi o terceiro dia de votações do Orçamento"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/parlamento-aprova-congelamento-das-propinas-do-ensino-superior-contra-a-vontade-do-governo/",
+          "title": "Parlamento aprova congelamento das propinas do ensino superior contra a vontade do Governo"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3087861/oe2027-montenegro-diz-que-o-aumento-da-propina-nao-chegaria-a-dois-eurosmes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Montenegro diz que o aumento da propina não chegaria a dois euros por mês"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3087846/oe2027-montenegro-acusa-oposicao-nao-sabem-o-que-estao-a-fazer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "OE2027? Montenegro acusa oposição: \"Não sabem o que estão a fazer\""
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTUFTMVVFbXBNSm5hSnVhNUdxaVZtcV9pcnV4NVVGek92VlpNS1hrM2g4TktKSUZnT1B0LVQwQlcyX1lTYm9BLVlCdnRNeTJkMTVYTTI5VjVTRWl5czZvaUlkSE5mdF9OckUyX2JZdU0tQzRVQXBWY3F1Tm9Pa3VJRkRXbVNfYXQxcXBBem9LT0I0TG0tcUd0TjRKbGtaVGU0eVZUVkd0RjBZVF9Tckd5UzhfUm1HdmRFaU5odjhPTklXZnJKY29OS1dVRHdHVjlId0RMa3JnSmpWOG02Zzh5NkVHYW5ycHdrVHhrWDlWMXkwWWFnQ1dYQVpTaXU?oc=5",
+          "title": "Congelamento de propinas e novos hospitais: oposição continua a contrariar o Governo - Expresso"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-ar-votacoes-adiadas-para-2afeira-por-imposicao-do-chega-que-reune-esta-noite-no-entroncamento_a1_1780662",
+          "title": "21h AR votações adiadas para 2ªfeira por imposição do Chega que reúne esta noite no Entroncamento"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3087897/passos-coelho-rejeita-que-parlamento-governe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "\"Parlamento é quem está a governar. Eu não aceitaria isso\""
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-passos-coelho-diz-se-solidario-com-luis-montenegro_a1_1780713",
+          "title": "4h Passos Coelho diz-se \"solidário\" com Luís Montenegro"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNThMWTU2X1FaWWF2MGJvazJqOFREOUhrdGNlQldRRC00eXR4WXhrdEM0Q3JpcDZqdzJwVXBfMEhSS2xCU0lrVmxyNWJNWEdGOUdzb2JSVzBGb1NDMUx2Ym9PQjYxbmVXWUpKcXAzUzJyZHhabnNLeS1Ya1NpbDVlWjhjSVNVVW9XdXNzVkJhUWEweDFVbTRYdl85Ynl1dnNpeW1UakZ4T201VE51ZGVmTDlkc2xNeFBBUXBRUkZMUXJCV1ZLZHkta09HM2h4THZBRFZ4aEFUYVVIeTRsR2tWcVFXS1dKRzY4cVNmeTAzM0RmZS1CSGpvYTFDTnU5YU05VGV1QmJCaHZRU2xFZ1JraDcyenJibDE1c3o4V2RiSWZIQzBiRGs0TERuckZQb2xiX2NCS0xPdDRTZ2xwOWJjVlpzdktsdw?oc=5",
+          "title": "Proprietários dizem que fim da taxa de 10% de IRS sobre as rendas moderadas vai causar uma \"retração significativa da oferta\" - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2t4bUtrSzNRbUliSXFtS2JRbGNGdmNVcW5HdmwtVHdsUWtKVTRkbGxxdFFkWlJNSzNqSHJiS0xyMGlUOGFsV1pXcU9xYkphVV9LZGdFM29jQzZCRnRwNGlWX1hhM29LbnhXY0N4bmJQT2xfWnNoT2FQMzhBVkhOTW5weGtUUFZNN3ROT1pEaDhTU3JXZm1wVE9MYThZVWdDR0t6dGlSSk9aMUp5aFZpa0lTdkdHSThXZG5hU1hlV2Q1a0diMkNwdg?oc=5",
+          "title": "Inquilinos e proprietários criticam fim do desconto fiscal para rendas “moderadas” - Público"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMWhSLS1oeGpMa2VBdU9WVlJZUzA0OHA3Zld6YWU1MzZ3U0lrV0x2amNZSVA2LUhaZTRGZExYSEh6ZDA5VUxBdXRXM0FSQk9XZkNfRUVGWWczQkFnS3ZwQllCSnJqTXpUWkFneUtNV2d2UEtOOGxPMWxwVkpiOGRjZ3pTNjRtM0t0MTh6WWNxYl8xNk80S1FpcTR2RERyeDhvVEdabUFubnE5a21YZXdIUG1OaTVVaEg1SkxNczVrNDJ4eUYxb3dyOXVlckQtWWoyVWo4VExpQVg4MlVSdFpJcklPa1N2WWx4Y2M4N1RIV2RNS0VPR05tSUpCaURPOGFLYTl3WS04aTBReWl3NUZiS1VEaWpsTnRTNkE?oc=5",
+          "title": "OE2027: Ventura diz que preferiu baixar preço dos alimentos em vez de beneficiar rendas até 2.300 euros - CNN Portugal"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/associacao-academica-de-coimbra-acusa-governo-de-fracasso-politico-e-exige-fim-das-propinas/",
+          "title": "Associação Académica de Coimbra acusa Governo de “fracasso político” e exige fim das propinas"
+        }
+      ]
+    },
+    {
+      "title": "Bommelding legt congres van Chega in Entroncamento stil",
+      "category": "Politiek",
+      "lead": "De eerste avond van het nationale congres van Chega in Entroncamento (district Santarém) werd vrijdag afgebroken na een bommelding. Het congres zou zaterdag om 10.00 uur verdergaan.",
+      "body": [
+        "De politie (PSP) kreeg een anonieme melding over een bom. Daarop werd uit voorzorg het paviljoen ontruimd waar het congres plaatsvond. Het congres liep al vertraging op en was nog niet echt begonnen.",
+        "Een speciale politie-eenheid en de explosievenopruimingsdienst doorzochten het gebouw. Volgens de PSP duurde de hele afhandeling ongeveer twee uur.",
+        "Volgens RTP worden de werkzaamheden zaterdag om 10.00 uur hervat."
+      ],
+      "context": "Chega is de rechts-populistische partij van André Ventura. Het is inmiddels een van de grootste partijen in het parlement en speelt een sleutelrol bij de begrotingsstemmingen.",
+      "slug": "bommelding-legt-congres-van-chega-in-entroncamento-stil",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/reportagem-observador/o-aviso-que-paralisou-e-cancelou-o-arranque-do-congresso-do-chega/",
+          "title": "O aviso que paralisou o arranque do congresso do Chega"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/especiais/da-chamada-da-loja-fechada-ha-dois-anos-as-minas-e-armadilhas-da-psp-as-duas-horas-apos-a-ameaca-de-bomba-que-travou-a-convencao-do-chega/",
+          "title": "As duas horas após a ameaça de bomba que travou a Convenção"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2452/",
+          "title": "1h. 1º dia da Convenção do Chega termina com ameaça de bomba"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-ameaca-de-bomba-suspende-convencao-do-chega_a1_1780712",
+          "title": "3h Ameaça de bomba suspende Convenção do Chega"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-convencao-do-chega-foi-suspensa-os-trabalhos-retomam-as-10h_a1_1780694",
+          "title": "00h Convenção do Chega foi suspensa, os trabalhos retomam às 10h"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/primeira-noite-da-convencao-do-chega-cancelada-apos-ameaca-de-bomba_n1780671",
+          "title": "Primeira noite da Convenção do Chega cancelada após ameaça de bomba"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUR3RW1BRTRMU0dneHAxdUY3djlsSmpuSjU0eWdJMFNLX2VFVFcyaWxmMFYxRmpoRTVoZkJYM0J1TlhVQkVFRUpMZThMN1NxSnZHUWxqRUpxcGQxVEJXeGRaclQzc1lVTDRIRUpra2k0SlJZbkt3M0hiazNtUU9tNmJ2WGRPbDBkYkwyeC13NVBWRkFhcm9MTDhZeFVkNC1Qc3psemplQU1WdDB1WTlZSHdZaWMwS1Zpa2lGYW5ncl9xem4tUS1LUUU4MkotTGx2bmV6aHFCYjFZdGc?oc=5",
+          "title": "Ameaça de bomba interrompe convenção do Chega no Entroncamento - CNN Portugal"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/ligacao-anonima-para-a-psp-suspende-convencao-do-chega-ha-bomba/",
+          "title": "Ligação anónima para a PSP suspende convenção do Chega: Há bomba"
+        }
+      ]
+    },
+    {
+      "title": "Moody's verhoogt kredietbeoordeling Portugal; laatste Europese herstelgeld goedgekeurd",
+      "category": "Economie",
+      "lead": "Kredietbeoordelaar Moody's heeft de rating van Portugal verhoogd van A3 naar A2, met een stabiele vooruitzicht. Brussel keurde daarnaast de laatste betaling uit het herstelfonds PRR goed: 4,7 miljard euro.",
+      "body": [
+        "Moody's had de beoordeling van de Portugese staatsschuld sinds november 2023 niet meer aangepast. Het bureau zegt meer vertrouwen te hebben dat Portugal een beleid blijft voeren waarmee het gewicht van de staatsschuld verder daalt.",
+        "Minister van Financiën Joaquim Miranda Sarmento noemt de verhoging 'opnieuw een grote overwinning voor Portugal'. Hij waarschuwt wel dat die geloofwaardigheid bewaard moet blijven.",
+        "De Europese Commissie heeft de laatste tranche uit het Plan voor Herstel en Veerkracht (PRR) goedgekeurd, ter waarde van 4,7 miljard euro. Volgens Jornal de Negócios moet het geld voor het einde van het jaar binnen zijn."
+      ],
+      "context": "Een hogere rating betekent meestal dat de staat goedkoper kan lenen. Het PRR is het Portugese deel van het Europese coronaherstelfonds. Daaruit werden de afgelopen jaren veel investeringen betaald, ook in het binnenland.",
+      "slug": "moody-s-verhoogt-kredietbeoordeling-portugal-laatste-europes",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-agencia-moodys-subiu-o-rating-de-portugal-a3-para-a2_a1_1780696",
+          "title": "01h Agência Moody's subiu o rating de Portugal A3 para A2"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/ministro-das-financas-celebra-subida-do-rating-pela-moodys-mais-uma-grande-vitoria-de-portugal/",
+          "title": "Ministro das Finanças celebra subida do rating pela Moody’s. “Mais uma grande vitória de Portugal”"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/moodys-sobe-rating-de-portugal-para-a2-com-perspetiva-estavel/",
+          "title": "Moody’s sobe rating de Portugal para A2 com perspetiva estável"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQek0xVTZfMTFIbjZSWjRNdEQwWVB1djU4enNWeFFYSHZWMDJGZm9wYVBuZTVGRFVJZ0VEYV9TVV9JRk9UdTR3bTFJcW5iS3cxWU1oUkNOcVRCbGhWMWdDTU5sUGFPeFRMbXBjbXRTLWpmckY0THhac3JJMnZwS2pWMm9HZHY4ak9UQndORVRQaFlvajhBN29sdGEySkExcXJLRm9YSDMydVVFdFJzV0VtS3pqTTB5YUd3ZFNCRTRBVVF0V0h1bGJJWjl4azBxdw?oc=5",
+          "title": "Bruxelas aprova último pagamento do PRR a Portugal no valor de 4,7 mil milhões de euros - RTP"
+        }
+      ]
+    },
+    {
+      "title": "Loonsverhoging voor PSP en GNR, grootste politiebond niet akkoord",
+      "category": "Samenleving",
+      "lead": "De regering heeft met de meeste vakbonden van de politie (PSP) en de verenigingen van de GNR een akkoord bereikt over hogere salarissen en toeslagen: tot 550 euro meer in vier jaar. De grootste PSP-bond doet niet mee.",
+      "body": [
+        "Minister van Binnenlandse Zaken Luís Neves zegt dat het akkoord twee salarisniveaus aanpast. De eerste aanpassing gaat in januari 2027 in, de tweede in januari 2028. Volgens de minister kan de verhoging van salarissen en toeslagen samen oplopen tot 550 euro in vier jaar.",
+        "De grootste politiebond, ASPP/PSP, is tegen het voorstel voor 2027. De bond erkent wel dat het beter is dan het eerste bod. Een deel van de politiebonden stapte vrijdagavond uit de onderhandelingen."
+      ],
+      "context": "De GNR (Guarda Nacional Republicana) is de politie die op het platteland actief is, ook in Tábua. De PSP werkt vooral in de steden.",
+      "slug": "loonsverhoging-voor-psp-en-gnr-grootste-politiebond-niet-akk",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/21/luis-neves-garante-que-psp-e-gnr-vao-ter-aumentos-salariais-e-de-suplementos-em-2027-e-2028/",
+          "title": "Neves promete aumentos salariais para PSP e GNR"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/luis-neves-garante-que-psp-e-gnr-vao-ter-aumentos-salariais-e-de-suplementos-em-2027-e-2028_n1780692",
+          "title": "Luís Neves garante que PSP e GNR vão ter aumentos salariais e de suplementos em 2027 e 2028"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3087880/luis-neves-anuncia-aumentos-salariais-e-suplementos-para-psp-e-gnr-e-2028#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Luís Neves anuncia aumentos salariais e suplementos para PSP e GNR e 2028"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/maior-sindicato-da-psp-contra-proposta-salarial-do-governo-para-2027/",
+          "title": "Maior sindicato da PSP contra proposta salarial do Governo para 2027"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-uma-parte-dos-sindicatos-de-policias-abandonou-as-negociacoes-com-o-governo_a1_1780665",
+          "title": "22h Uma parte dos sindicatos de polícias abandonou as negociações com o governo"
+        }
+      ]
+    },
+    {
+      "title": "Wonen en geld: geen boete meer bij vervroegd aflossen, nieuw krediet voor betaalbare woningen",
+      "category": "Economie",
+      "lead": "Er komt een einde aan de kosten die banken rekenen als je een hypotheek met variabele rente vervroegd aflost. De staatsontwikkelingsbank lanceert daarnaast een kredietlijn van 500 miljoen euro voor betaalbare woningen.",
+      "body": [
+        "De topbestuurders van Santander, CGD en BPI hebben kritiek op het schrappen van de kosten (comissão) bij vervroegd aflossen van woninghypotheken met variabele rente. Volgens hen heeft de maatregel geen grote invloed op de cijfers van de banken.",
+        "De Banco Português de Fomento (BPF) startte de Linha Portugal Fomento Habitação, met 500 miljoen euro. Het geld is bedoeld voor bedrijven en coöperaties die betaalbare woningen bouwen of renoveren. De leningen lopen tot 30 jaar, met een aflossingsvrije periode van drie jaar. Tot 100% van het project kan worden gefinancierd.",
+        "Volgens CNN Portugal is de groothandelsprijs van elektriciteit in Portugal in het derde kwartaal meer dan verdubbeld."
+      ],
+      "context": "De BPF is de Portugese staatsbank voor economische ontwikkeling. Wie een woning financiert met een variabele rente, kan straks dus extra aflossen zonder daarvoor te betalen.",
+      "slug": "wonen-en-geld-geen-boete-meer-bij-vervroegd-aflossen-nieuw-k",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/bancos-criticam-fim-da-comissao-nas-amortizacoes-antecipadas-mas-afastam-impacto-significativo/",
+          "title": "Bancos criticam fim da comissão nas amortizações antecipadas mas afastam impacto significativo"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/20/hoje-nasce-o-banco-soberano-da-habitacao-publica-fomento-lanca-linha-de-500-milhoes/",
+          "title": "“Hoje nasce o banco soberano da habitação pública”. Fomento lança linha de 500 milhões"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTEJuQTVhZHlROWtOQ3NfNG8zV3hzb3c5emhaOXZUdmE4SHdmMVFiWjg3cm5jMnE2V2w5ZnhYeWE5UDJUMXdkeEJTX2EwV2JlRFMtd3VfM1RCbmNZdEJoZzBiRlNqblo1OWtGWTNPMXNMNFROZThISFN0bW5zWjVhOEpmamkwTFM5Zkw5WVBudmswc3I1MWhnOUZaRF9oMklIbHdNTTRYRUVaYm9SX2xlWFByMEVYQVA4RGpVZXJRRmZMV2pOalk0RmtfVlpPZEIxcUNnOWlhSEZVbzJpamtXNVBfQ2FTb3liLTlLcmk5T0NXQQ?oc=5",
+          "title": "Preço grossista da eletricidade mais do que duplica no 3.º trimestre em Portugal - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital, Tábua en Arganil groeien; kaasfeest in maart",
+      "category": "Regio",
+      "lead": "Oliveira do Hospital telt 656 inwoners meer dan vier jaar geleden. Ook Tábua en Arganil groeien mee met de bevolking van de Região de Coimbra. Het grote kaasfeest van Oliveira do Hospital is op 13 en 14 maart 2027.",
+      "body": [
+        "Volgens de regionale krant Correio da Beira Serra is de bevolking van Oliveira do Hospital, ongeveer een kwartier rijden van Meda de Mouros, in vier jaar met 656 mensen gegroeid. Ook Tábua en Arganil volgen de groei in de regio Coimbra.",
+        "De Festa do Queijo Serra da Estrela, die zichzelf het grootste kaasfeest van Portugal noemt, komt op 13 en 14 maart 2027 terug naar Oliveira do Hospital.",
+        "De gemeente Oliveira do Hospital heeft daarnaast negen nieuwe bushokjes geplaatst. Een oppositieraadslid en een burgerbeweging protesteren dat de raadsvergaderingen van de gemeente (Câmara Municipal) niet online worden uitgezonden."
+      ],
+      "context": "Lange tijd liep de bevolking van het binnenland terug. Dat deze gemeenten weer groeien, is opvallend. Queijo Serra da Estrela is een beschermde schapenkaas uit deze streek.",
+      "slug": "oliveira-do-hospital-tabua-en-arganil-groeien-kaasfeest-in-m",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG1yQ1gzelBYLWxDNDByY3VEbGdHMC1lS0Ewak0yajBJY0phOXR2b0J6U1Bxb24tWmRDemhIZHdZNTRxMnNZYk5vQjgyNzRaX2gzQjVNMkViZXd3VndmQ3N1Q1ZZcHZTTG9Xai1kRWZOcWRObEhyYTY0cDNpdEFSemlYVG9HQkJmWXFXYUJJNV9jajlw0gGaAUFVX3lxTFBjamt1Y29ueTJDdmI5SzI1WnFUV21nMUxuWXE2RWN2amVNV1AxQjRCQkt1X3R5TjlqRFpXSm1XdkFjQkIxMnhoMWpYc1FuR0hRMm56OXI1TDU2NzFuSVB3bTIxVlBCQ2x0bmYwbFJIdm5kek14VkVLUTNRUUdVcS13STZFNWNDeTRSek1Objhjc0V6Rk5vZFZFcWc?oc=5",
+          "title": "Oliveira do Hospital ganhou 656 habitantes em quatro anos - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUpYLTEtMEk0UFp3bE05dFM2YlVTSHlKY1dkbThIR1ZndXZFX2x1cE1mSW05WE5kVThuRmd0WkFiWk82U0NjanNwNS1PaENPVzNlRzVGTjVXaDBZSFdOdnluSmliWFVNWml4NjBTeElSWUo2dzFxbGNfcE9EajNlSmtxVVhGaHVwNENiSWNUaUhlQ1RhUDFwYzhBWFhXNWN1YWRMTnBudTZjWDRGV2hPRW5Dbm5yQlhSWWk1UkZPaVlPV1Rq0gHKAUFVX3lxTFBfTFp6N0xCYjJjd3pxcTBPZC1WYUJzUDRNdjdUYmYxTXVBUXpHZlcxU1V5SEktTlFza3Y5ZnkxVk1RQW9jMU56VGVzLUtHRE9IQnNLeFRNX2tpQ3o3XzBLUE42NXpWOWI5TEtoT1U2QkF2SUJyQmNwbnNhS1ZmNWtnS1RoeXRUbTJHLWtRLXFVLWJzOEEwdElnUWVCQkRSZHFkZ3dvb2RqME9HUGRibGRBTU9DZGR3bW9TQ29VWFhxYjdsN2x2cUx3YUE?oc=5",
+          "title": "Oliveira do Hospital, Tábua e Arganil acompanham crescimento populacional da Região de Coimbra - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazVUVmM1dEdoS0NRYURlOEhVdUZMSkd5b3JEM3hnb3JvcmRTeFhTS21JNmxFYXloQUo0UmZ2UDZQTjgzR1Vpd3piaThPbHNkN0NZTDFxMy1PZkxDcElFeVItRElHWm04OHVTUEhuUm1KT1k0d2NLeGQ1Ql9uY2FHcUdoMy0weW5oMnpZSko1RjRmRnY3bmVoaXdXaW04aDkzNHdMZkgzS2wyR1hSQmhHcjFGdXpKTE9hNlVnVmIzcDVaTkFpUWdOUlJR?oc=5",
+          "title": "Maior Festa do Queijo de Portugal regressa a Oliveira do Hospital a 13 e 14 de março de 2027 - Câmara Municipal de Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmFwbGE5ekVTX2Z5a3lVdm9YUzhQS3hyWFcyQldiZEdkVDVfZkNOc05OSGM2Qy02OGxCTDEwcExnLVNmX3JEMmV1Zk9yRURtdmF6bWtBV3l3Rk1QdkdQZktCQmg2ajBhNEo3SW5ja0s2N0xBcnhtUll3LUVZckFvT3J5d1c0V1J6VllwQ1Q5VVI4MHFlZ1IxV2wxRFJ2djZhMXNjdlA3VWNsNjV4VmRkTFcyVGdROWl5Zl9QOUtZNmRhOUJlWEczQmFPQkc?oc=5",
+          "title": "Festa do Queijo Serra da Estrela regressa a Oliveira do Hospital a 13 e 14 de março de 2027 - Diário de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb21PendfNllrR2JkYjUzT2tVelJYcWpfYV9OQmtmbkVIZkhQU1JkbVktVGVxNWZJeUx4UDNEd2xHYnluN2lSemg5OVVxNFRsdGlyRThzaDNkMnF2Q3FHX2xVZEJBa2dRVjlFNTUwNHp6RXc5aDB3dE1ubXVtcFlQRWpzekU4Z2lLN0lXaW15MVZDSk8wbVHSAZsBQVVfeXFMT25ZQ1o4NXhqTFVmeUwxZ1hQT1BrT3BvWUJOa251NzB5SFFtUjlqZlZhalFwLTVaVUxqTFBzbHlGMVB4Q0RIVWlXbU42Mnk3TjBrelhweGhjQTUzTVRoLUVnVGZYRm51STRNUlhzQXJpSFFKTDBVaEwwZ3BfeDFYWXJVZDN2cmRPSm5FOHpuRjdzdG80Um5zQVRGS2c?oc=5",
+          "title": "Oliveira do Hospital conta com mais nove abrigos para passageiros - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORzR3SHUwUmtCMEFHS1pVdU5lLVNCc1BMZnNCUHg2ZXFGMGt4QTZ4cTVmX2xhUEpCLTFNS0lhc2FWT0o4a1o2UU0zRGs2N3ZVRWxmbXB6dWt3VjE2QVcwNkNmSG11YlQ1TkJVN2xBQzByaEZDWkRodzFhampXYzUwMUc4RjJGSVhoSzNQYjAtSFEtRnpmd1lYYW1kd3EtbG41MHUzTlI0SU5laWNKdjAyNUxNNHZHbFp3QV80U2RIVHlObHItSzJwWksyTkJyMUxnVXVvZzF6ZXBGSTFTZUIzdFJ5TEhBVHhvd3Itdzc3TmExZm5mbVBqMG84eWwyX3g5SHd6aQ?oc=5",
+          "title": "Vereador João Duarte apresenta protesto formal pela falta de transmissão online das reuniões da Câmara de Oliveira do Hospital - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbU5DYU9mUGx1LWppQUtEZi1McVhlaUpUWXdLWEV2YkFSWUhNWndSRnZjU3l4eVRySEJjaDB2NTBncnQ3dHNQYUQ1a0JoYzBLUGZ0MlhmNUJGTmNZQ1ZUS1pRamt1MXZINUFub2h5dEstZTA2cWpRQUFoUVpXaFhCN2lIRlhoVG5jNDNrTjVHX1p0WUtEMXM4cGRBbC0tYXVJbjlSendrbXlEVlJBUWNRa1UtVFlEQ3dvZFYtc2Nvb3gwalNQSFlHWDRxOWpJYkNqemRObFZSVjRYWkJhOENwcXZjVF8wQQ?oc=5",
+          "title": "Movimento protesta contra ausência de transmissão online das reuniões da Câmara de Oliveira do Hospital - SAPO"
+        }
+      ]
+    },
+    {
+      "title": "Regio Coimbra wil meer hulp na storm Kristin; honing- en kastanjebeurs in Lousã",
+      "category": "Regio",
+      "lead": "De gemeenten in de regio Coimbra vragen de regering om meer geld voor het herstel van de schade door storm Kristin. In Lousã is dit weekend de Feira do Mel e da Castanha.",
+      "body": [
+        "De Região Metropolitana de Coimbra, een samenwerkingsverband van 19 gemeenten, wil dat de regering meer bijdraagt via het gemeentelijke noodfonds (Fundo de Emergência Municipal). Nu vergoedt het fonds 60% van de kosten. Volgens de regio is dat te weinig voor de omvang van de schade.",
+        "In de Serra da Lousã is een brug die door het noodweer was verwoest weer hersteld, goed nieuws voor wandelaars op de trails.",
+        "In Lousã, ongeveer drie kwartier rijden van Meda de Mouros, loopt tot zondag de 35e Feira do Mel e da Castanha, met 117 standhouders. De toegang is gratis. Houd wel rekening met het code-roodweer op zaterdag."
+      ],
+      "context": "Storm Kristin richtte eerder dit jaar grote schade aan in het centrum van Portugal. Voor wie bijen of kastanjebomen heeft, is de beurs een plek om producenten en materiaal te vinden.",
+      "slug": "regio-coimbra-wil-meer-hulp-na-storm-kristin-honing-en-kasta",
+      "sources": [
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/regiao-de-coimbra-quer-mais-apoios-para-municipios-afetados-pela-kristin/",
+          "title": "Região de Coimbra quer mais apoios para municípios afetados pela Kristin"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/o-mau-tempo-destruiu-uma-ponte-na-serra-da-lousa-e-agora-ha-boas-noticias-para-quem-percorre-os-trilhos/",
+          "title": "O mau tempo destruiu uma ponte na Serra da Lousã e agora há boas notícias para quem percorre os trilhos"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/20/lousa-abre-hoje-a-feira-do-mel-e-da-castanha-com-117-expositores/",
+          "title": "Lousã abre hoje a Feira do Mel e da Castanha com 117 expositores"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "aviso vermelho",
+      "nl": "code rood (weerwaarschuwing)",
+      "example": "O distrito de Coimbra está sob aviso vermelho este sábado."
+    },
+    {
+      "pt": "chuva persistente",
+      "nl": "aanhoudende regen",
+      "example": "O IPMA prevê chuva persistente, por vezes forte."
+    },
+    {
+      "pt": "cheia",
+      "nl": "overstroming, hoogwater",
+      "example": "A chuva poderá provocar situações de cheia."
+    },
+    {
+      "pt": "propinas",
+      "nl": "collegegeld",
+      "example": "As propinas ficam congeladas em 2027/2028."
+    },
+    {
+      "pt": "senhorio",
+      "nl": "verhuurder, huisbaas",
+      "example": "O fim do desconto fiscal para senhorios foi aprovado."
+    },
+    {
+      "pt": "aumento salarial",
+      "nl": "loonsverhoging",
+      "example": "Neves promete aumentos salariais para PSP e GNR."
+    }
+  ]
+}
