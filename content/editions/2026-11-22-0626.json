@@ -1,0 +1,428 @@
+{
+  "id": "2026-11-22-0626",
+  "generatedAt": "2026-11-22T06:26:50.059Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 272,
+  "intro": "Het weekend stond in het teken van de begroting voor 2027, waarover het parlement dinsdag definitief stemt: de btw-vrijstelling op basisvoedsel keert terug, terwijl buiten het parlement tegen de wooncrisis werd gedemonstreerd. Ondertussen trok de zware regen weg. Op zaterdag stonden vijf districten, waaronder Coimbra, op code rood. Chega profileert zich op zijn congres als toekomstige regeringspartij.",
+  "articles": [
+    {
+      "title": "Begroting 2027: 'IVA zero' op basisvoedsel keert terug, eindstemming dinsdag",
+      "category": "Politiek",
+      "lead": "Het parlement heeft met steun van Chega een PS-voorstel deels aangenomen om van 1 januari tot en met 31 maart 2027 geen btw te heffen op een pakket basislevensmiddelen. De eindstemming over de begroting is dinsdag.",
+      "body": [
+        "De zogeheten 'IVA zero', een tijdelijke vrijstelling van btw (IVA) op een reeks basisvoedingsmiddelen, keert volgend jaar terug. Dat geldt op voorwaarde dat de staatsbegroting (Orçamento do Estado) wordt aangenomen. Het voorstel van de socialisten (PS) werd in de nacht van donderdag op vrijdag deels goedgekeurd, met steun van Chega. De vrijstelling geldt van 1 januari tot en met 31 maart.",
+        "Volgens ECO had de regering een sobere begroting ingediend om de PS ruimte te geven die te gedogen. PS-leider José Luís Carneiro gebruikte de artikelsgewijze behandeling echter om met steun van de oppositie een reeks eigen maatregelen door te voeren. ECO omschrijft die als een 'mini-alternatief regeringsprogramma'. Oud-premier Pedro Passos Coelho (PSD) zei dat het parlement de regering aan het vervangen is en dat hij onder die omstandigheden niet zou willen regeren. Chega-leider André Ventura is het daar niet mee eens. Volgens hem deed zijn partij met de goedkeuring van de 'IVA zero' 'het minimum'.",
+        "Op het gebied van wonen waarschuwt Correio da Manhã dat het einde van de 'gematigde huur' (renda moderada) de contracten van zo'n 700.000 huurders kan verslechteren. Ventura zei liever de voedselprijzen te verlagen dan huren tot 2.300 euro te bevoordelen. Donderdag besprak het parlement ook een PS-voorstel om winst bij de verkoop van tweede woningen of leegstaande huizen tot 300.000 euro vrij te stellen van inkomstenbelasting (IRS). Voorwaarde is dat het niet om de eigen hoofdwoning gaat. De uitkomst daarvan staat niet in de bronnen.",
+        "De minister van Financiën verzekerde dat de regering 'een grote inspanning' zal leveren om de overheidsfinanciën in evenwicht te houden. De eindstemming over de begroting staat gepland voor dinsdag."
+      ],
+      "context": "De minderheidsregering van premier Luís Montenegro (AD, met de PSD als grootste partij) heeft voor een meerderheid in het parlement steun of onthouding van de PS of Chega nodig. De 'IVA zero' werd eerder ingevoerd in 2023, onder de regering-Costa, als reactie op de hoge inflatie.",
+      "slug": "begroting-2027-iva-zero-op-basisvoedsel-keert-terug-eindstem",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/iva-zero-vai-voltar-medida-de-costa-nasceu-de-um-contrato/",
+          "title": "‘IVA zero’ vai voltar. Medida de Costa nasceu de um “contrato”"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/opiniao/o-oe-passou-a-ser-do-ps-e-agora/",
+          "title": "O Orçamento passou a ser do PS. E agora?"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/passos-coelho-diz-que-nao-aceitaria-que-fosse-o-parlamento-a-governar/",
+          "title": "Passos Coelho diz que não aceitaria que fosse o Parlamento a governar"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/andre-ventura-discorda-de-passos-coelho-e-rejeita-estar-a-governar-a-partir-do-parlamento_n1780853",
+          "title": "André Ventura discorda de Passos Coelho e rejeita estar a governar a partir do Parlamento"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTBCU3FEVGRsYXVjVURoVDBSb3JQTWFXbnRiaW5OQmwzVW5lZDhGUEdWbFJSSDlSeFJRbFhfYnJlbjc2dE85YkU3QWR3NkJCWndIU3ZrXzdEMFE4MEl0QXpsaVg3bW5GMFY3WXpHU0pZZ2FYZW41aEV3ZS0tYkV5b1RzLXpPdnNIR1p2cm9DeDRMYXJiUU03c2xPOW52VVZTSmdzTzg0N283X2PSAaYBQVVfeXFMTUVUNjk1NFQ1WWZYMV80RlhRM1I4ZTVRVWJaNVktLUd2MHQ1ZnJTOERaR2Z4SzdDSGRKaDl3Z0dxRzFqeGo4TUJnVXZBU3l4UkZucUZiMHpBNm9tZDQ2dmQ0azE0S0lleXBhR29Kd0ZZZ1F4QWl2Q1d6ZEx1am5rbE1NejFtUVNCcUlIRTU4aFI1YmwtSUxlOGd5TEZQam03Y3RlVXZqUQ?oc=5",
+          "title": "Fim da renda moderada pode agravar contratos de 700 mil inquilinos - Correio da Manhã"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/eco-quiz-o-parlamento-aprovou-a-isencao-de-mais-valias-ate-300-mil-euros-para-por-casas-no-mercado/",
+          "title": "ECO Quiz. O Parlamento aprovou a isenção de mais-valias até 300 mil euros para pôr casas no mercado?"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2476/",
+          "title": "2h. Sporting vence União da Serra em casa por 4-0"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2478/",
+          "title": "00h. Acampada. Tendas continuam montadas em frente à AR"
+        }
+      ]
+    },
+    {
+      "title": "Na een dag code rood trekt de regen weg; Manteigas blijft alert voor aardverschuivingen",
+      "category": "Klimaat & Natuur",
+      "lead": "Zaterdag golden in vijf districten, waaronder Coimbra, rode waarschuwingen voor aanhoudende zware regen. Er waren honderden incidenten, maar in de regio Coimbra bleef ernstige schade uit. Zondag wordt het droger en kouder.",
+      "body": [
+        "Het weerinstituut IPMA had zaterdag tot 18.00 uur code rood afgegeven voor de districten Coimbra, Viseu, Guarda, Leiria en Santarém. Wegen kwamen onder water te staan en in Lissabon werden enkele tunnels gesloten. Landelijk werden meer dan 700 incidenten geregistreerd, de meeste in de regio Lissabon en Vale do Tejo.",
+        "In het district Coimbra telde men 54 incidenten. Volgens SIC is er geen noemenswaardige schade gemeld. In de gemeente Soure werden twee wegen afgesloten en ook in Almalaguês (gemeente Coimbra) waren wegen gestremd. Eerder in de week mat Oliveira do Hospital, op zo'n 20 kilometer van Meda de Mouros, de meeste neerslag van het hele land.",
+        "In Manteigas (district Guarda, in de Serra da Estrela) blijft het gemeentelijke noodplan van kracht, omdat er nog altijd risico is op aardverschuivingen (derrocadas). Dankzij het werk van de afgelopen 48 uur kon de beek Ribeiro da Vila het water volgens de burgemeester goed afvoeren. Staatssecretaris van Bossen Rui Ladeira bezocht de opruimwerkzaamheden. De regering maakt zich zorgen over de stabiliteit van de helling van Carvalheira.",
+        "Zaterdagavond waren alle waarschuwingen ingetrokken. Volgens weerdienst Meteored zorgt een hogedrukgebied (anticiclone) voor een kouder begin van de nieuwe week."
+      ],
+      "context": "IPMA werkt met kleurcodes: geel, oranje en rood. Bij code rood wordt aangeraden niet onnodig de weg op te gaan. Na een droge zomer en bosbranden is het risico op modderstromen en aardverschuivingen op hellingen extra groot.",
+      "slug": "na-een-dag-code-rood-trekt-de-regen-weg-manteigas-blijft-ale",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/pais/chuva-intensa-e-persistente-provocou-inundacoes-no-pais_e1780804",
+          "title": "Chuva intensa e persistente provocou inundações no país"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/mau-tempo-lisboa-e-setubal-passam-a-aviso-laranja-devido-a-chuva/",
+          "title": "Mau tempo. Lisboa e Setúbal passam a aviso laranja devido à chuva"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/mau-tempo-manteigas-em-situacao-de-alerta-municipal/",
+          "title": "Mau tempo. Manteigas em situação de alerta municipal"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3088201/apos-sabado-de-chuva-como-sera-o-domingo-ha-um-anticiclone-a-explicar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Após sábado de chuva, como será o domingo? Há um anticiclone \"a explicar\""
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3088205/mau-tempo-manteigas-mantem-plano-municipal-de-emergencia-porque-risco-de-derrocadas-continua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Manteigas mantém plano de emergência porque risco de derrocadas continua"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWZKSHVFSTlPU2F5OTNyYlZHbWRuWWJnYTR0RXJSV1NyMHdjMWdWVm9zYzZwMDB1MjV0U2t4SVNvck9ZTU5yeU5Xby1WVzZQTndiWDdOdTQ5eEdHU054dXpYN2ZPUnhKSkduVkpncmpLSnFzU1RtamhFLVQ5X0duT09CZ1BDejlHOHZhQ3pyUDllUEhmVzk0MWQyZTVUOVA2UkNrNUdwRFlELV9QdDRDLVhzR0hBWUFObTU1Q1lXRWVzU0dM?oc=5",
+          "title": "Governo preocupado com estabilidade da encosta da Carvalheira em Manteigas - Expresso"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/manteigas-secretario-de-estado-manifesta-gratidao-e-solidariedade-do-governo/",
+          "title": "Manteigas: Secretário de Estado manifesta “gratidão e solidariedade” do Governo"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZnlMRkdSRUpudzhwU1NzaEU3aC1kb0pmT1oxSkotMFItb0pqTEhEbnNhM054Q2diMW14TEFXYmNQOGcySUpMQ181RXIycVFHQkhobzVXS1FiY2FtbTZnUjJuZ0lldlZSX29oSWR1UExrYy1Zbm5DTnRscVB3ODBXNGRYWVluaDlPMUVsR1VZU05BbUhSUVFXczl2RW5VcEF3UU00R1hLUVFpTHl0cWVNSE9kQ1owa0RGdENsQWE5VkFLYWZXbFdsZ0NGcjNnSkx0Q3V2a0ZBQzA?oc=5",
+          "title": "Mais de 700 ocorrências, região de Lisboa e Vale do Tejo foi a mais afetada - SIC Notícias"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkJKVlNvNTBNZ0s4dkhlVHVhSWdJaVVreGxFeHRyTGxSUmlQeGZuMVU4MzFDYU1kdGRHNWdWOW9VdmVhaTBuZUZrZV92U0lEdWtEbTJMX0YzNlNiOHNEUjZiLXdxN2tYN3FFekl5Zm5xdTZ5OHA4QWZjQUNPTkdabEZvUjVFQUxybnM5dEtKcWtPV3F6THJNZHFwcjhRVURO?oc=5",
+          "title": "Distrito de Coimbra com 54 ocorrências devido ao mau tempo - Diário de Coimbra"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQZDNFd1JfTzRfRWRxellySEhqdXItVEVlcG9veEp5MG80Vm1XU3IwOGRueHUySWJpT3l6SnlNUDBrWk1iam9oT2tVeVlVVkdya1VwYnhoV1dCNTE2WUlyQzJLRVdFYWFFQk82MkJMbzlZVi1hQ3lXZTE5eXdjWW5vVnFyM3gwTW9lQUZzZ0ZGOE9IUEJEdGhDRERwb3VSSHRyMnlKcVlaczZweFo4UV9vY3F0U3BtVUtHVXhyazNGNGZuTEJxOF9WSGUxMUhGUTQ3X09TUlVLTFEyZW4xbm5rZ2NMVVE4elZkSGg1OVU1TU5abDc1VjhuMm9oVHNabWJVd2FuTHNJbFdvMjN3LUdiUHM3VjJabXJ6dUZVODIzay0tQVhNT01SNm9OU3ZYc3pmN2U3MmJHN1NlbmJhd1NPcVhfdEZoSjVURFlYaUdqNG8tenZ4X19yRFFxNTcycEVQdFg3YXRDU1NvRnVEbk5PSUQtUQ?oc=5",
+          "title": "Coimbra sem registos de danos significativos - SIC Notícias"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/mau-tempo-obriga-a-cortar-duas-estradas-no-concelho-de-soure/",
+          "title": "Mau tempo obriga a cortar duas estradas no concelho de Soure"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/ha-estradas-condicionadas-em-almalagues-devido-a-chuva-estas-sao-as-que-deve-evitar/",
+          "title": "Há estradas condicionadas em Almalaguês devido à chuva: estas são as que deve evitar"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/alerta-vermelho-desaparece-de-coimbra-saiba-o-que-acontece-agora/",
+          "title": "Alerta vermelho desaparece de Coimbra: saiba o que acontece agora"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ1dVUEtVdTJNR0thWXduQWFySEVjQ3RxeFJfT0hVQ0FBaE41WnNTQnRVQ0J6TEp3OXdFWlF4ZTB6TC1adXRac19HRjBPRDJiSkZyRlA1SzlCTUxpREoyRmZnckI3bXNzejQ3LXc1WGN4R1MwZGg4XzdISWhLeVBKdmhLMm1RUXJ5OGdlaW9xbGFOUVFGWGVnd25laWM2UEpORzdwRWNERjdmbE9OSGRJeDhBbC1WclRzejhpclNYVC1EMlpDYWh0c1hrN0k1Z9IBzgFBVV95cUxQZ1dVUEtVdTJNR0thWXduQWFySEVjQ3RxeFJfT0hVQ0FBaE41WnNTQnRVQ0J6TEp3OXdFWlF4ZTB6TC1adXRac19HRjBPRDJiSkZyRlA1SzlCTUxpREoyRmZnckI3bXNzejQ3LXc1WGN4R1MwZGg4XzdISWhLeVBKdmhLMm1RUXJ5OGdlaW9xbGFOUVFGWGVnd25laWM2UEpORzdwRWNERjdmbE9OSGRJeDhBbC1WclRzejhpclNYVC1EMlpDYWh0c1hrN0k1Zw?oc=5",
+          "title": "Oliveira do Hospital registou a maior precipitação do país. Concelho liderou o ranking nacional da chuva - CentroTV"
+        }
+      ]
+    },
+    {
+      "title": "Chega-congres: Ventura 'klaar om te regeren' en richt de pijlen op de PSD",
+      "category": "Politiek",
+      "lead": "Na de valse bommelding is het congres van Chega met een dag vertraging begonnen. Ventura presenteert zijn partij als regeringsalternatief en houdt zijn partijleiding ongewijzigd.",
+      "body": [
+        "De VII Convenção van Chega begon een dag later dan gepland door een valse bommelding. De PSP heeft de vermoedelijke dader inmiddels geïdentificeerd en tot verdachte (arguido) verklaard. Het motto van het congres is 'prontos para governar' (klaar om te regeren).",
+        "Ventura vroeg de partij om eenheid en waarschuwde dat Chega geen 'kruk' (muleta) van de regering is. De boodschap van de tweede dag was dat de volgende parlementsverkiezingen zullen gaan tussen Chega en de PS. Daarmee wil de partij zich als leider van rechts neerzetten, ten koste van de PSD.",
+        "Ventura stelde voor de nationale partijleiding precies dezelfde namen voor als voorheen. Tegelijk diende advocate Mayza Consentino een alternatieve lijst in voor de interne Jurisdictieraad. Zij verdedigt meerdere vermeende leden van de neonazistische groep 1143. De stemmingen vinden zondag plaats."
+      ],
+      "context": "Chega is een radicaal-rechtse partij onder leiding van André Ventura. Ze is de afgelopen jaren uitgegroeid tot een van de grootste partijen in het parlement. De groep 1143 is een Portugese extreemrechtse organisatie.",
+      "slug": "chega-congres-ventura-klaar-om-te-regeren-en-richt-de-pijlen",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/reportagem-observador/ventura-e-o-arranque-de-um-congresso-a-sonhar-com-sao-bento/",
+          "title": "Ventura e o arranque de um congresso a sonhar com São Bento"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2466/",
+          "title": "4h. Chega atira ao PSD com vista a liderar a direita"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/especiais/chega-aposta-no-tiro-ao-psd-a-procura-da-lideranca-da-direita/",
+          "title": "Chega aposta no tiro ao PSD à procura de liderar a direita"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/ventura-pede-unidade-ao-chega-e-avisa-que-partido-nao-pode-ser-muleta-do-governo/",
+          "title": "Ventura pede unidade ao Chega e avisa que partido não pode ser “muleta” do Governo"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/22/andre-ventura-repete-direcao-nacional-mesa-e-muda-apenas-um-nome-na-jurisdicao/",
+          "title": "André Ventura repete lista para a direção nacional"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/convencao-do-chega-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao_n1780869",
+          "title": "Convenção do Chega. Advogada de membros do grupo 1143 encabeça lista ao Conselho de Jurisdição"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3088220/chegaconvencao-advogada-de-membros-do-grupo-1143-encabeca-lista-ao-conselho-de-jurisdicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Convenção do Chega: Advogada de membros do grupo 1143 encabeça lista"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcDlOd1Q5MllyRmRkNm9WeS1rTF9FcWlMaEQ0TjVDRENScm5kdF9XRWRQZTVrek1HZGFiQno0NGRtaUxKeV9ZbmtKREpNVTFubkY5QTdSM0dqRXNQQVdBTnloUjAwM0tQOWw4UklDY2xQS0VvMFFtQ2dwY1pNVGxBX3BpWEtra0I5MUFMejdpTG1EUWdYZmRvNF9QdWpQZ3ZQOXhtM29KTk9vbjJ3SzhxY3BPYzR6QkhwcGVPS29UZV9yVk9NeDYw?oc=5",
+          "title": "Constituído arguido. PSP identificou autor da ameaça de bomba na convenção do Chega - RTP"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeFV1OXpmVzBFX0RzaTFXTEhrWV9XSXVVUndYbVR5aDkyQkZQTmNRZVRlYjl0VmxiT00zaFo2MGl6dTc5WDJFVy1LUWVnN0dCZzhaZUdPVlNEZEJ6SWh3NFY3Y3Rfei1LOUFzdHZJUVR6T3ZONVpYN3NIWHU4dVlyOTdQWHlYdTFkR2tVNWZiaDBTeTRtaXNJbXN6dEhZWjU5bnZCWlp0bHZKbXl0V3A2VDYyXzZRZjhVQnFKU05CNTN3akVoa3AtbXFNVGpZRzhGTFA1UkR1WWtXMkNHSEh0TFp5bVBRTzV1ajhVcjV6SVJpZGl1Qy1GODUtVG8wblBqLU9ablNFNDh1Tmd0?oc=5",
+          "title": "Ventura aponta às próximas legislativas: vitória \"será entre o Chega e o PS\" - CNN Portugal"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2453/",
+          "title": "1h. Ventura apresenta listas para órgãos nacionais do Chega"
+        }
+      ]
+    },
+    {
+      "title": "Betogingen in Lissabon: CGTP marcheert tegen de hoge kosten van levensonderhoud, woonactivisten kamperen bij het parlement",
+      "category": "Samenleving",
+      "lead": "Ondanks de regen gingen zaterdag duizenden mensen in Lissabon de straat op tegen de stijgende kosten van levensonderhoud. Woonactivisten willen tot de begrotingsstemming van dinsdag met tenten voor het parlement blijven.",
+      "body": [
+        "Vakbondskoepel CGTP hield zaterdag een landelijke betoging tegen de hoge kosten van levensonderhoud. Volgens de vakbond zond de opkomst een 'zeer krachtige boodschap aan de regering'.",
+        "De beweging Acampada de Lisboa, die opkomt voor het recht op huisvesting, liep mee en trok daarna onder begeleiding van de PSP naar de Assemblée da República. Daar zette ze tenten op. Zeven tenten op de rijweg zorgden voor spanning met de politie en voor onenigheid onder de demonstranten. Later werden ze van de weg gehaald.",
+        "Volgens de RTP verliep het kampement 's nachts vreedzaam. De activisten willen blijven tot de eindstemming over de begroting op dinsdag."
+      ],
+      "context": "De CGTP is de grootste vakbondsfederatie van Portugal. De woningnood, met stijgende huren en koopprijzen, is een van de belangrijkste politieke thema's van dit moment.",
+      "slug": "betogingen-in-lissabon-cgtp-marcheert-tegen-de-hoge-kosten-v",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTUxqZk8yUEVXcWJxSF83dzFwWlFRanRjUVNudnhXdVZmLUI1LW03NERHaGR5dFRVMnFOVEZZVUxHbWlrOHJqOWZ3bEx4bFhhckRKWFFKY1ktUmhCSVNCdDlFNExYOC1XQWdaT2p5YmlxVFZFVVlCYUkzSW9YdkpOWmRXaVBQVjZ3VnR4NUdqcG5QOVFFUzVUa0djbzdEVGJSeXc0bnFudkFQaEFWNXFzd3BRU1ZmOVVWSnp3OHd1b2JXY0ExeFBlUGI0M0FnY2tHd2sxZGIyYUJJWlRrOF9EWm8xRHJiNzNsNDBlWWJrT3hiYjlYVzZkdUdwNDl4dw?oc=5",
+          "title": "Manifestação da CGTP à chuva: adesão nacional manda \"poderosíssima mensagem ao Governo\" - Expresso"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0lPMW5oQ0F1Mjg3LV9BZWNkOGN5eWhLcGl0a0RGalNrNU1la2I5b2lnNDBRbHhEQUdhUHdqMGVjZDJuSDk2VzA1N1dWaE96dzhoZGdXRWtSOFRETURIclloeGFBT05ZbVFzMGZiR21JRHNrYi1zOXA3Z09XQnlEbkYxdE5yc3RTRTlIMXN1QnRidGREVHg1SXh0aUNwVTk2WmxMQ3Z0TDV0VExQQ182T1JKLTlocERhREM0cU80ZHc3Q1hGc1BR?oc=5",
+          "title": "\"Mega Acampada\". Movimento monta tendas na Assembleia da República e convida Dino d' Santiago a atuar - Diário de Notícias"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3088196/habitacao-acampada-decide-que-tendas-ficam-em-frente-a-assembleia-da-republica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Acampada decide que tendas ficam em frente à Assembleia da República"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/22/bons-meninos-sete-tendas-na-estrada-e-os-avisos-da-policia-como-a-acampada-de-lisboa-se-dividiu-a-porta-do-parlamento/",
+          "title": "\"Bons meninos\" e sete tendas: a divisão da Acampada na AR"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/22/confluencia-de-lutas-juntou-acampada-de-lisboa-e-cgtp-em-marcha-por-lisboa-tendas-chegaram-a-assembleia/",
+          "title": "Acampada dupla: tendas no Parlamento e nos Restauradores"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-manifestantes-retiram-tendas-da-estrada-frente-ao-parlamento_a1_1780875",
+          "title": "2h Manifestantes retiram tendas da estrada frente ao Parlamento"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-acampada-decorre-de-forma-pacifica-frente-ao-parlamento_a1_1780876",
+          "title": "3h Acampada decorre de forma pacífica frente ao Parlamento"
+        }
+      ]
+    },
+    {
+      "title": "EU-meerjarenbegroting: voorstel van Costa kost Portugal 400 miljoen euro",
+      "category": "Economie",
+      "lead": "De voorzitter van de Europese Raad, António Costa, stelt voor de EU-begroting voor 2028-2034 met 10 procent te verlagen ten opzichte van het voorstel van de Europese Commissie. Voor Portugal betekent dat zo'n 400 miljoen euro minder.",
+      "body": [
+        "Costa, oud-premier van Portugal, stelt een begroting voor die 10 procent lager uitvalt dan het oorspronkelijke voorstel van de Commissie. Volgens Público gaat het om ongeveer 200 miljard euro. De voorgestelde nieuwe inkomstenbronnen omvatten onder meer een belasting van 3 procent op de omzet van grote techbedrijven.",
+        "Portugal levert in de nieuwe verdeling ongeveer 400 miljoen euro in, net als andere lidstaten. Wel vraagt het extra middelen voor de Azoren en Madeira. Een Portugese diplomatieke bron noemt het voorstel 'een stap in de goede richting'.",
+        "Frankrijk, Duitsland en Zweden hebben kritiek op het voorstel. De zogenoemde 'zuinige' landen willen nog verder bezuinigen."
+      ],
+      "context": "De EU-meerjarenbegroting bepaalt onder meer hoeveel geld er naar landbouwsteun en regionale fondsen gaat. Voor het Portugese binnenland zijn dat belangrijke geldbronnen.",
+      "slug": "eu-meerjarenbegroting-voorstel-van-costa-kost-portugal-400-m",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/proposta-de-costa-impoe-corte-de-400-milhoes-a-portugal-no-novo-orcamento-da-uniao/",
+          "title": "Proposta de Costa impõe corte de 400 milhões a Portugal no novo orçamento da União"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/costa-propoe-corte-de-10-face-a-proposta-inicial-para-orcamento-da-ue-ate-2034/",
+          "title": "Costa propõe corte de 10% face a proposta inicial para orçamento da UE até 2034"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/21/franca-alexanha-e-suecia-criticam-proposta-de-orcamento-da-ue/",
+          "title": "França, Alemanha e Suécia criticam proposta de orçamento da UE"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVhhTGF0YTkzWnhMbmRTNThhYmtNVF9IOXplekRqekJrSUtqaHdoSnVTOXFjMWJDaktycnZINkNTWDQ1TC1XaGREdjQ3NWJfdjAyb2R6ekJraEVLNFNhdjBSM2xIVlhpbWV6Yk5ZMmFlSnJXTWl1eVFKZENzNC10NGc1eG1FMndJX0tPMUt0MHRoYXZDc1F2Qmc3Vkh6OG53dUNXT2trOUQ1LXJKcGVKX1hkQXdPNTh2TXJmS1VhN1hWWDNvR0dHbA?oc=5",
+          "title": "Costa subtrai 200 mil milhões de euros ao orçamento da UE, mas frugais ainda exigem mais cortes - Público"
+        }
+      ]
+    },
+    {
+      "title": "Brandstof volgende week goedkoper; EU daagt Portugal voor de rechter over tolkortingen",
+      "category": "Economie",
+      "lead": "Benzine en diesel worden voor de derde week op rij goedkoper. Daarnaast stapt de Europese Commissie naar de rechter omdat Portugal de nieuwe tolrichtlijn niet volledig uitvoert.",
+      "body": [
+        "Volgens schattingen dalen de brandstofprijzen in de week van 23 tot en met 29 november met ongeveer 4,5 cent per liter. Het is de derde daling op rij. De daling valt wel kleiner uit dan verwacht, omdat de regering de brandstofbelasting (ISP) bijstelt.",
+        "De Europese Commissie heeft Portugal aangeklaagd omdat het de nieuwe richtlijn voor tol op snelwegen (portagens) maar gedeeltelijk naleeft. Het gaat vooral om kortingen voor minder vervuilende voertuigen."
+      ],
+      "context": "De ISP (Imposto sobre os Produtos Petrolíferos) is de accijns op brandstof. De regering past die regelmatig aan om prijsschommelingen op te vangen.",
+      "slug": "brandstof-volgende-week-goedkoper-eu-daagt-portugal-voor-de-",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3BUNDB4RWdjaGlSekJLcW5xSHJWWGZrdlVKT25iR01iX29hV3A3dUw3cHNiZG9rUVgzUjg4UFMybnAwc0R4QWs3R19leVdXMG1XNjFhSU9MNFA2SV9tMnFOS01DZE50NkdaZktBVXdlamp2QVNYVlUyNkJNNG5aN1dhckJfSDdOVFRsaGdyR0xxSFFYZkhFXzZNUTlQMGZsVUlwQ1dBSEF5bFI1WHhUSXMzVjBrWGF0NGlQdHdWd00xRGZXTUE?oc=5",
+          "title": "ATUALIZAÇÃO ISP | Preço dos combustíveis na próxima semana (23 a 29 de novembro) - Contas Poupança"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/operacao-stop/vem-ai-portagens-com-desconto-para-veiculos-menos-poluentes/",
+          "title": "Vêm aí portagens com desconto para veículos menos poluentes?"
+        }
+      ]
+    },
+    {
+      "title": "Staking bij de overheid sluit scholen in Oliveira do Hospital en 48 scholen in het district Coimbra",
+      "category": "Regio",
+      "lead": "De landelijke staking van het overheidspersoneel op vrijdag 20 november werd in de regio sterk gevoeld. Ook de scholen in Oliveira do Hospital bleven dicht.",
+      "body": [
+        "Volgens vakbond STAL bleven in het district Coimbra 48 scholen dicht door de landelijke staking van ambtenaren. Ook het vervoer, de zorg en andere openbare diensten hadden er last van.",
+        "In Oliveira do Hospital, op ongeveer 20 kilometer van Meda de Mouros, sloten eveneens scholen. Dat was vooraf al aangekondigd. In de stad Coimbra bleef onder meer de middelbare school José Falcão, met 900 leerlingen, gesloten."
+      ],
+      "context": "Bij stakingen van het overheidspersoneel gaan scholen vaak dicht omdat het niet-onderwijzend personeel (conciërges, toezicht) staakt. Wie kinderen op school heeft, doet er goed aan lokale berichten in de gaten te houden.",
+      "slug": "staking-bij-de-overheid-sluit-scholen-in-oliveira-do-hospita",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDZoRm9GMFpyMXZzd0laYU9wdTNZMVNjU19fa0NLeHo2ZC10OWlmNktXZmRmSHNxcWRnbHpfWG9ZZVlFVWVSVGZBMmh2bmZSUHRvYXR1a056aHNiRHhtdzN1enBIcHRjMmhiYlgySG56T0czSlQzblpLcXR1MlEtNHNpczhTX0laSVhKRzhqZUM1X0nSAZgBQVVfeXFMUC02ZVVYWTJXQkRkbUo2Wl9HMXFPMzJfTklRMi1nbVZLY0JoRUVNS004Z09SbWRQanRWZ1ZJXzN4UGxMN3otWU1XUms0S3hFQWQ0ak5BZUdrYjZWSl9GTlVjclc1YU5ER3BtT1hKRk5qRTRDSk80WmFGZWxycVl0OEVLTS1pQTVrZTI0WkdQTzdsWi1helllZnE?oc=5",
+          "title": "Greve na função pública encerra escolas em Oliveira do Hospital - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1dGa0xRNGF6NHdmWGhMR1BQMkdoUlhCNENSQVctUjZoLXZXMFBMM0lTZm42cExGdGF2RDBaZ1drSXVvWjFQSXZtbklhUXBzd2xXOGJhZFlhZE5HRl8zQ0tYTG04aGhfNUlqLXczNDV0LXFvbFZnSkRsRWpxSDBLanIzd9IBgwFBVV95cUxNd1dGa0xRNGF6NHdmWGhMR1BQMkdoUlhCNENSQVctUjZoLXZXMFBMM0lTZm42cExGdGF2RDBaZ1drSXVvWjFQSXZtbklhUXBzd2xXOGJhZFlhZE5HRl8zQ0tYTG04aGhfNUlqLXczNDV0LXFvbFZnSkRsRWpxSDBLanIzdw?oc=5",
+          "title": "Greve fecha escolas em Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUdBZGlQZlRyTTl3U00tSjYyMnMtcDFNX1BKSDhFMVQ3dExGTGtFZEpDQkIxZ3prTXFTeElTMU92VVgxenRuUHhtRy16VUF5NjN2RDNWLW9Qd21lTWV4X29ZaGZYODJNVXNPOUJrUVhSV0NHdmJrNDRTbVp1clE0Sk44U2psbnBzSUk3aG93VGkyUTZoaUE?oc=5",
+          "title": "Greve fecha escolas em Oliveira do Hospital - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWE5XYlQtblBYWmhEczU1ak5OSE51RmVtbVFRTEk1VUtzVEhBc3FwX3k0akxqQWFXSUptS1NrbVFCWG9HbU1ieThOVWJjUVFYSEFPNl9abGdiSmZwaGJSZDRnRDBpRTRvcXA5N055ajdtazVuRDNtYXdqV1RubEdMTzAzZklkbG5UQ0toSlRuV0d2SlE0OTFOWE9NSGFieWV2YURfQ0lBTkgySW5NNW5GMW5BZzFBQ0ladURNeVpYV3I4LUFKOHV4LWRn0gHPAUFVX3lxTFBoczhWaVVvc1V4anlhQWd5aXBCZ2V6X3plN05QcEtjTEE1bTY4emc4RUZReXBsazNacmh4ZUgyV1A5MzlGcC1xOXZYMmwzWU96OWkxWmRzZi1QdUo5eWJabE5RRzduUUkwVmMxWnhrcEFVUHQ2dENjUVlBZE8xT2NwcHVubXUyZnFZVjY3dDlBdml6VGVRZDlWWGFKZ2QwRnVGN2RXUkJUUWtDTS11UzlXOV85cy0zVlhMbE90RUVnMGhLczF0Yk4yYTJBRVJQRQ?oc=5",
+          "title": "Greve na Administração Pública pode condicionar funcionamento das escolas de Oliveira do Hospital - Correio da Beira Serra"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/funcao-publica-em-greve-encerra-48-escolas-no-distrito-de-coimbra/",
+          "title": "Função pública em greve encerra 48 escolas no distrito de Coimbra"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/20/greve-da-funcao-publica-fecha-varias-escolas-em-coimbra/",
+          "title": "Greve da função pública fecha várias escolas em Coimbra"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital maait brandstroken langs wegen; Arganil zet bouwaanvragen online",
+      "category": "Regio",
+      "lead": "In de buurgemeenten van Tábua worden maatregelen genomen tegen bosbranden en wordt de dienstverlening gedigitaliseerd. Op de IC6 bij Arganil vielen drie gewonden bij een aanrijding.",
+      "body": [
+        "De gemeente Oliveira do Hospital laat brandpreventiestroken (faixas de gestão de combustível) langs de wegen vrijmaken. Daarbij wordt de begroeiing verwijderd die bij bosbranden als brandstof dient.",
+        "De gemeente Arganil, op zo'n 15 kilometer van Meda de Mouros, heeft een onlineplatform gelanceerd voor stedenbouwkundige procedures (urbanismo), zoals bouw- en verbouwingsaanvragen.",
+        "Op donderdag 19 november raakten drie mensen gewond bij een aanrijding op de IC6 bij Arganil. De IC6 is de hoofdweg tussen de regio Coimbra en Oliveira do Hospital."
+      ],
+      "context": "Grondeigenaren in Portugal zijn wettelijk verplicht om rond huizen en langs wegen stroken vrij te houden van brandbare begroeiing. Gemeenten voeren dat werk zelf uit langs gemeentelijke wegen. Voor wie een quinta verbouwt, regelt de Câmara Municipal de bouwvergunningen.",
+      "slug": "oliveira-do-hospital-maait-brandstroken-langs-wegen-arganil-",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGlFa0d1MTJmLW9pSUdpTGxDcExyUWd2S09vQjA4cG5TWWdVRDBEeDRnSnB4Z2xBOWZzblhpaUFINGVrMUFucl94ZVRycHpNeUNGQVBrZmduMGlpT05SOEhzUnBVR2trM0ZCNnEwQVpXaHFqU05GMUZCZEhLcUlJb3FaaDVWcHY2ZllPWWhpY1R6aDdmVDBTUS1VM2lfa0VlS253NmtPRkZMNF8xWVVXZ3Bn0gG3AUFVX3lxTFBxbDVjeWszd0NnY3BDRkpmcGV4NHFqamNZeW56bDBmeUJXcjBXX0lsa1lKakVCdW5vZlZTUGlmYW8tNzBBU3BLN0dsZTA3TFdXb3NTNnFGVURlU2s5SDFOYU96X2Q3dEJRT3FzUXdkRmduLUo5aHExRHZVV0tqUW9FSHZMZGF6MUJFRno0RTJQVVM1VjA3aTFlTDJ6OVRIdVlNaHhkd2JrVEdJTXoxdnpRZzhSQm1Kcw?oc=5",
+          "title": "Oliveira do Hospital reforça prevenção com execução de faixas de gestão de combustível - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDliUDhpOFFlUzliWG9OMWJJWUxOYklrWkJGNEN5QXBRczF4VXhQX1ZxZG5WZmVodzAyZGZpb3dISVBpLVdET2M2X3VvWk1VWGFKWE05U0REbjhuU2ZkdTA0X1RCZ2tBYzBWb2RjMXAwZnB2Y0cwTE9qbmVPOERqQVl0RGpNRXVMLWFpV1dpVkdqZ3NJSHF5ZUlOOG1DNV91a3VFbVM3VlBDMkdXX0NUV182dzZIUdIBuwFBVV95cUxNNmM5WlUzUzV3MWdwTnlfbEF1XzhBdjFLU2hJbEtSa2d5YmxSbG01UjItdjRGTi1ITDZqbE9Rb2sxUXNQTVdEbkg0S3g1VVUxeUhUa1kwZXhxQnh3VW9YTnlkZTl2NFBjalVyNTd6TnpqMGJTTllXY3JVcGw5SEpUNFA4aEI2Nl9VeGp3Y1pLUk9RSHY0ampDM2laVUlLcXh3WW9ZdUNVV3FGQ2gtQV92VkhRSXFCeEx6OFBj?oc=5",
+          "title": "Oliveira do Hospital avança com limpeza de faixas de combustível junto às estradas - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDc0UUhJcGxwQ29qQk9WcVV4cnd3R1RJNDhIcjNVSEh0akJjWU5CaFdESF9SRFVsMFhjajl0OVRkTHhlZl93UWlWa2tzekZNWUdrUWZkSXkxVlpmVmxXb3VIRXpCcFZRWmxrQzVaSzB0Rl9qcGRoR0tnOWN2X2RvSWNrcmxOdXlXOVVYMnlPcVZOZU5kcVZqWXhYcEZTZ0NoN3RNSzk1U0FITVFY?oc=5",
+          "title": "Município de Arganil lança plataforma online para processos de urbanismo - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hU21FVnBscnQ0cFlfcFdueHgtMmF0YTU3NDdzelN1dFFqUHJjLWQyYjBVLXJVSFNKS2lscGZQVExPWHBLb2lJQlZyUGpZdDBUQnZHa1hubFZLX0d2c1pYSTF1blRtUkNqY001NzZGcExKX3d2NjRlLXFVOFFTUQ?oc=5",
+          "title": "Colisão no IC6 em Arganil faz 3 feridos - Notícias de Coimbra"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "aviso vermelho",
+      "nl": "code rood (weerwaarschuwing)",
+      "example": "Coimbra, Guarda e Viseu estão sob aviso vermelho devido à chuva forte."
+    },
+    {
+      "pt": "derrocada",
+      "nl": "aardverschuiving, instorting",
+      "example": "Manteigas mantém o plano de emergência porque o risco de derrocadas continua."
+    },
+    {
+      "pt": "greve",
+      "nl": "staking",
+      "example": "A greve da função pública encerrou escolas em Oliveira do Hospital."
+    },
+    {
+      "pt": "isenção do imposto",
+      "nl": "belastingvrijstelling",
+      "example": "O IVA zero dita a isenção do imposto sobre um conjunto de bens alimentares."
+    },
+    {
+      "pt": "faixa de gestão de combustível",
+      "nl": "brandpreventiestrook",
+      "example": "Oliveira do Hospital avança com limpeza de faixas de combustível junto às estradas."
+    },
+    {
+      "pt": "portagem",
+      "nl": "tol (op de snelweg)",
+      "example": "Vêm aí portagens com desconto para veículos menos poluentes?"
+    }
+  ]
+}
