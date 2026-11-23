@@ -1,0 +1,354 @@
+{
+  "id": "2026-11-23-0626",
+  "generatedAt": "2026-11-23T06:26:40.918Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 240,
+  "intro": "Het nieuws draait vandaag om de eindstemming over de begroting voor 2027 op dinsdag: de regeringspartij PSD beschuldigt PS en Chega ervan samen het beleid te kapen, onder meer met hogere belasting op huurinkomsten. Daarnaast leggen de machinisten van de spoorwegmaatschappij CP de hele week het werk neer, en eindigde de klimaattop COP31 zonder akkoord. Dichter bij huis blijken Oliveira do Hospital, Tábua en Arganil weer inwoners te winnen.",
+  "articles": [
+    {
+      "title": "Begroting 2027: spanning loopt op voor eindstemming, PSD spreekt van 'gerinsonsa' van PS en Chega",
+      "category": "Politiek",
+      "lead": "Twee dagen voor de eindstemming over de begroting voor 2027 beschuldigt de PSD de PS en Chega van een gelegenheidscoalitie die de belasting op huurinkomsten flink verhoogt. PS-leider Carneiro probeert verhuurders gerust te stellen.",
+      "body": [
+        "Het parlement stemt dinsdag over de begroting voor 2027 als geheel (votação final global). In de voorgaande behandeling per artikel hebben de oppositiepartijen verschillende fiscale wijzigingen aangenomen, die premier Montenegro 'losse flodders' en 'incoherent' noemde. Een politieke crisis ziet hij er volgens eigen zeggen niet in.",
+        "PSD-fractieleider Hugo Soares beschuldigde PS en Chega ervan een 'gerinsonsa' te hebben gevormd, een woordspeling op de 'geringonça', de eerdere linkse samenwerking. Volgens hem hebben beide partijen besloten de belasting op huurinkomsten 'brutaal' te verhogen en de universiteiten autonomie af te nemen. De PSD stelt dat de maatregelen 700.000 huurders raken.",
+        "PS-leider José Luís Carneiro zei in Bragança niet mee te doen aan 'politieke spelletjes'. Hij gaf verhuurders (senhorios) een 'woord van troost': via de regeling voor betaalbare huur (renda acessível) kunnen zij volgens hem nul inkomstenbelasting (IRS) betalen.",
+        "PSD-woordvoerder Sebastião Bugalho noemde het gedrag van PS en Chega in het parlement 'excentriek en dystopisch' en zei dat de PS niet serieus is, maar ook hij wees de gedachte aan een politieke crisis af. De minister voor Parlementaire Zaken noemde het onbegrijpelijk dat de PS niet aanwezig was bij de afsluiting van het Chega-congres, en zei dat Chega niet klaar is om te regeren."
+      ],
+      "context": "De minderheidsregering van PSD (centrumrechts) en CDS heeft voor haar begroting steun nodig van de PS (socialisten) of Chega (radicaal-rechts). Als die twee oppositiepartijen samen stemmen, kunnen zij wijzigingen doordrukken tegen de wil van de regering in. In de vorige editie stond al dat de 'IVA zero' (0% btw) op een pakket basisvoedsel terugkeert.",
+      "slug": "begroting-2027-spanning-loopt-op-voor-eindstemming-psd-spree",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/oe2027-hugo-soares-acusa-ps-e-chega-de-formarem-uma-gerinsonsa_v1780986",
+          "title": "OE2027. Hugo Soares acusa PS e Chega de formarem uma \"Gerinsonsa\""
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/psd-acusa-ps-e-chega-de-formarem-uma-gerinsonsa-e-aumentarem-impostos-sobre-rendas/",
+          "title": "PSD acusa PS e Chega de formarem uma “gerinsonsa” e aumentarem impostos sobre rendas"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/carneiro-recusa-jogos-politicos-e-tenta-segurar-senhorios/",
+          "title": "Carneiro recusa “jogos políticos” e tenta segurar senhorios"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWhZTU9mbFNqZHRQUENWT3ZJTndJWF9oUUpRTkhOdWZFQV83MTVPbGNuTkloV3A1cVFDM2xMamJ5RWN5c2ExOXhTVUhwWUxxSTF0T2gyNlRpbDNoaTgxUUowN1ZrNG9QLUw2d19OWHRjaXg4WlU1VmRmTkQ0VnZVeEk0QTY3Q1huZ2gtckNqcG0xZ2stcG5RSEZxblNZbVVybHVGTkUzWVlaMldwaHdGdWlsNEFsS0FMclhKLUhRXzVkbkhyZ0FYQzNqLVBUVG0zdWFaYjRlS29RQdIB1AFBVV95cUxPNjVSMnFxQlpwcnlzWnI1LV9Zeng0eEVmMnhkdEJ0UEdlMzA5aF9Fakt2LWpBdFFBTlo5RXFvckE4NktHUC0zbVY5ZXowMTl1X0pYVHpnaWtXbGpfOVdpWmdVTmwzX1V2bWVPV3haeWU5eGc2ZmxHaUdtejlfZTFWVFZfUGZ4NmtFRFBjYzI4RmVGVDZyZEx0b1FYUUlaUlJJTzNUaXpNZmc0RGVHQ3FfMjJDVmhSLXE0cjYtSUJqQTY0ZlNhcHNIMkRmM2dDWHRnVzk2bQ?oc=5",
+          "title": "Líder do PS diz aos senhorios que podem ter IRS zero pelo regime da renda acessível - Jornal de Negócios"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/carneiro-recusa-jogos-politicos-e-deixa-promessa-aos-senhorios/",
+          "title": "Carneiro recusa “jogos políticos” e deixa promessa aos senhorios"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1585/",
+          "title": "5h. Sebastião Bugalho acusa PS de não ser sério"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2504/",
+          "title": "3h. OE. Porta-voz do PSD critica posições do PS e do Chega"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWnp2ZEdueXFYR1JlY2FXNUFxZXdfdlNkU1ZST0VVS2xmdmRSWm5ycnJmUmNiSmVNUUtqQkh6dm9YbU9jZG5hdVRxRXV4WmNzeXhyNm16M3FzVXJUN0tMMHdZR0FtZUVCV2Q3Y0lvVUlZVWptVmJZVlJEYklSOWtZQ3l5LWRlblQwcnVTX2JQczczTmVDRVd2NVctN25hcHR4QjJTbkJsUzA5WXRiNTRSeEl2SEVoNWVNald5NHRPLUFlWGplSFRVNEc1VDFjV3djcXp1S2MxN3RRemRTdEozZjVZUF9SanVIRFROUExfNlNNVWVXTzVLQUpQYjRRSmVwM1hWRG5WY0RoZGFjVzZZVTVFdmFZZw?oc=5",
+          "title": "Um carro que virou triciclo depois de \"jogos de dissimulação\". Sebastião Bugalho acusa o PS de não ser sério - CNN Portugal"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/eco-da-semana-oe2027-proposta-de-costa-para-ue-e-a-black-friday/",
+          "title": "ECO da Semana: OE2027, proposta de Costa para UE e a Black Friday"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/ministro-estranha-ausencia-do-ps-e-diz-partido-de-ventura-nao-esta-pronto-para-governar/",
+          "title": "Ministro estranha ausência do PS e diz partido de Ventura não está pronto para governar"
+        }
+      ]
+    },
+    {
+      "title": "Parlement neemt voorstel aan voor fonds tegen natuurrampen en aardbevingen",
+      "category": "Economie",
+      "lead": "Bij de behandeling van de begroting is een PS-voorstel aangenomen voor een geïntegreerd systeem dat financiële bescherming biedt bij natuurrampen en aardbevingsrisico's. PSD en CDS stemden tegen.",
+      "body": [
+        "De Assembleia da República (het parlement) heeft een wijziging van de begroting voor 2027 goedgekeurd die voorziet in de invoering van een geïntegreerd systeem van financiële bescherming tegen natuurrampen en seismische risico's.",
+        "Het voorstel kwam van de PS en werd aangenomen met steun van Chega; regeringspartijen PSD en CDS-PP stemden tegen. Aan het model is volgens de bron al technisch voorbereidend werk verricht.",
+        "Hoe het fonds precies werkt, wie bijdraagt en wanneer het van start gaat, wordt in de berichtgeving niet vermeld."
+      ],
+      "context": "Voor bewoners van het binnenland, waar bosbranden, stormen en overstromingen schade aanrichten, kan zo'n rampenfonds op termijn bepalen hoe schade wordt vergoed. Het is nu nog een begrotingsbesluit; de uitwerking moet volgen.",
+      "slug": "parlement-neemt-voorstel-aan-voor-fonds-tegen-natuurrampen-e",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/ps-quer-acelerar-fundo-catastrofico-psd-e-cds-votaram-contra/",
+          "title": "PS e Chega aprovam fundo de catástrofes, PSD e CDS votaram contra"
+        }
+      ]
+    },
+    {
+      "title": "Machinisten CP de hele week in staking; alleen dinsdag en woensdag minimale dienst",
+      "category": "Samenleving",
+      "lead": "Sinds maandag middernacht staken de machinisten van de Portugese spoorwegen (CP), tot en met vrijdag. Alleen op dinsdag en woensdag rijden er gegarandeerd treinen in de spits.",
+      "body": [
+        "De staking van de treinmachinisten begon in de nacht van zondag op maandag en duurt tot vrijdag. Voor dinsdag en woensdag zijn minimumdiensten (serviços mínimos) vastgesteld, waardoor op die dagen alleen in de spitsuren treinen gegarandeerd rijden.",
+        "Volgens regionale berichtgeving valt ongeveer drie op de vier treinen buiten de minimumdiensten. Sommige verbindingen liggen urenlang stil en 's avonds vallen treinen helemaal weg.",
+        "Wie deze week met de trein wil reizen, bijvoorbeeld vanuit Coimbra, doet er goed aan vooraf de dienstregeling van CP te controleren."
+      ],
+      "context": "CP (Comboios de Portugal) is de staatsspoorwegmaatschappij. Bij stakingen in openbare diensten legt een arbitragecommissie vaak 'serviços mínimos' op: een minimaal aantal ritten dat ondanks de staking moet rijden.",
+      "slug": "machinisten-cp-de-hele-week-in-staking-alleen-dinsdag-en-woe",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1585/",
+          "title": "5h. Sebastião Bugalho acusa PS de não ser sério"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/6h-greve-dos-maquinistas-da-cp-com-servicos-minimos-terca-e-quarta-feira_a1_1781016",
+          "title": "6h Greve dos Maquinistas da CP com serviços mínimos terça e quarta-feira"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-maquinistas-da-cp-em-greve-ao-longo-da-semana_a1_1781007",
+          "title": "4h Maquinistas da CP em greve ao longo da semana"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-os-maquinistas-da-cp-estao-em-greve-desde-a-meia-noite_a1_1780997",
+          "title": "01h Os maquinistas da CP estão em greve, desde a meia noite."
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQkpIWXpBaENxRHNxUVNhMzB0QVlMSEJFSXN6cDNBTnZzSjY1NDViVUtaU3FMa1M1YTZYYU55Wjk4NWZoS2Z3aEhzNk16RWtvQ1ZRVXlCUUZWUU00MUhEeVBCT3lfOHNYUW5adGE1Vl9MYTE4R05QbTNhckhiWm53akN3Qmx5UXFZU1pyNDJEWWZpZG9ydEZ4ckVtOVdKcjczb2VYUHhSN3lDMHotNmxYdFRfdFFJUExWZ2txdG9tZ09NRDNoSEdMN1JOTEc4U2NtYmN4ZGpYN2JKbG15dTBEZ1dSODJoSmZuYkdRbk1ManRFeFMxbG1ET0lEWWJqdzFYZVY3RG8zcjliZDc3UDV3Wi03cnJhN0V5UjB1NUF6LXByd1JuNUI0WkE3Z09ZWWs?oc=5",
+          "title": "Vem aí uma greve na CP. Há comboios que vão ficar horas sem circular e outros que deixam de existir à noite. Saiba os horários afetados - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQk1QbTlYTXNTNWhYQk0zZmJVQ0N3M1FRcUYyNlpwTHViSEFDeVM0blBtSnQwM2k2Q2pXb2hoVkNRc29SQ1pWWThFYXdtaHh6c0JhemZObjBTNVBaSXdpODlSZVVSbWZYLTFldExwT1hfTzNCZTd1dzRGeXZZSzVOeFBPejlEZTliRUctU0hXS0Z6dUZveFN0OWI4ODliWGd6N01uS0VhdDBWUF8ycGp5WWtPeVA0Q2tMSGpfWExnYWRaRFRRRkE?oc=5",
+          "title": "Greve deixa CP só com comboios assegurados nas horas de ponta na terça e quarta-feira - Público"
+        }
+      ]
+    },
+    {
+      "title": "Klimaattop COP31 eindigt zonder akkoord; Portugal betreurt gebrek aan ambitie",
+      "category": "Klimaat & Natuur",
+      "lead": "De VN-klimaatconferentie in Antalya, de langste ooit, is zonder politiek akkoord afgesloten. De EU, waaronder Portugal, weigerde een slottekst zonder duidelijke verwijzing naar het uitfaseren van fossiele brandstoffen.",
+      "body": [
+        "De COP31 in het Turkse Antalya liep officieel van 9 tot 20 november, maar eindigde pas zondag. Daarmee is het de langste klimaatconferentie in de geschiedenis. Volgens berichtgeving is het de eerste COP sinds 2009 die zonder akkoord eindigt.",
+        "De Europese Unie en Panama weigerden de laatste ontwerptekst te steunen, omdat die geen directe verwijzing bevatte naar de overgang weg van fossiele brandstoffen. Duitsland en Frankrijk noemden het ontwerp van het Turks-Australische voorzitterschap 'onaanvaardbaar' en spraken van een stap terug.",
+        "De Portugese regering sloot zich aan bij de EU en noemde de tekst onvoldoende om de opwarming tot 1,5 °C te beperken. 'Helaas bleef het eindbesluit achter bij wat de wetenschap vraagt en wat de wereld nodig heeft', zei de minister van Milieu. Milieuorganisaties en de Portugese groene partij PEV spraken van een teleurstellend resultaat."
+      ],
+      "context": "De jaarlijkse klimaattoppen (COP) moeten de afspraken van het Akkoord van Parijs uitwerken. Voor het Portugese binnenland, met langere droogteperiodes en meer brandgevaar, zijn die afspraken op lange termijn van direct belang.",
+      "slug": "klimaattop-cop31-eindigt-zonder-akkoord-portugal-betreurt-ge",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/cop31-os-motivos-para-um-fracasso/",
+          "title": "COP31, os motivos para um fracasso"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/portugal-lamenta-falta-de-ambicao-climatica-no-texto-final-da-cop31/",
+          "title": "Portugal lamenta falta de ambição climática no texto final da COP31"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/cop-mais-longa-de-sempre-sem-acordo-ue-rejeita-texto-e-antalia-afasta-nova-versao/",
+          "title": "COP mais longa de sempre sem acordo. UE rejeita texto e Antália afasta nova versão"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/sessao-de-encerramento-da-cop31-sem-acordo-sobre-combustiveis-fosseis/",
+          "title": "Sessão de encerramento da COP31 sem acordo sobre combustíveis fósseis"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/alemanha-e-franca-rejeitam-o-inaceitavel-novo-projeto-de-acordo-da-cop31/",
+          "title": "Alemanha e França rejeitam o “inaceitável” novo projeto de acordo da COP31"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlRiNlVKQ0ZrWXF6M2Z2WXN6bjViYlhleHFRVUZ1eUYweVhMMXBIMjBWYW9pOVRoT0lXNGl5a3lKM2NnQlJKdzRoNVdlTWhSS1YxLVFHZGlQS3ZEeTBBMVI2OUc4T0V6dUFfWDZOSXV3dEpROWRXWWVNaURIbGFBZ09oalBOVUo3bjVodDA5Q1cteU5BV2ZqcEFfUDU5NG1YQWdnUTIyNURzckFP?oc=5",
+          "title": "COP31 termina sem acordo após bloqueio da UE e outros países - Público"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-organizacoes-ambientalistas-assinalam-fracaso-das-negociacoes-da-cop31_a1_1781011",
+          "title": "5h Organizações ambientalistas assinalam fracaso das negociações da COP31"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/economia/3088464/cop31-pev-lamenta-resultados-incompreensiveis-e-desapontantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "PEV lamenta resultados incompreensíveis e desapontantes da COP31"
+        }
+      ]
+    },
+    {
+      "title": "Nieuwe wet voor de civiele bescherming klaar: brandweer krijgt eigen nationale en districtscommando's",
+      "category": "Politiek",
+      "lead": "Het wetsvoorstel voor de nieuwe organisatiewet van de civiele bescherming (ANEPC) is af, zegt minister van Binnenlandse Zaken Luís Neves.",
+      "body": [
+        "Volgens minister Luís Neves is het voorstel voor de nieuwe organieke wet van de Autoridade Nacional de Emergência e Proteção Civil (ANEPC) 'afgerond'.",
+        "Belangrijkste punt dat hij noemde: de brandweer (bombeiros) krijgt een eigen nationaal commando en eigen commando's per district.",
+        "Wanneer het voorstel naar het parlement gaat en welke andere wijzigingen erin staan, is uit de berichtgeving niet bekend."
+      ],
+      "context": "De ANEPC coördineert de rampenbestrijding in Portugal, waaronder de bestrijding van bosbranden. In het district Coimbra, waar ook Tábua onder valt, bepaalt de commandostructuur hoe brandweerkorpsen bij grote branden worden ingezet.",
+      "slug": "nieuwe-wet-voor-de-civiele-bescherming-klaar-brandweer-krijg",
+      "sources": [
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/ministro-diz-que-proposta-da-nova-lei-organica-da-protecao-civil-esta-finalizada/",
+          "title": "Ministro diz que proposta da nova lei orgânica da proteção civil está finalizada"
+        }
+      ]
+    },
+    {
+      "title": "Chega wil pensioenleeftijd bevriezen; kosten geraamd op 1,5 à 2 miljard euro",
+      "category": "Politiek",
+      "lead": "Na het congres van Chega, dat in de vorige editie al aan bod kwam, gaat de aandacht naar een voorstel om de pensioenleeftijd te bevriezen. Volgens berekeningen kost dat in vijf jaar 1,5 tot ruim 2 miljard euro.",
+      "body": [
+        "Op de zevende nationale conventie van Chega in Entroncamento werd André Ventura met 85,66% van de stemmen herkozen in de partijleiding. Hij verklaarde 'klaar te zijn om premier te worden' en geen excuus meer te hebben om de volgende parlementsverkiezingen niet te winnen.",
+        "Nieuw is de discussie over het Chega-voorstel om de pensioenleeftijd (idade da reforma) te bevriezen. Volgens de krant Jornal de Negócios kost dat 1,5 miljard euro in vijf jaar; Rádio Renascença rekent met ruim 2 miljard euro in vijf jaar bij een bevriezing in 2027.",
+        "Op het congres werd ook een motie ingediend om de pensioenleeftijd te verlagen naar 65 jaar of 40 jaar premiebetaling."
+      ],
+      "context": "Chega is de radicaal-rechtse partij van André Ventura en de op een na grootste partij in het parlement. In Portugal stijgt de wettelijke pensioenleeftijd mee met de levensverwachting en ligt die momenteel boven de 66 jaar.",
+      "slug": "chega-wil-pensioenleeftijd-bevriezen-kosten-geraamd-op-1-5-a",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVU92RGtIYi1RV0ktQ2R0Q3l6dEdYelotVTkyZURQb0pEdHhmay1Sd3U2Zk9KVHlDNUk2dU5Zb3MtTndEaHI4UF9wQU5JaVFpMGtXWjM1MHVzbEk0MVVkaFYxZnI3LUQ5WHJZa19hOWtIbXE4X0l1alZhdW82Y2VhVG1rRXVacG9nb2xSLUxyWG1PanBlT0czdUtJOVhrcVJCOGhJcVRSYWpPLUZrTE81SXRKY2l4R01kM2Q3SFNHVUxycjBHeXhMQ3A5Z0JvMkNoQ0FnVTg4QzdRSzBVeTl5QTRwYzBSR2F0MDB1UVhhRWc0UTQ1ZEV0S0lDNC1SV2FUOHdXMnZxMllzeVdQ?oc=5",
+          "title": "Proposta do Chega para congelar idade da reforma tem impacto de 1,5 mil milhões em cinco anos - Jornal de Negócios"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWdYRUhxbFAza1lDbmFybjJxdGpadjF2OHZheG5SN3lGWmc3S3k2b0Q4Q2VXWkZtdTc1Y2NOWnJJQWREVzBaV2s3NElVakZFNF8zUlpGUXB0OEtwMHlOLWptTDdibjNVODFfUjBDM1UxQi05VXdoOVd6N0VDc3FTR1MzZXZyUUZtVXhTQ2x3QWxLS2hVOFhxM09WS2Nac1RRbTF4bFlvai1hdC1yOGx5NTUzckxzdTg0dVZ2TnRRZTVPOUVZbF9iN21CRmV5LVVjVWZVVHB5T0NhQQ?oc=5",
+          "title": "André Ventura reeleito para a Direção Nacional do Chega com 85,66% dos votos - CNN Portugal"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/22/nao-tenho-desculpas-para-nao-ganhar-as-legislativas/",
+          "title": "“Não tenho desculpas para não ganhar as legislativas”."
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnh6VkdvdlJuUDh5T2JkQXNjWFZXNG9QRGxFOU1udjB0b09MNkVZXzI2MzkxWDNUZDB6cHdWTFRvaHBXbGJQVE41QTFtelZUdGgtMG11dDJjWXNmcjlwY2VYQ3l0STlQbGZvbS1JS2NKN0tMWEZ6WnRta1d6cTNVZkduVnY2ZGgybTQ2NEpMVmk4eUJPazNPQ28tN1JmdFpjQm1iLUJMendJZ1J5Y1NyUGF4cTZRQWIyMVJvVTI4aDRRVUlyWnp6SG5tbUpuNHd0aHphNGp3ZG5KWXBueUJJdTNKbzc?oc=5",
+          "title": "Ventura encerra convenção do Chega: \"Não tenho desculpas para não ganhar as próximas eleições legislativas\" - RTP"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital, Tábua en Arganil groeien weer in inwonertal",
+      "category": "Regio",
+      "lead": "De drie gemeenten rond Meda de Mouros volgen de bevolkingsgroei van de regio Coimbra. Oliveira do Hospital won in vier jaar 656 inwoners.",
+      "body": [
+        "Volgens de regionale krant Correio da Beira Serra kreeg Oliveira do Hospital er in vier jaar 656 inwoners bij. Ook Tábua en Arganil volgen de bevolkingsgroei van de Região de Coimbra.",
+        "Voor een gebied dat decennialang bewoners verloor aan de kust en het buitenland is dat een opvallende ontwikkeling. Nadere cijfers voor Tábua en Arganil staan niet in de koppen.",
+        "In hetzelfde Oliveira do Hospital, op zo'n 15 kilometer van Meda de Mouros, viel vorige week de meeste neerslag van heel Portugal, rond de dagen met code rood voor het district. Op de IC6 bij Arganil raakten bij een aanrijding drie mensen gewond."
+      ],
+      "context": "Tábua, Oliveira do Hospital en Arganil horen bij de intergemeentelijke regio Região de Coimbra. Bevolkingsgroei is belangrijk voor voorzieningen als scholen, gezondheidscentra en busverbindingen in het binnenland.",
+      "slug": "oliveira-do-hospital-tabua-en-arganil-groeien-weer-in-inwone",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG1yQ1gzelBYLWxDNDByY3VEbGdHMC1lS0Ewak0yajBJY0phOXR2b0J6U1Bxb24tWmRDemhIZHdZNTRxMnNZYk5vQjgyNzRaX2gzQjVNMkViZXd3VndmQ3N1Q1ZZcHZTTG9Xai1kRWZOcWRObEhyYTY0cDNpdEFSemlYVG9HQkJmWXFXYUJJNV9jajlw0gGaAUFVX3lxTFBjamt1Y29ueTJDdmI5SzI1WnFUV21nMUxuWXE2RWN2amVNV1AxQjRCQkt1X3R5TjlqRFpXSm1XdkFjQkIxMnhoMWpYc1FuR0hRMm56OXI1TDU2NzFuSVB3bTIxVlBCQ2x0bmYwbFJIdm5kek14VkVLUTNRUUdVcS13STZFNWNDeTRSek1Objhjc0V6Rk5vZFZFcWc?oc=5",
+          "title": "Oliveira do Hospital ganhou 656 habitantes em quatro anos - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUpYLTEtMEk0UFp3bE05dFM2YlVTSHlKY1dkbThIR1ZndXZFX2x1cE1mSW05WE5kVThuRmd0WkFiWk82U0NjanNwNS1PaENPVzNlRzVGTjVXaDBZSFdOdnluSmliWFVNWml4NjBTeElSWUo2dzFxbGNfcE9EajNlSmtxVVhGaHVwNENiSWNUaUhlQ1RhUDFwYzhBWFhXNWN1YWRMTnBudTZjWDRGV2hPRW5Dbm5yQlhSWWk1UkZPaVlPV1Rq0gHKAUFVX3lxTFBfTFp6N0xCYjJjd3pxcTBPZC1WYUJzUDRNdjdUYmYxTXVBUXpHZlcxU1V5SEktTlFza3Y5ZnkxVk1RQW9jMU56VGVzLUtHRE9IQnNLeFRNX2tpQ3o3XzBLUE42NXpWOWI5TEtoT1U2QkF2SUJyQmNwbnNhS1ZmNWtnS1RoeXRUbTJHLWtRLXFVLWJzOEEwdElnUWVCQkRSZHFkZ3dvb2RqME9HUGRibGRBTU9DZGR3bW9TQ29VWFhxYjdsN2x2cUx3YUE?oc=5",
+          "title": "Oliveira do Hospital, Tábua e Arganil acompanham crescimento populacional da Região de Coimbra - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmFtWEhGTkhiLWJZNzhTRHNYSDNGVnNfYkdIczZUNURmaVAyOWpQSmtBMHFCMWFhV1N4R2xPYTVvYml3OUo1bmM3OVhIa3ZVcUJydVFrdDRWaWJ2TnFoX0tjVk9FOTgwS3FkNmctdXZOb2RsWHFETU9OYk56V01QSXBhLVRrQ1FZMG5mbzNiVHFDZjJaSE1LZF9BNnZLQ0xlblR0UWxKQ1FROTR0NERTemM3c2h2UmRWTk9yaHNZaG03WXBBSWpaetIBzgFBVV95cUxQZ1dVUEtVdTJNR0thWXduQWFySEVjQ3RxeFJfT0hVQ0FBaE41WnNTQnRVQ0J6TEp3OXdFWlF4ZTB6TC1adXRac19HRjBPRDJiSkZyRlA1SzlCTUxpREoyRmZnckI3bXNzejQ3LXc1WGN4R1MwZGg4XzdISWhLeVBKdmhLMm1RUXJ5OGdlaW9xbGFOUVFGWGVnd25laWM2UEpORzdwRWNERjdmbE9OSGRJeDhBbC1WclRzejhpclNYVC1EMlpDYWh0c1hrN0k1Zw?oc=5",
+          "title": "Oliveira do Hospital registou a maior precipitação do país. Concelho liderou o ranking nacional da chuva - CentroTV"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hU21FVnBscnQ0cFlfcFdueHgtMmF0YTU3NDdzelN1dFFqUHJjLWQyYjBVLXJVSFNKS2lscGZQVExPWHBLb2lJQlZyUGpZdDBUQnZHa1hubFZLX0d2c1pYSTF1blRtUkNqY001NzZGcExKX3d2NjRlLXFVOFFTUQ?oc=5",
+          "title": "Colisão no IC6 em Arganil faz 3 feridos - Notícias de Coimbra"
+        }
+      ]
+    },
+    {
+      "title": "Agenda in de buurt: Kaasfeest Oliveira do Hospital, 100 jaar elektriciteit in Arganil",
+      "category": "Regio",
+      "lead": "Enkele aankondigingen uit de omliggende gemeenten, van een energieconferentie tot het grote kaasfeest in het voorjaar.",
+      "body": [
+        "Oliveira do Hospital houdt op 13 en 14 maart 2027 opnieuw de Festa do Queijo, dat zichzelf het grootste kaasfeest van Portugal noemt.",
+        "Arganil herdenkt dat de elektriciteit er honderd jaar geleden aankwam, met een conferentie over de toekomst van energie. Op 13 december wordt in Arganil ook het eerbetoonboek 'Eterna Natália Novais' gepresenteerd.",
+        "In Tábua kregen de leerlingen van het eerste leerjaar een blokfluit van de gemeente. Een leerling van EPTOLIVA, de beroepsschool van Oliveira do Hospital, Tábua en Arganil, plaatste zich voor de nationale finale van het vakwedstrijdkampioenschap in webtechnologie."
+      ],
+      "context": "De Festa do Queijo draait om de Serra da Estrela-kaas, die in deze streek van schapenmelk wordt gemaakt. Oliveira do Hospital en Arganil liggen elk op ongeveer een kwartier tot twintig minuten rijden van Meda de Mouros.",
+      "slug": "agenda-in-de-buurt-kaasfeest-oliveira-do-hospital-100-jaar-e",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazVUVmM1dEdoS0NRYURlOEhVdUZMSkd5b3JEM3hnb3JvcmRTeFhTS21JNmxFYXloQUo0UmZ2UDZQTjgzR1Vpd3piaThPbHNkN0NZTDFxMy1PZkxDcElFeVItRElHWm04OHVTUEhuUm1KT1k0d2NLeGQ1Ql9uY2FHcUdoMy0weW5oMnpZSko1RjRmRnY3bmVoaXdXaW04aDkzNHdMZkgzS2wyR1hSQmhHcjFGdXpKTE9hNlVnVmIzcDVaTkFpUWdOUlJR?oc=5",
+          "title": "Maior Festa do Queijo de Portugal regressa a Oliveira do Hospital a 13 e 14 de março de 2027 - Câmara Municipal de Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZlUxUENPaEZWTnoxZ0dkZzR5R1pLbk1vOFlKVFNLem1Ic0FxYldtRVVVMGZJX1duakU1bFB6aXdIdG51S1hJRWQ3d0sySEtwQTRhWkZkX3pLZVA2Z3JJNDI3NUVHMi1QS0VzMWRNMkViSklpOWJUVnBhU2JSUVRaNFZfVVYxQ3FCRWlJVG9rVFMxTXFUdUw0Q2dLekpFek0xaTJJNXBQQ1lla3JCUzMzcl9CeWJoaTVoV3pKOUpVTDVDb0ZYeU1DWEFuRzVRLWhlRnZIX3NXQTc4RC1HY3RTTw?oc=5",
+          "title": "Maior Festa do Queijo de Portugal regressa a Oliveira do Hospital nos dias 13 e 14 de março de 2027 - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSWlqa3pzNmgyVnBlRkZySjhQOUdIUjlBSVZPM2hKclA4WjZmRHNXM3ZXZXAtV0UzbTBUTUYtSTlESVNUa3VoX3B1ZU55ck9LSWVnYWE4QTBXQmozQkVkS3ZYTC1RdnNGSldSTEdWS24wRnZhTmtPM1BhcUJEc3lhUGFHak9Xd2FPbWluZ0tSeEtjOWhGZFUzSVROeXZhWWtxQjNKQ3FNQUVaOW80Slcyam9vb1A3M3FHUGRBa1FYLU5TNGZXWGh4cTlBY0xpMGdxOEJiN3p2al9GZw?oc=5",
+          "title": "Arganil assinala 100 anos da chegada da eletricidade com conferência sobre o futuro da energia - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZU9vcl9aUFN0bUdwLWwySFZiZUZEd04wS1h0OUpkeHRENXM2bUZ1UzJOX1prOWV0M2FweXdMZENhVjY3NjlDb3FGQ2NaNWRnYlhBMTZ3TllBaTZERDFUWGJmWkN0Q2U3aWMzRkZLTW56YmtEQXo1R0RCYVhITWVCZV92WFlnQmhSWDZYOElHekR0aVEwNzJpS1ExSzl3Q0J1WHVfTlBYejNyclFrcXJXVTZubHZTYUdxV2xrZ19xR2FQN2RMVnZWak5OUmhSeDRRR2c?oc=5",
+          "title": "Arganil recebe apresentação do livro de homenagem “Eterna Natália Novais” a 13 de dezembro - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUl9Ca0dLZU54TjhyVDFDOTM4VmFqLVR1dUpXNUlWOGZYRWozOXdWNDFDaHRjOVo2eDFKTDJLTlFUaF93XzlKTmpXVW43Zmg4WVBhSWh2NE1qNGZONmQ4bV9Iam04ZUZiUUxwcHBadGh4aV9FNWpWWHBLcWx2THdCc09vVXZtYi1oMjAzUGxla01sUHdhcVFJYUpHdGtaR0l5ajdUVg?oc=5",
+          "title": "Município de Tábua oferece flautas aos alunos do 1º ano - SAPO"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/21/aluna-da-eptoliva-apurada-para-a-final-do-campeonato-nacional-das-profissoes/",
+          "title": "Aluna da EPTOLIVA apurada para a final do campeonato nacional das profissões"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "greve",
+      "nl": "staking",
+      "example": "Os maquinistas da CP estão em greve até sexta-feira."
+    },
+    {
+      "pt": "serviços mínimos",
+      "nl": "minimumdienst (tijdens een staking)",
+      "example": "Há serviços mínimos na terça e na quarta-feira."
+    },
+    {
+      "pt": "senhorio",
+      "nl": "verhuurder, huisbaas",
+      "example": "Os senhorios podem ter IRS zero pelo regime de renda acessível."
+    },
+    {
+      "pt": "idade da reforma",
+      "nl": "pensioenleeftijd",
+      "example": "O Chega quer congelar a idade da reforma."
+    },
+    {
+      "pt": "votação final global",
+      "nl": "eindstemming (over een wet als geheel)",
+      "example": "A votação final global do Orçamento é na terça-feira."
+    },
+    {
+      "pt": "precipitação",
+      "nl": "neerslag",
+      "example": "Oliveira do Hospital registou a maior precipitação do país."
+    }
+  ]
+}
