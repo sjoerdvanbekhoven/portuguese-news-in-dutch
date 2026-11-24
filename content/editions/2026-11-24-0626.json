@@ -1,0 +1,377 @@
+{
+  "id": "2026-11-24-0626",
+  "generatedAt": "2026-11-24T06:26:37.840Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 268,
+  "intro": "Vandaag stemt het parlement definitief over de begroting voor 2027, na vier dagen waarin oppositiepartijen PS en Chega de regering-Montenegro talloze nederlagen bezorgden. Chega kondigt aan tegen te stemmen en oud-premier Passos Coelho spreekt openlijk van een politieke crisis. Daarnaast: de treinstaking bereikt vandaag en morgen haar hoogtepunt, en in de regio Coimbra brandde deze zomer veel minder bos af dan in 2025.",
+  "articles": [
+    {
+      "title": "Begroting 2027 vandaag in eindstemming; Chega stemt tegen, Passos Coelho ziet politieke crisis",
+      "category": "Politiek",
+      "lead": "Na een marathon van stemmingen over meer dan 2.800 amendementen stemt het parlement vanmiddag over de begroting als geheel. Chega heeft aangekondigd tegen te stemmen.",
+      "body": [
+        "De Assembleia da República rondde vannacht om 00.05 uur de artikelsgewijze behandeling (especialidade) van de begroting voor 2027 (OE2027) af. Op de laatste dag werden 134 voorstellen aangenomen. Over de vier dagen kreeg de regering veel nederlagen te verwerken, omdat PS en Chega samen voorstellen erdoorheen stemden waar de regering tegen was. Vanmiddag volgt de eindstemming (votação final global).",
+        "Chega-leider André Ventura bevestigde maandag op TVI/CNN Portugal dat zijn partij tegen de begroting stemt. Hij beschuldigt de regering van 'kunstmatig slachtofferschap' en van een poging om een politieke crisis uit te lokken.",
+        "PS-leider José Luís Carneiro noemde het 'heel natuurlijk' dat het parlement meebepaalt over de politieke keuzes van het land. Volgens hem is de begroting na de amendementen 'structureel gelijkwaardig' gebleven qua uitgaven en inkomsten.",
+        "Oud-premier Pedro Passos Coelho (PSD) zei daarentegen dat 'de crisis er is'. Hij herinnerde eraan dat het parlement de macht heeft om een andere regering te kiezen, zoals in 2015 met de linkse 'geringonça', en waarschuwde dat de regering niet kan klagen als ze niets doet na de wijzigingen. Een peiling van de Universidade Católica wijst op een technisch gelijkspel tussen de drie grootste partijen, met de AD nipt voorop.",
+        "De Europese Commissie publiceert vandaag bovendien haar beoordeling van de Portugese begroting en nieuwe economische aanbevelingen, met aandacht voor de woningcrisis en de groei van de overheidsuitgaven."
+      ],
+      "context": "Portugal heeft een minderheidsregering van de centrumrechtse AD (PSD en CDS) onder premier Luís Montenegro. Voor een meerderheid is steun of onthouding van de socialistische PS of de rechts-populistische Chega nodig. Als de begroting wordt verworpen, kan dat leiden tot een regeringscrisis of nieuwe verkiezingen; zonder nieuwe begroting werkt de staat tijdelijk door met de begroting van het lopende jaar.",
+      "slug": "begroting-2027-vandaag-in-eindstemming-chega-stemt-tegen-pas",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-votacao-final-global-do-orcamento-do-estado-para-2027-logo-a-tarde-no-parlamento_a1_1781216",
+          "title": "5h Votação final global do Orçamento do Estado para 2027 logo à tarde no Parlamento"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-oe27-deputados-votaram-mais-de-2800-propostas-de-alteracao_a1_1781206",
+          "title": "2h OE27. Deputados votaram mais de 2800 propostas de alteração"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-ar-ja-terminou-a-maratona-de-votacoes-do-orcamento-de-estado-na-fase-da-especialidade_a1_1781202",
+          "title": "01h AR já terminou a maratona de votações do Orçamento de Estado, na fase da especialidade"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/orcamento-2027-chega-vai-votar-contra-proposta-em-votacao-final-global_n1781179",
+          "title": "Orçamento 2027. Chega vai votar contra proposta em votação final global"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/23/chega-vai-votar-contra-orcamento-do-estado-na-votacao-final-global/",
+          "title": "Chega vai votar contra Orçamento do Estado na votação final global"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/carneiro-considera-muito-natural-que-parlamento-contribua-para-opcoes-politicas-do-pais_n1781146",
+          "title": "Carneiro considera \"muito natural\" que Parlamento contribua para opções políticas do país"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/23/oe2027-carneiro-considera-muito-natural-que-parlamento-contribua-para-opcoes-politicas-do-pais-c-audio/",
+          "title": "Carneiro considera “muito natural” que Parlamento contribua no desenho do OE"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/especiais/bonus-fiscal-para-emigrantes-reformados-mais-subsidios-para-policias-e-tarifa-social-mais-abrangente-ps-e-chega-derrotam-de-novo-governo/",
+          "title": "PS e Chega infligem novas derrotas ao Governo"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/programa-regressar-marca-o-derradeiro-dia-de-votacoes-na-especialidade-do-oe2027/",
+          "title": "Programa Regressar marca o derradeiro dia de votações na especialidade do OE2027"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/23/passos-coelho-diz-que-crise-politica-esta-ca/",
+          "title": "Passos Coelho diz que crise política “está cá”"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUndpQlRFVUQ5dVpwVzNvYTd2cnpyVTBZUXhxa093Y2ppZWpDa1N5M0JYVGhsZnBlQWlVMHpWYWhSMllUa0tpVUdxMGQ2QVU5eTlmMWVzVExCRTNrODlmcV8ybTNQOUlRU29HYURpTGZnbUpPWENrVUpGcFNSd2dlOGhFMXhrR0lzV2owUUdGVG5mdG5jNG1WNzdVSGI2TXEycFkwY1p3LU9SVExFN1lBMC1zNTJhTkk1V1JDczZSajNyYkJEYi1XcDlB0gG6AUFVX3lxTFBUcU9JbFdQY1FQNFVLRUh6c3ZDdGh6czVKMWtFeU9KNDlPcGFsUHo4WjQ4Rmk1dE9ZanZ5UjhWUzJrdVlBSnE0X3VnRU5IVXJoNDFJZVZkTWl5MG9xYmxqdXpGZk9EZ09JZVpjVVdxWnJ2ZnNFR2RvMVUtdWhHc2NkdTFoSktvZzdNQUFzOTdTeWV5QVY0RzRQMmFNSzdXNWpZLUxnd3hVM3BJY1I2OFhUQWdYTEhPVDVNdw?oc=5",
+          "title": "Passos Coelho diz que \"crise está cá\" e sugere que Parlamento escolha \"Governo que governe\" - Jornal de Notícias"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNURaYjdzUUIzOFVVcnJrOENTUDF1VW9iM1JDeWFQRmd0WUJpQmpVbFV4Z2dNeE9CdmtVeF9LNHcxSGx4aVJ4SEhiNWpGWFhDTXllSHAteWZJRFdnUmpnd3EtWHlmZklzVXpWbEJkRUlEVmQyQ2ZVT3J6WjN4dl8zNktxRU5QVl9uWEpndmp0YmtJSHVsSVVyMTNKZGZXcGZlbldMWlJoeEkxRi1SZjBUZWk3a0pvbml0Q0lQT2p5NXNtVHd2NmVuc0tYX2EzaHBzWHAtaS1fYnVDdjFvZnFUcDlkRm15bUpaVkVzRjJ5QnFaaGxpazBzMXNSckh2OU9BY0ZJTTB6YlprNXUxbW16VEptZjM3WHFvSjFaM2NzU2cwc3c?oc=5",
+          "title": "\"A crise está cá\": Passos Coelho avisa Governo que \"não se poderá queixar\" se não fizer nada após mudanças no Orçamento - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVRyQUFXa2cyYmpkU0tGMl94QUlKNTZfcGJJcUUxNzBGeklUdExpNDdCcXVVR2xYT1ZzM0xfaHpVaXlFSmctMWtYLUFhWUNJX1FuMkhxeXp3bkpsdXNOejRzLTNmakhtdHJRVjdzNGNYa2VnYlNVenFhbTJYVkIyNW9SU2paTmNIcUZUNHNLZldvMjBzek81QU1LeTU3UWJINklDcDRveWlTSFpNbHlON1FaUmR6eTlLVlJDcW9EOGUwRGR1M1Jydk5aN0V2T1JMUlJmOTRHcw?oc=5",
+          "title": "Sondagem da Católica aponta para empate técnico entre os três maiores partidos com AD à frente - RTP"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/economia/3089112/comissao-europeia-avalia-orcamento-e-recomendacoes-a-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Comissão Europeia divulga avaliação orçamental e recomendações a Portugal"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3089081/pensionistas-emigrantes-e-policias-beneficiam-com-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "OE2027: Suplemento a polícias e baixa do IRS a emigrantes pensionistas"
+        }
+      ]
+    },
+    {
+      "title": "Wat de amendementen op de begroting veranderen: energietarief, verzekeringen, belastingen en golden visa",
+      "category": "Economie",
+      "lead": "Tijdens de stemmingen werden tal van maatregelen aangenomen die burgers direct raken, van het sociale energietarief tot de bijdrage van verzekeringen aan de ambulancedienst INEM.",
+      "body": [
+        "Sociaal energietarief: een PS-voorstel legt een jaarinkomen van 8.640 euro vast als referentie voor de tarifa social de energia, waarmee meer huishoudens in aanmerking komen. Ook wordt de financiering van aanvragen voor de 'Vale Eficiência' (een voucher voor energiebesparende maatregelen in huis) gegarandeerd.",
+        "Verzekeringen en INEM: het deel van de verzekeringspremies dat naar de nationale ambulance- en spoeddienst INEM gaat, stijgt in 2027 van 2,5% naar 4%. Verzekeraars mogen die stijging niet doorberekenen aan hun klanten.",
+        "Belastingen: er komt een verlaagde inkomstenbelasting (IRS) voor geëmigreerde gepensioneerden; details zijn nog niet bekend. Het voordeelregime voor wetenschappers uit het buitenland (een vast IRS-tarief van 20% gedurende tien jaar) blijft bestaan: het was eerst geschrapt, maar Chega wijzigde zijn stem.",
+        "Golden visa: het minimumbedrag voor een verblijfsvergunning via investering in wetenschappelijk onderzoek daalt van 500.000 naar 250.000 euro. Een voorstel van PSD en CDS breidt de regeling uit naar sociale investeringen vanaf 250.000 euro, en beperkt die via kapitaalinbreng in bedrijven. Volgens Jornal de Negócios wil de AD de nieuwe regels pas vanaf mei 2027 laten ingaan.",
+        "Politie: toelagen van GNR en PSP voor ploegendiensten, wachtdiensten, commando en standplaats worden in 2027 verhoogd en voortaan aan de inflatie gekoppeld; volgens Expresso gaat het om 50% tot 2028. De verhoging is wel kleiner dan wat minister Luís Neves met de vakbonden had afgesproken."
+      ],
+      "context": "Deze wijzigingen gelden alleen als de begroting vanmiddag in de eindstemming wordt aangenomen. De GNR is de politie die in landelijke gebieden zoals Tábua actief is; de PSP werkt in de steden.",
+      "slug": "wat-de-amendementen-op-de-begroting-veranderen-energietarief",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/parlamento-alarga-tarifa-social-de-energia-e-assegura-execucao-do-vale-eficiencia_n1781180",
+          "title": "Parlamento alarga tarifa social de energia e assegura execução do Vale Eficiência"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/percentagem-dos-premios-dos-seguros-para-financiar-inem-sobe-para-4_n1781191",
+          "title": "Percentagem dos prémios dos seguros para financiar INEM sobe para 4%"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/24/inem-vai-receber-mais-dinheiro-dos-seguros-mas-seguradoras-nao-podem-repercutir-custo-aos-clientes/",
+          "title": "INEM vai receber mais dinheiro dos seguros"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3089081/pensionistas-emigrantes-e-policias-beneficiam-com-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "OE2027: Suplemento a polícias e baixa do IRS a emigrantes pensionistas"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/chega-muda-voto-e-mantem-irs-reduzido-para-captar-trabalhadores-cientificos_n1781188",
+          "title": "Chega muda voto e mantém IRS reduzido para captar trabalhadores científicos"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/economia/3089046/chega-muda-voto-e-mantem-beneficio-fiscal-para-trabalhadores-cientificos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Chega muda voto e mantém benefício fiscal para trabalhadores científicos"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/investimento-minimo-em-investigacao-cientifica-para-vistos-gold-baixa-para-250-mil-euros_n1781182",
+          "title": "Investimento mínimo em investigação científica para `vistos gold` baixa para 250 mil euros"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2455/",
+          "title": "1h. OE 2027. Vistos Gold alargados a investimentos sociais"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWk9IZVFreFZCcHR1MUNmb3RQUmk5YXBFYUhCYVBjODZ5dmJrQ2liS0RFSFgtT1oyVUtzUjNDeUNxZ0dfZGlEZS1UNjMzNkp2Sy1rQTNNdTVuU005Z2Rrdi1nSjNNZ2ZZeEZzdkxrcThiWjhoVks4RmxZQWhONGVsSFU2aFFWQ0RBTEFWdk1KREg3UjdYWWRqQm9ZUlhxWGY0OFRBUlpZR2hKdzE1VEdrME90dzBqdw?oc=5",
+          "title": "Alterações do PSD e CDS aos “vistos gold ” aprovadas com abstenção do Chega - Público"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/suplementos-da-gnr-e-psp-para-escalas-turnos-piquetes-e-residencia-aumentam-no-proximo-ano_n1781181",
+          "title": "Suplementos da GNR e PSP para escalas, turnos, piquetes e residência aumentam no próximo ano"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/23/politica/noticia/suplementos-gnr-psp-escalas-turnos-piquetes-residencia-aumentam-2027-2196064",
+          "title": "Oposição aprova aumentos de suplementos para GNR e PSP, mas menores do que acordo de Luís Neves com sindicatos previa"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlhKc3Y0SnlYalBteTNrUDlHR2U4aEJhcEFxbm9xX0o0X081SkllTlpVQmlGQzhVQlJHLVgwODZGOFR4eGFBOWlVbktpNHhqWnBUTmg4MWptRWVmTTJwbHduQkRiOWY4cE9fN2ZoYXYzYkwzb3pJb2luSGxldlNXVHpMRms1eV9GVHRCZm9hTDNVRm8tYXlGNF9QUjNrVl9uRjl2RTVtVjZQdThMTUdyRG9FdHpwQUxLdGdKSTNxZGVtWERsUVdPeXBGZzdVOHBaU3hYaFZQSy1HU052VGtWemlnci1HdUlXajNBQTJEbzZLVDc3?oc=5",
+          "title": "PS propõe e Chega aprova: suplementos da GNR e da PSP vão aumentar 50% até 2028 - Expresso"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/24/subsidios-da-psp-e-da-gnr-voltam-a-aumentar-por-proposta-do-ps-e-voto-a-favor-do-chega/",
+          "title": "Subsídios da PSP e da GNR voltam a aumentar pelo PS e Chega"
+        }
+      ]
+    },
+    {
+      "title": "Treinstaking CP: vandaag en morgen vrijwel geen treinen",
+      "category": "Samenleving",
+      "lead": "De staking van de machinisten van spoorwegbedrijf CP, die al in de vorige editie werd gemeld, bereikt vandaag en woensdag haar hoogtepunt met een volledige stillegging, op minimale diensten na.",
+      "body": [
+        "Op maandag, de eerste stakingsdag, vielen tot 19.00 uur 242 treinen uit, 22,8% van het geplande aantal. Het langeafstandsvervoer (Longo Curso) werd het zwaarst getroffen: 44 van de 67 treinen reden niet. In Coimbra bleven negen treinen stil.",
+        "Vakbondsvoorzitter António Domingues verwacht dat de impact op dinsdag en woensdag het grootst is, omdat dan een totale stillegging gepland is, met alleen de opgelegde minimale diensten. De staking duurt tot en met vrijdag."
+      ],
+      "context": "Wie deze week met de trein wil reizen, bijvoorbeeld vanaf Coimbra-B of Santa Comba Dão, doet er goed aan vooraf de website of app van CP te raadplegen.",
+      "slug": "treinstaking-cp-vandaag-en-morgen-vrijwel-geen-treinen",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/greve-dos-maquinistas-da-cp-leva-a-supressao-de-23-dos-comboios-ate-as-1900_n1781156",
+          "title": "Greve dos maquinistas da CP leva à supressão de 23% dos comboios até às 19:00"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/23/greve-dos-maquinistas-da-cp-leva-a-supressao-de-23-dos-comboios-ate-as-19h00/",
+          "title": "Greve dos maquinistas da CP leva à supressão de 23% dos comboios até às 19h00"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2468/",
+          "title": "4h. Greve dos maquinistas da CP continua esta terça-feira"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-greve-total-dos-maquinistas-da-cp-hoje-e-amanha-com-servicos-minimos_a1_1781211",
+          "title": "4h Greve total dos Maquinistas da CP hoje e amanhã com serviços mínimos"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/greve-na-cp-deixou-nove-comboios-parados-em-coimbra/",
+          "title": "Greve na CP deixou nove comboios parados em Coimbra"
+        }
+      ]
+    },
+    {
+      "title": "Hackers treffen energieagentschap: systeem voor energiecertificaten tijdelijk offline",
+      "category": "Economie",
+      "lead": "Het nationale energieagentschap ADENE is het slachtoffer geworden van een cyberaanval en heeft het systeem voor energiecertificering van gebouwen (SCE) tijdelijk afgesloten.",
+      "body": [
+        "ADENE meldde maandagavond dat het een 'ongeautoriseerde inbraak' in zijn systemen had ontdekt. Het agentschap activeerde direct zijn noodplan en isoleerde de getroffen systemen.",
+        "Uit voorzorg is het Sistema de Certificação Energética dos Edifícios voorlopig niet toegankelijk. Wanneer het weer beschikbaar is, is niet bekend."
+      ],
+      "context": "Een energiecertificaat (certificado energético) is in Portugal verplicht bij verkoop of verhuur van een woning, en vaak nodig bij verbouwingen of subsidieaanvragen. Wie nu een certificaat nodig heeft, kan vertraging oplopen.",
+      "slug": "hackers-treffen-energieagentschap-systeem-voor-energiecertif",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/adene-suspende-acesso-ao-sistema-de-certificacao-energetica-dos-edificios-apos-ciberataque_n1781185",
+          "title": "ADENE suspende acesso ao Sistema de Certificação Energética dos Edifícios após ciberataque"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/tech/3089042/adene-suspende-acesso-ao-sistema-de-certificacao-energetica-dos-edificios-apos-ciberataque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "ADENE suspende acesso ao SCE após ciberataque"
+        }
+      ]
+    },
+    {
+      "title": "Herstel van helling in Manteigas na modderstroom 'kost tijd'",
+      "category": "Klimaat & Natuur",
+      "lead": "Minister van Milieu en Energie Maria da Graça Carvalho zegt dat het stabiliseren van de berghelling die vorige week een modderstroom veroorzaakte, ingewikkeld is en lang gaat duren.",
+      "body": [
+        "De minister bezocht maandag Manteigas, in de Serra da Estrela, waar woensdag een enxurrada (plotselinge modder- en waterstroom) van een helling naar beneden kwam.",
+        "Volgens haar is de stabilisering 'geen eenvoudige of gemakkelijke oplossing' en 'gaat het duren'. Over concrete maatregelen of een tijdpad zegt de bron niets."
+      ],
+      "context": "Manteigas ligt aan de andere kant van de Serra da Estrela, ten oosten van Oliveira do Hospital. Na bosbranden zijn kale hellingen extra gevoelig voor erosie en modderstromen bij hevige regen — een risico dat ook in de Serra do Açor speelt.",
+      "slug": "herstel-van-helling-in-manteigas-na-modderstroom-kost-tijd",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/estabilizar-encosta-de-manteigas-nao-e-facil-e-vai-demorar_n1781153",
+          "title": "Estabilizar encosta de Manteigas \"não é fácil e vai demorar\""
+        }
+      ]
+    },
+    {
+      "title": "Regio Coimbra: veel minder verbrand bos in 2026, maar zorgen over steun na storm Kristin",
+      "category": "Regio",
+      "lead": "In de regio Coimbra brandde deze zomer slechts 735 hectare af, tegen ruim 26.000 hectare in 2025. Tegelijk vragen de gemeenten meer geld van het rijk voor de schade van storm Kristin.",
+      "body": [
+        "Tot 7 november telde de regio 317 bosbranden, ongeveer het historisch gemiddelde. De verbrande oppervlakte lag met 735 hectare echter zo'n 95,6% onder het gemiddelde van de afgelopen tien jaar. In 2025 ging nog 26.040 hectare in vlammen op. Het is daarmee een van de gunstigste jaren in lange tijd.",
+        "De Região Metropolitana de Coimbra, het samenwerkingsverband van gemeenten waar ook Tábua, Arganil en Oliveira do Hospital onder vallen, eist opnieuw dat het rijk een groter deel betaalt via het noodfonds voor gemeenten (Fundo de Emergência Municipal, FEM). Dat dekt nu 60% van de kosten, wat de gemeenten onvoldoende vinden gezien de schade door storm Kristin. Het standpunt werd donderdag herhaald tijdens een vergadering in Góis, ongeveer 30 kilometer van Meda de Mouros."
+      ],
+      "context": "Het FEM is een rijksfonds waaruit gemeenten na rampen (branden, stormen, overstromingen) herstel van bijvoorbeeld wegen en openbare voorzieningen gedeeltelijk vergoed krijgen. De rest betaalt de gemeente zelf.",
+      "slug": "regio-coimbra-veel-minder-verbrand-bos-in-2026-maar-zorgen-o",
+      "sources": [
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/verao-na-regiao-de-coimbra-com-mais-incendios-mas-menos-area-ardida/",
+          "title": "Verão na Região de Coimbra com mais incêndios, mas menos área ardida"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/23/regiao-de-coimbra-reclama-maior-comparticipacao-do-fundo-de-emergencia-municipal/",
+          "title": "Região de Coimbra reclama maior comparticipação do Fundo de Emergência Municipal"
+        }
+      ]
+    },
+    {
+      "title": "Tábua investeert 3,5 miljoen in sport; Oliveira do Hospital maakt brandstroken langs wegen schoon",
+      "category": "Regio",
+      "lead": "In de eigen gemeente kondigt de Câmara Municipal van Tábua een flinke investering in sportaccommodaties aan, terwijl buurgemeente Oliveira do Hospital werkt aan brandpreventie.",
+      "body": [
+        "De gemeente Tábua gaat ongeveer 3,5 miljoen euro investeren in de verbetering en modernisering van haar sportaccommodaties. Welke voorzieningen het precies betreft, staat niet in de beschikbare samenvatting.",
+        "In Oliveira do Hospital, zo'n 15 kilometer van Meda de Mouros, is de gemeente begonnen met het vrijmaken van brandstroken (faixas de gestão de combustível) langs de wegen, als preventie tegen bosbranden.",
+        "Oliveira do Hospital registreerde vorige week bovendien de meeste neerslag van het hele land."
+      ],
+      "context": "Eigenaren van grond in bosrijke gebieden zijn wettelijk verplicht rond huizen en langs wegen vegetatie te beheren (meestal 50 meter rond gebouwen). De gemeente voert dit langs gemeentewegen zelf uit; voor eigen percelen ligt de verantwoordelijkheid bij de eigenaar.",
+      "slug": "tabua-investeert-3-5-miljoen-in-sport-oliveira-do-hospital-m",
+      "sources": [
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/tabua-anuncia-investimento-de-35-milhoes-de-euros-em-instalacoes-desportivas/",
+          "title": "Tábua anuncia investimento de 3,5 milhões de euros em instalações desportivas"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGlFa0d1MTJmLW9pSUdpTGxDcExyUWd2S09vQjA4cG5TWWdVRDBEeDRnSnB4Z2xBOWZzblhpaUFINGVrMUFucl94ZVRycHpNeUNGQVBrZmduMGlpT05SOEhzUnBVR2trM0ZCNnEwQVpXaHFqU05GMUZCZEhLcUlJb3FaaDVWcHY2ZllPWWhpY1R6aDdmVDBTUS1VM2lfa0VlS253NmtPRkZMNF8xWVVXZ3Bn0gG3AUFVX3lxTFBxbDVjeWszd0NnY3BDRkpmcGV4NHFqamNZeW56bDBmeUJXcjBXX0lsa1lKakVCdW5vZlZTUGlmYW8tNzBBU3BLN0dsZTA3TFdXb3NTNnFGVURlU2s5SDFOYU96X2Q3dEJRT3FzUXdkRmduLUo5aHExRHZVV0tqUW9FSHZMZGF6MUJFRno0RTJQVVM1VjA3aTFlTDJ6OVRIdVlNaHhkd2JrVEdJTXoxdnpRZzhSQm1Kcw?oc=5",
+          "title": "Oliveira do Hospital reforça prevenção com execução de faixas de gestão de combustível - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDliUDhpOFFlUzliWG9OMWJJWUxOYklrWkJGNEN5QXBRczF4VXhQX1ZxZG5WZmVodzAyZGZpb3dISVBpLVdET2M2X3VvWk1VWGFKWE05U0REbjhuU2ZkdTA0X1RCZ2tBYzBWb2RjMXAwZnB2Y0cwTE9qbmVPOERqQVl0RGpNRXVMLWFpV1dpVkdqZ3NJSHF5ZUlOOG1DNV91a3VFbVM3VlBDMkdXX0NUV182dzZIUdIBuwFBVV95cUxNNmM5WlUzUzV3MWdwTnlfbEF1XzhBdjFLU2hJbEtSa2d5YmxSbG01UjItdjRGTi1ITDZqbE9Rb2sxUXNQTVdEbkg0S3g1VVUxeUhUa1kwZXhxQnh3VW9YTnlkZTl2NFBjalVyNTd6TnpqMGJTTllXY3JVcGw5SEpUNFA4aEI2Nl9VeGp3Y1pLUk9RSHY0ampDM2laVUlLcXh3WW9ZdUNVV3FGQ2gtQV92VkhRSXFCeEx6OFBj?oc=5",
+          "title": "Oliveira do Hospital avança com limpeza de faixas de combustível junto às estradas - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmFtWEhGTkhiLWJZNzhTRHNYSDNGVnNfYkdIczZUNURmaVAyOWpQSmtBMHFCMWFhV1N4R2xPYTVvYml3OUo1bmM3OVhIa3ZVcUJydVFrdDRWaWJ2TnFoX0tjVk9FOTgwS3FkNmctdXZOb2RsWHFETU9OYk56V01QSXBhLVRrQ1FZMG5mbzNiVHFDZjJaSE1LZF9BNnZLQ0xlblR0UWxKQ1FROTR0NERTemM3c2h2UmRWTk9yaHNZaG03WXBBSWpaetIBzgFBVV95cUxQZ1dVUEtVdTJNR0thWXduQWFySEVjQ3RxeFJfT0hVQ0FBaE41WnNTQnRVQ0J6TEp3OXdFWlF4ZTB6TC1adXRac19HRjBPRDJiSkZyRlA1SzlCTUxpREoyRmZnckI3bXNzejQ3LXc1WGN4R1MwZGg4XzdISWhLeVBKdmhLMm1RUXJ5OGdlaW9xbGFOUVFGWGVnd25laWM2UEpORzdwRWNERjdmbE9OSGRJeDhBbC1WclRzejhpclNYVC1EMlpDYWh0c1hrN0k1Zw?oc=5",
+          "title": "Oliveira do Hospital registou a maior precipitação do país. Concelho liderou o ranking nacional da chuva - CentroTV"
+        }
+      ]
+    },
+    {
+      "title": "Lego bouwt fabriek van 1 miljard euro in Estarreja",
+      "category": "Economie",
+      "lead": "De Deense speelgoedfabrikant Lego vestigt een nieuwe fabriek in Estarreja (district Aveiro), goed voor meer dan duizend directe banen.",
+      "body": [
+        "De investering bedraagt een miljard euro. De productie moet in 2030 beginnen en de fabriek zal meer dan duizend mensen direct in dienst nemen.",
+        "Minister Manuel Castro Almeida schrijft in Público dat de keuze voor Portugal vooral getuigt van vertrouwen in de omstandigheden die het land biedt."
+      ],
+      "context": "Estarreja ligt aan de kust tussen Aveiro en Porto, ruwweg anderhalf uur rijden van Tábua. Het is een van de grootste buitenlandse industriële investeringen in Portugal van de afgelopen jaren.",
+      "slug": "lego-bouwt-fabriek-van-1-miljard-euro-in-estarreja",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOanR6eXl3RVBxNl9jZERXNlhtUFdMYnh2cEpGWkRMbWpXenN3SmNVNXJyQ0lWWU9yTHBraVg5bGF0ZHhvTS13SUVLZEZneHFsSDlpb3F3SFJOZkVJNlZ3U0x0bHQxYjM1MGZYTmw4bV82YWljWGItRk1MOVZpajhTN0pwS0JtVVRmalBrcVVwTEVDVks5Szc0TWVINDlRLXB3R0RsazZHTHFGMEFNY2RLdWtpWQ?oc=5",
+          "title": "Lego vai abrir fábrica em Estarreja e cria mais de mil empregos - A Bola"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/23/dower-assessora-municipio-de-estarreja-na-instalacao-da-nova-fabrica-lego/",
+          "title": "Dower assessora Município de Estarreja na instalação da nova fábrica LEGO"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/24/opiniao/opiniao/portugal-escolhido-2196013",
+          "title": "Portugal foi escolhido. Porquê?"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "votação final global",
+      "nl": "eindstemming (over een wet of begroting als geheel)",
+      "example": "A votação final global do Orçamento do Estado é logo à tarde."
+    },
+    {
+      "pt": "serviços mínimos",
+      "nl": "minimale dienstverlening tijdens een staking",
+      "example": "Greve total dos maquinistas hoje e amanhã com serviços mínimos."
+    },
+    {
+      "pt": "faixa de gestão de combustível",
+      "nl": "brandstrook (strook waar vegetatie wordt verwijderd)",
+      "example": "Oliveira do Hospital avança com limpeza de faixas de combustível junto às estradas."
+    },
+    {
+      "pt": "área ardida",
+      "nl": "verbrande oppervlakte",
+      "example": "Foram registados 317 incêndios e apenas 735 hectares de área ardida."
+    },
+    {
+      "pt": "tarifa social de energia",
+      "nl": "sociaal energietarief (korting voor lage inkomens)",
+      "example": "O parlamento alarga a tarifa social de energia."
+    },
+    {
+      "pt": "certificado energético",
+      "nl": "energiecertificaat/energielabel van een woning",
+      "example": "A ADENE suspendeu o acesso ao Sistema de Certificação Energética dos Edifícios."
+    }
+  ]
+}
