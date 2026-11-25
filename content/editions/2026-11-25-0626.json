@@ -1,0 +1,394 @@
+{
+  "id": "2026-11-25-0626",
+  "generatedAt": "2026-11-25T06:26:34.784Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 272,
+  "intro": "Het parlement heeft de begroting voor 2027 aangenomen dankzij onthouding van de PS, maar in een sterk gewijzigde vorm. De regering-Montenegro spreekt van een 'politieke storm' en onderzoekt of ze naar het Constitutioneel Hof stapt, terwijl een peiling laat zien dat de waardering voor de regering op het laagste punt staat. Dichter bij huis: Arganil viert 100 jaar elektriciteit en Oliveira do Hospital start een beweegprogramma voor ouderen.",
+  "articles": [
+    {
+      "title": "Begroting 2027 aangenomen, regering overweegt gang naar Constitutioneel Hof",
+      "category": "Politiek",
+      "lead": "De begroting voor 2027 is dinsdag in de eindstemming aangenomen doordat de PS zich onthield. De regering vindt dat oppositiepartijen PS en Chega de begroting hebben 'misvormd' en dreigt met juridische stappen.",
+      "body": [
+        "De begroting (Orçamento do Estado, OE2027) werd aangenomen met alleen de stemmen voor van regeringspartijen PSD en CDS-PP. De PS en de kleine partij JPP onthielden zich; alle andere fracties, waaronder Chega, stemden tegen. In vier dagen stemmen over ruim 2.800 voorstellen werden 343 wijzigingen aangenomen: 273 van de oppositie en 70 van PSD/CDS. De opvallendste waren PS-voorstellen die met steun van Chega werden aangenomen.",
+        "Premier Luís Montenegro noemde PS en Chega 'deloyaal, onvolwassen en onverantwoordelijk' en sprak van een 'flagrante schending van de grondwet', omdat zij volgens hem vanuit het parlement regeren. Hij erkent een 'politieke storm', maar zegt alles te doen om een crisis te voorkomen en de 'fouten' van de oppositie te corrigeren. Minister van Financiën Joaquim Miranda Sarmento becijfert de kosten van de oppositiemaatregelen op 800 miljoen euro en voorspelt een terugkeer naar een begrotingstekort.",
+        "De regering zegt elke wijziging te 'analyseren' en sluit niet uit naar het Constitutioneel Hof (Tribunal Constitucional) te stappen. Chega-leider André Ventura reageerde met 'veel succes daarmee'. De minister wilde niet bevestigen of gezinnen echt kunnen rekenen op een btw-vrijstelling (IVA zero) op basisvoedsel; volgens berichtgeving zou die van 1 januari tot 31 maart 2027 kunnen terugkeren.",
+        "De PS ontkent een akkoord met Chega en beschuldigt de regering ervan 500 miljoen euro extra inkomsten uit de brandstofaccijns (ISP) te 'verstoppen'. Door een aangenomen wijziging moet de regering voortaan naar het parlement voor verhoging van de ISP-tarieven. De Iniciativa Liberal wil dat de onafhankelijke begrotingsdienst UTAO het effect van elke wijziging doorrekent."
+      ],
+      "context": "Dit is het vervolg op de eindstemming die in de vorige editie werd aangekondigd. De minderheidsregering van Montenegro (PSD/CDS) heeft geen meerderheid en is afhankelijk van PS of Chega. Een 'negatieve coalitie' betekent dat oppositiepartijen samen maatregelen doordrukken tegen de wil van de regering in.",
+      "slug": "begroting-2027-aangenomen-regering-overweegt-gang-naar-const",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-que-vai-o-governo-fazer-com-um-orcamento-virado-do-avesso/",
+          "title": "O que vai o Governo fazer com um Orçamento virado do avesso?"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2469/",
+          "title": "4h. OE. Carneiro diz que o Governo devia estar grato ao PS"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2506/",
+          "title": "3h. OE. Ventura rejeita inconstitucionalidade nas alterações"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2479/",
+          "title": "2h. OE. Rangel diz que PS e Chega \"usurparam funções\""
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2456/",
+          "title": "1h. OE. Ministro das Finanças quer combater défice"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/orcamento-do-estado-entrou-uma-proposta-e-saiu-outra_v1781428",
+          "title": "Orçamento do Estado. Entrou uma proposta e saiu outra"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/montenegro-acusa-chega-e-ps-de-serem-desleais-imaturos-e-irresponsaveis_v1781427",
+          "title": "Montenegro acusa Chega e PS de serem desleais, imaturos e irresponsáveis"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/politica/ps-nega-acordo-com-chega-para-alterar-orcamento_v1781426",
+          "title": "PS nega acordo com Chega para alterar Orçamento"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/recorrer-ao-constitucional-governo-analisara-cada-alteracao-ao-orcamento-e-tomara-as-decisoes/",
+          "title": "Recorrer ao Constitucional? Governo “analisará” cada alteração ao Orçamento e “tomará as decisões”"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/numeros-em-vez-de-acusacoes-liberais-querem-utao-a-medir-impacto-de-cada-alteracao-ao-orcamento/",
+          "title": "“Números” em vez de “acusações”. Liberais querem UTAO a medir impacto de cada alteração ao Orçamento"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/montenegro-admite-tempestade-politica-mas-garante-que-tudo-fara-para-evitar-crise/",
+          "title": "Montenegro admite “tempestade política”, mas garante que “tudo fará para evitar crise”"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/ps-acusa-governo-de-ter-500-milhoes-escondidos-no-isp-para-ter-excedente/",
+          "title": "PS acusa Governo de ter 500 milhões “escondidos” no ISP para ter excedente"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/orcamento-do-estado-para-2027-aprovado-em-votacao-final-gracas-a-abstencao-do-ps/",
+          "title": "Orçamento do Estado para 2027 aprovado em votação final graças à abstenção do PS"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNcWxldGZya0c1akNveTU3VmdkMDdRNDM1TmdhYUdHeFFvWW1Nb1RhME55U0d2Z0ZjZDdoSjBJOFhSdVFhc0JMVWt5R0JTOHlOaDdLbHFpcnRuMGVCTTQ4enExV0x4RFhFVWpiZ1VkeHBrc0twU2J3TFhDQkROdWsyODlVYmpva2dkY0hqVkU4bFRhc1JkQVl4a2gwQndQaWN4R0JQTVVabENqaU51Y1ZHMzB5ajBVcVVObWlMdHdqWWdFcjVGVmdhUGFlUjhfWm9Ob0lYQ190d1d0azJPSXJoV043MUUxT0owR3VzWGhtWWhjS01ZOE9xU0h0THJHM3Rkd0ZmNGxvQmpWYjRVRjlKSnJoeGw3QVVpYWJ1R2g4S1Q0UlVjRUg1bXZXVV9HZE9qNHNfVldn?oc=5",
+          "title": "Há 500 milhões de euros \"escondidos\" no ISP? Ministro das Finanças culpa Chega e PS por rombo que pode levar ao défice - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNGRKblRRZC1xQy1pS0lSb1p1NzF6YXloM3ZzOFd3amNILVFVQXhMSURxOEdGRDBBNnBVZm9UMHNSRU9CcVZMUUUwb3dnMlh0d040MzJ6M1F5SFNkTzlMZ3k4SUFyWnhXaEs3OFBoWXNydDhnSEZuMnFRb0hwdURIdHhUb3BPZkhudHhHYUhmTlVBX1RibWZvRWxackk4Zko0UXM3OWE5SEY5VTg2MVRyOFV5NTZDVWFCSDdTRm5oajNEa005T1A2bDVmaW5XRWgtTUozRTFJYXdPSS12dkpnM0FjMTBhWVhrMXNHUnBpcUhWY1dPTUt0ZWdvQnBTQdIB-AFBVV95cUxPcmpKVUJkdFp5YmJrNVF6S0hKbE9oN1N1NHBQd1NRNGJkMEpvd2VxZU16cTNJWkhqUUctY3hVWHdHZDlaSEhCNktpM2pGMEtXam5ROEMyOWlkZHZsTXBXUEJrczg1OFRIWm5oRlVpbXFvblNuYXNrOEFVTFJ0VUJMRWozU3dfTENjZWExbUxTSU9DMm5KMVRfbm1jdE1rV0VJZ044Z2NpZW1oTFdSRjYzNjZScUJUbG41Zm5JcU1PRzBON04wYXpoNVVSNzFmTUdXQU9iS09NdDQ1NmpPWGZoYzI3NmE2WTk5b2NyRG1ybzNEZVNFWVl2Yg?oc=5",
+          "title": "Montenegro quer \"corrigir erros\" da oposição e \"encontrar soluções\" para evitar défice - Jornal de Negócios"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORElOQmF2dmMxdUZYakZUbm43aDh5UGx1eHN2U3gzRk50OENaamhmVHdEbGFqYnFrMUlHU1lKMDBjQnZBdVJ5ZUJIMWtXcTVmNDdCdGNmUkw1Vm51QmJ0ZzZ3OWsxTUhpRGNON2RncG80MDc4R09TdmU3WDJrNDNGMFFITUU1Sk9Sa3dyVUZXNDJnUXpmTGw3Skxnd2xJSGkyb1dCbGNnVQ?oc=5",
+          "title": "Governo pode recorrer ao TC para travar medidas impostas pela oposição - Observador"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUlhXTUVhaTF4S1BQalR1MF9icGlDbHlaOGJJYVlRMm5YTGdwQUl0bkF5Rm4xUlktMGxZRF93ZF81RDdpNC10cjFRb240ZzFSRTBVWVhNLTl4S2VmYnBxVEJMT0tBTUcydmt4TnpjOFRUM2l0YXRVT3BfRFFadWdicjNMa25rRmhkSGEzdWgwREdpbWVBcjdQbkFPSDMzYkpTZ0o0ajZQUGxPQVBuV1VSeFNyZVg0ZWZzR2xYTQ?oc=5",
+          "title": "Proposta de Orçamento do Estado para 2027 aprovada em votação final global - RTP"
+        }
+      ]
+    },
+    {
+      "title": "Peiling: waardering voor regering op dieptepunt, twee derde wil herschikking",
+      "category": "Politiek",
+      "lead": "Uit een peiling van de Universidade Católica blijkt dat steeds meer Portugezen ontevreden zijn over de regering. Toch vindt een meerderheid dat Montenegro zijn termijn moet uitdienen.",
+      "body": [
+        "De negatieve beoordeling van de regering is gestegen tot het slechtste niveau sinds Montenegro aan de macht kwam. Zo'n 67 procent van de ondervraagden wil dat de premier zijn kabinet herschikt (remodelação); drie ministers liggen daarbij vooral onder vuur.",
+        "Tegelijk ziet het electoraat in de oppositie geen overtuigend alternatief, en is men verdeeld over mogelijke samenwerkingsakkoorden. Een meerderheid vindt dat de regering ondanks de kritiek de rit moet uitzitten."
+      ],
+      "context": "Een 'remodelação' is een kabinetsherschikking waarbij de premier ministers vervangt zonder nieuwe verkiezingen.",
+      "slug": "peiling-waardering-voor-regering-op-dieptepunt-twee-derde-wi",
+      "sources": [
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-sondagem-maioria-considera-que-apesar-das-criticas-governo-deve-cumprir-o-mandato_a1_1781440",
+          "title": "00h Sondagem: maioria considera que apesar das críticas Governo deve cumprir o mandato"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-sondagem-ha-cada-vez-mais-portugueses-descontentes-com-atuacao-do-governo_a1_1781439",
+          "title": "23h Sondagem: há cada vez mais portugueses descontentes com atuação do Governo"
+        },
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/25/politica/podcast/sondagem-deixa-montenegro-pressao-2196189",
+          "title": "A sondagem que deixa Montenegro sob pressão"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1VOTEZNSDJnWElBWl9MYllwempxcUxmcW0tbFQ0QmRaTnRuWDRUcnl0aVpvQkF4UzAwTmt3QnpkUzgzbm5oWjQwWkxXb3h4Mnh0dGxRbzZCMlMxaUkzSllJQmRyYjVHenFpclpiRWVZcjc4LUo5WW5Mc2hKWGZuOFlZLWl5N2x5QndTZHFWOGdEZEVMaENsbTVrQ1VCcnQ2cmxVSU9uMTFwc2VUT1I0WExzNThOcmIwbHVqdGdEZUs?oc=5",
+          "title": "Governo em queda, mas sem alternativa, eleitorado dividido sobre acordos de governação - Público"
+        }
+      ]
+    },
+    {
+      "title": "Helft van verhuurders overweegt woningen van de huurmarkt te halen",
+      "category": "Economie",
+      "lead": "Volgens een enquête van de verhuurdersvereniging ALP denkt de helft van de eigenaren erover woningen uit de verhuur te halen of te verkopen, na het schrappen van een belastingvoordeel in de begroting.",
+      "body": [
+        "Het barometeronderzoek van de Associação Lisbonense de Proprietários (ALP) laat zien dat ongeveer een derde van de verhuurders overweegt woningen van de huurmarkt te halen, en dat de helft dat of verkoop overweegt.",
+        "Aanleiding is het schrappen van het verlaagde IRS-tarief van 10 procent op inkomsten uit zogeheten gematigde huren. Ook is er wantrouwen over de belastingvoordelen van het nieuwe regime voor betaalbare huur. Volgens berichtgeving maken ook beleggingsfondsen zich zorgen over het terugdraaien van fiscale prikkels voor verhuurders."
+      ],
+      "context": "IRS is de Portugese inkomstenbelasting. De huurmarkt staat onder grote druk; in Lissabon, Porto en Coimbra kamperen al weken demonstranten (Acampada) voor het recht op wonen.",
+      "slug": "helft-van-verhuurders-overweegt-woningen-van-de-huurmarkt-te",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/um-terco-dos-senhorios-inquiridos-pela-alp-admite-retirar-imoveis-do-arrendamento/",
+          "title": "Um terço dos senhorios inquiridos pela ALP admite retirar imóveis do arrendamento"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcU5XNVl1UllxeUM1aGFjbUYyVk91azRfRy1Wbk81RHpJQ091RVlGQzlkU0VvaC1SOE9zNFF2aU5nZ19QVjluMUh2YkphV3owZHJLV0lCTlZISnpOWjVNZTU2X2EyU29mdGRfbzI4REw0anVqSF9xU1hoTmdHSG16S2FUaXF0MHFrRGZsejgzVllaZV9GcHRvLTU2QWdEaE14eEI5dUJQXzN2TEo3UnBDN2R3NklqblZTeXYtaHhKMGk2SUY5MG1ZZmd6LXVKaWgwejY0VVJaTncwXzY0cmY2anRhZF9iQQ?oc=5",
+          "title": "Metade dos proprietários admite vender ou retirar imóveis do arrendamento - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPYmYzbS14RUhhWHN0TFdwTTJhUTRidllTblAtb0l4OF8ta3FIeXdJNS1ET3N5NjJQZnRrWGFSeGxET0NFdVcyMGV1M2FDNzkwM05nTVdVLUNpdE1TXzFMLUdzR3RWd3JHY21JclVoSlhWVHZoNXBiY002Y0FlVTdWbXlfNUdkT3ppSWZEQkpJMWVBNE5MeUV6U3E0bnFIbG1XRXNZNUpsVVo1Q1lVUnBmVjdGSkdsdnF3SzJVd3JmNTlwTmJLdm5lZG1rQnV0UExiYXI0WHFtZnlWTFZyOExDam83bWQzNWFVUy1YckpxX0xxTGdnNzd6djg0Mm0yc3dSelhfYWVuRE1kOWdxZ3hJZGFONUNneWk2c3MzVUVKb2F2dlZIRl9kMTBxOA?oc=5",
+          "title": "IRS nas rendas moderadas: metade dos senhorios pondera retirar casas do mercado ou vender os seus imóveis - Expresso"
+        }
+      ]
+    },
+    {
+      "title": "OESO: Portugal kampioen vaccinatie, maar ook in dagelijks alcoholgebruik",
+      "category": "Samenleving",
+      "lead": "Een OESO-rapport geeft Portugal goede cijfers voor levensduur en vaccinatie, maar het land staat ook bovenaan in de EU wat betreft dagelijks alcoholgebruik.",
+      "body": [
+        "Volgens het OESO-onderzoek laten Portugezen zich het vaakst vaccineren van alle EU-inwoners en scoort het land goed op levensverwachting.",
+        "Tegelijk drinken Portugezen het vaakst dagelijks alcohol in de EU. Ook betalen Portugese gezinnen bijna het dubbele van het EU-gemiddelde aan zorgkosten uit eigen zak."
+      ],
+      "context": "De OESO (OCDE in het Portugees) is de organisatie voor economische samenwerking van rijke landen. De hoge eigen bijdragen hangen samen met wachtlijsten in de publieke zorg (SNS), waardoor veel mensen privé gaan.",
+      "slug": "oeso-portugal-kampioen-vaccinatie-maar-ook-in-dagelijks-alco",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2479/",
+          "title": "2h. OE. Rangel diz que PS e Chega \"usurparam funções\""
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-estudo-ocde-portugal-lidera-na-vacinacao-mas-tambem-no-consumo-diario-de-alcool-na-ue_a1_1781466",
+          "title": "5h Estudo OCDE. Portugal lidera na vacinação mas também no consumo diário de álcool na UE"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-relatorio-ocde-portugal-tem-bons-indicadores-de-longevidade-e-vacinacao_a1_1781447",
+          "title": "1h Relatório OCDE: Portugal tem bons indicadores de longevidade e vacinação"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS216ZXp5UC0wRzlUN2hhX1NHMDhxN0NESkdDMlZSbFJ3UmVLWlZ3LWNGSXB1ZjAzUzVwQ09tM1JJemJha1V1WEFtU0ladEJxTDNSejVLbnNaWkgtT19JNWw0RXExZFd3RzU1VjFveXd5cUFBeHo2MFRCV3BIOWp0MThlY0c5cFhrenROOW0tT2xhNENuVDNORG16VUpTNFg4Sk9OZDEtN203b2huRlNUazlNWDhncFFCUFAxRHk4V2EtcFZMN2tORG9MNHgzZ1FJYWlqdzRGVlR3Ym8?oc=5",
+          "title": "Portugueses são os que mais se vacinam na UE (mas também os que mais bebem álcool) - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Tweede stakingsdag CP: driekwart van de treinen uitgevallen",
+      "category": "Samenleving",
+      "lead": "De staking van de machinisten van spoorbedrijf CP leidde ook op de tweede dag tot het uitvallen van ongeveer 74 procent van de treinen.",
+      "body": [
+        "Tot 19.00 uur dinsdag waren 1.062 treinen gepland, waarvan alleen de 267 van de minimumdienstverlening (serviços mínimos) reden. Vooral stadstreinen rond Lissabon werden getroffen.",
+        "De vakbond zegt dat alleen de minimumdiensten zijn uitgevoerd, maar betwist dat die überhaupt verplicht waren. Dit is de afloop van de staking die in de vorige editie werd aangekondigd."
+      ],
+      "context": "Bij stakingen in Portugal kan een scheidsgerecht 'serviços mínimos' opleggen: een verplicht minimum aan dienstverlening.",
+      "slug": "tweede-stakingsdag-cp-driekwart-van-de-treinen-uitgevallen",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2481/",
+          "title": "00h. Autogolo garante vitória do FCP em casa do Feyenoord"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/maquinistas-da-cp-em-greve-total-mas-com-servicos-minimos_v1781420",
+          "title": "Maquinistas da CP em greve total mas com serviços mínimos"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/24/greve-dos-maquinistas-da-cp-cancela-quase-75-dos-comboios-ate-as-19h00/",
+          "title": "Greve dos maquinistas da CP cancela quase 75% dos comboios até às 19h00"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUdEUWFWbmU0dzMtdktLQlRUYjduTi1sTTQ2M1BIU3JvazdmTVZFaXlfMmhWQlZ5RWNsSnowSUxhNXZyOEhDYlRrSmUtNVdyZ21sVnhCSmxrNGdNdDBrQWRBd3BqUkNMZTllS1pEbERnTUVFN25yMHI3c3VtcnVkUGJVV2FFRldQSkxEcHlNSm1jZ2NIZ3dybFFncE5JVzJNVk4wbDFvSlUtT2FzZ3h1TFpudVE0YXNKWC1TTnJR?oc=5",
+          "title": "Greve dos maquinistas levou à supressão de 70% dos comboios até ao meio-dia - Diário de Notícias"
+        }
+      ]
+    },
+    {
+      "title": "Arganil viert 100 jaar elektriciteit en lanceert online loket voor bouwzaken",
+      "category": "Regio",
+      "lead": "In Arganil, zo'n 20 km van Meda de Mouros, kwam de staatssecretaris van Energie langs voor 100 jaar elektriciteit. De gemeente opent ook een onlineplatform voor bouw- en urbanismeprocedures.",
+      "body": [
+        "De staatssecretaris van Energie bezocht Arganil om te markeren dat de gemeente al een eeuw elektriciteit heeft.",
+        "De Câmara Municipal van Arganil lanceert een onlineplatform waarop urbanismeprocessen, zoals bouw- en verbouwaanvragen, digitaal kunnen worden afgehandeld.",
+        "Verder verwacht de trailwedstrijd Desafio Picos do Açor 1.800 deelnemers, de grootste editie ooit, viert de bibliotheek Miguel Torga haar 30-jarig bestaan en wordt Arganil al tien jaar onderscheiden als '100% Eco-Escolas'-gemeente."
+      ],
+      "context": "De Câmara Municipal is het gemeentebestuur. Wie in de omgeving wil bouwen of verbouwen, moet daar een vergunning aanvragen; digitale loketten maken dat eenvoudiger. De Picos do Açor liggen in de Serra do Açor, het berggebied aan de rand waarvan Meda de Mouros ligt.",
+      "slug": "arganil-viert-100-jaar-elektriciteit-en-lanceert-online-loke",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVRZT2NmLU5sVjQ5X0p4ZHFLSnV1OGNsbDdQU3hkSUkyUUlkWWJFUUtXS09INEsza2ZYNlVpQnl1U2lnNUc3cVd2UmNkRVljcHNFRUk0UDdCUjVmb0pDZDBndk9ob0dEenIxa2YwOG5XRVEzY2xsT3o3T3RHT2ZmOVlwT2theXd1MUExSjVMSmxGNEZsYlVrdDBfMEdNLWRaUC1pSGRjMHVOekVNdjNsMm1mYnYwM2duMU9qWVJUWnd5MHdkYWxSVkxB?oc=5",
+          "title": "Secretário de Estado da Energia em Arganil para assinalar 100 anos de eletricidade - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYmdnNE04S19sb04yOGNWYlI4czZSaVlOMXI1WVpXWDRLdnVaQ25Hb1NSUF9jck5OQldlVEdlQ3JTTVo5QzJ5TzhWY2gzT1hVcmdxUjNiNVhqOVkyWWpDUVNtb2ZpaURzSEJWZW0waGxwQ3hvbVl1VmtIcHRBN2NRMTNBdGNnVDVKVzlrZWM3bmdLSnBxRWVOVHo5X0xBU1hBc2xvejRLUQ?oc=5",
+          "title": "Desafio Picos do Açor espera 1.800 atletas na maior edição de sempre - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLThmNlFid3VZQUl5bzhXQjZQSzRKOEd6RmNPY0Q1SGh5UVpWQTl5SkFWZTB5T0lqQlRsMk9Ualg1VWZfLTNLT2NQRTdvZEh6NHNHaGlfVERTQWM4QnktOU1obm1sTEJYaG15OTV3aEE1TGFlTjBOX3ZpTHJrWXMzTDBzc0pxYjBiamFhVGtKLVRwLTNJUlM4YlRER2ZZaHM2aW1XRmx0R0dlaVRRUnJFclRDRThlNnpXZ0t0ZlJKUm1Ra3hhQ3Z5b0c1U29yWXc?oc=5",
+          "title": "Biblioteca Municipal Miguel Torga – Arganil celebra 30 anos com a comunidade - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTU1eF9jNUNjMGtNNU1uMjBEWnBOMF9UNDlRcnFPckM5S2hTb1ZfNTBFSXJJYWxVem9uallLblRDcldHM0thakpWWUtQeTdFMFNmSFJHd3hSYzJzYy1SbU9YX21zVWpYRXlMYUk3eVc3OTVZYnlmY1ZiNm9QcjFkcEhMUUVmREZiZkZES1kzTGlMVUtuYjBMQ3pmYk9PejFUUjg0VDRsRjQzTlNkVzN2Z2RKRVNwUQ?oc=5",
+          "title": "Município de Arganil enaltece dez anos de distinção 100% Eco-Escolas - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzRWeUZPZDZvUnNBa3ZDUXhJWXZkV1p0QVZod2xUbnR0YkZUbHVieTNmdUJ4OHJ0YXcwSDYtTm1BZWVnQ0ROUDVTaGNQcHNOREZXV3VBN2c2QmY2b1BvNkVpYlY0T0YySDZYUXhSbU91VlBOcERTZTh0b2dULTBlcGNIYzBCT3RMbXZmUXVPUEgwZWpxRzlyQ3l0VDF5bi16d0V0WjB5S2trVlRrMGNtV3ln?oc=5",
+          "title": "Secretário de Estado da Energia assinala 100 anos de eletricidade em Arganil - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRktzMkc2QlUwR21YUHpINnJ0eEV4dTE3TnJ1d2VRbU1mREl0emRJZ3lyalRJY3VxYzlHX2xkS0VwMW1sSnZISG4tT01yM1ZfM0VJZHFSbkRFTUtkTkhSNXoweHZJU29uWFJJNFY1VURqTFNOem5VTEVySXBwX2xJWDN5a0phZXdWX2VEZHJlNjNXLXpmdjUyZE4xRlVRVkVlQ3AzWNIBqgFBVV95cUxQWlBhbm8zSHFGQmc2S3NTa0RHSTdjdnh5Zk5jaG9zWW9IN2JqSDZ1WGkwWGlLLUNJQ08xOWY5MWs0ZVlLdnlMbk40ejA3cS13NDFJc2RvaUp6NVg2cFFIVGxGbHBCZ3Z6el9XVlJsWWhYckpvQ1FPbWlUWVgySVdaM1BsVlUxMnlMaVpOZm5WdHIwNEdEa0lIejNEX3MtWWt5Z3dMUG1jZWhFdw?oc=5",
+          "title": "Município de Arganil lança plataforma online para processos de urbanismo - Rádio Boa Nova - Oliveira do - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGpLNjFhUXNIVThEcnhHNFlCSUNYemU3UDNiUHRlamVOTDdIb1lHaGtIeHNCcG1TdVktZVk2c1NsUm5KNW9La3hDSkdQbmJnbnZ3bERQUTFJOFE3VGlXc0FFb2F3SlRtSkxlTTBBV3FoV3ZZYWhaaUNBUWFOM2NDSkJMVFBfRzN2RFBDcGlMM2NhT29PMUY1NXYyZFpBN3pVcHphZGFXUHRsV0hUcGdpVWZzQjJlZnhkbVBqOQ?oc=5",
+          "title": "Município de Arganil lança plataforma online para processos de urbanismo - SAPO"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital: beweegprogramma voor ouderen, gft-containers en groeiende bevolking",
+      "category": "Regio",
+      "lead": "De buurgemeente Oliveira do Hospital, ongeveer 20 km van Meda de Mouros, start een beweegprogramma voor senioren en breidt de inzameling van etensresten uit.",
+      "body": [
+        "Met het programma 'mOHve-te Sénior' biedt de gemeente samen met 14 lokale organisaties lichaamsbeweging aan voor ouderen.",
+        "Daarnaast komen er nieuwe containers voor de gescheiden inzameling van voedselresten (biorresíduos).",
+        "Oliveira do Hospital registreerde onlangs de meeste neerslag van het hele land. Ook groeide de gemeente in vier jaar met 656 inwoners; Tábua en Arganil volgen de bevolkingsgroei in de regio Coimbra. In de nabijgelegen Serra da Estrela is inmiddels de eerste sneeuw gevallen."
+      ],
+      "context": "De bevolkingsgroei is opvallend voor het binnenland, dat decennialang leegliep.",
+      "slug": "oliveira-do-hospital-beweegprogramma-voor-ouderen-gft-contai",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZHdndWxtc0d1aHBCTkFhWGRETm9YN3ozUGJ2NUZRQkFRdlZpM3M0Y1cxVTE2aDAxdDhkNmY1cjZaTnNFSXY0UXV2YTQza2szYUo0bmViRjV1VldXaV82emJSRkpHRW81UDFnTWV3UncxUEJLZGV0RFU2SzA5R1o0d3A5YVVDWXplQnEtQWh2NVNTMU85Y3k4TDhmM2REWXd1UF85RHNCVjFoN2dsRDEwY2xrLVE5cGJ2NnFfY0lNcXcyYzJHNWVEQ09n0gGeA0FVX3lxTFBaTUxqSm5sUE1OdUp5ZHJ6NWFqdHZtcjE5dDFnVi1fbFVHdE1sZnZEN1ZmdW5LbmZad3IyZlBZMjN4VGhpY21nRzdpb1V6S09scm0zWHNBUTBmc0o5bllwb1dKY0l6WTNoMkw1Tk1rdUV6N1dRbEpIdVotUDlvem9ldEo1T3k0ZDlPTklaNDFobjBISFlrU2lMdnlZSVZ2dGVlMlcxX2lLM0M5OUZwVHl0UlVaSjJ5ejViMDRmUVFXN21UczFtb2VKQ3ZnMW4tNTdYYmQ2SUlaTkRHOEl2dDdKTEt3OVI0U0xEZEFpUmhUaF92eDE5RmpGWGxiMV93TnQ5a0hqS3g4YjdNRTMtWU5uZmFiVXRlQ1ZSejE4cFdFSEMyUUV6WllIQk9LQU5iU3V5RzRWUFlGalRoR0REMlhRZ3VGSHJJMHNkb2VjbHBZdHhZeUw5b3p4SHBsRXpaeDYtNmEybFh5WDFRMkpUVl9ha2Zmd3VERmxmdUtkWWY1Y2xzTDJfX21xa2ZqenNObzNJTE1pVjdtZVlnVFB0UQ?oc=5",
+          "title": "Município de Oliveira do Hospital lança programa “mOHve-te Sénior” junto de 14 entidades do concelho - Rádio - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3hHS2l0YnJQb3RlbTRxN3ByNGVrWGdwUU03MjVrZHQ1ZzVERS1vRV9oVGtxRFpXckJzVmNxbDdYUzJsdVJrUnoxSE5lU1NhTEJ5c1FRbmJ4SUs3UGUzVHRQdmtIZU83YmsyUHpsTng5cENDdjlwZUpUQWJtZk4tRlRYMDZiOVBTZ253OXphTl92VzllRFpRTnh5YnJValhORi1RZDk2aXFWVVl3RE9panhEcVZyaWhfY2pBSTJfN1N0R0ZuTVBZR0pNUEM5SFprZnBtaFBRU0M5MlZBMFM0?oc=5",
+          "title": "Município de Oliveira do Hospital lança programa “mOHve-te Sénior” junto de 14 entidades do concelho - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRE1HenNMQmRCbk9jam40QXNOVGpOdHlBWW8yeERyaGFiS2x1NGZUejJKOFBxMU9lX3N2RUhDZDQ2dlVjMmtDQWhjbk1KX21sWTNJS0tGY0FnSmJHcU13S0tVOHlLWVZTSlFLcFd2RzA4WWZLX0NpUUE4eEhvQTdpS0FqNHFxU0llci16cXVpdEVsOHZ5R2JVTVk2RjYzUmNXTTlwQWJrd2RIUjlZSHQtNzRxWlFKQzRWNEVkQVBvMDEzZW_SAcMBQVVfeXFMUERNR3pzTEJkQm5PY2puNEFzTlRqTnR5QVlvMnhEcmhhYktsdTRmVHoySjhQcTFPZV9zdkVIQ2Q0NnZVYzJrQ0FoY25NSl9tbFkzSUtLRmNBZ0piR3FNd0tLVTh5S1lWU0pRS3BXdkcwOFlmS19DaVFBOHhIb0E3aUtBajRxcVNJZXItenF1aXRFbDh2eUdiVU1ZNkY2M1JjV005cEFia3dkSFI5WUh0LTc0cVpRSkM0VjRFZEFQbzAxM2Vv?oc=5",
+          "title": "Oliveira do Hospital reforça recolha seletiva de biorresíduos alimentares com novos contentores - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU053R3VwYmE2QU1fanBEaTcwb1BVZVlDT19NQVBrQUJLTU5nOHBUd20taWpxSlpuN0xRMFNHM1E1R3BkcGVFSlpKTmVnYlZzNE8yZlRPbzR1VkZBYld4QmVNYnZMN2VWMmRSYUdEVnBhS09ZZDF1UFJGNGllMHBHOTZXTkktc0pRREpzSWR0MDJSNTdJLTdWYVdKSVQwQWk3R2VlRkhRcEtoRTQ2Y0RPWWNmQ0hMeEJISFQ2SkxmWXlsQlFaa2Rkd19uSEZwTGM?oc=5",
+          "title": "Oliveira do Hospital lança programa de atividade física para a população sénior - Central Press"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zdlNWRU5TVWRjcHJkcmJ5eGJId0szeEVvTm5Xa1NkalRfR3piY2ZDdndOaU9IRWFSZGkxdUVza214bU9tQ3lfc0w0ekQyaXFSN25oSXk2c2huNVdZa2QwMWZCTWhhMzFoTUR1Nm130gHPAkFVX3lxTE94R3NGc25lTHZqN25tbmlXb2EwZWloUnlWLUdCX2VHeFBIM1habUZTaFpfOE9ZMVRBSWpaUk5jR2Rab1VFX2FJSXJvUzhlaTkyU3QxSDZGZU1sbmhPWUxMa0FieFktUU9IZjZSZEVEU2owRDNsSjllZ3g0M1BISWtSQ1hBOXBtVm9YT1JwQkxZX3RPOGtfVEVMT2czYTBtNXpOcllrbUlxSXhyTlNGeV9xeW9YQ1NEbU5DVzdwRHZ1Y2VuNnE5YmVXazZnclU3RXE4cDRxRE91MDdXNWxxYUdJZnZsRmVwbnZneEtXOGxrNVNKbnR3ZG1iWVNObTcxMm9YdU50bFF5aUJzbENuZDRwcHVmSnMtUndtVzQ3MTZGUUVNQlpQamtCbmRjZlNMVjM0MlNyeG5qTUhEMmFZV3IwejNRMGU3c2RuelJvX0FN?oc=5",
+          "title": "Já cai neve na Serra da Estrela - Rádio Boa Nova - Oliveira do Hospital - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmFtWEhGTkhiLWJZNzhTRHNYSDNGVnNfYkdIczZUNURmaVAyOWpQSmtBMHFCMWFhV1N4R2xPYTVvYml3OUo1bmM3OVhIa3ZVcUJydVFrdDRWaWJ2TnFoX0tjVk9FOTgwS3FkNmctdXZOb2RsWHFETU9OYk56V01QSXBhLVRrQ1FZMG5mbzNiVHFDZjJaSE1LZF9BNnZLQ0xlblR0UWxKQ1FROTR0NERTemM3c2h2UmRWTk9yaHNZaG03WXBBSWpaetIBzgFBVV95cUxQZ1dVUEtVdTJNR0thWXduQWFySEVjQ3RxeFJfT0hVQ0FBaE41WnNTQnRVQ0J6TEp3OXdFWlF4ZTB6TC1adXRac19HRjBPRDJiSkZyRlA1SzlCTUxpREoyRmZnckI3bXNzejQ3LXc1WGN4R1MwZGg4XzdISWhLeVBKdmhLMm1RUXJ5OGdlaW9xbGFOUVFGWGVnd25laWM2UEpORzdwRWNERjdmbE9OSGRJeDhBbC1WclRzejhpclNYVC1EMlpDYWh0c1hrN0k1Zw?oc=5",
+          "title": "Oliveira do Hospital registou a maior precipitação do país. Concelho liderou o ranking nacional da chuva - CentroTV"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG1yQ1gzelBYLWxDNDByY3VEbGdHMC1lS0Ewak0yajBJY0phOXR2b0J6U1Bxb24tWmRDemhIZHdZNTRxMnNZYk5vQjgyNzRaX2gzQjVNMkViZXd3VndmQ3N1Q1ZZcHZTTG9Xai1kRWZOcWRObEhyYTY0cDNpdEFSemlYVG9HQkJmWXFXYUJJNV9jajlw0gGaAUFVX3lxTFBjamt1Y29ueTJDdmI5SzI1WnFUV21nMUxuWXE2RWN2amVNV1AxQjRCQkt1X3R5TjlqRFpXSm1XdkFjQkIxMnhoMWpYc1FuR0hRMm56OXI1TDU2NzFuSVB3bTIxVlBCQ2x0bmYwbFJIdm5kek14VkVLUTNRUUdVcS13STZFNWNDeTRSek1Objhjc0V6Rk5vZFZFcWc?oc=5",
+          "title": "Oliveira do Hospital ganhou 656 habitantes em quatro anos - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUpYLTEtMEk0UFp3bE05dFM2YlVTSHlKY1dkbThIR1ZndXZFX2x1cE1mSW05WE5kVThuRmd0WkFiWk82U0NjanNwNS1PaENPVzNlRzVGTjVXaDBZSFdOdnluSmliWFVNWml4NjBTeElSWUo2dzFxbGNfcE9EajNlSmtxVVhGaHVwNENiSWNUaUhlQ1RhUDFwYzhBWFhXNWN1YWRMTnBudTZjWDRGV2hPRW5Dbm5yQlhSWWk1UkZPaVlPV1Rq0gHKAUFVX3lxTFBfTFp6N0xCYjJjd3pxcTBPZC1WYUJzUDRNdjdUYmYxTXVBUXpHZlcxU1V5SEktTlFza3Y5ZnkxVk1RQW9jMU56VGVzLUtHRE9IQnNLeFRNX2tpQ3o3XzBLUE42NXpWOWI5TEtoT1U2QkF2SUJyQmNwbnNhS1ZmNWtnS1RoeXRUbTJHLWtRLXFVLWJzOEEwdElnUWVCQkRSZHFkZ3dvb2RqME9HUGRibGRBTU9DZGR3bW9TQ29VWFhxYjdsN2x2cUx3YUE?oc=5",
+          "title": "Oliveira do Hospital, Tábua e Arganil acompanham crescimento populacional da Região de Coimbra - Correio da Beira Serra"
+        }
+      ]
+    },
+    {
+      "title": "Inheemse bomen geplant in Lousã en Ansião, deels op stormschade van Kristin",
+      "category": "Klimaat & Natuur",
+      "lead": "Rond de Dag van het Inheemse Bos (23 november) werden in de regio kastanjebomen en honderden andere inheemse bomen geplant.",
+      "body": [
+        "In Ansião plantten ruim 200 leerlingen 530 inheemse bomen op de Quinta das Lagoas, een terrein dat beschadigd raakte door storm Kristin. De actie werd georganiseerd door papierconcern The Navigator Company en de gemeente.",
+        "In Lousã, zo'n 50 km van Meda de Mouros, liet de gemeente kastanjebomen planten om het inheemse bos te versterken."
+      ],
+      "context": "Inheemse soorten zoals kastanje en eik worden gezien als minder brandgevoelig dan eucalyptus en den, die het landschap in Centraal-Portugal domineren.",
+      "slug": "inheemse-bomen-geplant-in-lousa-en-ansiao-deels-op-stormscha",
+      "sources": [
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/lousa-planta-castanheiros-para-reforcar-floresta-autoctone/",
+          "title": "Lousã planta castanheiros para reforçar floresta autóctone"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/23/mais-de-200-alunos-plantam-530-arvores-autoctones-em-ansiao/",
+          "title": "Mais de 200 alunos plantam 530 árvores autóctones em Ansião"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "o Orçamento do Estado",
+      "nl": "de rijksbegroting",
+      "example": "O Orçamento do Estado para 2027 foi aprovado em votação final global."
+    },
+    {
+      "pt": "a abstenção",
+      "nl": "de onthouding (bij stemming)",
+      "example": "O orçamento foi aprovado graças à abstenção do PS."
+    },
+    {
+      "pt": "a greve",
+      "nl": "de staking",
+      "example": "A greve dos maquinistas cancelou quase 75% dos comboios."
+    },
+    {
+      "pt": "os serviços mínimos",
+      "nl": "de verplichte minimumdienstverlening",
+      "example": "Foram realizados os 267 comboios previstos nos serviços mínimos."
+    },
+    {
+      "pt": "o senhorio",
+      "nl": "de verhuurder, huisbaas",
+      "example": "Metade dos senhorios pondera retirar casas do mercado."
+    },
+    {
+      "pt": "os biorresíduos",
+      "nl": "gft-afval, etensresten",
+      "example": "Oliveira do Hospital reforça a recolha seletiva de biorresíduos."
+    }
+  ]
+}
