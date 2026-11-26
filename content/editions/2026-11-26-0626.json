@@ -1,0 +1,348 @@
+{
+  "id": "2026-11-26-0626",
+  "generatedAt": "2026-11-26T06:26:53.181Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 257,
+  "intro": "Het nieuws draait om de begroting voor 2027. Premier Montenegro zegt dat zijn regering drie maatregelen die de oppositie erin heeft gestemd niet zal uitvoeren: btw-vrije basislevensmiddelen, een wijziging in de belasting op huurinkomsten en een pensioenverhoging. Daarnaast: stormsteun voor alle getroffen gemeenten, een recordwaarde voor woningen, een dreigend tekort aan huisartsen en vergrijzing in het binnenland.",
+  "articles": [
+    {
+      "title": "Montenegro weigert btw-vrije basislevensmiddelen en hogere belasting op huren uit te voeren",
+      "category": "Politiek",
+      "lead": "In een interview op RTP1 zei premier Luís Montenegro dat de regering drie oppositiemaatregelen uit de net aangenomen begroting voor 2027 niet gaat uitvoeren. Een gang naar het Constitutioneel Hof blijft mogelijk.",
+      "body": [
+        "De begroting voor 2027 (Orçamento do Estado, OE2027) werd aangenomen doordat de PS zich onthield van stemming. Tijdens de behandeling stemde het parlement met steun van Chega drie PS-voorstellen erin: btw-tarief nul (IVA zero) op een pakket basislevensmiddelen (cabaz alimentar), een aanpassing van de inkomstenbelasting (IRS) op huurinkomsten en een verhoging van de pensioenen.",
+        "Montenegro zei woensdagavond dat de regering het met die voorstellen 'niet eens is' en 'niet zal uitvoeren wat ze niet verplicht is te doen'. Er komt dus geen lijst met btw-vrije levensmiddelen. Ook het belastingvoordeel voor verhuurders met huren tot 2.300 euro blijft bestaan. De pensioenverhoging noemde hij een 'aanbeveling' (recomendação). Een wijziging van de belasting op brandstof wordt volgens hem nog bestudeerd.",
+        "De regering 'zal niet aanvaarden dat haar een verplichting tot wetgeven wordt opgelegd', aldus Montenegro. Het kabinet onderzoekt of het naar het Constitutioneel Hof (Tribunal Constitucional) stapt. De kern is de vraag hoe ver het parlement grondwettelijk mag gaan bij het wijzigen van een begroting. Oud-PS-minister van Financiën Fernando Medina noemde het standpunt van Montenegro 'volkomen verdedigbaar'."
+      ],
+      "context": "Vorige editie: de begroting was aangenomen en de regering overwoog naar het Constitutioneel Hof te stappen. Nieuw is dat de premier nu openlijk zegt de maatregelen niet uit te voeren. Voor u als bewoner betekent dit dat er voorlopig geen btw-verlaging op boodschappen komt. IVA is de Portugese btw.",
+      "slug": "montenegro-weigert-btw-vrije-basislevensmiddelen-en-hogere-b",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2482/",
+          "title": "00h. OE. Luís Montenegro recusa aplicar IVA zero"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-montenegro-diz-que-nao-vai-cumprir-as-alteracoes-aprovadas-pela-oposicao-no-oe27_a1_1781693",
+          "title": "4h Montenegro diz que não vai cumprir as alterações aprovadas pela oposição no OE27"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-governo-mantem-beneficio-fiscal-nas-rendas-ate-2300-euros-diz-luis-montenegro_a1_1781691",
+          "title": "3h Governo mantém benefício fiscal nas rendas até 2300 euros, diz Luís Montenegro"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/1h-montenegro-recusa-criar-um-cabaz-alimentar-com-iva-zero-e-aumentar-impostos-sobre-rendas_a1_1781678",
+          "title": "1h Montenegro recusa criar um cabaz alimentar com IVA zero e aumentar impostos sobre rendas"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-montenegro-diz-que-nao-vai-cumprir-as-alteracoes-que-a-oposicao-aprovou-na-ar_a1_1781676",
+          "title": "23h Montenegro diz que não vai cumprir as alterações que a oposição aprovou na AR"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/25/montenegro-recusa-aplicar-iva-zero-e-alterar-irs-das-rendas/",
+          "title": "Montenegro recusa aplicar ‘IVA zero’ e alterar IRS das rendas"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/25/montenegro-da-entrevista-orcamento-e-do-governo-ou-da-oposicao/",
+          "title": "Montenegro abre porta ao TC: “Governo não vai aceitar imposição da obrigação de legislar”"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/25/parlamento-pode-alterar-o-orcamento-mas-ha-limites-constitucionais-o-que-esta-em-causa-nas-tres-medidas-da-oposicao/",
+          "title": "Parlamento pode alterar o Orçamento, mas há limites constitucionais. O que está em causa nas três medidas da oposição?"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOYXVPb3JoWVBFOW1Ga1BudU9yakM5US1VM0pqOFFrcWNWckI2NVQwcVpDemkwS3QwQ0FGaFBPZWJBaVZxUnVXWW1OVnAwNWZ0U3dsOF9JYXBDcy1tenNQZXVoeGlZZnE5Umkza2hfWlRGT3BNTTNnTHhSa2pXbl9PVUtRTG15QlhGb0k5R0tLMDktLThOSjJRMXRyYjN2Yk5kS3NoaVB0TkdFc3FzYmFzVnQ2eXA5ZENfcHhmUFBwcUFJcE9yaDdJd096RWZHSV9idEFhR1lkWlczd252UHlYeVI5ZHVybFlrU01LaHJGdzlBLU4yNi1QRHFFa2h3Q2MybWlEZTAyR3VvZ29xbnhVM1A4NFhWWHZpWU1oTElyZnhCWTREUmpPVkZR?oc=5",
+          "title": "Pensões são recomendação e mexida no imposto dos combustíveis ainda vai ser avaliada. As garantias de Montenegro - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOWVsbW1rUkJCcDVIaG1LVGVvQkUwOXN6U1B5YlFoaG80T2hWOE84WlA0aFlBR1Vwc05mWTltc3daYXZrMnp2QUhKQkw3d0VNYU5fMmJlcWRlUHZ4cG9YVm9aZG10MUtKaFJHckEwSUxScGM4QTBDdHByYk5vZ1ZvenlBN0Y1X0xpd18wUm1GY2xjZmdybWhsdmRMUkUyT01GWnhwbk5IZ1lvcWFUbkdfSFhuamNfU3VtYmxGeDA0ZmtxN3F0TUlzS3lxWFFkR2xpNTNLbEtSYmhPY1RkQUs5OUdNMzdkcnZVN0hFRUh1MHVYeWh0VTlnTDFIeHNMVHhlcDJ1Sw?oc=5",
+          "title": "O Parlamento \"não dá ordens ao Governo\": como as mexidas no IVA Zero, rendas e pensões podem esbarrar no Constitucional - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnR4TmVsOTBPalV1bHNhVWVncnE4c1gtVmFsOElfalJaUDhfaFlCcVpIMWNsazZiLVJTeE1ZbUo3aW93SVVaVTlKNFAxdnJvUmV5VjFvOG9Cb2c0VHBjbGdzLThuc1I4dFd1bmFvY3IyWTdWazRTbWxOZXJZVVM3cVZJaU03RGQxb0c3ZTU3elViQ0dkSHFoeEhRYkZxU1J1UFZGMUo5R0xBaFV2c0Jwa0Y1MGZZaEFZN3JMLWNrdjQtcFpjdnFOZGRTMG5iOEF6U21yS2FiUURzcHd0cVJfN3U3aXhpNG8?oc=5",
+          "title": "Montenegro anuncia que Governo não vai criar lista de alimentos com IVA zero, nem mexer no IRS das rendas - Expresso"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/montenegro-recusa-iva-zero-nos-alimentos-e-aumento-do-irs-sobre-rendas/",
+          "title": "Montenegro recusa IVA zero nos alimentos e aumento do IRS sobre rendas"
+        }
+      ]
+    },
+    {
+      "title": "Oppositie reageert fel; Montenegro wil aanblijven tot 2029",
+      "category": "Politiek",
+      "lead": "Chega, PS en IL verwijten de regering dat ze het parlement negeert. Volgens commentatoren ligt de bal nu bij president António José Seguro.",
+      "body": [
+        "Bruno Nunes (Chega) zei dat 'het normale functioneren van de instellingen in het geding is'. Marina Gonçalves (PS) sprak van 'institutionele minachting'. IL-leider Mariana Leitão vindt dat de regering een 'juridisch imbroglio' heeft veroorzaakt en zelf de gevolgen moet dragen. Oud-PS-leider Pedro Nuno Santos vroeg zich af of parlementsvoorzitter Aguiar-Branco zich 'laat intimideren'. De fractieleider van de PSD daagde Chega en PS uit de regering ten val te brengen.",
+        "Montenegro zei dat hij nooit heeft overwogen af te treden. Hij wil de regeerperiode tot 2029 uitdienen en ziet geen politieke crisis. Hij heeft 'volledig vertrouwen' in al zijn ministers en ziet geen reden voor een herschikking.",
+        "Op de herdenking van 25 november bekritiseerde Aguiar-Branco 'consensus over alles' en protesten op straat. Daarmee nam hij afstand van president Seguro, die juist opriep tot meer gezamenlijkheid. Seguro zei dat 'de stem van het volk niet alleen bij verkiezingen gehoord moet worden'. De Acampada de Lisboa, een tentenkamp voor het recht op wonen dat sinds 14 november op het Praça dos Restauradores stond, besloot na oproepen van de politie (PSP) het plein te verlaten."
+      ],
+      "context": "Luís Montenegro (PSD) leidt een minderheidsregering en heeft daardoor steun nodig van PS of Chega. De president (Presidente da República) kan wetten tegenhouden of naar het Constitutioneel Hof sturen. Op 25 november 1975 werd de linkse koers van de revolutie gestopt; de datum is politiek nog altijd gevoelig.",
+      "slug": "oppositie-reageert-fel-montenegro-wil-aanblijven-tot-2029",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/a-hist-ria-do-dia/montenegro-poe-o-presidente-da-republica-perante-um-dilema/",
+          "title": "Montenegro põe o Presidente da República perante um dilema"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2507/",
+          "title": "3h. Acampada de Lisboa vai deixar praça dos Restauradores"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2480/",
+          "title": "2h. Partidos da oposição criticam posição de Montenegro"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/il-diz-que-governo-tera-de-arcar-com-as-consequencias-do-imbroglio-juridico-que-criou_n1781674",
+          "title": "IL diz que Governo terá de arcar com as consequências do \"imbróglio jurídico\" que criou"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3090393/sem-iva-zero-pns-espera-reacao-de-aguiar-branco-vai-amedrontar-se#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Sem IVA Zero, PNS \"espera\" reação de Aguiar-Branco: \"Vai amedrontar-se?\""
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3090394/oe2027-il-diz-que-governo-tera-de-arcar-com-as-consequencias-do-imbroglio-juridico-que-criou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "\"Governo tem de gerir própria decisão e arcar com as consequências\""
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZzRJOS1tc3pFamFCamRkWjlEMmZfcnVNOTFFOTJOdXRuU1lqN0RDbUNLS0p4RDlIVnluWFM1bXdReFVqMDl1Z1dzZVVxczR4UVgwN2tmVTZVdnFBMmZ4dTgzY2Rjb2VydVdtLWU2YmFZU3B1NFVDRGZLZGI2ZW00aWVUbF9uNnNRbXlObXNRRThsTjZabHRCRUxZUXh4dHpETzBWWTNXNnBqVTA2M2tVbEsxYVp5VlRkd09MNy1wMXRPdw?oc=5",
+          "title": "Aguiar-Branco critica consensos e protestos na rua, e abre clivagem com Seguro - Público"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/montenegro-manifesta-confianca-total-em-todos-os-membros-do-governo-e-elogia-atuacao-do-mai-e-da-psp/",
+          "title": "Montenegro manifesta “confiança total” em todos os membros do Governo e elogia atuação do MAI e da PSP"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/montenegro-afasta-demissao-e-garante-que-quer-cumprir-legislatura-ate-2029/",
+          "title": "Montenegro afasta demissão e garante que quer cumprir legislatura até 2029"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-acampada-de-lisboa-vai-retirar-tendas-da-praca-dos-restauradores_a1_1781703",
+          "title": "5h Acampada de Lisboa vai retirar tendas da Praça dos Restauradores"
+        },
+        {
+          "name": "RTP Notícias",
+          "url": "https://www.rtp.pt/noticias/economia/acampada-de-lisboa-revela-contacto-da-psp-para-desmobilizacao-nos-restauradores_n1781657",
+          "title": "Acampada de Lisboa revela contacto da PSP para desmobilização nos Restauradores"
+        }
+      ]
+    },
+    {
+      "title": "Stormsteun voor alle getroffen gemeenten verhoogd naar 100 procent",
+      "category": "Politiek",
+      "lead": "De Vereniging van Portugese Gemeenten (ANMP) is blij dat alle gemeenten met stormschade nu volledig gecompenseerd kunnen worden, ook zonder officiële rampstatus. Wel klaagt de vereniging over vertragingen bij netbeheerder E-Redes.",
+      "body": [
+        "Volgens ANMP-vicevoorzitter Ana Abrunhosa gold de steunregeling van de regering eerst alleen voor gemeenten die de rampentoestand (estado de calamidade) hadden afgekondigd. Nu geldt steun tot 100 procent voor alle getroffen gemeenten.",
+        "Ook waarschuwde de ANMP dat E-Redes vaak traag reageert op aanvragen van bedrijven en bedrijventerreinen voor een netaansluiting. Dat maakt gebieden minder aantrekkelijk voor ondernemers. Verder willen de gemeenten partner van de regering blijven bij het bouwen van betaalbare woningen."
+      ],
+      "context": "De ANMP (Associação Nacional de Municípios Portugueses) behartigt de belangen van alle 308 gemeenten (Câmaras Municipais). E-Redes beheert het elektriciteitsnet en verzorgt dus ook nieuwe aansluitingen op het platteland. In de regio Coimbra richtte onder meer storm Kristin schade aan.",
+      "slug": "stormsteun-voor-alle-getroffen-gemeenten-verhoogd-naar-100-p",
+      "sources": [
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/associacao-de-municipios-sauda-alargamento-dos-apoios-a-100/",
+          "title": "Associação de Municípios saúda alargamento dos apoios a 100%"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/municipios-dizem-que-atrasos-da-e-redes-condicionam-atracao-de-empresas-nos-territorios/",
+          "title": "Municípios dizem que atrasos da E-Redes condicionam atração de empresas nos territórios"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/municipios-querem-continuar-a-ser-parceiros-na-habitacao-a-custos-acessiveis/",
+          "title": "Municípios querem continuar a ser parceiros na habitação a custos acessíveis"
+        }
+      ]
+    },
+    {
+      "title": "Bankwaarde van woningen bereikt nieuw record",
+      "category": "Economie",
+      "lead": "Banken taxeerden woningen in oktober gemiddeld op 2.282 euro per vierkante meter, het hoogste bedrag ooit.",
+      "body": [
+        "Volgens de gepubliceerde cijfers lag de bankwaardering in oktober 12,7 procent hoger dan een jaar eerder. In Groot-Lissabon kwam de waarde van appartementen boven de 3.500 euro per vierkante meter uit.",
+        "De bankwaardering (avaliação bancária) is de taxatie die banken gebruiken om een hypotheek te verstrekken. Ze geeft een indruk van hoe de huizenprijzen zich ontwikkelen."
+      ],
+      "context": "De cijfers zijn een landelijk gemiddelde. In het binnenland liggen de prijzen doorgaans ver onder dit niveau, maar ze stijgen wel mee.",
+      "slug": "bankwaarde-van-woningen-bereikt-nieuw-record",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1RTRWdBRF9aSzMxOTZ2cGlveTNtZnMzUVpiTFI1ZVhFV0Y5NzZSd0VIaEhFNkFJMU4zUmduQ2wtWG1jWnhsTk5pNnhmMFBQZlhzeGhyR05BVENGWXRFZzU5b3JfbTAtV2Zoay15MXBvNWg4eWdrY2pEbDlhRUhCSG1jeC1lUm9LN3pDYlh0bFlZY1RWQWx3MzQyZDA3cXFMY3A4bkt0NHEwN0dOVGluS0JMaFpyY1M2aEs3UnFvUEhMZDRySjVXbFZmY0QtLUpUbkc4?oc=5",
+          "title": "Avaliação bancária das casas fixa novo recorde de 2.282 euros por metro quadrado em outubro - RTP"
+        }
+      ]
+    },
+    {
+      "title": "EU-leiders onderhandelen over meerjarenbegroting; Europese Rekenkamer kritisch over groene uitgaven",
+      "category": "Internationaal",
+      "lead": "In Brussel praten de regeringsleiders van de EU over de begroting voor 2028-2034 en over steun aan Oekraïne. De Europese Rekenkamer vindt dat Portugal en zes andere landen hun groene uitgaven te hoog hebben opgegeven.",
+      "body": [
+        "De extra top op donderdag en vrijdag is bijeengeroepen door António Costa, de voorzitter van de Europese Raad en oud-premier van Portugal. Op de agenda staan het Meerjarig Financieel Kader 2028-2034, de financiering van Oekraïne in 2027 en de opvolging aan de top van de Europese Centrale Bank. Volgens de Correio da Manhã zou Costa's voorstel Portugal 400 miljoen euro kosten. Europarlementariërs waarschuwen dat ze niet instemmen zonder een hogere EU-begroting.",
+        "De Europese Rekenkamer schat dat zeven lidstaten, waaronder Portugal, hun groene uitgaven onder het Herstel- en Veerkrachtplan (PRR) samen 5,5 miljard euro te hoog hebben opgegeven. Bij 8 van de 60 onderzochte projecten was het bedrag fors overschat. De Rekenkamer wijst op tekortschietende controle."
+      ],
+      "context": "Uit de EU-begroting komen ook landbouwsubsidies en geld voor plattelandsontwikkeling, wat telt voor boeren en gemeenten in het binnenland. Het PRR is het Portugese deel van het Europese coronaherstelfonds.",
+      "slug": "eu-leiders-onderhandelen-over-meerjarenbegroting-europese-re",
+      "sources": [
+        {
+          "name": "Público",
+          "url": "https://www.publico.pt/2026/11/26/economia/noticia/costa-tiro-partida-corrida-orcamental-vislumbrar-meta-2196281",
+          "title": "Costa dá o tiro de partida na corrida orçamental, sem vislumbrar ainda a meta"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/mundo/3090454/lideres-europeus-reunem-se-em-bruxelas-para-orcamento-e-apoio-a-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Líderes europeus reúnem-se em Bruxelas para orçamento e apoio à Ucrânia"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGRXTjRNR0NiTm9mNjI4alZZcGRsRjVySi1qd1NoMk85bkRtSDFDVWRqdXpfbW5TRng4Q1p6c2I3NFRQRzlKTDVfYmFib0dOMmU4RzhhaFlBcjRTTVgwcjQ0YjRwY1llYkVKU2lFMTNseE00T1NnRndYTTN5Mk93aGhxaXQ1LTctcjFrTA?oc=5",
+          "title": "Orçamento de António Costa tira 400 milhões a Portugal - Correio da Manhã"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/25/tribunal-de-contas-europeu-aponta-55-mil-milhoes-de-euros-em-despesas-verdes-sobrestimadas/",
+          "title": "Tribunal de Contas Europeu aponta 5,5 mil milhões de euros em despesas ‘verdes’ sobrestimadas"
+        }
+      ]
+    },
+    {
+      "title": "Binnenland dreigt huisartsen te verliezen",
+      "category": "Samenleving",
+      "lead": "De artsenvakbond van Noord-Portugal waarschuwt dat in het binnenland vertrekkende huisartsen niet meer vervangen worden.",
+      "body": [
+        "In Trás-os-Montes en Alto Douro bleven bij de opleidingsronde van november 14 van de 32 plaatsen voor huisarts-in-opleiding onbezet, oftewel 43,8 procent. Landelijk lag dat op 27,6 procent, meldt het Sindicato dos Médicos do Norte.",
+        "De vakbond spreekt van een reëel risico dat de zorg in het binnenland verder uitdunt."
+      ],
+      "context": "Een eigen huisarts (médico de família) krijg je via het gezondheidscentrum (centro de saúde) van de openbare zorg (SNS). De cijfers gaan over Noordoost-Portugal, maar het tekort speelt in het hele binnenland.",
+      "slug": "binnenland-dreigt-huisartsen-te-verliezen",
+      "sources": [
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3090461/sindicato-avisa-risco-de-interior-perder-medicos-de-familia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Sindicato alerta para risco de Interior do país perder médicos de família"
+        }
+      ]
+    },
+    {
+      "title": "Twintig gemeenten in Centro nu al ouder dan voorspeld voor 2050",
+      "category": "Regio",
+      "lead": "In twintig gemeenten in de regio Centro was de vergrijzing in 2025 al hoger dan wat voor de hele regio in 2050 wordt verwacht.",
+      "body": [
+        "Dat blijkt uit een studie van de regionale ontwikkelingscommissie CCDRC. Het gaat om een vijfde van de honderd gemeenten in de regio.",
+        "Alle twintig liggen in het binnenland, verspreid over de districten Castelo Branco, Coimbra, Guarda, Leiria en Santarém. In de beschikbare samenvatting staat niet welke gemeenten het precies zijn."
+      ],
+      "context": "De CCDRC (Comissão de Coordenação e Desenvolvimento Regional do Centro) plant en verdeelt EU-geld voor de regio Centro, waartoe ook Tábua behoort. Vergrijzing bepaalt mee hoe gemeenten zorg, vervoer en voorzieningen regelen.",
+      "slug": "twintig-gemeenten-in-centro-nu-al-ouder-dan-voorspeld-voor-2",
+      "sources": [
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/vinte-municipios-do-centro-acima-do-nivel-de-envelhecimento-previsto-para-daqui-a-25-anos/",
+          "title": "Vinte municípios do Centro acima do nível de envelhecimento previsto para daqui a 25 anos"
+        }
+      ]
+    },
+    {
+      "title": "Arganil en Oliveira do Hospital: trailrun met recordaantal deelnemers en veel regen",
+      "category": "Regio",
+      "lead": "Arganil, op zo'n twintig kilometer van Meda de Mouros, verwacht een recordaantal lopers voor de Desafio Picos do Açor. Oliveira do Hospital was onlangs de natste gemeente van het land.",
+      "body": [
+        "Voor de Desafio Picos do Açor, een trailrun in de Serra do Açor, rekent de organisatie op 1.800 deelnemers, het grootste aantal ooit. Op de kalender van de atletiekbond staat in Arganil ook de eerste etappe van de Taça de Portugal de Trail over 30 kilometer.",
+        "Verder viert Arganil dat alle scholen in de gemeente al tien jaar het Eco-Escolas-keurmerk voor milieuonderwijs hebben. De gemeentebibliotheek Miguel Torga bestaat dertig jaar.",
+        "In Oliveira do Hospital viel half november de meeste neerslag van heel Portugal, meldde CentroTV. Het lokale telecombedrijf Gouveiatel bestaat dertig jaar."
+      ],
+      "context": "De Serra do Açor begint vlak bij Meda de Mouros. Bij grote trailruns kan er rond Arganil en Coja tijdelijk drukte op de wegen zijn.",
+      "slug": "arganil-en-oliveira-do-hospital-trailrun-met-recordaantal-de",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3djUXpfTG0tSFJ2cFhlY05fZzRlODVEMkRBWkZyREZIak5hYzlyNWd0Ny1MMG1weWMwNHRQTmJodFlTNklrRU9GOGpZR3dZOVQtQWpMMklqTlI5RllGWDc4U2JGOXhfRHdnUXgxX19MVFI0UHp6Q2ZPSnBpMkRsX0E3MEEyRVNVVEJXcFJVM29iNVMtR1c2VlJBZ0VoN1BtY214YzlwTGhoeWlKQ0FVVHVHZHhfREtsWWdGTWZMaDVhakNRZHc?oc=5",
+          "title": "Arganil: Desafio Picos do Açor espera 1800 atletas na maior edição de sempre - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlJ3eW9DVHU5TGgzTEJMZHdZOFh5d3J5aE1yWERwT1JwMzJOMmdWdF9FelBudFl5Y2FLX3RmMF9WR29tRVVnUTJzX3pyNEdJNDFoaXE5bXA3dWhZX2s3TlZTaFdobTlwck5QMS1icTl0WHg3cmZvbmlOYmFxY3QtcjlLM1k1WEZ0aTVBS21oZHZQeDNrMUI2d1FqbUNXVk0?oc=5",
+          "title": "1.ª Etapa da Taça de Portugal de Trail – 30K | Arganil - Federação Portuguesa de Atletismo"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczU3RmYycTlhQmstQXhWdmRrMkk1dUJWcHpBTUs4bmVtZGxIbjMwM0RHY3JnT2M1dWVoNWxxa2VkVTgyZ3FXdERUQVY1UlRkeE13cWl1SHlFaTVlajdZQ2MzaFZPYjAwb2pKWENzVHpEUzBwdVdqS0ZOYklFREZkS1VTYVlMVV81?oc=5",
+          "title": "A celebração de 10 anos de Eco-Escolas em Arganil - Diário do Distrito"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTU1eF9jNUNjMGtNNU1uMjBEWnBOMF9UNDlRcnFPckM5S2hTb1ZfNTBFSXJJYWxVem9uallLblRDcldHM0thakpWWUtQeTdFMFNmSFJHd3hSYzJzYy1SbU9YX21zVWpYRXlMYUk3eVc3OTVZYnlmY1ZiNm9QcjFkcEhMUUVmREZiZkZES1kzTGlMVUtuYjBMQ3pmYk9PejFUUjg0VDRsRjQzTlNkVzN2Z2RKRVNwUQ?oc=5",
+          "title": "Município de Arganil enaltece dez anos de distinção 100% Eco-Escolas - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLThmNlFid3VZQUl5bzhXQjZQSzRKOEd6RmNPY0Q1SGh5UVpWQTl5SkFWZTB5T0lqQlRsMk9Ualg1VWZfLTNLT2NQRTdvZEh6NHNHaGlfVERTQWM4QnktOU1obm1sTEJYaG15OTV3aEE1TGFlTjBOX3ZpTHJrWXMzTDBzc0pxYjBiamFhVGtKLVRwLTNJUlM4YlRER2ZZaHM2aW1XRmx0R0dlaVRRUnJFclRDRThlNnpXZ0t0ZlJKUm1Ra3hhQ3Z5b0c1U29yWXc?oc=5",
+          "title": "Biblioteca Municipal Miguel Torga – Arganil celebra 30 anos com a comunidade - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmFtWEhGTkhiLWJZNzhTRHNYSDNGVnNfYkdIczZUNURmaVAyOWpQSmtBMHFCMWFhV1N4R2xPYTVvYml3OUo1bmM3OVhIa3ZVcUJydVFrdDRWaWJ2TnFoX0tjVk9FOTgwS3FkNmctdXZOb2RsWHFETU9OYk56V01QSXBhLVRrQ1FZMG5mbzNiVHFDZjJaSE1LZF9BNnZLQ0xlblR0UWxKQ1FROTR0NERTemM3c2h2UmRWTk9yaHNZaG03WXBBSWpaetIBzgFBVV95cUxQZ1dVUEtVdTJNR0thWXduQWFySEVjQ3RxeFJfT0hVQ0FBaE41WnNTQnRVQ0J6TEp3OXdFWlF4ZTB6TC1adXRac19HRjBPRDJiSkZyRlA1SzlCTUxpREoyRmZnckI3bXNzejQ3LXc1WGN4R1MwZGg4XzdISWhLeVBKdmhLMm1RUXJ5OGdlaW9xbGFOUVFGWGVnd25laWM2UEpORzdwRWNERjdmbE9OSGRJeDhBbC1WclRzejhpclNYVC1EMlpDYWh0c1hrN0k1Zw?oc=5",
+          "title": "Oliveira do Hospital registou a maior precipitação do país. Concelho liderou o ranking nacional da chuva - CentroTV"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2hHU202Q3duQzBOVzQzVUJQZHpZeUFiTzZPazdiZUFxWVNfaUdaV3IzN0RocFdaNFNYRVNzcXRmcGNwTnE2Y192NVBQVDQwMThZN1ExV3BnenVpZDRJeHpPTFgyMHY3a1VUMURjcEJHLVV1QzZ3dHRIVEtJbFl6amE0RkZyOVJVSVNpVXUyaUtuMEx6azFra2VyMWhxa2thM3B5TzdDUkJrSW92VGlZZ9IBtgFBVV95cUxObGhZSnhtYmVvUzcwRE9POUh6eHo1SXFrd2FkY2pJQzRUOTBoN2VOdWNqNTR3ejBrdmdGVldkWWkwcGZPZWZMSFYtWVNTYm5NMjlmb3ljaVNNZWJ1NW1YcENLb19pVTh3elRUQ1NWWnhqdUU4dHEzWVlRM1RubzVsbkt0WG1wUk1rbTZaN1p6Sjg5WEcyMTRkNlpkcVZEbzBZZmk5OW9GdXBFcFBvTi1FUlRKLTQwdw?oc=5",
+          "title": "Gouveiatel celebra três décadas de inovação e proximidade em Oliveira do Hospital - Rádio Boa Nova - - Rádio Boa Nova - Oliveira do Hospital"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "IVA zero",
+      "nl": "btw-tarief van nul procent",
+      "example": "O Governo não vai criar uma lista de alimentos com IVA zero."
+    },
+    {
+      "pt": "o cabaz alimentar",
+      "nl": "het pakket basislevensmiddelen",
+      "example": "A oposição queria um cabaz alimentar sem IVA."
+    },
+    {
+      "pt": "a renda",
+      "nl": "de huur",
+      "example": "O benefício fiscal mantém-se para rendas até 2300 euros."
+    },
+    {
+      "pt": "o senhorio",
+      "nl": "de verhuurder",
+      "example": "Os senhorios mantêm o benefício no IRS."
+    },
+    {
+      "pt": "o médico de família",
+      "nl": "de huisarts",
+      "example": "O interior pode perder médicos de família."
+    },
+    {
+      "pt": "o estado de calamidade",
+      "nl": "de officiële rampentoestand",
+      "example": "Os apoios chegam a todos os municípios, com ou sem estado de calamidade."
+    }
+  ]
+}
