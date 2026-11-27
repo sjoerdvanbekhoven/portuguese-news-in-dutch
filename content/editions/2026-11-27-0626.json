@@ -1,0 +1,330 @@
+{
+  "id": "2026-11-27-0626",
+  "generatedAt": "2026-11-27T06:26:50.974Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 238,
+  "intro": "Het conflict tussen de regering-Montenegro en het parlement over de begroting voor 2027 blijft het nieuws domineren: de premier stapt niet naar het Constitutioneel Hof, maar Chega dreigt de eindtekst van de begroting te blokkeren. Daarnaast twijfels over een nieuwe belastingvrijstelling bij de verkoop van tweede woningen, een opvallend cijfer over rechtszaken tegen de migratiedienst AIMA en een waarschuwing voor nepwebsites die brandhout verkopen. Uit de buurt: Tábua plant aardbeibomen, Oliveira do Hospital start met gft-containers en Arganil digitaliseert bouwaanvragen.",
+  "articles": [
+    {
+      "title": "Begrotingsruzie: Montenegro stapt niet naar Constitutioneel Hof, Chega dreigt eindtekst te blokkeren",
+      "category": "Politiek",
+      "lead": "Een dag na zijn weigering om enkele door de oppositie aangenomen begrotingsmaatregelen uit te voeren, zegt premier Luís Montenegro dat hij níet naar het Constitutioneel Hof gaat en rekent hij op goedkeuring door president Seguro. Chega reageert met een ultimatum.",
+      "body": [
+        "Dit is een nieuwe ontwikkeling in het verhaal uit de vorige editie. Montenegro verklaarde donderdagavond in Brussel, aan de rand van de EU-top, dat de regering 'geen enkele intentie' heeft om naar het Constitutioneel Hof (Tribunal Constitucional, TC) te stappen. Volgens hem biedt eerdere rechtspraak van het Hof juist steun aan zijn standpunt; hij verwijst naar drie uitspraken waarin de regeringen van Cavaco Silva, Sócrates en Costa gelijk kregen tegenover het parlement. Ook zei hij dat het 'in deze fase echt niet mogelijk' is om de begroting nog inhoudelijk te wijzigen.",
+        "Het gaat om maatregelen die PS en Chega samen in de begroting stemden, waaronder 0 procent btw (IVA) op een aantal levensmiddelen en een wijziging van de belastingvoordelen voor gematigde huren. Minister Carlos Abreu Amorim noemde het voorstel voor btw-vrije levensmiddelen 'ongrondwettig' en verweet de PS slordigheid bij het opstellen ervan.",
+        "Montenegro zegt te verwachten dat president António José Seguro de begroting ondertekent. Zelfs als Seguro het Hof om een voorafgaande toetsing vraagt, verwacht de premier niet dat het land in 2027 met 'duodécimos' moet werken – een noodregeling waarbij de overheid maandelijks een twaalfde van het vorige budget mag uitgeven.",
+        "Chega-leider André Ventura dreigt tegen de eindtekst (redação final) van de begroting te stemmen als daarin geen lijst staat van producten met btw-tarief nul, en daagt de regering uit een vertrouwensmotie (moção de confiança) in te dienen. PS-leider José Luís Carneiro probeerde de gemoederen te bedaren; de PS wil geen politieke crisis, maar zegt dat de regering niet 'buiten de wet' kan opereren. PS-kopstuk Pedro Nuno Santos verwijt Montenegro het parlement te vernederen. Op verzoek van Livre riep parlementsvoorzitter Aguiar-Branco de fractieleiders bijeen voor een spoedoverleg.",
+        "President Seguro roept parlement en regering op hun 'interpretatieverschillen' samen op te lossen. Minister Paulo Rangel zei dat er 'politieke gesprekken' tussen Chega en PS zijn geweest; PCP-leider Paulo Raimundo beschuldigt Montenegro ervan een kunstmatig conflict te creëren om de aandacht af te leiden."
+      ],
+      "context": "Montenegro (PSD) leidt een minderheidsregering en is afhankelijk van steun van PS (centrum-links) of Chega (radicaal-rechts) om wetten erdoor te krijgen. De president kan een wet ondertekenen, terugsturen of ter toetsing voorleggen aan het Constitutioneel Hof.",
+      "slug": "begrotingsruzie-montenegro-stapt-niet-naar-constitutioneel-h",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/26/montenegro-sem-duvidas-constitucionais-sobre-oe-recusa-alteracoes-e-passa-bola-a-seguro/",
+          "title": "Montenegro sem “dúvidas constitucionais” sobre OE, recusa alterações e passa bola a Seguro"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3091012/oe2027-governo-nao-vai-recorrer-ao-tc-e-acredita-que-tem-respaldo-juridico-montenegro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "OE2027: Governo \"não tem nenhuma intenção de recorrer ao TC\", diz PM"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/economia/3091006/oe2027-montenegro-espera-promulgacao-de-seguro-e-afasta-duodecimos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "OE2027: Montenegro espera promulgação de Seguro e afasta duodécimos"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/especiais/decisoes-anteriores-do-constitucional-dao-razao-a-montenegro-na-guerra-com-a-ar-11-perguntas-e-respostas/",
+          "title": "Decisões do TC dão mesmo razão ao Governo na guerra com AR?"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2483/",
+          "title": "00h. Ministro: proposta do IVA zero é \"inconstitucional\""
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/26/governo-vs-parlamento-que-poderes-tem-seguro/",
+          "title": "Governo vs. Parlamento: que poderes tem Seguro?"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3090956/da-esquerda-a-direita-partidos-reagem-ao-travao-de-montenegro-no-oe2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Da Esquerda à Direita. Partidos reagem ao travão de Montenegro no OE2027"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDVwSjUwbHB6NkJuMUN6ZE13allWUE4xZ0lBZWk3SU5EeFNWWUFKNG1QeVJFbXllUWNYZTRLX0tFbzlPUlFMc290MFpCSDZpYl92UElETENldk5zWkViMm5GRnpqRkU1UEk2empRcFJGZGwwTkU5Tm1jMENWYkNHcHo2YW9aalZvdHhKNDFmbG50cGlEdnpXUFk4NXFKUjd4V0RrNk9JaTYtemdwRDlQN0dtSjEwWW5PRkJ6ZHVOVDBhOFE?oc=5",
+          "title": "Chega desafia Governo a apresentar moção de confiança - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFJ3LUIwaWJPYzVuT0J4aUFvYXFpY1d3dGRnc3p6ZEN1UXVVSFE0akdCWVNMQUtrRHJlQVFMSjlOQkt0SzVwSjlxVWY5bDJmS3gzUmNCS0xXczZaWnJwQTlPZkZjbXFQdXJfcm9OdGVBMmx0ODZlZGVGMzhBdkRCejBMTlVEMF9oeGNNUVJPY2lGM2hDZnc?oc=5",
+          "title": "Ventura desafia Montenegro a apresentar uma moção de confiança - Diário de Notícias"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/26/mocao-de-confianca-detalhes-regimentais-e-constitucional-o-conflito-institucional-em-tres-takes/",
+          "title": "Moção de confiança, detalhes regimentais e Constitucional: o conflito institucional em três ‘takes’"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRlJDcl9WMUdwMDRZMjhOMVYzcUtEOUttNG90Y3M3SzNfWTdweHNQa0puUl9vY0JDXzBDODA3VWtfeVBqcEdqX1dMZFFwVVc0dDdLRVA4OEczYm5CSnpLWGhuV0tqcXRYemQydjAxajA4R0g0WDN2cTJCTU1IeThiNkVmSmZBdURDTWVyb2N4ekFLYzNROUR2NjczOF9sb3VjOHlxQi1ocUoxcVRab014cElhOTI0QktNZ3h5M295eG5WbTg5TnF0QUUwTmNrQ0V6YW9vRE10bUM?oc=5",
+          "title": "Pedro Nuno Santos acusa Montenegro de \"jogar poker com o país\" e \"humilhar o Parlamento\" - SIC Notícias"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTENJTFktSDQ5VVZaOW9RR254LVMzXzRZRFUyS3VoYU9jUmVERHNEdnU3eFNySno4VXotMU13X1Yzc0FOajZxVW4wZEcyc3MzMl9UTmxmS3FFX1dnZ2lUemZUNkszTTBaWHU4TGlud1dpZnFpdjM5TS1HSHZoT29ra1dZTlJ0ZmN5eDRrWGwtYmh0YTZ5alRMakJ6cjhCaDlOdHJBanJZbXlhd1IzWWdVN2pqTjNEaFp3b2NWMzRQSDR4Z0p1VWliOEpmam5OQlVINFE5YWhFQQ?oc=5",
+          "title": "Livre pede reunião urgente e que Aguiar-Branco defenda o Parlamento perante declarações de Montenegro - Público"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2xnaGtQWGozLXcxN1pzeDFZdEdnTUZ4czFOc1Z0Y0h3ekJpa0ZYLTAzLXhTZWx1ajFqTGlIWkZuY2xTeldQZzdfV18zZjZZNzdxUm5FNlYwRjIzb0ROWWVWWGtpR1VvTmF2U2hvY1dOYlc5UG43Zm10RmpDNmJUZ3QwY1dRQjd3aGRUaDgtN012UlE4U0pySFNnaV9NRzBNVlNZZUNvQUw5S3dwNkxyTExZS3lDLW5EY3lRMEhQeVgxVmhvREVtRy0zcjPSAbwBQVVfeXFMTmpsUV9uN0J2M2w4b3N2bVphNmI0cWN6RWcyZVFKeGhsNXF6cE1WMVA1c0NHZEVQX2FBQ2pobDQ4bktQck96VFRCckF0Y0ZDMzM1a0dDRGFNaE5ac0xfTDVQc2Q1MHhyZXRSZlZvOGpyVHRUZmo1SkpURUJZQUxaTmJuNHA3TzhsWFBNLW9JdUswQ0NEWVlvTVluN3pLYVduRVNHXzZvdjc5UWxpOC1fMHhEc2xzQ01tU29EeUU?oc=5",
+          "title": "Seguro diz que Parlamento e Governo devem entender-se sobre \"divergências de interpretação\" - Jornal de Notícias"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTTZfOXNqSVpqdkNCX0FCV3RIV3RKRko0VS03QkE0UUVxem5Rd1lUcWxZSTVoM21uQ0hRWi1EcGdDTVFIeDgtNEhDMjJnSDZXMXJLdlRta3hwV3JNc2ppOHFPd3NNLVh4MzhnbFM5d2V0Sk9rcVQtcnRudmYyN3FvTTZ6M0JWN3BRdFRYV3RJS0s0TmowcWlxd245eHFfNDQ5MkFCalNjdS16cVdXWjBJd0hLbmVjaGZvdUQyTF9wdEpKZGZQU3Uyemc4YWRTcU1GTTZqRVZHS19BMktvcVlGbXpsWVdNMXEwVjNMc21XNHIxOThxQzZqSE0wR0lpb2lNanFkbF9ELW5rdGQyWjBjWS1GcDZydGl5WXlSbmd2NXJrdkpsOUVvbnk4cDBFMDc0ZWc?oc=5",
+          "title": "Paulo Rangel diz que houve \"conversas políticas\" entre Chega e PS e reitera que o Governo não vai ao Constitucional - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOXh4WHp6WmNFeVF6LV81ZW43ZEhwZ1lsdmJfdlk0YWhReGtOTDdFX0d1OTBEN0doUU9iT3EtTmFZREhVak1EYWR0S0pEMEJ6UThibm5ZR0FsSVBWZjFmVkNXMWlnWEJrV0xaOGZqX09yU3JQellNQW1kYVB6T3hmaEQwanV3Qkg5dXJ6V1VTQ25TQ25ISlpUYklFYXBHYkNSR291NVl6VjMxcExYQ3k5OUNMbFlIWUdOSk0wcEl5MUNTUnV0ZEFtdnBEN2ladGY5YlItQTJ6RjNXYmFaNFFNdUFIUFoxdVlxNl9ZZFQwZ3YyeTF5RGp0ZGlhQzBETzZTamRNMXpZc2lpVEpxOFE?oc=5",
+          "title": "Paulo Raimundo acusa Montenegro de criar conflito artificial para desviar atenções e critica Seguro - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Nieuwe belastingvrijstelling bij verkoop tweede woning mogelijk ongrondwettig",
+      "category": "Economie",
+      "lead": "Fiscalisten en de beroepsorde van boekhouders waarschuwen dat de nieuwe vrijstelling van inkomstenbelasting op de winst bij verkoop van een tweede woning juridisch wankel is.",
+      "body": [
+        "De nieuwe regeling stelt de verkoopwinst (mais-valias) van tweede woningen vrij van inkomstenbelasting (IRS). Volgens door ECO geraadpleegde fiscalisten kan dat in strijd zijn met het grondwettelijke beginsel dat belasting naar draagkracht wordt geheven.",
+        "Het knelpunt: of de verkoper de vrijstelling krijgt, hangt af van wat de koper later doet. In bepaalde gevallen kan de koper aansprakelijk worden gesteld voor belasting over een winst die hij zelf niet heeft gemaakt.",
+        "De orde van gecertificeerde boekhouders (OCC) noemt de vrijstelling een 'absolute val' vanwege het risico op rechtszaken. Ook verhuurders en huurders uiten kritiek op de nieuwe regels rond huur."
+      ],
+      "context": "Voor wie in Portugal een huis koopt of verkoopt is dit relevant: de voorwaarden van zo'n vrijstelling kunnen ook kopers raken. Laat bij een aan- of verkoop een boekhouder (contabilista) meekijken.",
+      "slug": "nieuwe-belastingvrijstelling-bij-verkoop-tweede-woning-mogel",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/26/nova-isencao-de-irs-sobre-mais-valias-da-venda-de-segundas-casas-arrisca-ser-inconstitucional/",
+          "title": "Nova isenção de IRS sobre mais-valias da venda de segundas casas arrisca ser inconstitucional"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZzN6Y0ZrREtMZG5QWll3XzR4azZBQUNwRF84amRTMF93ZU9fN2x3Y0F1REs2MV9aUW9ON2JDalI5aF96anV1aDRLZy12UWJsbldfamtFajhQRk9DalUzOVdRa09oRVZRZk5UVTQ0THAyQjE5dThLM0VPd2dSbDFiejQxS3NtUmVVcHp0N0pEMTFrTVhFWFdKQ25MR05aeEt2OEJBVXJaRkhlNUIwNjhUSg?oc=5",
+          "title": "Isenção de mais-valias é uma “ratoeira absoluta” pelo risco de litigância, diz OCC - ECO"
+        }
+      ]
+    },
+    {
+      "title": "Rechters stellen immigranten meestal in het gelijk tegen migratiedienst AIMA",
+      "category": "Samenleving",
+      "lead": "Bijna 80 procent van de rechtszaken tegen de migratiedienst AIMA eindigt in het voordeel van de immigrant.",
+      "body": [
+        "Het gaat om kort gedingen (providências cautelares) en bestuursrechtelijke procedures tegen het agentschap. Sinds begin 2025 zijn er zo'n 21.000 zaken tegen AIMA aangespannen.",
+        "Veel van deze zaken worden gevoerd door mensen die lang wachten op een afspraak of een beslissing over hun verblijfsvergunning."
+      ],
+      "context": "AIMA (Agência para a Integração, Migrações e Asilo) is sinds 2023 de opvolger van de vreemdelingendienst SEF en behandelt onder meer verblijfsvergunningen voor niet-EU-burgers. EU-burgers zoals Nederlanders regelen hun registratie bij de gemeente (Câmara Municipal), maar krijgen soms ook met AIMA te maken.",
+      "slug": "rechters-stellen-immigranten-meestal-in-het-gelijk-tegen-mig",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/27/tribunais-impedem-centenas-de-ordens-de-expulsao-de-imigrantes-emitidas-pela-aima/",
+          "title": "Tribunais favorecem imigrantes em processos contra a AIMA"
+        }
+      ]
+    },
+    {
+      "title": "Montenegro: Europees begrotingsvoorstel van Costa 'nog niet voldoende'",
+      "category": "Internationaal",
+      "lead": "Portugal stemt nog niet in met het voorstel voor de nieuwe meerjarenbegroting van de EU en wil garanties voor het cohesiebeleid.",
+      "body": [
+        "Premier Montenegro zei op de EU-top in Brussel dat het voorstel van Europees Raadsvoorzitter António Costa 'nog niet voldoende' is en daarom niet op Portugese instemming kan rekenen. Volgens hem moet eerst zeker zijn dat het cohesiebeleid – de geldstroom naar armere regio's – niet in de knel komt. Portugal zal 'voor elke euro vechten' waar het recht op heeft.",
+        "Ook andere leiders zijn kritisch. De Duitse bondskanselier Merz zegt dat het voorstel geen basis is voor een akkoord, de Italiaanse premier Meloni wil een vermindering van middelen tegenhouden en de Franse president Macron spreekt van een 'strategische fout' door de bezuinigingen."
+      ],
+      "context": "Europese cohesie- en landbouwgelden zijn voor het Portugese binnenland belangrijk: ze financieren onder meer plattelandsontwikkeling, infrastructuur en steun aan boeren. António Costa is oud-premier van Portugal.",
+      "slug": "montenegro-europees-begrotingsvoorstel-van-costa-nog-niet-vo",
+      "sources": [
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/mundo/3091005/uecimeira-proposta-de-costa-para-orcamento-comunitario-ainda-nao-e-suficiente-pm-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Proposta de Costa para orçamento comunitário \"ainda não é suficiente\""
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPekM0cDBqZFBBUEtjRlZxSFdUenZnUGtTN0k0elpMRTBKTkdiYVRqZEd1ZUtyRmJpQXNnMnVTRzB5R1BUZkpFcnFpRHViZV9XT3BrTnJiOGZhV0loMEJ1VmRxQUMwcFNHZ04yOHpZa3pUQWNDOWNtNmtQR3dfbHJPOXNrUXZpcHh6Yy1oVUdlTTVSaVhPZXB5RENiQlJlRTFUVTZwdUo4dkVhR0RUVlBiT3RzcFVaRFpPeV9tT2h6YUFKdXNaVjFSajQtZFJINEZGdFR1Sk00bUNMdmRKeDloVGRPMVpaMVJZZmZFdUhMSklJQV9LdF9kSGxta3Bzdw?oc=5",
+          "title": "Montenegro critica proposta de Costa para o Orçamento europeu: \"Ainda não é suficiente\" - CNN Portugal"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb2RwREZsaDlqckdFckhpa0xpdS1IbVpaRFQ2cEtRT0huUGVscGVjZmhMUWkyV2tnV1lLTktZZ2t3c2VvSWpQWWJlT2lRMHBHWElFWFhRR0puY1ZtNERmY1NGM0d4YWdhaVE0Y3djUGNzeDVWbmJ2V3RZcEdER1RLTi1QdEtpeDhTQ1h6M3kzV1ZOZURHTUFySWdQVFFHcmJsd0Q0MFctb25PRHVQUllSTGlKVmw1bDExS1NBZDRoVjhqRXZ6ZGUzZm5xaklva3JjenZYbnJHNDd6bW11cW5haDBZWVJvb0N1ZkJtbmp0dHQ3dw?oc=5",
+          "title": "Orçamento da UE gera críticas. Merz avisa que proposta de Costa não serve de base para acordo e Meloni quer travar redução de recursos - Diário de Notícias"
+        }
+      ]
+    },
+    {
+      "title": "Verzekeraars: Portugal niet klaar voor volgende zware storm; aarde zes dagen 2 graden te warm",
+      "category": "Klimaat & Natuur",
+      "lead": "Storm Kristin heeft laten zien dat Portugal slecht voorbereid is op extreem weer, concludeerde een klimaatcongres van verzekeraar Fidelidade.",
+      "body": [
+        "Op het eerste jaarlijkse colloquium van het ICCC (Impact Center for Climate Change), georganiseerd door verzekeraar Fidelidade, was de boodschap dat verzekeringen, bouw en preventie het land beter moeten voorbereiden. Als een storm als Kristin via Lissabon het land was binnengekomen, zou de schade volgens de deelnemers vijf keer zo groot zijn geweest als in de regio Marinha Grande.",
+        "Wereldwijd werden zes dagen op rij temperaturen gemeten die 2 graden boven het pre-industriële niveau lagen. Volgens deskundigen is dat nog maar 'een voorproefje van wat er kan komen'."
+      ],
+      "context": "Storm Kristin trof eerder dit jaar vooral de regio Leiria/Marinha Grande hard. Voor wie een quinta in een bosrijke omgeving heeft, zijn stormschade, verzekering en klimaatbestendig bouwen concrete onderwerpen.",
+      "slug": "verzekeraars-portugal-niet-klaar-voor-volgende-zware-storm-a",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/26/iccc-seguros-construcao-e-prevencao-precisam-de-preparar-portugal-para-a-proxima-tempestade/",
+          "title": "ICCC: Seguros, construção e prevenção precisam de preparar Portugal para a próxima tempestade"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQU3FSTXZvU2swcTZvUWxTRlM2ZzJ2eXI3MTRTaC04amoxNzdGS3JyZEx2WlI0TFNuck5iVUZKOTZFQ0lYY2F0Mm1zVkhxVUNKaUhqUnhRM1N6RDdYcFBVWVdsTjNyVHFjakpVSEZlb2Q0NGlBWWVxb19oZ1FBYUNRMDNHUkMwMllXN0ZRUTdFRXUzOWZ1RXloeHdFTGZxcTNzcERYNU5CVzdKRk91TzUxbG1RcGhTTVhaSk5HZDVOMzhQZ0VFUnpTSkFBN0FCZ0lZQURFbm1NYU84eEZFdzE2R2RFMTd3Nm5uMVVzR3RMT0lsTHNHOFFQTjNGdWsxSy1TckZkSWN2alFxRHVLSG9rMDktQ1Zick1pSlI0VURsQVVEMF9aZTlRclJzckFQM1VBUXlRSWEyNnhkOFRJUzRJNlhVcXhzYlNTVV9JVnU0M1Fld294NFltNVdfakdVZw?oc=5",
+          "title": "Planeta registou seis dias seguidos com temperaturas 2º C acima dos níveis pré-industriais e ainda só estamos a ver \"uma amostra do que pode estar para vir\" - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Justitie waarschuwt voor nepwebsites die brandhout verkopen",
+      "category": "Samenleving",
+      "lead": "Het Openbaar Ministerie waarschuwt voor valse websites die brandhout en andere verwarmingsproducten aanbieden.",
+      "body": [
+        "Het Openbaar Ministerie (Ministério Público) wijst op nepwebpagina's waarop brandhout (lenha) en andere producten voor verwarming te koop worden aangeboden. Wie daar bestelt, loopt het risico te betalen zonder iets te ontvangen.",
+        "Ook de politie (PSP) waarschuwt rond Black Friday voor oplichting bij online aankopen."
+      ],
+      "context": "Met de winter in aantocht kopen veel mensen in het binnenland hout voor de kachel. Lokaal kopen bij een bekende leverancier verkleint het risico.",
+      "slug": "justitie-waarschuwt-voor-nepwebsites-die-brandhout-verkopen",
+      "sources": [
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdlZXamJhVUNDYVQyNVJ3bmZBdEdOczZxU1l2Y2I0UEFwTDdkYUZmdjY0QWdBdUZ6aU9aWk4wbWFrWGstN3NkOGtrd1Q0anZMT2lfN042TU53Y1ZXVWwtMjZyeGY5YXZtOVU1Nm53THdDNGMybGg1RG5EQlhVRHRFSVJkaXFCbGRFMWJNM0Y1MHk3SFlLY2tqY1BBcDlidDJaTkp2clowYS1UbUhJcXUycTEzQjFON2FUUHVTZEhNYWpWbnhmWks2cFRHSm8zLUdT?oc=5",
+          "title": "MP alerta para páginas falsas na Internet para venda de lenha e outros produtos de aquecimento - Diário de Coimbra"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWtYV09xaXpaWThrNTZSaGJrN2tWUVpyMnd2NGdYUXVqeU1jbmNxa1NPMVpGZDVxaEsyMkhpaFdScmFzYzEyamlnZEpHX2NZUHI4b1FfRzVDUWYyVGdobjNMT1lSWWlOZWNmQno5WmprZ2tkeWpFclJReDJqUDNMVGw4NzFIZUFoTmpGRXd1VGFQVVVpTkVveVN0Z2g0UFhvVHA5Vjc5VmZVUXJf0gGeAUFVX3lxTE44MFlrTkU5VEE0OWg3VjQ5U1A0ZlBkUC01RGV2VkdHMmw3NkdXOUdxdWpuc2FXem9TU2k0cDNWQnh4cXhYLXhqNjdaVzVTVHpyNG1HdnBnS3pKYkE0bnNyRUx0bktsVDk4d1FBTzIxeVlZOWt2azlmZThSMDF4T2U2X2dhbl84Y3U0SVBXWjFvYjV1RTM5amYyNmQyeXhB?oc=5",
+          "title": "PSP alerta para esquemas fraudulentos associados às compras online - Jornal de Notícias"
+        }
+      ]
+    },
+    {
+      "title": "Oliveira do Hospital start proef met containers voor etensresten",
+      "category": "Regio",
+      "lead": "De gemeente Oliveira do Hospital, op zo'n 15 à 20 kilometer van Meda de Mouros, heeft de eerste buurtcontainers geplaatst voor het gescheiden inzamelen van voedselresten.",
+      "body": [
+        "Het gaat om een proefproject voor de gescheiden inzameling van organisch keukenafval (biorresíduos alimentares) via containers dicht bij de woning. Inmiddels zijn de eerste containers geplaatst.",
+        "Daarnaast lanceerde de gemeente het programma 'mOHve-te Sénior', waarmee samen met 14 instellingen sport en beweging naar ouderen in verzorgingshuizen en dagcentra wordt gebracht."
+      ],
+      "context": "Sinds 2024 moeten Portugese gemeenten bioafval gescheiden inzamelen. Wie op een quinta composteert, doet dat al zelf, maar de proef laat zien hoe gemeenten in de regio dit aanpakken.",
+      "slug": "oliveira-do-hospital-start-proef-met-containers-voor-etensre",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONkRIYWlrX2xLR0FJY1hFQzZVY0dKWXdnWkxkUlRneVFoUkRjLWdZaFFyRHpVNElRazR5YzlzQnN3TVEzcVpmMHY2LW5SQjlYcFFDWklfQXJQRXc4VWM3bU91SU9WeVBjUkloTGE3b3BGcWFqNWZoZGxQa2VBbHRDSHhHaS04WkFsOHRKNU1ONm9RWmpFeExEOHNhRnd4bFF6bDhqZnZucHI0am96OGZkZ0FZZnhMTWdNT1JoMUd5MHJKbjJfMDlQb3FCMGUzUGpJNkhnY1lBSUFqTTA3a25FcWp5SlJqS0ZoQmZReklxaWlTc3Ry?oc=5",
+          "title": "Oliveira do Hospital avança com projeto-piloto de recolha seletiva de biorresíduos alimentares em contentores de proximidade - Câmara Municipal de Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFY2YVBnZFlMWHRWSEs3SGZsN2dMU3UxXy0tWE4zS214WTV5TUJVVnJ4UGI3TW9yVHFwWlI4Z3gtNzYtcnNNZzhpYzI4bmd4LU9GVnI4em9tQl95SUNQN2lXaWtlVHVkYnNfb3FHaVJwLVVWODc5OHJKLUVSVnFwbC1nSWcwYVlKVGZmcHRpeE9qamlaRTQxZVBiaXBuWHRxYm9Gd2NoR19mcXRLQnFXU2piWFRrdERpM00zSmltTUtDakXSAcgBQVVfeXFMTm9FSUV5emduNGdoUXZJYlRvUHItQUg3Qm1kVjFLeFNweEFzZ0JIM3dnWUNMOTE1TUZPc1dPcU1GcEQ0a2dza25QQ2Z4QXNJX2VMUE8xdjhrRE9fWi15YzY4VTJyS2Y5M0ZqZjdUd3I4eWtiWFFqNGQ2b21aWW5aTVV3ZG1nVHVEU09HRTJwdUpaa3p2LVBVd2liUGt3ZmttcC1uVEFHVmRMaUlNM0tVdVY1NTM0ZDNaNzlBbUlYa1dKMFVXajJSRjU?oc=5",
+          "title": "Oliveira do Hospital instalou primeiros contentores para recolha de biorresíduos alimentares - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGV1RFo1OHF0WDlpbTNPRHQ2eXZrbFJIZDA1UEFyaV81ZmVsTHZjZkd6VkZ2LWRSOW5uOENsYW43dVJ0OUlHekd6SVBZVklXQTExaGdiU2ZmTjhwb3pmS21uT29wRy1WT2tlYUpNNTJaSTQ5QXBTaU9ScjRJUFA1NnVIbVYwUzZvRHl5Uk1zSE1BUnBKY0FKUTRZOW5Fa2VQaWZ2blZVN25zYXhFLU1nd2NndXV3ZFZiTThUeUFJc0JQTzhP?oc=5",
+          "title": "Oliveira do Hospital instala novos contentores para separar resíduos alimentares - Notícias ao Minuto"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT19kRTFKTEtDdHRYalNiOXJoLVgxMGlodDJQX01yWjVWUFpVXzQ3bGFxbzJKdjRDaXZVRUp6YzVKMWFsMnZEbXNtMnR3MG51cEljaFItNEtzWU5qSjNEaDg2bVRMM2dGVHFaUzZraHp6X1c3ZmZPU1hKOERGY0ppTWFaczVVM3F4M0tvRWhHZmNoaC12WVZIMXJnRV9jMnJscUp4a3FXYXk1ZTRtazJXNWVFdXB4aWJ0QS1laFcxdWZCeGFKaVZpNjg1b3M?oc=5",
+          "title": "Novos contentores para recolha de resíduos alimentares chegam a Oliveira do Hospital - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3V4c1ZYYms5V2I1WDN0MF9xYnhOOW5PN1pjajBfVjBlcXFTMG5ZQWF2SU44Yjl6WDEyaFJsMm5VQ1pzeGRTRkRRRkNlbmZ5dUF3dzFRcTFuRjk4MUNLUGtoR1o0VEVlWmZhLWZXYkg0RXY0N2FmS2M4YW5VWVVtQ3JySENFUlRKd2RIV3dDZjg0SGhzUGdQdzJGaGk5enlPT3ZwWTFtYndpS0lDTUpSUl9ELUdsVFk3ckJMZnRn0gHDAUFVX3lxTFBETUd6c0xCZEJuT2NqbjRBc05Uak50eUFZbzJ4RHJoYWJLbHU0ZlR6Mko4UHExT2Vfc3ZFSENkNDZ2VWMya0NBaGNuTUpfbWxZM0lLS0ZjQWdKYkdxTXdLS1U4eUtZVlNKUUtwV3ZHMDhZZktfQ2lRQTh4SG9BN2lLQWo0cXFTSWVyLXpxdWl0RWw4dnlHYlVNWTZGNjNSY1dNOXBBYmt3ZEhSOVlIdC03NHFaUUpDNFY0RWRBUG8wMTNlbw?oc=5",
+          "title": "Oliveira do Hospital reforça recolha seletiva de biorresíduos alimentares com novos contentores - Folha do Centro"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeThQeHg4d2JrdXZoVE5HUlFDVHlKanNVeDlvWWU4d1JldFREeE5YYkdLT0JQS1JZZmExUTVBaTRJYWVyMWR2NlFEUWViWDZuLXVYaEZ1YnphSWJVamtWa0pNZWV0Q0hILVE4dVM4dEZ5NS0zbW9DLUcwYml6RTZkQ01zRXk2Z01Wa2p6QXlKZi1tcUNuekNPWXgwWE1zZEFxVG9rMWhRQVBkRnI4RHFrblo5WUluV3ItR0FFWQ?oc=5",
+          "title": "Novo programa leva desporto a idosos de lares e centros de dia em Oliveira do Hospital - Notícias de Coimbra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZHdndWxtc0d1aHBCTkFhWGRETm9YN3ozUGJ2NUZRQkFRdlZpM3M0Y1cxVTE2aDAxdDhkNmY1cjZaTnNFSXY0UXV2YTQza2szYUo0bmViRjV1VldXaV82emJSRkpHRW81UDFnTWV3UncxUEJLZGV0RFU2SzA5R1o0d3A5YVVDWXplQnEtQWh2NVNTMU85Y3k4TDhmM2REWXd1UF85RHNCVjFoN2dsRDEwY2xrLVE5cGJ2NnFfY0lNcXcyYzJHNWVEQ09n0gGeA0FVX3lxTFBaTUxqSm5sUE1OdUp5ZHJ6NWFqdHZtcjE5dDFnVi1fbFVHdE1sZnZEN1ZmdW5LbmZad3IyZlBZMjN4VGhpY21nRzdpb1V6S09scm0zWHNBUTBmc0o5bllwb1dKY0l6WTNoMkw1Tk1rdUV6N1dRbEpIdVotUDlvem9ldEo1T3k0ZDlPTklaNDFobjBISFlrU2lMdnlZSVZ2dGVlMlcxX2lLM0M5OUZwVHl0UlVaSjJ5ejViMDRmUVFXN21UczFtb2VKQ3ZnMW4tNTdYYmQ2SUlaTkRHOEl2dDdKTEt3OVI0U0xEZEFpUmhUaF92eDE5RmpGWGxiMV93TnQ5a0hqS3g4YjdNRTMtWU5uZmFiVXRlQ1ZSejE4cFdFSEMyUUV6WllIQk9LQU5iU3V5RzRWUFlGalRoR0REMlhRZ3VGSHJJMHNkb2VjbHBZdHhZeUw5b3p4SHBsRXpaeDYtNmEybFh5WDFRMkpUVl9ha2Zmd3VERmxmdUtkWWY1Y2xzTDJfX21xa2ZqenNObzNJTE1pVjdtZVlnVFB0UQ?oc=5",
+          "title": "Município de Oliveira do Hospital lança programa “mOHve-te Sénior” junto de 14 entidades do concelho - Rádio - Rádio Boa Nova - Oliveira do Hospital"
+        }
+      ]
+    },
+    {
+      "title": "Tábua plant ruim 600 aardbeibomen; Arganil zet bouwaanvragen online",
+      "category": "Regio",
+      "lead": "In de eigen gemeente Tábua zijn meer dan 600 medronheiros geplant, terwijl buurgemeente Arganil een digitaal loket voor bouw- en ruimtelijke procedures opent.",
+      "body": [
+        "In de gemeente Tábua, waartoe Meda de Mouros behoort, zijn meer dan 600 aardbeibomen (medronheiros) geplant, meldt de Correio da Beira Serra. Verdere details staan niet in de bron.",
+        "Arganil, zo'n 15 kilometer van Meda de Mouros, heeft een online platform gelanceerd voor stedenbouwkundige procedures (urbanismo), zoals aanvragen rond bouwen en verbouwen.",
+        "Ook bezocht de staatssecretaris van Energie Arganil om te herdenken dat de gemeente honderd jaar elektriciteit heeft."
+      ],
+      "context": "De medronheiro (Arbutus unedo) is een inheemse, relatief brandbestendige boom die goed past in de Serra do Açor; van de vruchten wordt de bekende medronho-brandewijn gestookt. Voor bouw- en verbouwplannen op een quinta moet je langs de afdeling urbanismo van de Câmara Municipal.",
+      "slug": "tabua-plant-ruim-600-aardbeibomen-arganil-zet-bouwaanvragen-",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVW1NbUxvUmZfeW1STVJva3R3VG1TVnpmUU5PZ2pxamhFamhiQTVQNXRLU1Y5aWNUYVlaR1BuWTV0TzhobktpUmFKN0U5NGpMd3JteWNDaXVFX1lyQ0NvZXliUTlFM2Fmd3dnREh2WUwtUmlVVGljSTZFeW5JUHkyTWVSdlRqNTJ0WUg4cEs5RU1sQmRlcGtr0gGXAUFVX3lxTE9VbU1tTG9SZl95bVJNUm9rdHdUbVNWemZRTk9nanFqaEVqaGJBNVA1dEtTVjlpY1RhWVpHUG5ZNXRPOGhuS2lSYUo3RTk0akx3cm15Y0NpdUVfWXJDQ29leWJROUUzYWZ3d2dESHZZTC1SaVVUaWNJNkV5bklQeTJNZVJ2VGo1MnRZSDhwSzlFTWxCZGVwa2s?oc=5",
+          "title": "Mais de 600 medronheiros plantados no concelho de Tábua - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlBhbm8zSHFGQmc2S3NTa0RHSTdjdnh5Zk5jaG9zWW9IN2JqSDZ1WGkwWGlLLUNJQ08xOWY5MWs0ZVlLdnlMbk40ejA3cS13NDFJc2RvaUp6NVg2cFFIVGxGbHBCZ3Z6el9XVlJsWWhYckpvQ1FPbWlUWVgySVdaM1BsVlUxMnlMaVpOZm5WdHIwNEdEa0lIejNEX3MtWWt5Z3dMUG1jZWhFd9IBqgFBVV95cUxQWlBhbm8zSHFGQmc2S3NTa0RHSTdjdnh5Zk5jaG9zWW9IN2JqSDZ1WGkwWGlLLUNJQ08xOWY5MWs0ZVlLdnlMbk40ejA3cS13NDFJc2RvaUp6NVg2cFFIVGxGbHBCZ3Z6el9XVlJsWWhYckpvQ1FPbWlUWVgySVdaM1BsVlUxMnlMaVpOZm5WdHIwNEdEa0lIejNEX3MtWWt5Z3dMUG1jZWhFdw?oc=5",
+          "title": "Município de Arganil lança plataforma online para processos de urbanismo - Rádio Boa Nova - Oliveira do - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGpLNjFhUXNIVThEcnhHNFlCSUNYemU3UDNiUHRlamVOTDdIb1lHaGtIeHNCcG1TdVktZVk2c1NsUm5KNW9La3hDSkdQbmJnbnZ3bERQUTFJOFE3VGlXc0FFb2F3SlRtSkxlTTBBV3FoV3ZZYWhaaUNBUWFOM2NDSkJMVFBfRzN2RFBDcGlMM2NhT29PMUY1NXYyZFpBN3pVcHphZGFXUHRsV0hUcGdpVWZzQjJlZnhkbVBqOQ?oc=5",
+          "title": "Município de Arganil lança plataforma online para processos de urbanismo - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZC1lTEdHMGtsR2VWcmROYVp1cWdSUTNMNlFmR2dfX01Gck5pZVJpVEpEckYwTzl4Q3hmMW1vVUExdFVzdHF3V2pTVFRrTlNFb2xhNGowcjY3WEw0X1JkYlREa042MExoWEVrekhkcWVGQmhLUUtXUW9oZ01UX3BMQjVYaHpWLTlGZE9qYVI0clBrQjJfUV9jMjJ4UVNVcnQwOURkaGZON3lNMUEtV3BBV3Nn0gG3AUFVX3lxTE16MUNPZWY2MTJia2dzaGxKQ3QwNjdRZlk4OGpMNVMtNUwwcGZoWHlqdmY5MnRqZ2E1TzBJWjA2TU5WUTR4OTVGWnBpX1VpR3otZklNTFZXUVFwUWJQbnB1ZThEMlNiQkdhbkFYeS1qTG5sV09nR00xZDdkLUZLOUZ4VnNEcFYxVjdMVXhQcFdUMnNDdTkzSjc4cEFnY2c0QlM3TjhMalVOX213anU1b3E4cGU4ZkVRQQ?oc=5",
+          "title": "Secretário de Estado da Energia em Arganil para assinalar 100 anos de eletricidade - Rádio Boa Nova - - Rádio Boa Nova - Oliveira do Hospital"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "a lenha",
+      "nl": "het brandhout",
+      "example": "O MP alerta para páginas falsas para venda de lenha."
+    },
+    {
+      "pt": "as mais-valias",
+      "nl": "de verkoopwinst (vermogenswinst)",
+      "example": "A nova isenção de IRS sobre mais-valias pode ser inconstitucional."
+    },
+    {
+      "pt": "a moção de confiança",
+      "nl": "de vertrouwensmotie",
+      "example": "O Chega desafia o Governo a apresentar uma moção de confiança."
+    },
+    {
+      "pt": "a redação final",
+      "nl": "de eindtekst (van een wet)",
+      "example": "O Chega ameaça votar contra a redação final do Orçamento."
+    },
+    {
+      "pt": "os biorresíduos",
+      "nl": "het gft-/bioafval",
+      "example": "Oliveira do Hospital instalou contentores para biorresíduos alimentares."
+    },
+    {
+      "pt": "a providência cautelar",
+      "nl": "het kort geding (voorlopige voorziening)",
+      "example": "Quase 80% das providências cautelares contra a AIMA favorecem os imigrantes."
+    }
+  ]
+}
