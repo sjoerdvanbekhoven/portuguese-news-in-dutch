@@ -1,0 +1,366 @@
+{
+  "id": "2026-11-28-0626",
+  "generatedAt": "2026-11-28T06:26:41.816Z",
+  "model": "claude-opus-5-5",
+  "itemCount": 236,
+  "intro": "De ruzie over de begroting voor 2027 sleept voort: Chega dient een eigen wet in voor btw-vrije basisproducten, terwijl premier Montenegro weigert zelf een lijst vast te stellen. Daarnaast dalen de brandstofprijzen volgende week minder hard dan mogelijk, wordt het droog en koud, en belooft de regering compensatie voor gemeenten rond de geplande stuwdam van Girabolhos.",
+  "articles": [
+    {
+      "title": "Begrotingscrisis: Chega dient eigen wet in voor btw-vrij voedselpakket",
+      "category": "Politiek",
+      "lead": "Omdat premier Montenegro weigert de in de begroting opgenomen 'IVA zero' uit te voeren, heeft Chega een wetsvoorstel ingediend dat hetzelfde pakket levensmiddelen als in 2023 vrijstelt van btw. Een nieuwe ontwikkeling in het conflict tussen parlement en regering.",
+      "body": [
+        "De oppositie heeft in de begroting voor 2027 een tijdelijke btw-vrijstelling op basisvoedsel (IVA zero) voor het eerste kwartaal opgenomen. Premier Luís Montenegro heeft echter duidelijk gemaakt dat hij geen lijst van vrijgestelde producten zal vaststellen. Volgens hem heeft het parlement niet de bevoegdheid om de regering een wetgevende opdracht op te leggen.",
+        "Chega diende vrijdag daarom een wetsvoorstel in dat de vrijstelling laat gelden voor hetzelfde voedselpakket (cabaz alimentar) dat in 2023 onder de regering-Costa gold. Op de lijst staat onder meer meloen, maar watermeloen niet. Ook de regionale partij JPP steunt het voorstel. De socialisten (PS) houden vol dat de regering zelf het pakket moet bepalen.",
+        "PS-leider José Luís Carneiro zei dat 'het land niet in chaos verkeert' en dat zijn partij geen enkel instrument zal steunen dat tot een politieke crisis leidt. Ook Chega-leider André Ventura zegt de crisis niet te willen verdiepen; hij betreurt dat de regering geen vertrouwensstemming heeft aangevraagd. President António José Seguro liet weten dat hij 'een oplossing zal vinden' voor de verschillen in interpretatie.",
+        "Ventura kondigde daarnaast aan dat Chega bij de grondwetsherziening wil vastleggen dat de pensioenleeftijd niet onbeperkt kan worden verhoogd, en dat iedereen na 40 jaar premiebetaling recht heeft op een volledig pensioen zonder korting. PSD-secretaris-generaal Hugo Soares noemde dat in Guarda 'een truc' om af te leiden van de begrotingsfouten, en verweet Chega en PS dat zij samen de belasting op huurinkomsten met 150% hebben verhoogd. Commentatoren op CNN Portugal stelden dat het pensioenvoorstel onbetaalbaar zou zijn voor de sociale zekerheid."
+      ],
+      "context": "IVA is de Portugese btw. Montenegro (PSD) leidt een minderheidsregering en is afhankelijk van PS of Chega om wetten aangenomen te krijgen. Chega is een rechts-populistische partij onder leiding van André Ventura. In 2023 gold enkele maanden een btw-vrijstelling op zo'n 46 basisproducten om de inflatie te dempen.",
+      "slug": "begrotingscrisis-chega-dient-eigen-wet-in-voor-btw-vrij-voed",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/27/chega-apresenta-projeto-de-lei-para-aplicar-iva-zero-ao-mesmo-cabaz-alimentar-de-2023/",
+          "title": "Chega entrega projeto de lei para aplicar ‘IVA zero’ ao mesmo cabaz alimentar de 2023"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/politica/3091593/eis-a-lista-de-alimentos-que-o-chega-e-jpp-querem-com-iva-zero#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Eis a lista de alimentos que o Chega e o JPP querem com IVA zero"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/27/melao-incluido-melancia-de-fora-veja-a-lista-dos-alimentos-com-iva-zero-que-o-chega-quer-recuperar/",
+          "title": "Melão incluído, melancia de fora. Veja a lista dos alimentos com ‘IVA zero’ que o Chega quer recuperar"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEJzQmd2QXdBWnEtNG03bndWSXY1dFRfczNaX19hM1FrN28zTnJJSGEzWkJOcTlVU01NYkptQlhKZHIydjRXZmh6a1ZxRnNJWkxwZE9DaHVKLWNQTXMyUDVieVNzaElJRWsyREdIWjQtcVBfUll4ZEJOYl9YbUhGSXpSRGNZRjJLNFQ4WVRFRkxrV1dKMGVpM3ZXRTMwa2p3VDNtR015VG5PdjVRc1pCT3VBdzJTR3h6?oc=5",
+          "title": "Chega apresenta projeto de lei para aplicar IVA zero ao mesmo cabaz alimentar de 2023 - Diário de Notícias"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/27/carneiro-diz-que-ps-nao-viabilizara-quaisquer-instrumentos-que-visem-criar-uma-crise-politica/",
+          "title": "Carneiro diz que PS não viabilizará quaisquer instrumentos que visem criar uma crise política"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGtmVlItTC1vdDdKZUJIT1VLcTZ5XzhMckpGWlhrU3Zyc2xGSDVNa0lBWVY1Mk1oSUVjV0h2U1ZUMjNlWWI5ZjZOTXVwSFBKa1ZfQk5oMjFMaG1MVXJ4VGRDYWVmeS1xRHQ5RDM3S0J0cmlIMFBYU2tBTDM3WFliUUtycFkxVU1tZFJDN01WQ3FlbnNFMnhzM3U1OW55QW5objI3cF9DejUyNTR2Qy1IaVNndkxzbFBnbTVVVVl1UmhmZGRvNkdaX3QwYw?oc=5",
+          "title": "Carneiro garante que PS não viabilizará iniciativas que provoquem uma crise política | Orçamento do Estado 2027 - Público"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2482/",
+          "title": "2h. OE 2027. Ventura diz que não vai adensar crise política"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2459/",
+          "title": "1h. PS insiste que Governo deve definir cabaz alimentar"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2509/",
+          "title": "3h. Hugo Soares diz que Ventura quer esconder \"trapalhada\""
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3091592/oe2027-hugo-soares-acusa-andre-ventura-de-criar-truques-para-esconder-trapalhadas-do-orcamento-de-estado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Hugo Soares acusa Ventura de criar \"truques\" para esconder \"trapalhadas\""
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/27/ventura-quer-proibir-na-constituicao-o-aumento-ilimitado-da-idade-da-reforma/",
+          "title": "Ventura quer proibir na Constituição o “aumento ilimitado” da idade da reforma"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/chega-quer-na-constituicao-direito-a-reforma-sem-penalizacoes-apos-40-anos-de-descontos/",
+          "title": "Chega quer na Constituição direito à reforma sem penalizações após 40 anos de descontos"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGRITnR1WDRCNGU4SnppZ1ljbENmTXliR00wS2tqTTFVVkVvNUZsQ3EzYlpuRmZ5OXozSjU0VHZ1YzNUVWczVzkyY2h6blVOb21DUzR1YklQM1Y2dUdPUnQ1UWFwVk91TXdCSEpuRzRtMnV6OWVrSU54RHRQaTF0VnY5S2lPQXY5NUhiRTk0elpRWXIyMlYxd19OeTZsWjJMRVVHSW9PQ0R5MERFUkQ2ckp0NkZTMmtzd09XRWhMUHJvcG83TkM3U0hEdTFJamRTVFFfWg?oc=5",
+          "title": "Proposta do Chega para as reformas \"seria a morte do sistema de Segurança Social\" - CNN Portugal"
+        },
+        {
+          "name": "CNN Portugal",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMzFWSUR1QkZWaVFsWmJFRHMyWjdYTG92bk5rZ0MzZl9QbExGU2V5c0owT0dDYnRDbWxzY25RS3JZSG5MTzFBeGxoa1E3cElEM3ZXZGZWSFJDMUFEck1vNlFwdEl4M0ZndnpQNkwwRmxzeWVkaGRMQ3ViNHNoZ2lDUy15RHFrbFR2OS1iU1YtVTFheDhJZF9rQ3F6ZjdsTjBkSXUtcXlmUWV6M3IwU2txVnhIWHVZclIyVnNQZkxrU1gxTTNjRDg5STNkZGZfcEkwVWVLRXdpeVFuZkdtNTZsSGVGZ1R0dF8tZTJVM1BRbXhSdlVSXzdySHo2UUN1WlZneE9BR2JrcWVFMGZMUHpTY2xyUmd1SGs?oc=5",
+          "title": "\"Os sistemas de Segurança Social não têm condições de financiamento para pagar pensões durante tanto tempo. Ventura está a aldrabar\" - CNN Portugal"
+        }
+      ]
+    },
+    {
+      "title": "Brandstof wordt goedkoper, maar regering verkleint belastingkorting",
+      "category": "Economie",
+      "lead": "Diesel en benzine worden volgende week flink goedkoper, maar de regering verlaagt tegelijk de korting op de brandstofbelasting, zodat de daling aan de pomp kleiner uitvalt. Wie stroom afneemt, kan op de vrije markt flink besparen.",
+      "body": [
+        "Zoals verwacht heeft de regering besloten de korting op de brandstofbelasting voor volgende week te verlagen. Vanaf maandag wordt een aanzienlijke daling van de prijzen van benzine en diesel (gasóleo) verwacht; de korting wordt het sterkst verlaagd bij diesel, juist de brandstof waarvan de kostprijs het meest daalt.",
+        "Energietoezichthouder ERSE meldt dat stroomcontracten op de vrije markt in het vierde kwartaal tot 389 euro per jaar goedkoper waren dan het gereguleerde tarief (tarifa regulada). Bij gecombineerde contracten voor stroom en aardgas liep de besparing op tot 135 euro."
+      ],
+      "context": "ERSE is de Portugese toezichthouder op de energiemarkt. Op de website van ERSE staat een vergelijkingstool waarmee je aanbieders kunt vergelijken; overstappen is in Portugal kosteloos.",
+      "slug": "brandstof-wordt-goedkoper-maar-regering-verkleint-belastingk",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/27/governo-reduz-desconto-e-abranda-descida-dos-combustiveis/",
+          "title": "Governo reduz desconto e abranda descida dos combustíveis"
+        },
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/27/mercado-livre-tem-ofertas-mais-baratas-na-eletricidade-e-nos-contratos-duais/",
+          "title": "Mercado livre tem ofertas mais baratas na eletricidade e nos contratos duais"
+        }
+      ]
+    },
+    {
+      "title": "Droge en koude week verwacht, kans op vorst",
+      "category": "Klimaat & Natuur",
+      "lead": "Het weerinstituut IPMA verwacht van 30 november tot 6 december geen regen, maar wel mogelijk temperaturen onder nul.",
+      "body": [
+        "Volgens het IPMA ligt het vasteland van Portugal volgende week onder invloed van een uitgestrekt hogedrukgebied dat zich uitstrekt van het binnenland van Europa tot Madeira. Daardoor kunnen regenfronten vanaf de Atlantische Oceaan het land niet bereiken.",
+        "Het gevolg is droog weer, maar de temperaturen kunnen onder nul dalen."
+      ],
+      "context": "Het IPMA (Instituto Português do Mar e da Atmosfera) is het Portugese KNMI. In het binnenland, zoals rond de Serra do Açor, liggen de nachttemperaturen bij helder hogedrukweer vaak lager dan landelijk gemeld: denk aan bescherming van jonge aanplant tegen nachtvorst.",
+      "slug": "droge-en-koude-week-verwacht-kans-op-vorst",
+      "sources": [
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3091597/sem-chuva-mas-temperaturas-podem-ser-negativas-previsoes-para-a-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Sem chuva, mas temperaturas podem ser negativas: Previsões para a semana"
+        }
+      ]
+    },
+    {
+      "title": "Woonprotest in Lisabon botst met viering van 1 december",
+      "category": "Samenleving",
+      "lead": "Een tentenkamp van woondemonstranten op het Restauradores-plein in Lisabon dreigt de officiële herdenking van 1 december te verstoren. President Seguro wil geen nieuwe politie-charges tegen de demonstranten.",
+      "body": [
+        "De zogeheten Acampada de Lisboa protesteert voor het recht op huisvesting. De voorzitter van de Sociedade Histórica da Independência noemt het 'onontkoombaar' dat de herdenking plaatsvindt op het plein waar het Monument voor de Restauratie staat. Het kamp heeft volgens Jornal de Negócios tenten weggehaald, maar zegt dat de strijd 'niet voorbij is' en weigert daklozen 'van de ene op de andere dag' aan hun lot over te laten.",
+        "President António José Seguro liet weten dat hij geen nieuwe politie-optredens met geweld tegen de demonstranten wil. Dit weekend bezocht hij ook de Voedselbank (Banco Alimentar) in Lisabon.",
+        "Ook in Coimbra staat sinds 14 november een protestkamp, op de Praça da República. Burgemeester Ana Abrunhosa zegt dat dit zonder verstoring van de openbare orde verloopt en dat de gemeente dat recht niet zal beperken."
+      ],
+      "context": "Op 1 december viert Portugal de Restauração da Independência (herstel van de onafhankelijkheid van Spanje in 1640); het is een nationale feestdag. Huisvesting is een van de grootste maatschappelijke kwesties in Portugal door sterk gestegen huur- en koopprijzen.",
+      "slug": "woonprotest-in-lisabon-botst-met-viering-van-1-december",
+      "sources": [
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2566/",
+          "title": "6h. Acampada Lisboa compromete celebração do 1º de dezembro"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2484/",
+          "title": "00h. Acampada ameaça celebrações do 1.º de Dezembro"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUNpSzdROTdWaEp3MFNHbkhxRXY5MWlYenRVOWhNS2tRMUhUaWVNWFc4MjQ2YWpCZUNTRGJQeFpCcmFTdVJ0VzNNNkQwNldwVlMtY3lPVVpqLXpBSmt6M2Y4eTRIME1NRnNtYzkwYXp1XzFYSHBBSWFoUDBlaWpkUG5pREQ0ZHZuazh5UGZoVmpjaWZWTDFZdExxTTM2ZmFMQnktMVZpczJKQktNbzF3N0Y5VW8xcWRnanozbWt1M1RJQkZkVVZEblZMM2dxZkt5?oc=5",
+          "title": "Acampada ameaça cerimónia do 1.º de Dezembro nos Restauradores. Seguro contra carga sobre manifestantes - Observador"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2459/",
+          "title": "1h. PS insiste que Governo deve definir cabaz alimentar"
+        },
+        {
+          "name": "Notícias ao Minuto",
+          "url": "https://www.noticiasaominuto.com/pais/3091572/presidente-da-republica-fez-visita-ao-banco-alimentar-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "title": "Presidente da República fez visita ao Banco Alimentar em Lisboa"
+        },
+        {
+          "name": "Diário As Beiras",
+          "url": "https://www.asbeiras.pt/habitacao-acampada-de-coimbra-e-um-direito-que-a-camara-nao-limita-ana-abrunhosa/",
+          "title": "Habitação: Acampada de Coimbra é um direito que a Câmara não limita – Ana Abrunhosa"
+        }
+      ]
+    },
+    {
+      "title": "Griepvaccinatie en voedselinzameling: oproepen voor december",
+      "category": "Samenleving",
+      "lead": "Het directoraat voor gezondheid DGS wil de griepvaccinatie van kwetsbare mensen versnellen vóór december. Dit weekend zamelen ruim 40.000 vrijwilligers voedsel in bij supermarkten.",
+      "body": [
+        "Er is nog geen griepepidemie in Portugal, maar de DGS wil de meest kwetsbaren nog vóór december beschermen. Volgens RTP hebben al meer dan twee miljoen Portugezen zich laten vaccineren. Een nieuwe variant van het coronavirus geeft volgens de DGS geen 'alarmsignalen'.",
+        "Uit onderzoek blijkt verder dat bijna één op de vijf volwassenen die met het RS-virus (VSR) in het ziekenhuis werden opgenomen, daar overleed.",
+        "Op zaterdag 28 en zondag 29 november staan de Voedselbanken (Bancos Alimentares Contra a Fome) in deelnemende supermarkten. Ze vragen om houdbare producten zoals melk, conserven, olijfolie, meel, suiker, rijst en pasta."
+      ],
+      "context": "De DGS (Direção-Geral da Saúde) is de nationale gezondheidsautoriteit. De griepprik is gratis voor 60-plussers en risicogroepen, via het gezondheidscentrum (centro de saúde) of veel apotheken.",
+      "slug": "griepvaccinatie-en-voedselinzameling-oproepen-voor-december",
+      "sources": [
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTGJaOVpodFFjSUc3WF90TnVXd0V3cGUxRXdMN1ZTcHFJVjFtMERPRFJiQXRDYlhzTzZMVjFrVnI2Y1EyeEVmSUVRNmo4S1d0MmVERXlTTGoyN3o4SU45cFgzUlZJUEhqRlNDNDZvV21xcVh4RVhudms0dC10UHgySzI3MGR5RkRUbFNNTXM1VjE5NGpCUGRzYldWVEpyZ0FSSzBIM1p5ZWdXcFI4VHNQak9xODZEV25wVEFTM1pOSTluS2RiZjZjUWcxRENwNGxzUTJ3dFZLYnl0WGhHQVI3WVpfSnVhaHdCbWFRSVpGd2s1d9IB4AFBVV95cUxPcFEwMWlvQnpHMG5EaFBqbmxqM08zdHZEeUxZQUhCUjlKSG1pWVpnSGdGeVpxUGdIajRYY1liLWtiSlJRa05FOHlXaEI0LWYteUM2REJYOUZ1Qk1qUGpiSmFjbUxXVUZsRXZnbGNHNDhnMmwzUVhQVUNKb095dzcyNkNGeGFUR3owMjRkMEs0SGE2WjlnVW5va1NqRl9PeUF4VzFiRC1NNVVsNG04WVNjZmdwdDhHeXVValFYVkJNaTNDSWd4bkFzbHJhcWRJbXNmbmxCd3BCVEk3bzlGQzI5NA?oc=5",
+          "title": "DGS quer acelerar vacinação contra gripe. Nova variante da Covid-19 não traz \"sinais de alerta\" - TSF"
+        },
+        {
+          "name": "Google Nieuws PT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXNseUhUalNJV1Z6dmFDU0trOFgzeVJXLUw4U2RSSS1mNDN0N3Z1RmVHZHAzWXlkdlI4ZTBLX2hXUDhPVlotcWdveVZHNlRzMEpRek5tNGlWY29FTWgzZW1qa2lYcUs4ODFrVVFIZERXZ1NQRkFuUEZRVnpMb1BoMTRDeUJhVW1vWE9YcWMzeWJ2d1ZXNjhnWWNqUUtyTWZtM1dERlVDUmlla0l1bXlfNWxnRk9PbG1kNmZFRXh5MG50SXB3dFE?oc=5",
+          "title": "DGS identifica progressos, mas alerta para desafios que persistem na saúde em Portugal - RTP"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/alerta-nos-hospitais-virus-respiratorio-mata-quase-um-em-cada-cinco-adultos-internados/",
+          "title": "Alerta nos hospitais: vírus respiratório mata quase um em cada cinco adultos internados"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/27/banco-alimentar-mobiliza-mais-de-40-mil-voluntarios-para-a-recolha-de-natal/",
+          "title": "Banco Alimentar mobiliza mais de 40 mil voluntários para a recolha de Natal"
+        }
+      ]
+    },
+    {
+      "title": "Korting op stroom beloofd rond toekomstige stuwdam Girabolhos",
+      "category": "Regio",
+      "lead": "De minister van Milieu en Energie belooft de gemeenten rond de geplande stuwdam van Girabolhos een lager elektriciteitstarief en betere bereikbaarheid. Ook noemt zij de Serra da Estrela een prioriteit voor natuurprojecten.",
+      "body": [
+        "De minister zei vrijdag dat de vier gemeenten die onder de toekomstige stuwdam van Girabolhos vallen compensatie (contrapartidas) krijgen op het gebied van energie en bereikbaarheid. Welke precies, wordt bepaald samen met de burgemeesters. 'We bestuderen de voordelen, waaronder een verlaging van het elektriciteitstarief', aldus de minister; verbeterde wegen zouden het meest gevraagd zijn.",
+        "Dezelfde dag verklaarde zij dat de Serra da Estrela 'prioriteit heeft' bij de gefinancierde biodiversiteitsprojecten."
+      ],
+      "context": "Girabolhos is een al lang geplande stuwdam in de rivier de Mondego, in het gebied tussen Seia, Gouveia, Mangualde en Nelas, op ruwweg 40 à 50 kilometer ten noordoosten van Meda de Mouros. Tábua valt er niet onder. De Serra da Estrela ligt achter Oliveira do Hospital en Seia.",
+      "slug": "korting-op-stroom-beloofd-rond-toekomstige-stuwdam-girabolho",
+      "sources": [
+        {
+          "name": "ECO",
+          "url": "https://eco.sapo.pt/2026/11/27/ministra-estuda-desconto-na-eletricidade-nos-concelhos-afetados-pela-futura-barragem-de-girabolhos/",
+          "title": "Ministra estuda desconto na eletricidade nos concelhos afetados pela futura barragem de Girabolhos"
+        },
+        {
+          "name": "Observador",
+          "url": "https://observador.pt/2026/11/28/barragem-de-girabolhos-municipios-terao-desconto-na-eletricidade-e-melhores-acessibilidades-como-contrapartidas/",
+          "title": "Girabolhos: as contrapartidas prometidas aos municípios"
+        },
+        {
+          "name": "Notícias de Coimbra",
+          "url": "https://www.noticiasdecoimbra.pt/ministra-diz-que-serra-da-estrela-e-prioridade-em-projeto-de-biodiversidade/",
+          "title": "Ministra diz que serra da Estrela “é prioridade” em projeto de biodiversidade"
+        }
+      ]
+    },
+    {
+      "title": "Laboratorium voor inheemse bomen in Miranda do Corvo; geld voor plattelandsprojecten",
+      "category": "Landbouw",
+      "lead": "In Miranda do Corvo komt een proeflaboratorium voor plantenbiotechnologie om het herstel van de bossen in het Pinhal Interior te ondersteunen. In de regio Coimbra werd voor 1,67 miljoen euro aan plattelandsprojecten ingediend.",
+      "body": [
+        "Het zogeheten BIOLAB werd vrijdag 27 november bekrachtigd door het ontwikkelingsbureau van de Aldeias do Xisto (ADXTUR), de Fundação Aga Khan Portugal en de gemeente Miranda do Corvo. Volgens Observador gaat het om een laboratorium voor inheemse boomsoorten, met 500.000 euro van de Aga Khan-stichting.",
+        "De lokale ontwikkelingsgroep CoimbraMaisFuturo ontving 13 aanvragen, samen goed voor 1,67 miljoen euro aan investeringen, in twee subsidierondes voor economische diversificatie op het platteland en betere afzet van landbouwproducten. De geschatte publieke steun bedraagt 720.000 euro. De rondes sloten op 25 november."
+      ],
+      "context": "Het Pinhal Interior is het bosrijke binnenland van centraal Portugal, zwaar getroffen door de branden van 2017. De Aldeias do Xisto zijn een netwerk van leisteendorpen, onder meer in de Serra do Açor. Miranda do Corvo ligt op zo'n 50 km ten zuidwesten van Meda de Mouros. Lokale actiegroepen zoals CoimbraMaisFuturo verdelen EU-plattelandsgeld (LEADER); voor een quinta kan het lonen om nieuwe rondes te volgen.",
+      "slug": "laboratorium-voor-inheemse-bomen-in-miranda-do-corvo-geld-vo",
+      "sources": [
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/27/miranda-do-corvo-vai-ter-laboratorio-para-apoiar-a-reflorestacao-do-pinhal-interior/",
+          "title": "Miranda do Corvo vai ter laboratório para apoiar a reflorestação do Pinhal Interior"
+        },
+        {
+          "name": "Google Nieuws Coimbra",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEhZaWluR04ycndWbVVZbjNrSUZiXzhiRGktbFFZaFhCWHJWTU1OazdPdG9sZ1FqUEdsNUtablBueUdkM0JONXo1QVM1blFlNnJiZEx4cWpPZndvS1E5WEFGQ21BZ0VtSVk2UTZ3QlN6ejItai0xVUVwQV9xcE9LYTljUXlTZHdwOW0xOVV0SVFhR0VmcVNIdURtRWFQUjZzSEplQXZjWmtCb3dFbVpxYVltUkd2Zzdnd1l2YUtUcmxaY00wY1M4WnZBaw?oc=5",
+          "title": "Miranda do Corvo vai ter laboratório de árvores autóctones com 500 mil euros da Fundação Aga Khan - Observador"
+        },
+        {
+          "name": "Campeão das Províncias",
+          "url": "https://www.campeaoprovincias.pt/2026/11/27/coimbramaisfuturo-mobiliza-167-milhoes-de-euros-em-investimento-para-zonas-rurais/",
+          "title": "CoimbraMaisFuturo mobiliza 1,67 milhões de euros em investimento para zonas rurais"
+        }
+      ]
+    },
+    {
+      "title": "Kort uit Arganil en Oliveira do Hospital: Kerst, milieuvlag en ongeval op IC6",
+      "category": "Regio",
+      "lead": "Arganil krijgt voor het tiende jaar op rij de milieuvlag ECOXXI, op de IC6 bij Arganil raakte iemand gewond, en beide buurgemeenten bereiden hun kerstprogramma voor.",
+      "body": [
+        "Arganil, op zo'n 15 à 20 km van Meda de Mouros, ontving voor de tiende keer op rij de Bandeira Verde ECOXXI, een onderscheiding voor duurzaam gemeentebeleid. De gemeente vierde ook tien jaar waarin alle scholen het Eco-Escolas-keurmerk hebben.",
+        "Bij een eenzijdig ongeval met een personenauto op de IC6 in de gemeente Arganil raakte één persoon gewond.",
+        "Arganil organiseert een kerstmarkt van vier dagen. In Oliveira do Hospital gaan op 4 december de kerstverlichting aan, met een programma tot in januari. Daar is ook het beweegprogramma 'mOHve-te Sénior' gestart, met 14 instellingen zoals verzorgingshuizen en dagcentra.",
+        "De trailwedstrijd Desafio Picos do Açor in Arganil verwacht met 1.800 lopers de grootste editie ooit; het is tevens de eerste etappe van de Portugese trailbeker (30 km)."
+      ],
+      "context": "De IC6 is de hoofdweg die Coimbra verbindt met Tábua en Oliveira do Hospital, de belangrijkste route vanuit Meda de Mouros.",
+      "slug": "kort-uit-arganil-en-oliveira-do-hospital-kerst-milieuvlag-en",
+      "sources": [
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkRhNWgxcG4xNGgtLUdmMlkxd2hYMWpqZkFMOE9JSWkwODR6Sk1uMTlTQTlxaGgtcUNmdTkzNXRrd0RadGhtUU0yVVBGeDBBRWRiMXl2MzE3T2ZqUExRTE5YVm5KMl9TZkFGWm5qRGtUTTdVQ2o4Y1NpbTFTMHFRTVo4TnBDNkdxamVTblM5cU5kekJvTTF1Ny1KWUVGeTYxNFVnSUJn?oc=5",
+          "title": "Arganil conquista Bandeira Verde ECOXXI pelo décimo ano consecutivo - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczU3RmYycTlhQmstQXhWdmRrMkk1dUJWcHpBTUs4bmVtZGxIbjMwM0RHY3JnT2M1dWVoNWxxa2VkVTgyZ3FXdERUQVY1UlRkeE13cWl1SHlFaTVlajdZQ2MzaFZPYjAwb2pKWENzVHpEUzBwdVdqS0ZOYklFREZkS1VTYVlMVV81?oc=5",
+          "title": "A celebração de 10 anos de Eco-Escolas em Arganil - Diário do Distrito"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTU1eF9jNUNjMGtNNU1uMjBEWnBOMF9UNDlRcnFPckM5S2hTb1ZfNTBFSXJJYWxVem9uallLblRDcldHM0thakpWWUtQeTdFMFNmSFJHd3hSYzJzYy1SbU9YX21zVWpYRXlMYUk3eVc3OTVZYnlmY1ZiNm9QcjFkcEhMUUVmREZiZkZES1kzTGlMVUtuYjBMQ3pmYk9PejFUUjg0VDRsRjQzTlNkVzN2Z2RKRVNwUQ?oc=5",
+          "title": "Município de Arganil enaltece dez anos de distinção 100% Eco-Escolas - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnVtYnQzT1ZtMlZSekJWS1hTOFFHTXVnVllSMC1ZZEMwSEs2WjkxbXlGd1VHQU5ReDI2RWl1LVhUMjNOMEZKcFZod3RQTC1VbkZ5cWhhcmRhX0hzYU5wekQ0M3JVVUNwRTc0eTlKZWtRNzhESTlQM2VrMmwyUGI2OVVhRzRQdzJrWkRSZFVOeTJqQXPSAZgBQVVfeXFMTVNCZW01ci1peW1RX3B2OGFCaVpfd0l0MmNabXhYVDBiX3RORXB6LWVYMktpcUdWOWFJRFQ4aTFNUzV3QWFONG81ZG91TEE1TmJHM1l4WDlVNHRFQWlud0VRUzVMdURjdFREZklIYVlIX2drMThJdGl4b1lvZ3kxUzBBQi1abmFRclNKQ1dETUNrd0tkNzZxNkg?oc=5",
+          "title": "Despiste de viatura ligeira provoca um ferido no IC6 em Arganil - CentroTV"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjBINVpQdVJJM0dVUG9ORTlDVHdqMFVoTzBnd2pxRHZHNzllQmZWb2tDdzdtVEtHV3h3VXk5RldwUENsMHotLXNPT1J3aFdmeEFvcFdIdzJfX1NjQ1doenJPMncwZ2YxdHFucGJLOFpPYnFLR0R1alg5UkNoczFjWG5FWi0wVnZwTTNNNlpyZmZCQ3hfc2wzTm1yblBPRF9MalhvXzFn?oc=5",
+          "title": "Mercado de Natal de Arganil promete quatro dias de magia e animação - Município de Arganil"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFRlUmxDaGgwQmtUY1pLSUp6R3R1QlZyTEFYcGZvcEdrU2d0eW9vVHozWVBOdVlNTTE5SExHeTZFdWZHRVYzRVpxNlYwbUNMYWlva3l4bWZzOWZtd3FOYkVHdFZ0RVpYSmN1Yk5BV0dRdWd3QWJJbUVmN2xSRExJV0xKRmRhQkMya0s0aEZ5Mjl5OVNFSzFvZm1jcS1nVW41VnRrcWtIQmhSRU9pdEhYbjEzYlNRZE0wVGYxelM1ZG43QdIBxwFBVV95cUxQaVpoeHZOTlFGMkhjYUJHY0NGMU9DYVZxaDAxTlpHaHR2bXpiWkJrREhicXZlT0o0MFRGclJiVi1jN3ZxLTlsbGkzWVF5ai1aUzRXVWlkSnFEOWJ5SlEwNXZDUWJhVzBxTnlHQ0R4UFFmLUMxeXo0V3dWUjJNWkxrOWVrZ2xaLW90MUZ2RzlHYTFsRkZJTWRhX2ttaFlsZXhIeTRDT3loR0pMZjlmMVhOczlUWkpZdjZ1UTEyTnVXLU4yakJlZHJv?oc=5",
+          "title": "Oliveira do Hospital inaugura luzes de Natal a 4 de Dezembro e prepara programa até Janeiro - Correio da Beira Serra"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZHdndWxtc0d1aHBCTkFhWGRETm9YN3ozUGJ2NUZRQkFRdlZpM3M0Y1cxVTE2aDAxdDhkNmY1cjZaTnNFSXY0UXV2YTQza2szYUo0bmViRjV1VldXaV82emJSRkpHRW81UDFnTWV3UncxUEJLZGV0RFU2SzA5R1o0d3A5YVVDWXplQnEtQWh2NVNTMU85Y3k4TDhmM2REWXd1UF85RHNCVjFoN2dsRDEwY2xrLVE5cGJ2NnFfY0lNcXcyYzJHNWVEQ09n0gGeA0FVX3lxTFBaTUxqSm5sUE1OdUp5ZHJ6NWFqdHZtcjE5dDFnVi1fbFVHdE1sZnZEN1ZmdW5LbmZad3IyZlBZMjN4VGhpY21nRzdpb1V6S09scm0zWHNBUTBmc0o5bllwb1dKY0l6WTNoMkw1Tk1rdUV6N1dRbEpIdVotUDlvem9ldEo1T3k0ZDlPTklaNDFobjBISFlrU2lMdnlZSVZ2dGVlMlcxX2lLM0M5OUZwVHl0UlVaSjJ5ejViMDRmUVFXN21UczFtb2VKQ3ZnMW4tNTdYYmQ2SUlaTkRHOEl2dDdKTEt3OVI0U0xEZEFpUmhUaF92eDE5RmpGWGxiMV93TnQ5a0hqS3g4YjdNRTMtWU5uZmFiVXRlQ1ZSejE4cFdFSEMyUUV6WllIQk9LQU5iU3V5RzRWUFlGalRoR0REMlhRZ3VGSHJJMHNkb2VjbHBZdHhZeUw5b3p4SHBsRXpaeDYtNmEybFh5WDFRMkpUVl9ha2Zmd3VERmxmdUtkWWY1Y2xzTDJfX21xa2ZqenNObzNJTE1pVjdtZVlnVFB0UQ?oc=5",
+          "title": "Município de Oliveira do Hospital lança programa “mOHve-te Sénior” junto de 14 entidades do concelho - Rádio - Rádio Boa Nova - Oliveira do Hospital"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU053R3VwYmE2QU1fanBEaTcwb1BVZVlDT19NQVBrQUJLTU5nOHBUd20taWpxSlpuN0xRMFNHM1E1R3BkcGVFSlpKTmVnYlZzNE8yZlRPbzR1VkZBYld4QmVNYnZMN2VWMmRSYUdEVnBhS09ZZDF1UFJGNGllMHBHOTZXTkktc0pRREpzSWR0MDJSNTdJLTdWYVdKSVQwQWk3R2VlRkhRcEtoRTQ2Y0RPWWNmQ0hMeEJISFQ2SkxmWXlsQlFaa2Rkd19uSEZwTGM?oc=5",
+          "title": "Oliveira do Hospital lança programa de atividade física para a população sénior - Central Press"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3djUXpfTG0tSFJ2cFhlY05fZzRlODVEMkRBWkZyREZIak5hYzlyNWd0Ny1MMG1weWMwNHRQTmJodFlTNklrRU9GOGpZR3dZOVQtQWpMMklqTlI5RllGWDc4U2JGOXhfRHdnUXgxX19MVFI0UHp6Q2ZPSnBpMkRsX0E3MEEyRVNVVEJXcFJVM29iNVMtR1c2VlJBZ0VoN1BtY214YzlwTGhoeWlKQ0FVVHVHZHhfREtsWWdGTWZMaDVhakNRZHc?oc=5",
+          "title": "Arganil: Desafio Picos do Açor espera 1800 atletas na maior edição de sempre - SAPO"
+        },
+        {
+          "name": "Google Nieuws lokaal",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBUlEyYVAxQTlSeHRQaXoyYmc4VGJFaHFqaS13ZlZwQlV3cGxqNTIzVDhsb0NObWlqdUZCTXVBTHl5ZTN6Z2xscjRsZ0pESmJkQmV3?oc=5",
+          "title": "1.ª Etapa da Taça de Portugal de Trail – 30K | Arganil - Federação Portuguesa de Atletismo"
+        }
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "pt": "cabaz alimentar",
+      "nl": "pakket basislevensmiddelen",
+      "example": "O Chega quer IVA zero para o mesmo cabaz alimentar de 2023."
+    },
+    {
+      "pt": "idade da reforma",
+      "nl": "pensioenleeftijd",
+      "example": "Ventura quer travar o aumento da idade da reforma."
+    },
+    {
+      "pt": "gasóleo",
+      "nl": "diesel",
+      "example": "O preço do gasóleo deve descer a partir de segunda-feira."
+    },
+    {
+      "pt": "tarifa regulada",
+      "nl": "gereguleerd (standaard)tarief",
+      "example": "O mercado livre tem ofertas mais baratas do que a tarifa regulada."
+    },
+    {
+      "pt": "temperaturas negativas",
+      "nl": "temperaturen onder nul",
+      "example": "Sem chuva, mas as temperaturas podem ser negativas."
+    },
+    {
+      "pt": "contrapartidas",
+      "nl": "compensatie, tegenprestaties",
+      "example": "Os concelhos terão contrapartidas energéticas e de acessibilidades."
+    }
+  ]
+}
